@@ -1,17 +1,18 @@
 import os
 import time
 import requests
+from pathlib import Path
 
 import sys
-sys.path.append(str(**import**("pathlib").Path(**file**).resolve().parents[1]))
+sys.path.append(str(Path(__file__).resolve().parents[1]))
 import config
 
 def fetch_pubmed_abstract(pubid):
     params = {
-    "id": pubid,
-    "db": "pubmed",
-    "rettype": "abstract",
-    "retmode": "text",
+        "id": pubid,
+        "db": "pubmed",
+        "rettype": "abstract",
+        "retmode": "text",
     }
     r = requests.get(config.NCBI_EFETCH_URL, params=params)
     return r.text
