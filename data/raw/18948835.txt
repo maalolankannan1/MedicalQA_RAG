@@ -1,0 +1,37 @@
+1. Pancreas. 2009 Mar;38(2):208-12. doi: 10.1097/MPA.0b013e31818d9095.
+
+Does somatostatin confer insulinostatic effects of neuromedin u in the rat 
+pancreas?
+
+Kaczmarek P(1), Malendowicz LK, Fabis M, Ziolkowska A, Pruszynska-Oszmalek E, 
+Sassek M, Wojciechowicz T, Szczepankiewicz D, Andralojc K, Szkudelski T, 
+Strowski MZ, Nowak KW.
+
+Author information:
+(1)Department of Animal Physiology and Biochemistry, August Cieszkowski 
+University of Agriculture, Poznan, Poland.
+
+OBJECTIVES: Neuromedin U (NmU) is a neuropeptide with anorexigenic activity. Two 
+receptor subtypes (NmUR1 and NmUR2) confer the effects of NmU on target cells. 
+We have recently demonstrated that NmU reduces insulin secretion from isolated 
+pancreatic islets. Aim of our current study is to investigate the role of 
+somatostatin at mediating the effects of NmU on insulin secretion.
+METHODS: Expression of NmU in the pancreas was detected by immunohistochemistry. 
+Insulin and somatostatin secretion from in situ perfused rat pancreas and 
+isolated pancreatic islets was measured by radioimmunoassay. The paracrine 
+effects of somatostatin within pancreatic islets were blocked by 
+cyclosomatostatin, a somatostatin receptor antagonist.
+RESULTS: Receptor subtype NmUR1, but not NmUR2, was expressed in the endocrine 
+pancreas, predominantly in the periphery. Neuromedin U reduced insulin secretion 
+from in situ perfused rat pancreas and stimulated somatostatin secretion from 
+isolated pancreatic islets. Neuromedin U stimulated somatostatin secretion at 
+both physiological and supraphysiological glucose concentrations. 
+Cyclosomatostatin increased insulin secretion and reduced NmU-induced inhibition 
+of insulin secretion.
+CONCLUSIONS: Neuromedin U reduces insulin and increases somatostatin secretion. 
+Blockade of somatostatin action abolishes the inhibition of insulin secretion by 
+NmU. The results of the study suggest that somatostatin mediates the inhibitory 
+action of NmU on insulin secretion.
+
+DOI: 10.1097/MPA.0b013e31818d9095
+PMID: 18948835 [Indexed for MEDLINE]

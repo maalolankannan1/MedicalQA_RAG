@@ -1,0 +1,46 @@
+1. Med Mal Infect. 2015 Mar;45(3):89-94. doi: 10.1016/j.medmal.2015.01.006. Epub 
+2015 Mar 13.
+
+Bactericidal activity of 3 cutaneous/mucosal antiseptic solutions in the 
+presence of interfering substances: Improvement of the NF EN 13727 European 
+Standard?
+
+Salvatico S(1), Feuillolay C(1), Mas Y(2), Verrière F(2), Roques C(3).
+
+Author information:
+(1)Fonderephar, 35, chemin des Maraîchers, 31062 Toulouse cedex 9, France.
+(2)Laboratoire Innotech International, 22, avenue Aristide-Briand, 94110 
+Arcueil, France.
+(3)Fonderephar, 35, chemin des Maraîchers, 31062 Toulouse cedex 9, France; 
+Laboratoire de génie chimique, UMR 5503, UFR pharmacie, université de Toulouse, 
+35, chemin des Maraîchers, 31062 Toulouse cedex 9, France. Electronic address: 
+ch.roques@wanadoo.fr.
+
+OBJECTIVE: There is no standard protocol for the evaluation of antiseptics used 
+for skin and mucous membranes in the presence of interfering substances. Our 
+objective was to suggest trial conditions adapted from the NF EN 13727 standard, 
+for the evaluation of antiseptics used in gynecology and dermatology.
+METHODS: Three antiseptic solutions were tested in vitro: a 
+chlorhexidine-benzalkonium (CB) combination, a 
+hexamidine-chlorhexidine-chlorocresol (HCC) combination, and povidone iodine 
+(P). The adaptation of trial conditions to the standard involved choosing 
+dilutions, solvent, and interfering substances. The activity of solutions was 
+assessed on the recommended strains at concentrations of 97% (pure solution), 
+50%, and 10% (diluted solution), and 1%. A logarithmic reduction ≥ 5 was 
+expected after 60seconds of contact, to meet requirements of bactericidal 
+activity.
+RESULTS: HCC did not present any bactericidal activity except on P. aeruginosa 
+at a concentration of 97%. P was not bactericidal on E. hirae at any 
+concentration and on S. aureus at 97%. CB had the most homogeneous bactericidal 
+activity with a reduction>5 log on the 4 bacterial strains at concentrations of 
+97%, 50% and 10%.
+CONCLUSION: Adapting the NF EN 13727 standard allowed assessing the 3 tested 
+solutions: only CB was bactericidal in dirty conditions. This study proved the 
+possibility of validating antiseptic choice in vitro, in current practice 
+conditions, for adjunctive treatment of skin and mucous membranes disorders, 
+primarily of bacterial origin or with a potential of superinfection.
+
+Copyright © 2015 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.medmal.2015.01.006
+PMID: 25779009 [Indexed for MEDLINE]

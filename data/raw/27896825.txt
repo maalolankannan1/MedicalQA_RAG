@@ -1,0 +1,51 @@
+1. Clin Endocrinol (Oxf). 2017 Apr;86(4):591-596. doi: 10.1111/cen.13287. Epub
+2017  Jan 12.
+
+Is it time to reconsider lobectomy in low-risk paediatric thyroid cancer?
+
+Kluijfhout WP(1)(2), Pasternak JD(1), van der Kaay D(3), Vriens MR(2), Propst 
+EJ(4), Wasserman JD(3).
+
+Author information:
+(1)Division of General Surgery, University Health Network Toronto, Toronto, 
+Ontario, Canada.
+(2)Department of General Surgery, University Medical Center Utrecht, Utrecht, 
+The Netherlands.
+(3)Division of Paediatric Endocrinology, Hospital for Sick Children, Toronto, 
+Ontario, Canada.
+(4)Department of Otolaryngology-Head and Neck Surgery, Hospital for Sick 
+Children, University of Toronto, Toronto, Ontario, Canada.
+
+OBJECTIVE: Current guidelines recommend total thyroidectomy for nearly all 
+children with well-differentiated thyroid cancer (WDTC). These guidelines, 
+however, derive from older data accrued prior to current high-resolution 
+imaging. We speculate that there is a subpopulation of children who may be 
+adequately treated with lobectomy.
+DESIGN: Retrospective analysis of prospectively maintained database.
+PATIENTS: Seventy-three children with WDTC treated between 2004 and 2015.
+MEASUREMENTS: We applied two different risk-stratification criteria to this 
+population. First, we determined the number of patients meeting American Thyroid 
+Association (ATA) 'low-risk' criteria, defined as disease grossly confined to 
+the thyroid with either N0/Nx or incidental microscopic N1a disease. Second, we 
+defined a set of 'very-low-risk' histopathological criteria, comprising unifocal 
+tumours ≤4 cm without predefined high-risk factors, and determined the 
+proportion of patients that met these criteria.
+RESULTS: Twenty-seven (37%) males and 46 (63%) females were included in this 
+study, with a mean age of 13·4 years. Ipsilateral- and contralateral 
+multifocality were identified in 27 (37·0%) and 19 (26·0%) of specimens. 
+Thirty-seven (51%) patients had lymph node metastasis (N1a = 18/N1b = 19). 
+Pre-operative ultrasound identified all cases with clinically significant nodal 
+disease. Of the 73 patients, 39 (53·4%) met ATA low-risk criteria and 16 (21·9%) 
+met 'very-low-risk' criteria. All 'very-low-risk' patients demonstrated 
+excellent response to initial therapy without persistence/recurrence after a 
+mean follow-up of 36·4 months.
+CONCLUSIONS: Ultrasound and histopathology identify a substantial population 
+that may be candidates for lobectomy, avoiding the risks and potential medical 
+and psychosocial morbidity associated with total thyroidectomy. We propose a 
+clinical framework to stimulate discussion of lobectomy as an option for 
+low-risk patients.
+
+© 2016 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cen.13287
+PMID: 27896825 [Indexed for MEDLINE]

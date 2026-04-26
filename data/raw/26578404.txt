@@ -1,0 +1,56 @@
+1. J Pain Symptom Manage. 2016 Mar;51(3):581-8. doi: 
+10.1016/j.jpainsymman.2015.10.015. Epub 2015 Nov 11.
+
+Patient-Controlled Therapy of Breathlessness in Palliative Care: A New 
+Therapeutic Concept for Opioid Administration?
+
+Schmitz A(1), Schulz C(2), Friebel U(3), Hohlfeld T(4), Bausewein C(5).
+
+Author information:
+(1)Interdisciplinary Center for Palliative Medicine, Medical Faculty, 
+Heinrich-Heine-University Düsseldorf, Düsseldorf, Germany; Department of 
+Anesthesiology, Medical Faculty, Heinrich-Heine-University Düsseldorf, 
+Düsseldorf, Germany.
+(2)Interdisciplinary Center for Palliative Medicine, Medical Faculty, 
+Heinrich-Heine-University Düsseldorf, Düsseldorf, Germany. Electronic address: 
+christian.schulz@med.uni-duesseldorf.de.
+(3)Department of Anesthesiology, Medical Faculty, Heinrich-Heine-University 
+Düsseldorf, Düsseldorf, Germany.
+(4)Institute of Pharmacology and Clinical Pharmacology, Medical Faculty, 
+Heinrich-Heine-University Düsseldorf, Düsseldorf, Germany.
+(5)Department for Palliative Medicine, Munich University Hospital, 
+Ludwig-Maximilians-University, Munich, Germany.
+
+CONTEXT: Breathlessness is one of the most distressing symptoms experienced by 
+patients with advanced cancer and noncancer diagnoses alike. Often, severity of 
+breathlessness increases quickly, calling for rapid symptom control. Oral, 
+buccal, and parenteral routes of provider-controlled drug administration have 
+been described. It is unclear whether patient-controlled therapy (PCT) systems 
+would be an additional treatment option.
+OBJECTIVES: To investigate whether intravenous opioid PCT can be an effective 
+therapeutic method to reduce breathlessness in patients with advanced disease. 
+Secondary aims were to study the feasibility and acceptance of opioid PCT in 
+patients with refractory breathlessness.
+METHODS: This was a pilot observational study with 18 inpatients with advanced 
+disease and refractory breathlessness receiving opioid PCT. Breathlessness was 
+measured on a self-reported numeric rating scale. Richmond Agitation Sedation 
+Scale scores, Palliative Performance Scale scores, vital signs, and a 
+self-developed patient satisfaction questionnaire were used for measuring 
+secondary outcomes. Descriptive and interference analyses (Friedman test) and 
+post hoc analyses (Wilcoxon tests and Bonferroni corrections) were performed.
+RESULTS: Eighteen of 815 patients (advanced cancer; median age = 57.5 years 
+[range 36-81]; 77.8% female) received breathlessness symptom control with opioid 
+PCT; daily morphine equivalent dose at Day 1 was median = 20.3 mg (5.0-49.6 mg); 
+Day 2: 13.0 mg (1.0-78.5 mg); Day 3: 16.0 mg (8.3-47.0 mg). Numeric rating scale 
+of current breathlessness decreased (baseline: median = 5 [range 1-10]; Day 1: 
+median = 4 [range 0-8], P < 0.01; Day 2: median = 4 [range 0-5], P < 0.01). 
+Physiological parameters were stable over time. On Day 3, 12/12 patients 
+confirmed that this mode of application provided relief of breathlessness.
+CONCLUSION: Opioid PCT is a feasible and acceptable therapeutic method to reduce 
+refractory breathlessness in palliative care patients.
+
+Copyright © 2016 American Academy of Hospice and Palliative Medicine. Published 
+by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpainsymman.2015.10.015
+PMID: 26578404 [Indexed for MEDLINE]

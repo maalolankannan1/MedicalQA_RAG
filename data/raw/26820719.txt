@@ -1,0 +1,51 @@
+1. Int J Clin Oncol. 2016 Aug;21(4):684-695. doi: 10.1007/s10147-015-0935-z. Epub
+ 2016 Jan 28.
+
+Colorectal cancer in young patients: is it a distinct clinical entity?
+
+Goldvaser H(1), Purim O(1)(2), Kundel Y(1)(2), Shepshelovich D(3)(2), Shochat 
+T(4), Shemesh-Bar L(5), Sulkes A(1)(2), Brenner B(6)(7).
+
+Author information:
+(1)Davidoff Cancer Center, Rabin Medical Center, Institute of Oncology, 
+Beilinson Hospital, 39 Jabotinski St., Petach Tikva, 49100, Israel.
+(2)Sackler Faculty of Medicine, Tel Aviv University, P.O Box 39040, Tel Aviv, 
+Israel.
+(3)Department of Medicine A, Rabin Medical Center, Beilinson Hospital, 39 
+Jabotinski St., Petach Tikva, Israel.
+(4)Statistical Consulting Unit, Rabin Medical Center, Beilinson Hospital, 39 
+Jabotinski St., Petach Tikva, Israel.
+(5)Maccabi Health Services, 33 Peres St., Rishon Lezion, Israel.
+(6)Davidoff Cancer Center, Rabin Medical Center, Institute of Oncology, 
+Beilinson Hospital, 39 Jabotinski St., Petach Tikva, 49100, Israel. 
+brennerb@clalit.org.il.
+(7)Sackler Faculty of Medicine, Tel Aviv University, P.O Box 39040, Tel Aviv, 
+Israel. brennerb@clalit.org.il.
+
+BACKGROUND: The incidence of colorectal cancer in young patients is increasing. 
+It remains unclear if the disease has unique features in this age group.
+METHODS: This was a single-center, retrospective cohort study which included 
+patients diagnosed with colorectal cancer at age ≤40 years in 1997-2013 matched 
+1:2 by year of diagnosis with consecutive colorectal cancer patients diagnosed 
+at age >50 years during the same period. Patients aged 41-50 years were not 
+included in the study, to accentuate potential age-related differences. 
+Clinicopathological characteristics, treatment, and outcome were compared 
+between groups.
+RESULTS: The cohort included 330 patients, followed for a median time of 
+65.9 months (range 4.7-211). Several significant differences were noted. The 
+younger group had a different ethnic composition. They had higher rates of 
+family history of colorectal cancer (p = 0.003), hereditary colorectal cancer 
+syndromes (p < 0.0001), and inflammatory bowel disease (p = 0.007), and a lower 
+rate of polyps (p < 0.0001). They were more likely to present with stage III or 
+IV disease (p = 0.001), angiolymphatic invasion, signet cell ring 
+adenocarcinoma, and rectal tumors (p = 0.02). Younger patients more frequently 
+received treatment. Young patients had a worse estimated 5-year disease-free 
+survival rate (57.6  vs. 70 %, p = 0.039), but this did not retain significance 
+when analyzed by stage (p = 0.092). Estimated 5-year overall survival rates were 
+59.1 and 62.1 % in the younger and the control group, respectively (p = 0.565).
+CONCLUSIONS: Colorectal cancer among young patients may constitute a distinct 
+clinical entity. Further research is needed to validate our findings and define 
+the optimal approach in this population.
+
+DOI: 10.1007/s10147-015-0935-z
+PMID: 26820719 [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+1. J Adolesc Health. 2007 Feb;40(2):181.e1-6. doi: 
+10.1016/j.jadohealth.2006.09.017. Epub 2006 Dec 14.
+
+Cigarettes and cinema: does parental restriction of R-rated movie viewing reduce 
+adolescent smoking susceptibility?
+
+Thompson EM(1), Gunther AC.
+
+Author information:
+(1)Department of Life Sciences Communication, University of Wisconsin-Madison, 
+Madison, Wisconsin 53706, USA.
+
+PURPOSE: To examine the relationship between exposure to pro-smoking messages in 
+media and susceptibility to smoking adoption among middle school students. The 
+hypothesis that parental restriction of R-rated movie viewing is associated with 
+lower adolescent smoking susceptibility was tested.
+METHODS: A sample of 1687 6th-, 7th-, and 8th-grade students from four Wisconsin 
+middle schools were surveyed about their use of cigarettes, exposure to smoking 
+in media, their views of smoking, and peer smoking behaviors.
+RESULTS: An index of smoking susceptibility was created using measures of 
+cigarette use and future intention to smoke. A zero-order correlation for 
+parental restriction of R-rated movie viewing and smoking susceptibility showed 
+a strong association (r = -.36, p < .001). A hierarchical logistic regression 
+yielded odds ratios (ORs) for being susceptible to or having tried smoking for 
+three levels of parental R-rated movie restriction. Results show that compared 
+to full restriction, respondents with partial or no restriction were more likely 
+to be susceptible to smoking (partial restriction: OR = 2.1, 95% CI = 1.5-2.8; 
+no restriction: OR = 3.3, 95% CI = 2.3-4.6), when controlling for demographic 
+factors, and family and friend smoking. Analyses using a measure of smoking 
+prevalence as the dependent variable yielded similar results (partial 
+restriction: OR = 1.5, 95% CI = 1.0-2.2; no restriction: OR = 2.5, 95% CI = 
+1.7-3.7).
+CONCLUSIONS: Parental restriction of R-rated movie viewing is associated with 
+both lower adolescent smoking susceptibility and lower smoking rates.
+
+DOI: 10.1016/j.jadohealth.2006.09.017
+PMID: 17259061 [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+1. Ann Thorac Surg. 2005 Jun;79(6):1834-9. doi: 10.1016/j.athoracsur.2004.12.051.
+
+Adjuvant radiation of stage III thymoma: is it necessary?
+
+Mangi AA(1), Wain JC, Donahue DM, Grillo HC, Mathisen DJ, Wright CD.
+
+Author information:
+(1)Department of Surgery, Massachusetts General Hospital, Harvard Medical 
+School, Boston, Massachusetts 02114, USA.
+
+Comment in
+    Ann Thorac Surg. 2006 Mar;81(3):1180-1; author reply 1181-2. doi: 
+10.1016/j.athoracsur.2005.07.027.
+
+BACKGROUND: The criteria for administration of adjuvant radiation therapy after 
+thymoma resection remains controversial, and it is unclear whether patients with 
+Masaoka stage III thymoma benefit from adjuvant radiation. The goal of this 
+report was to determine whether or not this group benefits from radiation 
+therapy in disease-specific survival and disease-free survival.
+METHODS: Case records of the Massachusetts General Hospital were retrospectively 
+reviewed from 1972 to 2004. One hundred and seventy-nine patients underwent 
+resection for thymoma, of which 45 had stage III disease.
+RESULTS: Forty-five stage III patients underwent resection and in 36 it was 
+complete. Thirty-eight stage III patients received radiation therapy. Baseline 
+prognostic factors between radiated and nonradiated groups were similar. The 
+addition of adjuvant radiotherapy did not alter local or distant recurrence 
+rates in patients with stage III thymoma. Disease-specific survival at 10 years 
+in stage III patients who did not receive radiation was 75% (95% confidence 
+interval, 32% to 100%) and in patients who did receive radiation therapy it was 
+79% (95% confidence interval, 64% to 94%) (p = 0.21). The most common site of 
+relapse was the pleura.
+CONCLUSIONS: Most patients who have stage III thymoma undergo complete 
+resection. Some patients enjoy prolonged disease-free survival without adjuvant 
+radiation after resection of stage III thymoma. Radiation does not seem to 
+prevent pleural recurrences when given after resection of stage III thymomas. 
+The use of routine adjuvant radiation after a complete resection of stage III 
+thymoma needs to be re-addressed. There may be a role for the use of 
+chemotherapy to reduce pleural recurrences.
+
+DOI: 10.1016/j.athoracsur.2004.12.051
+PMID: 15919266 [Indexed for MEDLINE]

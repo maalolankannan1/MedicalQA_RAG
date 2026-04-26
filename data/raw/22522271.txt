@@ -1,0 +1,33 @@
+1. N Z Med J. 2012 Apr 20;125(1353):47-58.
+
+Is late-night salivary cortisol a better screening test for possible cortisol 
+excess than standard screening tests in obese patients with Type 2 diabetes?
+
+Ellis E(1), Chin PK, Hunt PJ, Lunt H, Lewis JG, Soule SG.
+
+Author information:
+(1)Christchurch Hospital, Christchurch, New Zealand.
+
+AIM: To compare the performance, in terms of specificity for cortisol excess, of 
+late-night salivary cortisol with 24-hour urine-free cortisol (24hr UFC) and 
+overnight 1mg dexamethasone suppression test (1mg DST) in a group of obese T2DM 
+patients.
+METHODS: Forty obese patients with T2DM without clinical features of Cushing's 
+syndrome were recruited. Plasma, urinary and salivary cortisol were measured 
+directly by an enzyme-linked immunosorbent assay using monoclonal antibodies. 
+The specificities of the three tests using various cutoffs were calculated and 
+compared, employing the assumption that none of the patients had 
+hypercortisolism.
+RESULTS: The patients had a mean age and BMI of 56 years (range 31-75) and 37 
+kg/m² (31-56) respectively. All 40 provided late-night salivary cortisol 
+samples. Thirty-eight patients completed all three tests. Two patients only 
+completed two screening tests. The specificities of late-night salivary cortisol 
+(cutoff 10 nmol/L), 24hr UFC (400 nmol) and 1mg DST (50 nmol/L) were 70% (95% CI 
+53-83%), 90% (76-97%) and 72% (55-85%) respectively. The specificity of 
+late-night salivary cortisol was significantly less than 24 hr UFC (P=0.039) but 
+not 1mg DST (P>0.99).
+CONCLUSION: Late-night salivary cortisol has a poor specificity for cortisol 
+excess in obese patients with T2DM with 24 hr UFC showing significantly better 
+specificity in our population.
+
+PMID: 22522271 [Indexed for MEDLINE]

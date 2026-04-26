@@ -1,0 +1,36 @@
+1. Hum Factors. 2009 Apr;51(2):181-92. doi: 10.1177/0018720809335367.
+
+Do familiar teammates request and accept more backup? Transactive memory in air 
+traffic control.
+
+Smith-Jentsch KA(1), Kraiger K, Cannon-Bowers JA, Salas E.
+
+Author information:
+(1)Psychology Department, University of Central Florida, Orlando, Florida 
+32816-1390, USA. kjentsch@mail.ucf.edu
+
+OBJECTIVE: The present study investigated factors that explain when and why 
+different groups of teammates are more likely to request and accept backup from 
+one another when needed in an environment characterized by extreme time pressure 
+and severe consequences of error: commercial air traffic control (ATC).
+BACKGROUND: Transactive memory theory states that teammates develop consensus 
+regarding the distribution of their relative expertise as well as confidence in 
+that expertise over time and that this facilitates coordination processes. The 
+present study investigated whether this theory could help to explain 
+between-team differences in requesting and accepting backup when needed.
+METHOD: The present study used cross-sectional data collected from 51 commercial 
+ATC teams. Hypotheses were tested using multiple regression analysis.
+RESULTS: Teammates with greater experience working together requested and 
+accepted backup from one another more than those with lesser experience working 
+together. Teammate knowledge consensus and perceived team efficacy appear to 
+have mediated this relationship.
+CONCLUSION: Transactive memory theory extends to high-stress environments in 
+which members' expertise is highly overlapping. Teammates' shared mental models 
+about one another increase the likelihood that they will request and accept 
+backup.
+APPLICATION: Teammate familiarity should be considered when choosing among 
+potential replacement team members. Training strategies that accelerate the 
+development of teammate knowledge consensus and team efficacy are warranted.
+
+DOI: 10.1177/0018720809335367
+PMID: 19653482 [Indexed for MEDLINE]

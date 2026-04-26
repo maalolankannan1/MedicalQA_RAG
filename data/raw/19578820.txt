@@ -1,0 +1,43 @@
+1. J Gen Intern Med. 2009 Sep;24(9):1007-11. doi: 10.1007/s11606-009-1043-4. Epub
+ 2009 Jul 4.
+
+Are opioid dependence and methadone maintenance treatment (MMT) documented in 
+the medical record? A patient safety issue.
+
+Walley AY(1), Farrar D, Cheng DM, Alford DP, Samet JH.
+
+Author information:
+(1)Clinical Addiction Research and Education Unit, Section of General Internal 
+Medicine, Boston Medical Center, Boston, MA 02118, USA. awalley@bu.edu
+
+BACKGROUND: Opioid-dependent patients often have co-occurring chronic illnesses 
+requiring medications that interact with methadone. Methadone maintenance 
+treatment (MMT) is typically provided separately from medical care. Hence, 
+coordination of medical care and substance use treatment is important to 
+preserve patient safety.
+OBJECTIVE: To identify potential safety risks among MMT patients engaged in 
+medical care by evaluating the frequency that opioid dependence and MMT 
+documentation are missing in medical records and characterizing potential 
+medication-methadone interactions.
+METHODS: Among patients from a methadone clinic who received primary care from 
+an affiliated, but separate, medical center, we reviewed electronic medical 
+records for documentation of methadone, opioid dependence, and potential 
+drug-methadone interactions. The proportions of medical records without opioid 
+dependence and methadone documentation were estimated and potential 
+medication-methadone interactions were identified.
+RESULTS: Among the study subjects (n = 84), opioid dependence documentation was 
+missing from the medical record in 30% (95% CI, 20%-41%) and MMT documentation 
+was missing from either the last primary care note or the last hospital 
+discharge summary in 11% (95% CI, 5%-19%). Sixty-nine percent of the study 
+subjects had at least 1 medication that potentially interacted with methadone; 
+19% had 3 or more potentially interacting medications.
+CONCLUSION: Among patients receiving MMT and medical care at different sites, 
+documentation of opioid dependence and MMT in the medical record occurs for the 
+majority, but is missing in a substantial number of patients. Most of these 
+patients are prescribed medications that potentially interact with methadone. 
+This study highlights opportunities for improved coordination between medical 
+care and MMT.
+
+DOI: 10.1007/s11606-009-1043-4
+PMCID: PMC2726880
+PMID: 19578820 [Indexed for MEDLINE]

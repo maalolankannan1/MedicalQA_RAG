@@ -1,0 +1,41 @@
+1. Arthritis Care Res (Hoboken). 2011 Oct;63(10):1398-406. doi:
+10.1002/acr.20546.
+
+Does obesity predict knee pain over fourteen years in women, independently of 
+radiographic changes?
+
+Goulston LM(1), Kiran A, Javaid MK, Soni A, White KM, Hart DJ, Spector TD, Arden 
+NK.
+
+Author information:
+(1)MRC Lifecourse Epidemiology Unit, Southampton General Hospital, Tremona Road, 
+Southampton, Hampshire, SO16 6YD, UK. lg@mrc.soton.ac.uk
+
+OBJECTIVE: To examine longitudinal patterns in body mass index (BMI) over 14 
+years and its association with knee pain in the Chingford Study.
+METHODS: We studied a total of 594 women with BMI data from clinic visits at 
+years (Y) 1, 5, 10, and 15. Knee pain at Y15 was assessed by questionnaire. 
+Associations between BMI over 14 years and knee pain at Y15 were examined using 
+logistic regression.
+RESULTS: BMI significantly increased from Y1 to Y15 (P < 0.0005) with medians 
+(interquartile ranges) of 24.5 kg/m(2) (22.5-27.2 kg/m(2) ) and 26.5 kg/m(2) 
+(23.9-30.1 kg/m(2) ), respectively. At Y15, 45.1% of subjects had knee pain. A 
+greater BMI at Y1 (odds ratio [OR] 1.34, 95% confidence interval [95% CI] 
+1.05-1.69), at Y15 (OR 1.34, 95% CI 1.10-1.61), and change in BMI over 15 years 
+(OR 1.40, 95% CI 1.00-1.93) were significant predictors of knee pain at Y15 (P < 
+0.05). BMI change was associated with bilateral (OR 1.61, 95% CI 1.05-1.76, P = 
+0.024) but not unilateral knee pain (OR 1.22, 95% CI 0.73-1.76, P = 0.298). The 
+association between BMI change and knee pain was independent of radiographic 
+knee osteoarthritis (OA). The strength of association between BMI and knee pain 
+at Y15 was similar during followup measurements.
+CONCLUSION: Over 14 years, a higher BMI predicts knee pain at Y15 in women, 
+independently of radiographic knee OA. When adjusted, the association was 
+significant in bilateral, not unilateral, knee pain, suggesting alternative 
+pathologic mechanisms may exist. The longitudinal effect of BMI on knee pain at 
+Y15 is equally important at any time point, which may assist reducing the 
+population burden of knee pain.
+
+Copyright © 2011 by the American College of Rheumatology.
+
+DOI: 10.1002/acr.20546
+PMID: 21739621 [Indexed for MEDLINE]

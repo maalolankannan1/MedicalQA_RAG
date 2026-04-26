@@ -1,0 +1,40 @@
+1. Isr Med Assoc J. 2010 Mar;12(3):136-9.
+
+Vitamin D supplementation and regulatory T cells in apparently healthy subjects: 
+vitamin D treatment for autoimmune diseases?
+
+Prietl B(1), Pilz S, Wolf M, Tomaschitz A, Obermayer-Pietsch B, Graninger W, 
+Pieber TR.
+
+Author information:
+(1)Division of Endocrinology and Nuclear Medicine, Medical University of Graz, 
+Austria.
+
+Comment in
+    Isr Med Assoc J. 2010 Mar;12(3):174-5.
+
+BACKGROUND: Epidemiological data show significant associations of vitamin D 
+deficiency and autoimmune diseases. Vitamin D may prevent autoimmunity by 
+stimulating naturally occurring regulatory T cells.
+OBJECTIVES: To elucidate whether vitamin D supplementation increases Tregs 
+frequency (%Tregs) within circulating CD4+ T cells.
+METHODS: We performed an uncontrolled vitamin D supplementation trial among 50 
+apparently healthy subjects including supplementation of 140,000 IU at baseline 
+and after 4 weeks (visit 1). The final follow-up visit was performed 8 weeks 
+after the baseline examination (visit 2). Blood was drawn at each study visit to 
+determine 25-hydroxyvitamin D levels and %Tregs. Tregs were characterized as 
+CD4+CD25++ T cells with expression of the transcription factor forkhead box P3 
+and low or absent expression of CD127.
+RESULTS: Forty-six study participants (65% females, mean age +/- SD 31 +/- 8 
+years) completed the trial. 25(OH)D levels increased from 23.9 +/- 12.9 ng/ml at 
+baseline to 45.9 +/- 14.0 ng/ml at visit 1 and 58.0 +/- 15.1 ng/ml at visit 2. 
+%Tregs at baseline were 4.8 +/- 1.4. Compared to baseline levels we noticed a 
+significant increase of %Tregs at study visit 1 (5.9 +/- 1.7, P < 0.001) and 2 
+(5.6 +/- 1.6, P < 0.001).
+CONCLUSIONS: Vitamin D supplementation was associated with significantly 
+increased %Tregs in apparently healthy individuals. This immunomodulatory effect 
+of vitamin D might underlie the associations of vitamin D deficiency and 
+autoimmune diseases. Hence, our finding provides a rationale for further studies 
+to investigate vitamin D effects on autoimmunological processes.
+
+PMID: 20684175 [Indexed for MEDLINE]

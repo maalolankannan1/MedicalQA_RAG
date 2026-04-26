@@ -1,0 +1,38 @@
+1. Clin Dev Immunol. 2008;2008:481560. doi: 10.1155/2008/481560.
+
+Do the changes in the serum levels of IL-2, IL-4, TNFalpha, and IL-6 reflect the 
+inflammatory activity in the patients with post-ERCP pancreatitis?
+
+Kilciler G(1), Musabak U, Bagci S, Yesilova Z, Tuzun A, Uygun A, Gulsen M, Oren 
+S, Oktenli C, Karaeren N.
+
+Author information:
+(1)Department of Gastroenterology, Gulhane Military Medical Academy, School of 
+Medicine, Etlik, 06010 Ankara, Turkey.
+
+BACKGROUND: Acute pancreatitis is the major complication of endoscopic 
+retrograde cholangiopancreatography (ERCP) procedure and there are some reports 
+showing cytokine changes in ERCP-induced pancreatits.
+GOALS: To investigate the association between early changes (within 24 hours) in 
+the serum interleukin (IL)-2, IL-4, tumor necrosis factor (TNF)alpha, and IL-6 
+levels and the development of post-ERCP pancreatitis.
+STUDY: Forty five consecutive patients who underwent therapeutic ERCP and 10 
+patients with acute pancreatitis without ERCP were enrolled to the study. Serum 
+concentrations of IL-2, IL-4, TNFalpha, and IL-6 were determined immediately 
+before, 12 hours and 24 hours after ERCP.
+RESULTS: Seven of the 45 patients (15.5%) developed post-ERCP pancreatitis. The 
+levels of IL-4 at 24 hours after ERCP were significantly lower in the patients 
+with post-ERCP pancreatitis than in those without pancreatitis, while TNFalpha 
+levels at 12 hours after ERCP were higher in the complicated group than those of 
+the uncomplicated group. The ratios of TNFalpha/IL-4 at 12 and 24 hours after 
+ERCP were found significantly higher in the patients with post-ERCP pancreatitis 
+than in those without pancreatitis. IL-6 in the complicated patients was found 
+significantly increased at 24 hours after ERCP.
+CONCLUSIONS: The enhancement of serum TNFalpha and IL-6 levels in the patients 
+with ERCP-induced pancreatitis reflects the inflammatory activity. Additionally, 
+these cytokines together with IL-4 can be used in clinical laboratory monitoring 
+of ERCP.
+
+DOI: 10.1155/2008/481560
+PMCID: PMC2486352
+PMID: 18670651 [Indexed for MEDLINE]

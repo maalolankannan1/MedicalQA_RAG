@@ -1,0 +1,51 @@
+1. Int J Surg. 2015 Oct;22:125-30. doi: 10.1016/j.ijsu.2015.05.054. Epub 2015 Jun
+ 14.
+
+Does base deficit predict mortality in patients with severe traumatic brain 
+injury?
+
+Shallwani H(1), Waqas M(2), Waheed S(3), Siddiqui M(4), Froz A(5), Bari ME(6).
+
+Author information:
+(1)Section of Neurosurgery, The Aga Khan University Hospital Karachi, Pakistan. 
+Electronic address: hussainshallwani@hotmail.com.
+(2)Section of Neurosurgery, The Aga Khan University Hospital Karachi, Pakistan. 
+Electronic address: shaiq_waqas@hotmail.com.
+(3)Department of Emergency Medicine, The Aga Khan University Hospital Karachi, 
+Pakistan. Electronic address: docshahan83@hotmail.com.
+(4)Section of Neurosurgery, The Aga Khan University Hospital Karachi, Pakistan. 
+Electronic address: mubbashira_siddiqui@hotmail.com.
+(5)The Aga Khan University Hospital Karachi, Pakistan. Electronic address: 
+asher.froz@aku.edu.
+(6)Section of Neurosurgery, The Aga Khan University Hospital Karachi, Pakistan. 
+Electronic address: ehsan.bari@aku.edu.
+
+OBJECTIVE: Base Deficit (BD) is a marker of tissue hypoxia in polytrauma 
+patients. It guides resuscitative measures, and predicts outcomes, complications 
+and mortality. The aim of this study was to examine the presence of BD in 
+patients with isolated severe traumatic brain injury (TBI), and to assess if it 
+correlates with the outcomes in these patients.
+METHOD: This was a retrospective observational study. All patients over the age 
+of 16 years presenting to Aga Khan University Hospital from 2009 to 2013 with 
+isolated TBI, were included. Data was extracted from 2009 to 2013. Glasgow 
+Outcome Scale (GOS) of 4 and 5 at last follow up was categorized as favorable 
+outcome. Data was analyzed using SPSS version 19 and receiver operative curve 
+(ROC) was generated for BD as a predictor of mortality and unfavorable outcome.
+RESULTS: One hundred and eight patients were analyzed. Ninety-eight (90.7%) were 
+males. Mean age was 36.69 ± 17.65. Eighty-eight (81.5%) patients had BD, while 
+20 (18.5%) patients had base excess. 62 (58.5%) of the patients had unfavorable 
+outcomes. BD on admission had a statistically significant negative correlation 
+with Glasgow Coma Scale (GCS) on presentation (r = -0.239, p = 0.025) and 
+Revised Trauma Score (RTS) (r = -0.214, p = 0.046). However, there was no 
+statistically significant difference in means of BD between survivors and non 
+survivors. Area under receiver operator curve (ROC) for BD as a predictor of 
+mortality statistically non-significant.
+CONCLUSION: Although BD is correlated with GCS at presentation and RTS, it is 
+not a reliable prognostic marker for outcome and mortality in patients with 
+isolated TBI.
+
+Copyright © 2015 IJS Publishing Group Limited. Published by Elsevier Ltd. All 
+rights reserved.
+
+DOI: 10.1016/j.ijsu.2015.05.054
+PMID: 26079501 [Indexed for MEDLINE]

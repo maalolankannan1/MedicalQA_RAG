@@ -1,0 +1,48 @@
+1. J Matern Fetal Neonatal Med. 2016;29(1):91-8. doi:
+10.3109/14767058.2014.987747.  Epub 2014 Dec 8.
+
+Does timing of initial surfactant treatment make a difference in rates of 
+chronic lung disease or mortality in premature infants? An observational 
+regional study.
+
+Premnath D(1), Kent AL(2)(3), Bajuk B(4)(5), Abdel-Latif ME(2)(3); NSW and the 
+ACT Neonatal Intensive Care Audit Group.
+
+Author information:
+(1)a Department of Internal Medicine .
+(2)b Department of Neonatology , Canberra Hospital , Garran , ACT , Australia .
+(3)c The Clinical School, Australian National University , Garran , ACT , 
+Australia .
+(4)d Neonatal Intensive Care Units' (NICUS) Data Collection, NSW Pregnancy and 
+Newborn Services Network , NSW , Australia , and.
+(5)e School of Public Health, University of Sydney , NSW , Australia.
+
+OBJECTIVE: To compare two treatment strategies in preterm infants with or at 
+risk of respiratory distress syndrome: early surfactant administration (within 
+one hour of birth) versus late surfactant administration, in a geographically 
+defined population.
+OUTCOME: The primary outcome was chronic lung disease (CLD) and mortality 
+before/at 36 weeks. Secondary outcomes included: duration of mechanical 
+ventilation and continuous positive airway pressure (CPAP), post-natal steroids 
+for CLD and major neonatal morbidities.
+SUBJECTS: Premature infants born at 22-32 weeks' gestation between January 2006 
+and December 2009.
+SETTING: Ten neonatal intensive care units (NICUs) in New South Wales (NSW) and 
+Australian Capital Territory (ACT), Australia.
+DESIGN: Retrospective analysis of prospectively collected data from the regional 
+NICU database in NSW and ACT.
+RESULTS: Of the 2170 infants who received surfactant, 1182 (54.5%) and 988 
+(45.5%) received early and late surfactant, respectively. The early surfactant 
+group was less mature (27.1 ± 2.1 versus 29.4 ± 2.1 weeks) and had more CLD and 
+mortality (40.2% versus 20.0%). The multivariable analysis showed early 
+surfactant to be associated with less duration of ventilation, longer duration 
+of CPAP and longer hospital stay but had little or no impact on CLD/mortality.
+CONCLUSION: Early surfactant administration is associated with shorter duration 
+of ventilation but does not appear to be significantly protective against 
+CLD/mortality among premature infants. This may support the growing evidence for 
+consideration of CPAP as an alternative to routine intubation and early 
+surfactant administration. Further investigation from large randomized clinical 
+trials is warranted to confirm these results.
+
+DOI: 10.3109/14767058.2014.987747
+PMID: 25394614 [Indexed for MEDLINE]

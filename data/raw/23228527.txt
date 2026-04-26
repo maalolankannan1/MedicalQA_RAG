@@ -1,0 +1,37 @@
+1. Intensive Crit Care Nurs. 2013 Jun;29(3):121-7. doi:
+10.1016/j.iccn.2012.11.001.  Epub 2012 Dec 8.
+
+Does music influence stress in mechanically ventilated patients?
+
+Chlan LL(1), Engeland WC, Savik K.
+
+Author information:
+(1)School of Nursing, University of Minnesota, 5-160 Weaver-Densford Hall, 308 
+Harvard St. SE, Minneapolis, MN 55455, United States. chlan001@umn.edu
+
+OBJECTIVES: Mechanically ventilated patients experience profound stress. 
+Interventions are needed to ameliorate stress that does not cause adverse 
+effects. The purpose of this study was to explore the influence of music on 
+stress in a sample of patients over the duration of ventilatory support.
+RESEARCH METHODOLOGY/DESIGN: Randomised controlled trial; randomised patients 
+(56.8+16.9 years, 61% male, APACHE III 57.2+18.3) receiving ventilatory support 
+to: (1) patient-directed music (PDM) where patients self-initiated music 
+listening whenever desired from a preferred collection, (2) headphones only to 
+block ICU noise, or (3) usual ICU care. Twenty-four hour urinary cortisol 
+samples were collected from a sub-set of subjects with intact renal function and 
+not receiving medications known to influence cortisol levels (n=65).
+SETTING: 12 ICUs in the Midwestern United States.
+MAIN OUTCOME MEASURES: Urinary free cortisol (UFC), an integrative biomarker of 
+stress.
+RESULTS: Controlling for illness severity, gender, and baseline UFC (29-45 
+mg/day), mixed models analysis revealed no significant differences among groups 
+in UFC over the course of ventilatory support.
+CONCLUSION: While music did not significantly reduce cortisol, less profound 
+spikes in UFC levels were observed but that, given the limitations of the 
+research, this observation could have occurred merely by chance.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.iccn.2012.11.001
+PMCID: PMC3604093
+PMID: 23228527 [Indexed for MEDLINE]

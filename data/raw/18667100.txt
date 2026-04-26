@@ -1,0 +1,62 @@
+1. Psychol Med. 2009 May;39(5):763-71. doi: 10.1017/S0033291708004078. Epub 2008 
+Jul 30.
+
+Do risk factors for suicidal behavior differ by affective disorder polarity?
+
+Fiedorowicz JG(1), Leon AC, Keller MB, Solomon DA, Rice JP, Coryell WH.
+
+Author information:
+(1)Department of Psychiatry, Roy J. and Lucille A. Carver College of Medicine, 
+University of Iowa Hospitals and Clinics, Iowa City, IA 52242, USA. 
+jess-fiedorowicz@uiowa.edu
+
+BACKGROUND: Suicide is a leading cause of death and has been strongly associated 
+with affective disorders. The influence of affective disorder polarity on 
+subsequent suicide attempts or completions and any differential effect of 
+suicide risk factors by polarity were assessed in a prospective cohort.
+METHOD: Participants with major affective disorders in the National Institute of 
+Mental Health (NIMH) Collaborative Depression Study (CDS) were followed 
+prospectively for up to 25 years. A total of 909 participants meeting 
+prospective diagnostic criteria for major depressive and bipolar disorders were 
+followed through 4204 mood cycles. Suicidal behavior was defined as suicide 
+attempts or completions. Mixed-effects, grouped-time survival analysis assessed 
+risk of suicidal behavior and differential effects of risk factors for suicidal 
+behavior by polarity. In addition to polarity, the main effects of age, gender, 
+hopelessness, married status, prior suicide attempts and active substance abuse 
+were modeled, with mood cycle as the unit of analysis.
+RESULTS: After controlling for age of onset, there were no differences in prior 
+suicide attempts by polarity although bipolar participants had more prior severe 
+attempts. During follow-up, 40 cycles ended in suicide and 384 cycles contained 
+at least one suicide attempt. Age, hopelessness and active substance abuse but 
+not polarity predicted suicidal behavior. The effects of risk factors did not 
+differ by polarity.
+CONCLUSIONS: Bipolarity does not independently influence risk of suicidal 
+behavior or alter the influence of well-established suicide risk factors within 
+affective disorders. Suicide risk assessment strategies may continue to appraise 
+these common risk factors without regard to mood polarity.
+
+DOI: 10.1017/S0033291708004078
+PMCID: PMC2775816
+PMID: 18667100 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interest Dr. Fiedorowicz is 
+supported by L30 MH075180-02, the Nellie Ball Trust Research Fund, and a NARSAD 
+Young Investigator Award. He has further received support for participating in a 
+colleague’s investigator-initiated study with Eli Lilly. Dr. Leon has served as 
+a consultant to the National Institute of Mental Health and Food and Drug 
+Administration and as a member of Data and Safety Monitoring Boards for Pfizer, 
+Organon, and Dainippon Sumitomo Pharma America. Dr. Keller has served as a 
+consultant or received honoraria from Collegium, Cypress Bioscience, Cyberonics, 
+Eli Lilly, Forest Laboratories, Janssen, Organon, Otsuka, Pfizer, Pharmastar, 
+Sepracor, Vela Pharmaceuticals, Wyeth Pharmaceuticals. He has received grants 
+from Eli Lilly, Pfizer, and Wyeth Pharmaceuticals. He has served on advisory 
+boards for Abbott Laboratories, Bristol-Myers Squibb, Cyberonics, Cypress 
+Bioscience, Eli Lilly, Forest Laboratories, GlaxoSmithKline, Janssen, Novartis, 
+Organon, Pfizer, Sepracor, and Wyeth Pharmaceuticals. Dr. Solomon has served as 
+an investigator for research funded by Jansenn Pharmaceutica, as a consultant to 
+Solvay Pharmaceuticals, Shire, and Novartis, and has served on the lecture 
+bureaus of AstraZeneca, Pfizer, GlaxoSmithKline, and Shire. Dr. Rice is listed 
+as an inventor on a patent (US 20070258898) held by Perlegen Sciences, Inc., 
+covering the use of certain single nucleotide polymorphisms in determining the 
+diagnosis, prognosis, and treatment of addiction. All other authors declare that 
+they have no conflicts of interest.

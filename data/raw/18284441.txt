@@ -1,0 +1,42 @@
+1. Int J Clin Pract. 2008 Aug;62(8):1206-11. doi:
+10.1111/j.1742-1241.2007.01675.x.  Epub 2008 Feb 18.
+
+Expression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, 
+cirrhosis and hepatocellular carcinoma: has it a diagnostic role?
+
+Kara B(1), Doran F, Kara IO, Akkiz H, Sandikci M.
+
+Author information:
+(1)Department of Gastroenterology, Faculty of Medicine, Cukurova University, 
+Adana, Turkey. banu97@superonline.com
+
+AIM: There are more than 350 million people worldwide chronically infected with 
+hepatitis B virus (HBV), who are at high risk for the development of hepatitis, 
+cirrhosis and hepatocellular carcinoma (HCC). Because of the conflicting results 
+about c-kit expression in HCC and the key role played by c-kit in 
+gastrointestinal stromal tumours (GIST) and other solid tumours, the aim of this 
+study was to determine c-kit expression in the course of hepatitis B infection.
+MATERIALS AND METHODS: Paraffin-embedded tissues in Cukurova University Faculty 
+of Medicine Department of Pathology between January 2002 and February 2006 were 
+searched restrospectively to investigate this issue. We performed 
+immunohistochemistry on biopsies of 125 patients with HBV infection, grouped as: 
+mild, moderate and severe hepatitis, cirrhosis and HCC, 25 patients in each of 
+them, using anti c-kit monoclonal antibody. The severity of parenchymal 
+inflammation and of interface hepatitis was semiquantitatively graded on a 
+haematoxylin and eosin stained paraffin sections. Additionally, 50 more HCC, 
+formed on HBV basis, were studied to determine the prevalence of c-kit 
+overexpression.
+RESULTS: In cirrhotic liver, lower intensity of staining and rarely c-kit 
+positivity were present. The greatest number of the c-kit positivity and higher 
+intensity of staining was found in the livers of patients with severe hepatitis 
+and HCC. In chronic hepatitis B infection, the staining intensity was parallel 
+with the grade and stage of the disease. In the areas where fibrosis was seen, 
+c-kit positivity was rare or absent. In the HCC specimens, c-kit positivity 
+appeared both inside and around the cancerous nodes. C-kit expression was 
+observed in 62 of 75 HCC tissue specimens (82%) (p < 0.001).
+CONCLUSIONS: C-kit positivity was observed in the mitotic, proliferating and 
+also dysplastic hepatic cells. These results suggest that c-kit expression may 
+be used as an early diagnostic indicator for HBV induced HCC.
+
+DOI: 10.1111/j.1742-1241.2007.01675.x
+PMID: 18284441 [Indexed for MEDLINE]

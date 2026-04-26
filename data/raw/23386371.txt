@@ -1,0 +1,52 @@
+1. Sleep Breath. 2013 Dec;17(4):1137-43. doi: 10.1007/s11325-013-0813-8. Epub
+2013  Feb 6.
+
+CPAP therapy in patients with idiopathic pulmonary fibrosis and obstructive 
+sleep apnea: does it offer a better quality of life and sleep?
+
+Mermigkis C(1), Bouloukaki I, Antoniou KM, Mermigkis D, Psathakis K, Giannarakis 
+I, Varouchakis G, Siafakas N, Schiza SE.
+
+Author information:
+(1)Sleep Disorders Unit, Department of Thoracic Medicine, University General 
+Hospital, Medical School of the University of Crete, Heraklion, Greece, 
+mermigh@gmail.com.
+
+BACKGROUND: The recent literature shows an increased incidence of obstructive 
+sleep apnea (OSA) in patients with idiopathic pulmonary fibrosis (IPF). On the 
+other hand, there are no published studies related to continuous positive airway 
+pressure (CPAP) treatment in this patient group. Our aim was to assess the 
+effect of CPAP on sleep and overall life quality parameters in IPF patients with 
+OSA and to recognize and overcome possible difficulties in CPAP initiation and 
+acceptance by these patients.
+METHODS: Twelve patients (ten males and two females, age 67.1 ± 7.2 years) with 
+newly diagnosed IPF and moderate to severe OSA, confirmed by overnight attended 
+polysomnography, were included. Therapy with CPAP was initiated after a formal 
+in-lab CPAP titration study. The patients completed the Epworth Sleepiness Scale 
+(ESS), the Pittsburgh Sleep Quality Index (PSQI), the Functional Outcomes in 
+Sleep Questionnaire (FOSQ), the Fatigue Severity Scale (FSS), the SF-36 quality 
+of life questionnaire, and the Beck Depression Inventory (BDI) at CPAP 
+initiation and after 1, 3, and 6 months of effective CPAP therapy.
+RESULTS: A statistically significant improvement was observed in the FOSQ at 1, 
+3, and 6 months after CPAP initiation (baseline 12.9 ± 2.9 vs. 14.7 ± 2.6 vs. 
+15.8 ± 2.1 vs. 16.9 ± 1.9, respectively, p = 0.02). Improvement, although not 
+statistically significant, was noted in ESS score (9.2 ± 5.6 vs. 7.6 ± 4.9 vs. 
+7.5 ± 5.3 vs. 7.7 ± 5.2, p = 0.84), PSQI (10.7 ± 4.4 vs. 10.1 ± 4.3 vs. 
+9.4 ± 4.7 vs. 8.6 ± 5.2, p = 0.66), FSS (39.5 ± 10.2 vs. 34.8 ± 8.5 vs. 
+33.6 ± 10.7 vs. 33.4 ± 10.9, p = 0.44), SF-36 (63.2 ± 13.9 vs. 68.9 ± 13.5 vs. 
+72.1 ± 12.9 vs. 74.4 ± 11.3, p = 0.27), and BDI (12.9 ± 5.5 vs. 10.7 ± 4.3 vs. 
+9.4 ± 4.8 vs. 9.6 ± 4.5, p = 0.40). Two patients had difficulty complying with 
+CPAP for a variety of reasons (nocturnal cough, claustrophobia, insomnia) and 
+stopped CPAP use after the first month, despite intense follow-up by the CPAP 
+clinic staff. Heated humidification was added for all patients in order to 
+improve the common complaint of disabling nocturnal cough.
+CONCLUSION: Effective CPAP treatment in IPF patients with OSA results in a 
+significant improvement in daily living activities based on the FOSQ, namely an 
+OSA-specific follow-up instrument. Improvement was also noted in other 
+questionnaires assessing quality of life, though not to a statistically 
+significant degree, probably because of the multifactorial influences of IPF on 
+physical and mental health. The probability of poor CPAP compliance was high and 
+could only be eliminated with intense follow-up by the CPAP clinic staff.
+
+DOI: 10.1007/s11325-013-0813-8
+PMID: 23386371 [Indexed for MEDLINE]

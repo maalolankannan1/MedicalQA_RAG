@@ -1,0 +1,38 @@
+1. World J Surg. 2015 Apr;39(4):1018-25. doi: 10.1007/s00268-014-2886-3.
+
+Aberrant loss of dickkopf-3 in gastric cancer: can it predict lymph node 
+metastasis preoperatively?
+
+Park JM(1), Kim MK, Chi KC, Kim JH, Lee SH, Lee EJ.
+
+Author information:
+(1)Department of Surgery, Chung-Ang University College of Medicine, Seoul, 
+Korea, jmpark@cau.ac.kr.
+
+BACKGROUND: Dickkopf-3 (DKK3) may act as a tumor suppressor as it is 
+down-regulated in various types of cancer. This study assessed the DKK3 protein 
+expression in gastric cancer and its potential value as a prognostic marker.
+METHODS: DKK3 expression was evaluated by immunohistochemistry in 158 gastric 
+cancer samples from patients who underwent gastrectomy from 2002 to 2008. 
+Clinicopathological parameters and survival data were analyzed.
+RESULTS: Loss of DKK3 expression was found in 64 of 158 (40.5%) samples, and it 
+was associated with advanced T stage (p < 0.001), lymph node metastasis (p < 
+0.001), UICC TNM stage (p < 0.001), tumor location (p = 0.029), lymphovascular 
+invasion (p = 0.035), and perineural invasion (p = 0.032). Patients without DKK3 
+expression in tumor cells had a significantly worse disease-free and overall 
+survival than those with DKK3 expression (p < 0.001, and p = 0.001, 
+respectively). TNM stage (p = 0.028 and p < 0.001, respectively) and residual 
+tumor (p < 0.001 and p = 0.003, respectively) were independent predictors of 
+disease-free and overall survival. Based on the preoperative clinical stage 
+assessed by computed tomography (CT), loss of DKK3 expression was predominantly 
+associated with worse prognosis in patients with clinically node-negative 
+advanced gastric cancer (AGC). The combination of DKK3 expression status and CT 
+increased the accuracy of CT staging for predicting lymph node involvement from 
+71.5 to 80.0% in AGC patients.
+CONCLUSION: Loss of DKK3 protein expression was significantly associated with 
+poor survival in patients with gastric cancer and was strongly correlated with 
+the TNM stage. DKK3 might be a potential biomarker of lymph node involvement 
+that can improve the predictive power of CT.
+
+DOI: 10.1007/s00268-014-2886-3
+PMID: 25604390 [Indexed for MEDLINE]

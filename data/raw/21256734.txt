@@ -1,0 +1,38 @@
+1. Eur J Cancer. 2011 Mar;47(5):713-7. doi: 10.1016/j.ejca.2010.12.020. Epub 2011
+ Jan 20.
+
+Does pain intensity predict a poor opioid response in cancer patients?
+
+Mercadante S(1), Gebbia V, David F, Aielli F, Verna L, Porzio G, Ferrera P, 
+Casuccio A, Ficorella C.
+
+Author information:
+(1)Pain Relief and Palliative Care Unit, La Maddalena Cancer Center, Italy. 
+terapiadeldolore@lamaddalenanet.it
+
+AIM: The aim of this study was to test the hypothesis that initial pain 
+intensity is not a predictive factor of poor opioid response in advanced cancer 
+patients, as suggested by a recent work.
+METHODS: A secondary analysis of one-hundred-sixty-seven patients referred for 
+treatment of cancer-related pain was conducted. Pain intensity at admission was 
+recorded and patients were divided in three categories of pain intensity: mild, 
+moderate and severe. Patients were offered a treatment with opioid dose 
+titration, according to department policy. Data regarding opioid doses and pain 
+intensity were collected after dose titration was completed. Four levels of 
+opioid response were considered: (a) good pain control, with minimal opioid 
+escalation and without relevant adverse effects; (b) good pain control requiring 
+more aggressive opioid escalation, for example doubling the doses in four days; 
+(c) adequate pain control associated with the occurrence of adverse effects; (d) 
+poor pain control with adverse effects.
+RESULTS: Seventy-six, forty-four, forty-one and six patients showed a response 
+a, b, c, and d, respectively. No correlation between baseline pain intensity 
+categories and opioid response was found. Patients with response 'b' and 'd' 
+showed higher values of OEImg.
+CONCLUSION: Baseline pain intensity does not predict the outcome after an 
+appropriate opioid titration. It is likely that non-homogeneous pain treatment 
+would have biased the outcome of a previous work.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejca.2010.12.020
+PMID: 21256734 [Indexed for MEDLINE]

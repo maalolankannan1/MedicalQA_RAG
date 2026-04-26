@@ -1,0 +1,37 @@
+1. J Transl Med. 2013 Mar 18;11:66. doi: 10.1186/1479-5876-11-66.
+
+Malnutrition, a new inducer for arterial calcification in hemodialysis patients?
+
+Zhang K(1), Cheng G, Cai X, Chen J, Jiang Y, Wang T, Wang J, Huang H.
+
+Author information:
+(1)Department of Cardiology, Sun Yat-sen Memorial Hospital of Sun Yat-sen 
+University, 107 West Yanjiang Road, Guangzhou 510120, China.
+
+BACKGROUND: Arterial calcification is a significant cardiovascular risk factor 
+in hemodialysis patients. A series of factors are involved in the process of 
+arterial calcification; however, the relationship between malnutrition and 
+arterial calcification is still unclear.
+METHODS: 68 hemodialysis patients were enrolled in this study. Nutrition status 
+was evaluated using modified quantitative subjective global assessment (MQSGA). 
+Related serum biochemical parameters were measured. And the radial artery 
+samples were collected during the arteriovenous fistula surgeries. 
+Hematoxylin/eosin stain was used to observe the arterial structures while 
+Alizarin red stain to observe calcified depositions and classify calcified 
+degree. The expressions of bone morphogenetic protein 2 (BMP2) and matrix Gla 
+protein (MGP) were detected by immunohistochemistry and western blot methods.
+RESULTS: 66.18% hemodialysis patients were malnutrition. In hemodialysis 
+patients, the calcified depositions were mainly located in the medial layer of 
+the radial arteries and the expressions of BMP2 and MGP were both increased in 
+the calcified areas. The levels of serum albumin were negatively associated with 
+calcification score and the expressions of BMP2 and MGP. While MQSGA score, 
+serum phosphorus and calcium × phosphorus product showed positive relationships 
+with calcification score and the expressions of BMP2 and MGP.
+CONCLUSIONS: Malnutrition is prevalent in hemodialysis patients and is 
+associated with arterial calcification and the expressions of BMP2 and MGP in 
+calcified radial arteries. Malnutrition may be a new inducer candidate for 
+arterial calcification in hemodialysis patients.
+
+DOI: 10.1186/1479-5876-11-66
+PMCID: PMC3608064
+PMID: 23506394 [Indexed for MEDLINE]

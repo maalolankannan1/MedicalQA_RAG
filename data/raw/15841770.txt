@@ -1,0 +1,36 @@
+1. Acta Paediatr. 2004 Dec;93(12):1612-8.
+
+Do inhaled steroids differ from cromones in terms of hospital admission rates 
+for asthma in children?
+
+Korhonen K(1), Dunder T, Klaukka T, Reijonen TM, Issakoff K, Kiviharju M, Linna 
+O, Remes K, Korppi M.
+
+Author information:
+(1)Department of Paediatrics, Kuopio University Hospital, Kuopio, Finland. 
+kaj.korhonen@uku.fi
+
+AIM: The aim of the present study was to investigate the characteristics of 
+hospital admissions in two child populations receiving different types of drugs 
+as their regular medication for steady-state asthma.
+METHODS: Annual data on children aged under 16 y treated for asthma, including 
+consumption of regular medication for asthma, numbers of hospital periods, 
+lengths of hospitalizations and annual proportions of readmissions, were 
+collected using patient-specific medical records from 1995 to 1999. In the 
+Kuopio province, on average, 35.6-36.7/1000 children were on maintenance for 
+asthma, of which 23% were receiving cromones, 51% were taking inhaled steroids 
+and 26% were treated with cromones plus intermittent steroids. In the Oulu 
+province, the respective prevalence was 32.7-34.9/1000, and the respective 
+proportions were 5%, 93% and 2%.
+RESULTS: Total and first admissions, as well as hospital days were clearly less 
+in the Oulu province. In the children aged > or = 6y, the average annual total 
+admissions were 0.3/1000 (Oulu) vs 1.2/1000 (Kuopio) (p < 0.001). Similarly, the 
+first admissions were 0.2/1000 vs 1.0/1000 (p < 0.001), proportions of 
+readmissions 6.3% vs 19.3% (p < 0.05), and numbers of hospital days 0.7/1000 vs 
+3.8/1000 (p < 0.001). The differences were in the same direction, though less 
+prominent, also among children 2-5 y of age.
+CONCLUSION: Our results suggest that inhaled steroids are better than cromones 
+in preventing admissions for asthma when two provinces with different practices 
+for maintenance medication of steady-state asthma were compared.
+
+PMID: 15841770 [Indexed for MEDLINE]

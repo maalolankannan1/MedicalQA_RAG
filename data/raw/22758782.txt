@@ -1,0 +1,48 @@
+1. Pain Med. 2012 Jul;13(7):948-56. doi: 10.1111/j.1526-4637.2012.01402.x. Epub 
+2012 Jul 3.
+
+Regional anesthesia as compared with general anesthesia for surgery in geriatric 
+patients with hip fracture: does it decrease morbidity, mortality, and health 
+care costs? Results of a single-centered study.
+
+Le-Wendling L(1), Bihorac A, Baslanti TO, Lucas S, Sadasivan K, Wendling A, 
+Heyman HJ, Boezaart A.
+
+Author information:
+(1)Department of Anesthesiology Anesthesiology, University of Florida College of 
+Medicine, Gainesville, FL, USA.
+
+INTRODUCTION: Hip fracture in geriatric patients has a substantial economic 
+impact and represents a major cause of morbidity and mortality in this 
+population. At our institution, a regional anesthesia program was instituted for 
+patients undergoing surgery for hip fracture. This retrospective cohort review 
+examines the effects of regional anesthesia (from mainly after July 2007) vs 
+general anesthesia (mainly prior to July 2007) on morbidity, mortality and 
+hospitalization costs.
+METHODS: This retrospective cohort study involved data collection from 
+electronic and paper charts of 308 patients who underwent surgery for hip 
+fracture from September 2006 to December 2008. Data on postoperative morbidity, 
+in-patient mortality, and cost of hospitalization (as estimated from data on 
+hospital charges) were collected and analyzed. Seventy-three patients received 
+regional anesthesia and 235 patients received general anesthesia. During July 
+2007, approximately halfway through the study period, a regional anesthesia and 
+analgesia program was introduced.
+RESULTS: The average cost of hospitalization in patients who received surgery 
+for hip fracture was no different between patients who receive regional or 
+general anesthesia ($16,789 + 631 vs $16,815 + 643, respectively, P = 0.9557). 
+Delay in surgery and intensive care unit (ICU) admission resulted in 
+significantly higher hospitalization costs. Age, male gender, African American 
+race and ICU admission were associated with increased in-hospital mortality. 
+In-hospital mortality and rates of readmission are not statistically different 
+between the two anesthesia groups.
+CONCLUSIONS: There is no difference in postoperative morbidity, rates of 
+rehospitalization, in-patient mortality or hospitalization costs in geriatric 
+patients undergoing regional or general anesthesia for repair of hip fracture. 
+Delay in surgery beyond 3 days and ICU admission both increase cost of 
+hospitalization.
+
+Wiley Periodicals, Inc.
+
+DOI: 10.1111/j.1526-4637.2012.01402.x
+PMCID: PMC3730262
+PMID: 22758782 [Indexed for MEDLINE]

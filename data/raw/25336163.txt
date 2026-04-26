@@ -1,0 +1,59 @@
+1. J Antimicrob Chemother. 2015 Feb;70(2):528-33. doi: 10.1093/jac/dku413. Epub 
+2014 Oct 21.
+
+Are interstitial fluid concentrations of meropenem equivalent to plasma 
+concentrations in critically ill patients receiving continuous renal replacement 
+therapy?
+
+Varghese JM(1), Jarrett P(2), Wallis SC(1), Boots RJ(3), Kirkpatrick CM(4), 
+Lipman J(3), Roberts JA(5).
+
+Author information:
+(1)Burns, Trauma & Critical Care Research Centre, The University of Queensland, 
+Level 7, Block 6 Royal Brisbane and Women's Hospital, Brisbane, Queensland 4029, 
+Australia.
+(2)Department of Intensive Care Medicine, Royal Brisbane and Women's Hospital, 
+Level 3, Ned Hanlon Building, Brisbane, Queensland 4029, Australia.
+(3)Burns, Trauma & Critical Care Research Centre, The University of Queensland, 
+Level 7, Block 6 Royal Brisbane and Women's Hospital, Brisbane, Queensland 4029, 
+Australia Department of Intensive Care Medicine, Royal Brisbane and Women's 
+Hospital, Level 3, Ned Hanlon Building, Brisbane, Queensland 4029, Australia.
+(4)Centre for Medicine Use and Safety, Monash University, 381 Royal Parade, 
+Melbourne, Victoria 3052, Australia.
+(5)Burns, Trauma & Critical Care Research Centre, The University of Queensland, 
+Level 7, Block 6 Royal Brisbane and Women's Hospital, Brisbane, Queensland 4029, 
+Australia Department of Intensive Care Medicine, Royal Brisbane and Women's 
+Hospital, Level 3, Ned Hanlon Building, Brisbane, Queensland 4029, Australia 
+Pharmacy Department, Royal Brisbane and Women's Hospital, Level 1, Ned Hanlon 
+Building, Brisbane, Queensland 4029, Australia j.roberts2@uq.edu.au.
+
+OBJECTIVES: To describe the interstitial fluid (ISF) and plasma pharmacokinetics 
+of meropenem in patients on continuous venovenous haemodiafiltration (CVVHDF).
+PATIENTS AND METHODS: This was a prospective observational pharmacokinetic 
+study. Meropenem (500 mg) was administered every 8 h. CVVHDF was targeted as a 
+2-3 L/h exchange using a polyacrylonitrile filter with a surface area of 1.05 m2 
+and a blood flow rate of 200 mL/min. Serial blood (pre- and post-filter), 
+filtrate/dialysate and ISF concentrations were measured on 2 days of treatment 
+(Profiles A and B). Subcutaneous tissue ISF concentrations were determined using 
+microdialysis.
+RESULTS: A total of 384 samples were collected. During Profile A, the 
+comparative median (IQR) ISF and plasma peak concentrations were 13.6 
+(12.0-16.8) and 40.7 (36.6-45.6) mg/L and the trough concentrations were 2.6 
+(2.4-3.4) and 4.9 (3.5-5.0) mg/L, respectively. During Profile B, the ISF trough 
+concentrations increased by ∼40%. Meropenem ISF penetration was estimated at 63% 
+(60%-69%) and 69% (65%-74%) for Profiles A and B, respectively, using 
+comparative plasma and ISF AUCs. For Profile A, the plasma elimination t1/2 was 
+3.7 (3.3-4.0) h, the volume of distribution was 0.35 (0.25-0.46) L/kg, the total 
+clearance was 4.1 (4.1-4.8) L/h and the CVVHDF clearance was 2.9 (2.7-3.1) L/h.
+CONCLUSIONS: This is the first known report of concurrent plasma and ISF 
+concentrations of a meropenem antibiotic during CVVHDF. We observed that the ISF 
+concentrations of meropenem were significantly lower than the plasma 
+concentrations, although the present dose was appropriate for infections caused 
+by intermediately susceptible pathogens (MIC≤4 mg/L).
+
+© The Author 2014. Published by Oxford University Press on behalf of the British 
+Society for Antimicrobial Chemotherapy. All rights reserved. For Permissions, 
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/jac/dku413
+PMID: 25336163 [Indexed for MEDLINE]

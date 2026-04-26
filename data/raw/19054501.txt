@@ -1,0 +1,46 @@
+1. Biol Psychiatry. 2009 Jun 15;65(12):1079-85. doi: 
+10.1016/j.biopsych.2008.10.021. Epub 2008 Dec 3.
+
+Is motion perception deficit in schizophrenia a consequence of eye-tracking 
+abnormality?
+
+Hong LE(1), Turano KA, O'Neill HB, Hao L, Wonodi I, McMahon RP, Thaker GK.
+
+Author information:
+(1)Department of Psychiatry, Maryland Psychiatric Research Center, University of 
+Maryland School of Medicine, Baltimore, Maryland 21228, USA. 
+ehong@mprc.umaryland.edu
+
+BACKGROUND: Studies have shown that schizophrenia patients have motion 
+perception deficit, which was thought to cause eye-tracking abnormality in 
+schizophrenia. However, eye movement closely interacts with motion perception. 
+The known eye-tracking difficulties in schizophrenia patients may interact with 
+their motion perception.
+METHODS: Two speed discrimination experiments were conducted in a within-subject 
+design. In experiment 1, the stimulus duration was 150 msec to minimize the 
+chance of eye-tracking occurrence. In experiment 2, the duration was increased 
+to 300 msec, increasing the possibility of eye movement intrusion. Regular 
+eye-tracking performance was evaluated in a third experiment.
+RESULTS: At 150 msec, speed discrimination thresholds did not differ between 
+schizophrenia patients (n = 38) and control subjects (n = 33). At 300 msec, 
+patients had significantly higher thresholds than control subjects (p = .03). 
+Furthermore, frequencies of eye tracking during the 300 msec stimulus were 
+significantly correlated with speed discrimination in control subjects (p = .01) 
+but not in patients, suggesting that eye-tracking initiation may benefit control 
+subjects but not patients. The frequency of eye tracking during speed 
+discrimination was not significantly related to regular eye-tracking 
+performance.
+CONCLUSIONS: Speed discrimination, per se, is not impaired in schizophrenia 
+patients. The observed abnormality appears to be a consequence of impairment in 
+generating or integrating the feedback information from eye movements. This 
+study introduces a novel approach to motion perception studies and highlights 
+the importance of concurrently measuring eye movements to understand 
+interactions between these two systems; the results argue for a conceptual 
+revision regarding motion perception abnormality in schizophrenia.
+
+DOI: 10.1016/j.biopsych.2008.10.021
+PMCID: PMC3577057
+PMID: 19054501 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors reported no biomedical financial 
+interests or potential conflicts of interest.

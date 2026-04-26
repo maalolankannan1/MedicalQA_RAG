@@ -1,0 +1,43 @@
+1. BMJ Qual Saf. 2012 Jun;21(6):481-9. doi: 10.1136/bmjqs-2011-000439. Epub 2012 
+Apr 4.
+
+Combining process indicators to evaluate quality of care for surgical patients 
+with colorectal cancer: are scores consistent with short-term outcome?
+
+Kolfschoten NE(1), Gooiker GA, Bastiaannet E, van Leersum NJ, van de Velde CJ, 
+Eddes EH, Marang-van de Mheen PJ, Kievit J, van der Harst E, Wiggers T, Wouters 
+MW, Tollenaar RA; Dutch Surgical Colorectal Audit group.
+
+Collaborators: Bemelman WA, Busch OR, van Dam RM, Jansen-Landheer ML, Karsten 
+TM, van Krieken JH, Kuijpers WG, Lemmens VE, Manusama ER, Meijerink JH, Rutten 
+HJ.
+
+Author information:
+(1)Department of Surgery, Leiden University Medical Center, PO Box 9600, Leiden 
+2300 RC, The Netherlands.
+
+OBJECTIVE: To determine if composite measures based on process indicators are 
+consistent with short-term outcome indicators in surgical colorectal cancer 
+care.
+DESIGN: Longitudinal analysis of consistency between composite measures based on 
+process indicators and outcome indicators for 85 Dutch hospitals.
+SETTING: The Dutch Surgical Colorectal Audit database, the Netherlands.
+PARTICIPANTS: 4732 elective patients with colon carcinoma and 2239 with rectum 
+carcinoma treated in 85 hospitals were included in the analyses.
+MAIN OUTCOME MEASURES: All available process indicators were aggregated into 
+five different composite measures. The association of the different composite 
+measures with risk-adjusted postoperative mortality and morbidity was analysed 
+at the patient and hospital level.
+RESULTS: At the patient level, only one of the composite measures was negatively 
+associated with morbidity for rectum carcinoma. At the hospital level, a strong 
+negative association was found between composite measures and hospital mortality 
+and morbidity rates for rectum carcinoma (p<0.05), and hospital morbidity rates 
+for colon carcinoma.
+CONCLUSIONS: For individual patients, a high score on the composite measures 
+based on process indicators is not associated with better short-term outcome. 
+However, at the hospital level, a good score on the composite measures based on 
+process indicators was consistent with more favourable risk-adjusted short-term 
+outcome rates.
+
+DOI: 10.1136/bmjqs-2011-000439
+PMID: 22491528 [Indexed for MEDLINE]

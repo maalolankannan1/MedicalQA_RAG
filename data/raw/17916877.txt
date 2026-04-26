@@ -1,0 +1,43 @@
+1. Postgrad Med J. 2007 Oct;83(984):664-8. doi: 10.1136/pgmj.2007.057570.
+
+Intravenous administration of metoclopramide by 2 min bolus vs 15 min infusion: 
+does it affect the improvement of headache while reducing the side effects?
+
+Parlak I(1), Erdur B, Parlak M, Ergin A, Turkcuer I, Tomruk O, Ayrik C, Ergin N.
+
+Author information:
+(1)Mersin University, School of Medicine, Department of Emergency Medicine, 
+Mersin, Turkey.
+
+OBJECTIVE: To determine the therapeutic effect (alleviation of vascular type 
+headache) and side effects of a slow intravenous metoclopramide infusion over 15 
+min compared with those effects of a bolus intravenous metoclopramide infusion 
+over 2 min in the treatment of patients with recent onset vascular type 
+headache.
+MATERIAL AND METHODS: All adults treated with metoclopramide for vascular type 
+headache were eligible for entry into this clinical randomised double blinded 
+trial. This study compared the effects of two different rates of intravenous 
+infusion of metoclopramide over a period of 13 months at a university hospital 
+emergency department. During the trial, side effects and headache scores were 
+recorded at baseline (0 min), and then at 5, 15, 30 and 60 min. Repeated 
+measures analysis of variance was used to compare the medication's efficacy and 
+side effects.
+RESULTS: A total of 120 patients presenting to the emergency department met the 
+inclusion criteria. Of these, 62 patients (51.7%) were given 10 mg 
+metoclopramide as a slow intravenous infusion over 15 min (SIG group) and 58 
+patients (48.3%) were given 10 mg metoclopramide intravenous bolus infusion over 
+2 min (BIG group). 17 of the 58 patients in the BIG group (29.3%) and 4 of the 
+62 patients (6.5%) in the SIG group had akathisia (p = 0.001). There were no 
+significant differences between the BIG and SIG groups in terms of mean headache 
+scores (p = 0.34) and no adverse reactions in the study period. Metoclopramide 
+successfully relieved the headache symptom(s) of patients in both the BIG and 
+SIG groups.
+CONCLUSION: Slowing the infusion rate of metoclopramide is an effective strategy 
+for the improvement of headache and reducing the incidence of akathisia in 
+patients with vascular type headache.
+
+DOI: 10.1136/pgmj.2007.057570
+PMCID: PMC2600133
+PMID: 17916877 [Indexed for MEDLINE]
+
+Conflict of interest statement: No conflict of interest to disclose

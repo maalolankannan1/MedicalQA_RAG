@@ -1,0 +1,41 @@
+1. Contraception. 2013 Feb;87(2):182-6. doi: 10.1016/j.contraception.2012.06.015.
+ Epub 2012 Sep 11.
+
+Failed IUD insertions in community practice: an under-recognized problem?
+
+Dermish AI(1), Turok DK, Jacobson JC, Flores ME, McFadden M, Burke K.
+
+Author information:
+(1)Department of Obstetrics and Gynecology, University of Utah, Salt Lake City, 
+UT, USA. amna.dermish@hsc.utah.edu
+
+BACKGROUND: The data analysis was conducted to describe the rate of unsuccessful 
+copper T380A intrauterine device (IUD) insertions among women using the IUD for 
+emergency contraception (EC) at community family planning clinics in Utah.
+METHODS: These data were obtained from a prospective observational trial of 
+women choosing the copper T380A IUD for EC. Insertions were performed by nurse 
+practitioners at two family planning clinics in order to generalize findings to 
+the type of service setting most likely to employ this intervention. Adjuvant 
+measures to facilitate difficult IUD insertions (cervical anesthesia, dilation, 
+pain medication, and use of ultrasound guidance) were not utilized. The effect 
+of parity on IUD insertion success was determined using exact logistic 
+regression models adjusted for individual practitioner failure rates.
+RESULTS: Six providers performed 197 IUD insertion attempts. These providers had 
+a mean of 14.1 years of experience (range 1-27, S.D. ±12.5). Among nulliparous 
+women, 27 of 138 (19.6%) IUD insertions were unsuccessful. In parous women, 8 of 
+59 IUD insertions were unsuccessful (13.6%). The adjusted odds ratio (aOR) 
+showed that IUD insertion failure was more likely in nulliparous women compared 
+to parous women (aOR=2.31, 95% CI 0.90-6.52, p=.09).
+CONCLUSION: The high rate of unsuccessful IUD insertions reported here, 
+particularly for nulliparous women, suggests that the true insertion failure 
+rate of providers who are not employing additional tools for difficult 
+insertions may be much higher than reported in clinical trials. Further 
+investigation is necessary to determine if this is a common problem and, if so, 
+to assess if the use of adjuvant measures will reduce the number of unsuccessful 
+IUD insertions.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.contraception.2012.06.015
+PMCID: PMC4082821
+PMID: 22979954 [Indexed for MEDLINE]

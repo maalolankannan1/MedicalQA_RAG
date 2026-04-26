@@ -1,0 +1,40 @@
+1. Knee Surg Sports Traumatol Arthrosc. 2015 Nov;23(11):3244-50. doi: 
+10.1007/s00167-014-3157-4. Epub 2014 Jul 5.
+
+Assessing joint line positions by means of the contralateral knee: a new 
+approach for planning knee revision surgery?
+
+Maderbacher G(1), Keshmiri A(2), Zeman F(3), Grifka J(2), Baier C(2).
+
+Author information:
+(1)Department of Orthopaedic Surgery, University of Regensburg, Regensburg, 
+Germany. Guenther.Maderbacher@klinik.uni-regensburg.de.
+(2)Department of Orthopaedic Surgery, University of Regensburg, Regensburg, 
+Germany.
+(3)Center of Clinical Studies, University of Regensburg, Regensburg, Germany.
+
+PURPOSE: Reconstructing the natural joint line in knee revision surgery improves 
+clinical and functional outcome but may be challenging when both cartilage and 
+bone were removed during previous operations. Assessing joint lines (JLs) by 
+means of bony landmarks is inadvisable because of large variations in human 
+anatomy. Because of the inherent symmetry of the human body, we hypothesised 
+that JLs may be directly assessed by measuring the distances from the bony 
+landmarks to the JL of the contralateral knee by means of radiographic images.
+METHODS: Using scaled weight-bearing radiographs in anteroposterior view of both 
+knees, two independent observers measured the distances from the fibular head, 
+the medial and lateral epicondyle, and the adductor tubercle to the JL. A 
+two-sided p value of ≤0.05 was considered statistically significant.
+RESULTS: Two hundred knees of 100 patients (50 men and 50 women) were examined. 
+For the fibular head, the mean difference between the treated and the control 
+knee was 0.0 mm with narrow confidence limits ranging from -1.1 to 1.1.
+CONCLUSION: As a new assessment method, we have suggested to assess the JL by 
+means of radiographs of the contralateral knee. The most precise parameter was 
+found to be the distance between the fibular head and the JL. The level of 
+arthritis, age, gender, visibility of the landmarks, and misalignment did not 
+influence measurement accuracy. This parameter is the first tibia-related 
+landmark for assessing the JL, which advantageously corresponds to the 
+tibia-first technique in revision surgery.
+LEVEL OF EVIDENCE: Diagnostic Study, Level II.
+
+DOI: 10.1007/s00167-014-3157-4
+PMID: 24996865 [Indexed for MEDLINE]

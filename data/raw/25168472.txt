@@ -1,0 +1,39 @@
+1. Foot (Edinb). 2014 Dec;24(4):161-8. doi: 10.1016/j.foot.2014.07.003. Epub 2014
+ Jul 27.
+
+Can static foot posture measurements predict regional plantar surface area?
+
+McPoil TG(1), Haager M(2), Hilt J(2), Klapheke J(2), Martinez R(2), VanSteenwyk 
+C(2), Weber N(2), Cornwall MW(3), Bade M(2).
+
+Author information:
+(1)Regis University, School of Physical Therapy, 3333 Regis Boulevard, G-4, 
+Denver, CO 80221, United States. Electronic address: tmcpoil@regis.edu.
+(2)Regis University, School of Physical Therapy, 3333 Regis Boulevard, G-4, 
+Denver, CO 80221, United States.
+(3)Northern Arizona University, P.O. Box 15105, Flagstaff, AZ 86011, United 
+States.
+
+BACKGROUND: The intent of this study was to determine if the use of a single or 
+combination of static foot posture measurements can be used to predict rearfoot, 
+midfoot, and forefoot plantar surface area in individuals with pronated or 
+normal foot types.
+METHODS: Twelve foot measurements were collected on 52 individuals (mean age 
+25.8 years) with the change in midfoot width used to place subjects in a 
+pronated or normal foot mobility group. Dynamic plantar contact area was 
+collected during walking with a pressure sensor platform. The 12 measures were 
+entered into a stepwise regression analysis to determine the optimal set of 
+measures associated with regional plantar surface area.
+RESULTS: A two variable model was found to describe the relationship between the 
+foot measurements and forefoot plantar contact area (r(2)=0.79, p<0.0001). A 
+four variable model was found to describe the relationship between the foot 
+measurements and midfoot plantar contact area (r(2)=0.85, p<0.0001) in those 
+individuals with a 1.26cm or greater change in midfoot width.
+CONCLUSIONS: The results indicate that clinicians can use a combination of 
+simple, reliable and time efficient foot measures to explain 79% and 85% of the 
+plantar surface area in the forefoot and midfoot, respectively.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.foot.2014.07.003
+PMID: 25168472 [Indexed for MEDLINE]

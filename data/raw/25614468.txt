@@ -1,0 +1,51 @@
+1. Gastric Cancer. 2016 Jan;19(1):216-25. doi: 10.1007/s10120-015-0468-1. Epub
+2015  Jan 23.
+
+Preoperative locoregional staging of gastric cancer: is there a place for 
+magnetic resonance imaging? Prospective comparison with EUS and multidetector 
+computed tomography.
+
+Giganti F(1), Orsenigo E(2), Arcidiacono PG(3), Nicoletti R(4), Albarello L(5), 
+Ambrosi A(6), Salerno A(4), Esposito A(4), Petrone MC(3), Chiari D(2), 
+Staudacher C(2), Del Maschio A(4), De Cobelli F(4).
+
+Author information:
+(1)Department of Radiology and Centre for Experimental Imaging, San Raffaele 
+Scientific Institute, Vita-Salute San Raffaele University, Via Olgettina 60, 
+20132, Milan, Italy. giganti.fra@gmail.com.
+(2)Department of Surgery, San Raffaele Scientific Institute, Vita-Salute San 
+Raffaele University, Milan, Italy.
+(3)Department of Gastroenterology and Gastrointestinal Endoscopy, San Raffaele 
+Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy.
+(4)Department of Radiology and Centre for Experimental Imaging, San Raffaele 
+Scientific Institute, Vita-Salute San Raffaele University, Via Olgettina 60, 
+20132, Milan, Italy.
+(5)Pathology Unit, San Raffaele Scientific Institute, Milan, Italy.
+(6)Vita-Salute San Raffaele University, Milan, Italy.
+
+BACKGROUND: The aim of this study was to prospectively compare the diagnostic 
+performance of magnetic resonance imaging (MRI), multidetector computed 
+tomography (MDCT) and endoscopic ultrasonography (EUS) in the preoperative 
+locoregional staging of gastric cancer.
+METHODS: This study had Institutional Review Board approval, and informed 
+consent was obtained from all patients. Fifty-two patients with biopsy-proven 
+gastric cancer underwent preoperative 1.5-T MRI, 64-channel MDCT and EUS. All 
+images were analysed blind, and the results were compared with histopathological 
+findings according to the seventh edition of the TNM classification. After the 
+population had been divided on the basis of the local invasion (T1-3 vs T4a-b) 
+and nodal involvement (N0 vs N+), sensitivity, specificity, positive and 
+negative predictive value, and accuracy were calculated and diagnostic 
+performance measures were assessed using the McNemar test.
+RESULTS: For T staging, EUS showed higher sensitivity (94%) than MDCT and MRI 
+(65 and 76%; p = 0.02 and p = 0.08). MDCT and MRI had significantly higher 
+specificity (91 and 89%) than EUS (60%) (p = 0.0009 and p = 0.003). Adding MRI 
+to MDCT or EUS did not result in significant differences for sensitivity. For N 
+staging, EUS showed higher sensitivity (92%) than MRI and MDCT (69 and 73%; p = 
+0.01 and p = 0.02). MDCT showed better specificity (81%) than EUS and MRI (58 
+and 73%; p = 0.03 and p = 0.15).
+CONCLUSIONS: Our prospective study confirmed the leading role of EUS and MDCT in 
+the staging of gastric cancer and did not prove, at present, the value of the 
+clinical use of MRI.
+
+DOI: 10.1007/s10120-015-0468-1
+PMID: 25614468 [Indexed for MEDLINE]

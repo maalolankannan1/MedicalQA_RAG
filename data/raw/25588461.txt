@@ -1,0 +1,36 @@
+1. Restor Neurol Neurosci. 2015;33(2):159-76. doi: 10.3233/RNN-140448.
+
+Can transcranial direct current stimulation be useful in differentiating 
+unresponsive wakefulness syndrome from minimally conscious state patients?
+
+Naro A(1), Calabrò RS(1), Russo M(1), Leo A(1), Pollicino P(1), Quartarone A(2), 
+Bramanti P(1).
+
+Author information:
+(1)IRCCS Centro Neurolesi Bonino-Pulejo Messina, Italy.
+(2)Department of Neurosciences, University of Messina, Italy.
+
+PURPOSE: Disorders of consciousness (DOC) diagnosis relies on the presence or 
+absence of purposeful motor responsiveness, which characterizes the minimally 
+conscious state (MCS) and the unresponsive wakefulness syndrome (UWS), 
+respectively. Functional neuroimaging studies have raised the question of 
+possible residual conscious awareness also in clinically-defined UWS patients. 
+The aim of our study was to identify electrophysiological parameters, by means 
+of a transcranial magnetic stimulation approach, which might potentially express 
+the presence of residual networks sustaining fragmentary behavioral patterns, 
+even when no conscious behavior can be observed.
+METHODS: We enrolled 25 severe DOC patients, following post-anoxic or traumatic 
+brain injury and 20 healthy individuals (HC) as control group. Baseline 
+electrophysiological evaluation evidenced, in comparison to HC, a partial 
+preservation of cortical effective connectivity and excitability in clinically 
+defined MCS, whereas these components were absent in clinically defined UWS. 
+Then, we applied an anodal transcranial direct current stimulation (a-tDCS) 
+protocol over the orbitofrontal cortex.
+RESULT: a-tDCS was able to boost cortical connectivity and excitability in all 
+HC, MCS, and to unmask such excitability/connectivity in some UWS patients.
+CONCLUSION: a-tDCS could be useful in identifying residual connectivity markers 
+in clinically-defined UWS, who may lack of purposeful behavior as a result of a 
+motor-output failure.
+
+DOI: 10.3233/RNN-140448
+PMID: 25588461 [Indexed for MEDLINE]

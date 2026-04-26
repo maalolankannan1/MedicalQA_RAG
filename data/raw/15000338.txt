@@ -1,0 +1,33 @@
+1. Can Fam Physician. 2004 Feb;50:263-70.
+
+Do family physicians know the costs of medical care? Survey in British Columbia.
+
+Allan GM(1), Innes GD.
+
+Author information:
+(1)Department of Family Medicine, University of Alberta, Edmonton. 
+M&B_Allan@telus.net
+
+OBJECTIVE: To determine the cost of 46 commonly used investigations and 
+therapies and to assess British Columbia family doctors' awareness of these 
+costs.
+DESIGN: Mailed survey asking about costs of 23 investigations and 23 therapies 
+relevant to family practice. A random sample of 600 doctors was asked to report 
+their awareness of costs and to estimate costs of the 46 items.
+SETTING: British Columbia.
+PARTICIPANTS: Six hundred family physicians.
+MAIN OUTCOME MEASURES: Estimates within 25% of actual cost were considered 
+correct. Associations between cost awareness and respondents'characteristics 
+(eg, sex, practice location) were sought. Degree of error in estimates was also 
+assessed.
+RESULTS: Overall, 283 (47.2%) surveys were returned and 259 analyzed. Few 
+respondents estimated costs within 25% of true cost, and estimates were highly 
+variable. Physicians underestimated costs of expensive drugs and laboratory 
+investigations and overestimated costs of inexpensive drugs. Cost awareness did 
+not correlate with sex, practice location, College certification, faculty 
+appointment, or years in practice.
+CONCLUSION: Family doctors in British Columbia have little awareness of the 
+costs of medical care.
+
+PMCID: PMC2214543
+PMID: 15000338 [Indexed for MEDLINE]

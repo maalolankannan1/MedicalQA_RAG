@@ -1,0 +1,40 @@
+1. Urology. 2013 Apr;81(4):844-8. doi: 10.1016/j.urology.2013.01.006. Epub 2013
+Feb  26.
+
+Does prostate morphology affect outcomes after holmium laser enucleation?
+
+Wisenbaugh ES(1), Nunez-Nateras R, Mmeje CO, Warner JN, Humphreys MR.
+
+Author information:
+(1)Mayo Clinic Arizona, Phoenix, AZ 85054, USA. eric.wisenbaugh@gmail.com
+
+OBJECTIVE: To determine whether prostate morphology or technique used has any 
+effect on postoperative outcomes after holmium laser enucleation of the 
+prostate.
+MATERIALS AND METHODS: A retrospective review of prospectively collected data 
+was completed for all patients undergoing a holmium laser enucleation of the 
+prostate at our institution. Prostate morphology was classified as either 
+"bilobar" or "trilobar" according to the cystoscopic appearance. The baseline 
+characteristics, complications, and postoperative outcomes were collected.
+RESULTS: A total of 304 patients with either "bilobar" (n = 142) or "trilobar" 
+(n = 162) prostate morphology were included. The trilobar group was more likely 
+to have longer operative times (112 vs 100 minutes, P = .04), although this 
+difference was not significant on multivariate analysis. The postoperative 
+outcomes were similar between the 2 groups for American Urological Association 
+symptom score, change in American Urological Association symptom score, bother 
+score, maximal flow rate, change in maximal flow rate, postvoid residual urine 
+volume, and complication rate. However, the trilobar group had a significantly 
+greater decrease in their PVR urine volume (296 vs 176 mL, P = .01), a 
+difference that persisted on multivariate analysis. A subset analysis of the 
+trilobar prostates revealed that performing a 2-lobe technique achieved shorter 
+operative and enucleation times, although the difference was not significant.
+CONCLUSION: Those patients with trilobar prostate morphology are more likely to 
+achieve a greater decrease in the PVR urine volume after holmium laser 
+enucleation of the prostate. All other outcomes appeared to be similar between 
+the 2 groups. In addition, a 2-lobe technique can be safely used for trilobar 
+prostates when deemed feasible by the surgeon.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.urology.2013.01.006
+PMID: 23453079 [Indexed for MEDLINE]

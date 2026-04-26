@@ -1,0 +1,37 @@
+1. J Pediatr (Rio J). 2009 Jan-Feb;85(1):48-54. doi: 10.2223/JPED.1870.
+
+Is being small for gestational age a risk factor for retinopathy of prematurity? 
+A study with 345 very low birth weight preterm infants.
+
+[Article in English, Portuguese]
+
+Fortes Filho JB(1), Valiatti FB, Eckert GU, Costa MC, Silveira RC, Procianoy RS.
+
+Author information:
+(1)Faculdade de Medicina, Universidade Federal do Rio Grande do Sul (UFRGS), 
+Porto Alegre, RS, Brazil. jbfortes@prorop.com.br
+
+OBJECTIVE: To analyze prevalence and risk factors for retinopathy of prematurity 
+(ROP) among preterm infants born small for gestational age (SGA) and appropriate 
+for gestational age (AGA).
+METHODS: A prospective cohort study included preterm infants with birth weight 
+(BW) < or = 1,500 grams and gestational age (GA) < or = 32 weeks, divided into 
+two groups: AGA or SGA. Prevalences and risk factors for ROP were determined in 
+both groups. Logistic regression was used for the significant variables after 
+univariate analysis.
+RESULTS: A total of 345 patients were examined: 199 included in the AGA group 
+and 146 in the SGA. Mean BW and GA in the whole cohort (345 patients) were 
+1,128.12 grams (+/-239.9) and 29.7 weeks (+/-1.9), respectively. The prevalence 
+of any stage ROP and severe ROP (needing treatment) was 29.6 and 7.0%, 
+respectively. ROP in any evolutive stage developed in 66 AGA (33.2%) and in 36 
+SGA (24.7%) (p = 0.111). Severe ROP occurred in 15 AGA (7.5%) and in nine SGA 
+(6.2%) (p = 0.779). After adjusted logistic regression, weight gain from birth 
+to sixth week of life and need for blood transfusions were found to be 
+significant risk factors for ROP in both groups.
+CONCLUSIONS: This study has shown that being SGA was not a significant risk 
+factor for any stage ROP or for severe ROP in this cohort and, also, that the 
+risk factors for ROP were similar among SGA and AGA very-low-birth-weight 
+preterm babies.
+
+DOI: 10.2223/JPED.1870
+PMID: 19198736 [Indexed for MEDLINE]

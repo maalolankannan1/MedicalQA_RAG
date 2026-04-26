@@ -1,0 +1,39 @@
+1. Med Care. 1997 May;35(5):454-71. doi: 10.1097/00005650-199705000-00004.
+
+Does fluoridation reduce the use of dental services among adults?
+
+Grembowski D(1), Fiset L, Milgrom P, Conrad D, Spadafora A.
+
+Author information:
+(1)Department of Dental Public Health Sciences, School of Dentistry, University 
+of Washington, Seattle 98195, USA.
+
+OBJECTIVES: The authors determine whether prevention influences the use of 
+health services. Fluoridation's effect on restorative dental demand among 972 
+Washington state employees and spouses, aged 20 to 34 years, in two fluoridated 
+communities and a nonfluoridated community was examined.
+METHODS: At baseline, adults were interviewed by telephone, and oral assessments 
+were conducted to measure personal characteristics, lifetime exposure to 
+fluoridated water, oral disease, and the quality of restorations. Adults were 
+followed for 2 years to measure dental demand from dental claims. Each adult's 
+baseline and claims data were linked with provider and practice variables 
+collected from the dentist who provided treatment.
+RESULTS: Relative to adults with no lifetime exposure to fluoridated water, 
+adults drinking fluoridated water for half or more of their lives had less 
+disease at baseline and a lower but nonsignificant probability of receiving a 
+restoration in the follow-up period. In the 2-year follow-up period, however, 
+more than half of the restorations were performed to replace fillings of 
+satisfactory or ideal quality at baseline. When only teeth with decay and 
+unsatisfactory fillings at baseline were considered, adults with high 
+fluoridation exposure had a lower probability of receiving a restoration than 
+adults with no exposure. Market effects also were detected in demand equations; 
+relative to adults in the nonfluoridated community, adults residing in the 
+fluoridated community with a large dentist supply received a greater number of 
+restorations, suggesting potential supplier-induced demand from less disease and 
+fewer patients.
+CONCLUSIONS: Among adults aged 20 to 34 years with private dental insurance, 
+fluoridation reduces oral disease but may or may not reduce use of restorative 
+services, depending on dentists' clinical decisions.
+
+DOI: 10.1097/00005650-199705000-00004
+PMID: 9140335 [Indexed for MEDLINE]

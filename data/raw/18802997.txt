@@ -1,0 +1,37 @@
+1. Am J Gastroenterol. 2008 Aug;103(8):2007-14. doi: 
+10.1111/j.1572-0241.2008.01870.x.
+
+Can calprotectin predict relapse risk in inflammatory bowel disease?
+
+D'Incà R(1), Dal Pont E, Di Leo V, Benazzato L, Martinato M, Lamboglia F, Oliva 
+L, Sturniolo GC.
+
+Author information:
+(1)Department of Surgical and Gastroenterological Sciences, University of Padua, 
+Padua, Italy.
+
+OBJECTIVE: Assessing the clinical course of inflammatory bowel disease (IBD) 
+patients consists of periodical clinical evaluations and laboratory tests. We 
+aimed to assess the role of calprotectin tests in predicting clinical relapse in 
+IBD patients.
+METHODS: Ninety-seven patients with ulcerative colitis (UC) and 65 with Crohn's 
+disease (CD) in clinical remission were prospectively included in the study. A 
+10-g stool sample was collected for calprotectin assay. The cutoff level was set 
+at 130 mg/kg of feces. Patients were followed up for 1 yr after the test or 
+until relapse. The cumulative proportion of relapses was estimated by the 
+Kaplan-Meier analysis. Statistics for equality of survival distribution were 
+tested using the log-rank test.
+RESULTS: The calprotectin test was positive in 44 UC patients and 26 of them 
+relapsed within a year, while 11 of 53 UC patients with a negative calprotectin 
+test relapsed within the same time frame. Thirty CD patients had a positive 
+calprotectin test and 13 of them relapsed within a year, as did 7 of the 35 with 
+a negative test result. A significant correlation emerged between a positive 
+calprotectin test and the probability of relapse in UC patients (P= 0.000). In 
+CD patients, only cases of colonic CD showed a significant correlation between a 
+positive calprotectin test and the probability of relapse, i.e., 6 colonic CD 
+patients were positive for the calprotectin test and 4 relapsed (P= 0.02).
+CONCLUSIONS: Measuring calprotectin may help to identify UC and colonic CD 
+patients at higher risk of clinical relapse.
+
+DOI: 10.1111/j.1572-0241.2008.01870.x
+PMID: 18802997 [Indexed for MEDLINE]

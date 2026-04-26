@@ -1,0 +1,58 @@
+1. J Crit Care. 2016 Aug;34:95-102. doi: 10.1016/j.jcrc.2016.04.005. Epub 2016
+Apr  9.
+
+Is inhaled prophylactic heparin useful for prevention and Management of 
+Pneumonia in ventilated ICU patients?: The IPHIVAP investigators of the 
+Australian and New Zealand Intensive Care Society Clinical Trials Group.
+
+Bandeshe H(1), Boots R(2), Dulhunty J(1), Dunlop R(1), Holley A(1), Jarrett 
+P(1), Gomersall CD(3), Lipman J(1), Lo T(3), O'Donoghue S(1), Paratz J(4), 
+Paterson D(1), Roberts JA(1), Starr T(1), Stephens D(5), Stuart J(1), Thomas 
+J(5), Udy A(6), White H(7).
+
+Author information:
+(1)Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+University of Queensland, QLD, Australia.
+(2)Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+University of Queensland, QLD, Australia. Electronic address: r.boots@uq.edu.au.
+(3)Prince of Wales Hospital, Chinese University of Hong Kong, Sha Tin, Hong 
+Kong.
+(4)Department of Intensive Care Medicine, Royal Brisbane & Women's Hospital, 
+Brisbane, QLD, Australia; Burns Trauma and Critical Care Research Centre, 
+University of Queensland, QLD, Australia; Heart Foundation Research Centre, 
+Griffith University.
+(5)Intensive Care Unit. Royal Darwin Hospital, NT, Australia.
+(6)Department of Intensive Care and Hyperbaric Medicine, The Alfred, Prahran, 
+Victoria, Australia.
+(7)Intensive Care Unit. Logan Hospital, Queensland, Australia.
+
+PURPOSE: To determine whether prophylactic inhaled heparin is effective for the 
+prevention and treatment of pneumonia patients receiving mechanical ventilation 
+(MV) in the intensive care unit.
+METHODS: A phase 2, double blind randomized controlled trial stratified for 
+study center and patient type (non-operative, post-operative) was conducted in 
+three university-affiliated intensive care units. Patients aged ≥18years and 
+requiring invasive MV for more than 48hours were randomized to usual care, 
+nebulization of unfractionated sodium heparin (5000 units in 2mL) or placebo 
+nebulization with 0.9% sodium chloride (2mL) four times daily with the main 
+outcome measures of the development of ventilator associated pneumonia (VAP), 
+ventilator associated complication (VAC) and sequential organ failure assessment 
+scores in patients with pneumonia on admission or who developed VAP.
+TRIAL REGISTRATION: Australian and New Zealand Clinical Trials Registry 
+ACTRN12612000038897.
+RESULTS: Two hundred and fourteen patients were enrolled (72 usual care, 71 
+inhaled sodium heparin, 71 inhaled sodium chloride). There were no differences 
+between treatment groups in terms of the development of VAP, using either 
+Klompas criteria (6-7%, P=1.00) or clinical diagnosis (24-26%, P=0.85). There 
+was no difference in the clinical consistency (P=0.70), number (P=0.28) or the 
+total volume of secretions per day (P=.54). The presence of blood in secretions 
+was significantly less in the usual care group (P=0.005).
+CONCLUSION: Nebulized heparin cannot be recommended for prophylaxis against VAP 
+or to hasten recovery from pneumonia in patients receiving MV.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jcrc.2016.04.005
+PMID: 27288618 [Indexed for MEDLINE]

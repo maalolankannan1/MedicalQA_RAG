@@ -1,0 +1,38 @@
+1. Ultrasound Obstet Gynecol. 2004 Apr;23(4):393-7. doi: 10.1002/uog.1001.
+
+Three-dimensional ultrasound-validated large-core needle biopsy: is it a 
+reliable method for the histological assessment of breast lesions?
+
+Delle Chiaie L(1), Terinde R.
+
+Author information:
+(1)Centre for Ultrasound and Prenatal Diagnosis, Department of Obstetrics and 
+Gynecology, University of Ulm, Ulm, Germany. loredana.delle-chiaie@web.de
+
+OBJECTIVE: The use of three-dimensional (3D) ultrasound may help to determine 
+the exact position of the needle during breast biopsy, thereby reducing the 
+number of core samples that are needed to achieve a reliable histological 
+diagnosis. The aim of this study was to demonstrate the efficacy of 3D 
+ultrasound-validated large-core needle biopsy (LCNB) of the breast.
+METHODS: A total of 360 core needle biopsies was obtained from 169 breast 
+lesions in 146 patients. Additional open breast biopsy was performed in 111 
+women (127/169 breast lesions); the remaining 42 lesions were followed up for at 
+least 24 months. 3D ultrasound visualization of the needle in the postfiring 
+position was used to classify the biopsy as central, marginal or outside the 
+lesion. Based on this classification it was decided whether another sample had 
+to be obtained.
+RESULTS: A median of two core samples per lesion provided for all the lesions a 
+sensitivity for malignancy of 96.9%, specificity of 100%, false-positive rate of 
+0% and false-negative rate of 3.1%, and for the excised lesions a sensitivity of 
+96.5%, specificity of 100%, false-positive rate of 0%, false-negative rate of 
+3.5% and an underestimation rate of 3.4%.
+CONCLUSIONS: 3D ultrasound validation of the postfiring needle position is an 
+efficient adjunct to ultrasound-guided LCNB. The advantages of 3D ultrasound 
+validation are likely to include a reduction in the number of core samples 
+needed to achieve a reliable histological diagnosis (and a possible reduction in 
+the risk of tumor cell displacement), reduced procedure time and lower costs.
+
+Copyright 2004 ISUOG.
+
+DOI: 10.1002/uog.1001
+PMID: 15065192 [Indexed for MEDLINE]

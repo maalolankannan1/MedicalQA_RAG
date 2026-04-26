@@ -1,0 +1,44 @@
+1. Disabil Health J. 2016 Apr;9(2):197-200. doi: 10.1016/j.dhjo.2015.10.008. Epub
+ 2015 Dec 1.
+
+After CLASS--Is a voluntary public insurance program a realistic way to meet the 
+long-term support and service needs of adults with disabilities?
+
+Kennedy J(1), Gimm G(2), Glazier R(3).
+
+Author information:
+(1)Department of Health Policy and Administration, Washington State University, 
+412 East Spokane Falls Blvd., Spokane, WA 99202, USA. Electronic address: 
+jjkennedy@wsu.edu.
+(2)Department of Health Administration and Policy, George Mason University, USA.
+(3)disAbility Research Associates, LLC, USA.
+
+BACKGROUND: The CLASS Act, which was part of the Affordable Care Act of 2010, 
+established a voluntary personal assistance services (PAS) insurance program. 
+However, concerns about enrollment and adverse selection led to repeal of the 
+CLASS Act in 2013.
+OBJECTIVES: To estimate the number of middle-aged adults interested in 
+purchasing PAS insurance, the sociodemographic, socioeconomic and disability 
+attributes of this population, and the maximum monthly premium they would be 
+willing to pay for such coverage.
+METHODS: A total of 13,384 adults aged 40-65 answered questions about their 
+interest in PAS insurance in the 2011 Sample Adult National Health Interview 
+Survey. We applied survey weights for the U.S. population and conducted logistic 
+regression analyses to identify personal factors associated with interest in 
+paying for the CLASS program.
+RESULTS: An estimated 25.8 million adults aged 40-65 (26.7%) said they would be 
+interested in paying for a public insurance program to cover PAS benefits. 
+However, interest in PAS insurance varied by age, race, ethnicity, region, 
+income, disability status, and family experience with ADL assistance. Only 1.6 
+million adults aged 40-65 (1.8%) said they would be willing to pay $100 per 
+month or more for coverage.
+CONCLUSIONS: While more than a quarter of the middle-aged adult population said 
+they were interested in PAS insurance, actual participation would be highly 
+dependent on premium rates. The current lack of publicly subsidized insurance 
+for long-term care and personal assistance services remains a serious gap in the 
+disability service system.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.dhjo.2015.10.008
+PMID: 26717802 [Indexed for MEDLINE]

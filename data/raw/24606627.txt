@@ -1,0 +1,43 @@
+1. Med Educ. 2014 Apr;48(4):441-50. doi: 10.1111/medu.12326.
+
+The objective structured clinical examination: can physician-examiners 
+participate from a distance?
+
+Chan J(1), Humphrey-Murto S, Pugh DM, Su C, Wood T.
+
+Author information:
+(1)Department of Medicine, University of Ottawa, Ottawa, Ontario, Canada.
+
+OBJECTIVES: Currently, a 'pedagogical gap' exists in distributed medical 
+education in that distance educators teach medical students but typically do not 
+have the opportunity to assess them in large-scale examinations such as the 
+objective structured clinical examination (OSCE). We developed a remote examiner 
+OSCE (reOSCE) that was integrated into a traditional OSCE to establish whether 
+remote examination technology may be used to bridge this gap. The purpose of 
+this study was to explore whether remote physician-examiners can replace on-site 
+physician-examiners in an OSCE, and to determine the feasibility of this new 
+examination method.
+METHODS: Forty Year 3 medical students were randomised into six reOSCE stations 
+that were incorporated into two tracks of a 10-station traditional OSCE. For the 
+reOSCE stations, student performance was assessed by both a local examiner (LE) 
+in the room and a remote examiner (RE) who viewed the OSCE encounters from a 
+distance. The primary endpoint was the correlation of scores between LEs and REs 
+across all reOSCE stations. The secondary endpoint was a post-OSCE survey of 
+both REs and students.
+RESULTS: Statistically significant correlations were found between LE and RE 
+checklist scores for history taking (r = 0.64-r = 0.80), physical examination (r 
+= 0.41-r = 0.54), and management stations (r = 0.78). Correlations between LE 
+and RE global ratings were more varied (r = 0.21-r = 0.77). Correlations on 
+three of the six stations reached significance. Qualitative analysis of feedback 
+from REs and students showed high acceptance of the reOSCE despite technological 
+issues.
+CONCLUSIONS: This preliminary study demonstrated that OSCE ratings by LEs and 
+REs were reasonably comparable when using checklists. Remote examination may be 
+a feasible and acceptable way of assessing students' clinical skills, but 
+further validity evidence will be required before it can be recommended for use 
+in high-stakes examinations.
+
+© 2014 John Wiley & Sons Ltd.
+
+DOI: 10.1111/medu.12326
+PMID: 24606627 [Indexed for MEDLINE]

@@ -1,0 +1,77 @@
+1. JACC Cardiovasc Interv. 2016 Mar 14;9(5):426-36. doi: 
+10.1016/j.jcin.2015.11.015.
+
+Is Bare-Metal Stent Implantation Still Justifiable in High Bleeding Risk 
+Patients Undergoing Percutaneous Coronary Intervention?: A Pre-Specified 
+Analysis From the ZEUS Trial.
+
+Ariotti S(1), Adamo M(2), Costa F(2), Patialiakas A(3), Briguori C(4), Thury 
+A(5), Colangelo S(6), Campo G(7), Tebaldi M(7), Ungi I(5), Tondi S(8), Roffi 
+M(9), Menozzi A(10), de Cesare N(11), Garbo R(6), Meliga E(12), Testa L(13), 
+Gabriel HM(14), Ferlini M(15), Vranckx P(16), Valgimigli M(17); ZEUS 
+Investigators.
+
+Author information:
+(1)Swiss Cardiovascular Center Bern, Inselspital, Bern University Hospital, 
+Switzerland; Thoraxcenter, Erasmus MC, Rotterdam, the Netherlands.
+(2)Thoraxcenter, Erasmus MC, Rotterdam, the Netherlands.
+(3)Cardiology Department, Crete Naval Hospital, Crete, Greece.
+(4)Clinica Mediterranea, Napoli, Italy.
+(5)Cardiology Center, Szeged, Hungary.
+(6)Interventional Cardiology, San Giovanni Bosco Hospital, Torino, Italy.
+(7)Cardiovascular Institute, Azienda Ospedaliero-Universitaria di Ferrara, Cona, 
+Ferrara, Italy.
+(8)Azienda Unità Sanitaria Locale di Modena-Ospedale Baggiovara, Italy.
+(9)Division of Cardiology, University Hospital, Geneva, Switzerland.
+(10)Interventional Cardiology Unit, Azienda Ospedaliero-Universitaria di Parma, 
+Italy.
+(11)Policlinico S. Marco, Zingonia (Bergamo), Italy.
+(12)Azienda Ospedaliera Ordine Mauriziano, Torino, Italy.
+(13)Interventional Cardiology, Ist. Clinico S. Ambrogio, IRCCS San Donato, 
+Milan, Italy.
+(14)Hospital de Santa Cruz, Carnaxide, Lisbon, Portugal.
+(15)Fondazione IRCCS Policlinico San Matteo, Pavia, Italy.
+(16)Virga Jesse Ziekenhuis, Hasselt, Belgium.
+(17)Swiss Cardiovascular Center Bern, Inselspital, Bern University Hospital, 
+Switzerland; Thoraxcenter, Erasmus MC, Rotterdam, the Netherlands. Electronic 
+address: marco.valgimigli@insel.ch.
+
+Comment in
+    JACC Cardiovasc Interv. 2016 Mar 14;9(5):437-9. doi: 
+10.1016/j.jcin.2015.12.277.
+
+OBJECTIVES: This study sought to investigate the ischemic and bleeding outcomes 
+of patients fulfilling high bleeding risk (HBR) criteria who were randomized to 
+zotarolimus-eluting Endeavor Sprint stent (E-ZES) or bare-metal stent (BMS) 
+implantation followed by an abbreviated dual antiplatelet therapy (DAPT) 
+duration for stable or unstable coronary artery disease.
+BACKGROUND: DES instead of BMS use remains controversial in HBR patients, in 
+whom long-term DAPT poses safety concerns.
+METHODS: The ZEUS (Zotarolimus-Eluting Endeavor Sprint Stent in Uncertain DES 
+Candidates) is a multinational, randomized single-blinded trial that randomized 
+among others, in a stratified manner, 828 patients fulfilling pre-defined 
+clinical or biochemical HBR criteria-including advanced age, indication to oral 
+anticoagulants or other pro-hemorrhagic medications, history of bleeding and 
+known anemia-to receive E-ZES or BMS followed by a protocol-mandated 30-day DAPT 
+regimen. The primary endpoint of the study was the 12-month major adverse 
+cardiovascular event rate, consisting of death, myocardial infarction, or target 
+vessel revascularization.
+RESULTS: Compared with patients without, those with 1 or more HBR criteria had 
+worse outcomes, owing to higher ischemic and bleeding risks. Among HBR patients, 
+major adverse cardiovascular events occurred in 22.6% of the E-ZES and 29% of 
+the BMS patients (hazard ratio: 0.75; 95% confidence interval: 0.57 to 0.98; p = 
+0.033), driven by lower myocardial infarction (3.5% vs. 10.4%; p < 0.001) and 
+target vessel revascularization (5.9% vs. 11.4%; p = 0.005) rates in the E-ZES 
+arm. The composite of definite or probable stent thrombosis was significantly 
+reduced in E-ZES recipients, whereas bleeding events did not differ between 
+stent groups.
+CONCLUSIONS: Among HBR patients with stable or unstable coronary artery disease, 
+E-ZES implantation provides superior efficacy and safety as compared with 
+conventional BMS. (Zotarolimus-Eluting Endeavor Sprint Stent in Uncertain DES 
+Candidates [ZEUS]; NCT01385319).
+
+Copyright © 2016 American College of Cardiology Foundation. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jcin.2015.11.015
+PMID: 26965932 [Indexed for MEDLINE]

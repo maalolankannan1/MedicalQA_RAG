@@ -1,0 +1,34 @@
+1. Am J Geriatr Psychiatry. 2008 Apr;16(4):293-9. doi: 
+10.1097/JGP.0b013e3181629943.
+
+Are wandering and physically nonaggressive agitation equivalent?
+
+Algase DL(1), Antonakos C, Yao L, Beattie ER, Hong GR, Beel-Bates CA.
+
+Author information:
+(1)University of Michigan School of Nursing, Ann Arbor, MI 48109-0482, USA. 
+dalgase@umich.edu
+
+OBJECTIVE: The authors examined equivalence of wandering and physically 
+nonaggressive agitation (PNA) as concepts.
+DESIGN: A cross-sectional correlational design was used.
+SETTING: Participants were recruited from 22 nursing homes and 6 assisted living 
+facilities in two states.
+PARTICIPANTS: Ambulatory residents meeting DSM-IV criteria for dementia (N = 
+181) were studied.
+MEASUREMENTS: Video-tapes for up to twelve 20-minute observations per 
+participant were coded for wandering using an empirically derived taxonomy of 
+ambulation patterns. Separate raters coded the same tapes for six PNA behaviors 
+on the agitation behavior mapping instrument.
+RESULTS: Most participants (73.5%) wandered; all showed PNA behaviors. Factor 
+analyses yielded an one-factor solution for wandering (explained variance = 
+43.66%) and a two-factor solution for PNA (explained variance = 53.45%). Overall 
+wandering correlated significantly with PNA Factor 1 (df =179, r = 0.68, p 
+<0.001) and Factor 2, but at a lower value (df = 179, r = 0.26, p <0.01).
+CONCLUSION: Findings depict wandering and PNA as overlapping, but nonequivalent 
+phenomena. Evidence supporting construct validity of wandering was more robust 
+than that for PNA. Results have implications for accuracy in scientific and 
+clinical detection and labeling of wandering and agitation.
+
+DOI: 10.1097/JGP.0b013e3181629943
+PMID: 18378554 [Indexed for MEDLINE]

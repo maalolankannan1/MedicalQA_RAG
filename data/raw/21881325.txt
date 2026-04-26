@@ -1,0 +1,36 @@
+1. Ann Thorac Cardiovasc Surg. 2011;17(4):376-82. doi: 10.5761/atcs.oa.10.01588.
+
+Do preoperative statins reduce atrial fibrillation after coronary artery bypass 
+grafting?
+
+Sakamoto H(1), Watanabe Y, Satou M.
+
+Author information:
+(1)Department of Cardiovascular Surgery, Hitachi General Hospital, Hitachi, 
+Ibaraki, Japan. sakamotoh@md.tsukuba.ac.jp
+
+OBJECTIVE: Recent studies have demonstrated that statins have pleiotropic 
+effects, including anti-inflammatory effects and atrial fibrillation (AF) 
+preventive effects. The objective of this study was to assess the efficacy of 
+preoperative statin therapy in preventing AF after coronary artery bypass 
+grafting (CABG).
+METHODS: 221 patients underwent CABG in our hospital from 2004 to 2007. 14 
+patients with preoperative AF and 4 patients with concomitant valve surgery were 
+excluded from this study. Patients were divided into two groups to examine the 
+influence of statins: those with preoperative statin therapy (Statin group, n = 
+77) and those without it (Non-statin group, n = 126). In addition, patients were 
+divided into two groups to determine the independent predictors for 
+postoperative AF: those with postoperative AF (AF group, n = 54) and those 
+without it (Non-AF group, n = 149). Patient data were collected and analyzed 
+retrospectively.
+RESULTS: The overall incidence of postoperative AF was 26%. Postoperative AF was 
+significantly lower in the Statin group compared with the Non-statin group (16% 
+versus 33%, p = 0.005). Multivariate analysis demonstrated that independent 
+predictors of AF development after CABG were preoperative statin therapy (odds 
+ratio [OR] 0.327, 95% confidence interval [CI] 0.107 to 0.998, p = 0.05) and age 
+(OR 1.058, 95% CI 1.004 to 1.116, p = 0.035).
+CONCLUSION: Our study indicated that preoperative statin therapy seems to reduce 
+AF development after CABG.
+
+DOI: 10.5761/atcs.oa.10.01588
+PMID: 21881325 [Indexed for MEDLINE]

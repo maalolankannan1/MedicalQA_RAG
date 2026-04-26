@@ -1,0 +1,44 @@
+1. J Refract Surg. 2008 Jan;24(1):S90-6. doi: 10.3928/1081597X-20080101-16.
+
+Biomechanical and wound healing characteristics of corneas after excimer laser 
+keratorefractive surgery: is there a difference between advanced surface 
+ablation and sub-Bowman's keratomileusis?
+
+Dawson DG(1), Grossniklaus HE, McCarey BE, Edelhauser HF.
+
+Author information:
+(1)Department of Ophthalmology, Emory University, Atlanta, GA, USA.
+
+PURPOSE: To describe the biomechanical and wound healing characteristics of 
+corneas after excimer laser keratorefractive surgery.
+METHODS: Histologic, ultrastructural, and cohesive tensile strength evaluations 
+were performed on 25 normal human corneal specimens, 206 uncomplicated LASIK 
+specimens, 17 uncomplicated sub-Bowman's keratomileusis (SBK) specimens, 4 
+uncomplicated photorefractive keratectomy (PRK) specimens, 2 uncomplicated 
+advanced surface ablation (ASA) specimens, 5 keratoconus specimens, 12 
+postoperative LASIK ectasia specimens, and 1 postoperative PRK ectasia specimen 
+and compared to previously published studies.
+RESULTS: Histologic and ultrastructural studies of normal corneas showed 
+significant differences in the direction of collagen fibrils and/or the degree 
+of lamellar interweaving in Bowman's layer, the anterior third of the corneal 
+stroma, the posterior two-thirds of the corneal stroma, and Descemet's membrane. 
+Cohesive tensile strength testing directly supported these morphologic findings 
+as the stronger, more rigid regions of the cornea were located anteriorly and 
+peripherally. This suggests that PRK and ASA, and secondarily SBK, should be 
+biomechanically safer than conventional LASIK with regard to risk for causing 
+keratectasia after surgery. Because adult human corneal stromal wounds heal 
+slowly and incompletely, all excimer laser keratorefractive surgical techniques 
+still have some distinct disadvantages due to inadequate reparative wound 
+healing. Despite reducing some of the risk for corneal haze compared to 
+conventional PRK, ASA cases still can develop corneal haze or breakthrough haze 
+from the hypercellular fibrotic stromal scarring. In contrast, similar to 
+conventional LASIK, SBK still has the short- and long-term potential for 
+interface wound complications from the hypocellular primitive stromal scar.
+CONCLUSIONS: Ophthalmic pathology and basic science research show that SBK and 
+ASA are improvements in excimer laser keratorefractive surgery compared to 
+conventional LASIK or PRK, particularly with regard to maintaining corneal 
+biomechanics and perhaps moderately reducing the risk of corneal haze. However, 
+most of the disadvantages caused by wound healing issues remain.
+
+DOI: 10.3928/1081597X-20080101-16
+PMID: 18269157 [Indexed for MEDLINE]

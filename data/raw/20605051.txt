@@ -1,0 +1,38 @@
+1. Health Policy. 2010 Nov;98(1):74-80. doi: 10.1016/j.healthpol.2010.06.005.
+
+Does case-mix based reimbursement stimulate the development of process-oriented 
+care delivery?
+
+Vos L(1), Dückers ML, Wagner C, van Merode GG.
+
+Author information:
+(1)NIVEL, Netherlands Institute for Health Services Research, P.O. Box 1568, 
+3500 BN Utrecht, The Netherlands. l.vos@lumc.nl
+
+OBJECTIVES: Reimbursement based on the total care of a patient during an acute 
+episode of illness is believed to stimulate management and clinicians to reduce 
+quality problems like waiting times and poor coordination of care delivery. 
+Although many studies already show that this kind of case-mix based 
+reimbursement leads to more efficiency, it remains unclear whether care 
+coordination improved as well. This study aims to explore whether case-mix based 
+reimbursement stimulates development of care coordination by the use of care 
+programmes, and a process-oriented way of working.
+METHODS: Data for this study were gathered during the winter of 2007/2008 in a 
+survey involving all Dutch hospitals. Descriptive and structural equation 
+modelling (SEM) analyses were conducted.
+RESULTS: SEM reveals that adoption of the case-mix reimbursement within 
+hospitals' budgeting processes stimulates hospitals to establish care programmes 
+by the use of process-oriented performance measures. However, the implementation 
+of care programmes is not (yet) accompanied by a change in focus from function 
+(the delivery of independent care activities) to process (the delivery of care 
+activities as being connected to a chain of interdependent care activities).
+CONCLUSION: This study demonstrates that hospital management can stimulate the 
+development of care programmes by the adoption of case-mix reimbursement within 
+hospitals' budgeting processes. Future research is recommended to confirm this 
+finding and to determine whether the establishment of care programmes will in 
+time indeed lead to a more process-oriented view of professionals.
+
+Copyright © 2010 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.healthpol.2010.06.005
+PMID: 20605051 [Indexed for MEDLINE]

@@ -1,0 +1,31 @@
+1. Cancer Radiother. 2008 Mar;12(2):73-7. doi: 10.1016/j.canrad.2007.12.004. Epub
+ 2008 Feb 20.
+
+[Should chest wall irradiation be included after mastectomy and negative node 
+breast cancer?].
+
+[Article in French]
+
+Ben Ammar CN(1), Kochbati L, Chraeit N, Amrouche A, Gargouri W, Frikha H, Besbes 
+M, Abdallah MB, Maalej M.
+
+Author information:
+(1)Service de radiothérapie-oncologie, institut Salah-Azaiz, boulevard du 9 
+avril, 1006 Bab-Saadoun, Tunis, Tunisie. chiraz_ammar@yahoo.com
+
+PURPOSE: This study aims to evaluate local failure patterns in node negative 
+breast cancer patients treated with post-mastectomy radiotherapy including 
+internal mammary chain only.
+PATIENTS AND METHODS: Retrospective analysis of 92 internal or central-breast 
+node-negative tumours with mastectomy and external irradiation of the internal 
+mammary chain at the dose of 50 Gy, from 1994 to 1998.
+RESULTS: Local recurrence rate was 5 % (five cases). Recurrence sites were the 
+operative scare and chest wall. Factors associated with increased risk of local 
+failure were age < or = 40 years and tumour size greater than 20mm, without 
+statistical significance.
+CONCLUSION: Post-mastectomy radiotherapy should be discussed for a sub-group of 
+node-negative patients with predictors factors of local failure such as age < or 
+= 40 years and larger tumour size.
+
+DOI: 10.1016/j.canrad.2007.12.004
+PMID: 18243752 [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+1. J Gastrointest Cancer. 2013 Sep;44(3):277-84. doi: 10.1007/s12029-013-9477-7.
+
+Chemoradiotherapy in the management of locally advanced squamous cell carcinoma 
+esophagus: is surgical resection required?
+
+Rawat S(1), Kumar G, Kakria A, Sharma MK, Chauhan D.
+
+Author information:
+(1)Department of Radiation Oncology, Rajiv Gandhi Cancer Institute and Research 
+Centre, Sector 5, Rohini, New Delhi, India.
+
+PURPOSE: The present study aims to evaluate benefit of adding surgery to 
+chemoradiotherapy alone in management of carcinoma esophagus.
+METHODS: We retrospectively analyzed 45 eligible patients of squamous cell 
+esophageal carcinoma which were enrolled from February 2008 to April 2009. All 
+patients were treated with chemoradiotherapy (50.40 Gy with 40 mg/m(2) of weekly 
+cisplatin). Tumor response was assessed after 6 weeks of treatment. Patients 
+with resectable disease were subjected to surgical resection (arm A) and 
+remaining was kept on regular clinical follow-up (arm B). Overall survival (OS) 
+was selected as the primary endpoint. The secondary end points were disease-free 
+survival (DFS) and clinical toxicities.
+RESULTS: Median follow-up was 13.6 months. Pathological complete response was 
+seen in 60.9 % patients in arm A. In arm B, 77.3 % patients attained 
+radiological complete response (p = 0.194). The median OS was 16.4 and 19.1 
+months (p = 0.388) and median DFS was 5.8 and 4.1 months (p = 0.347) in arm A 
+and B, respectively. The 2-year survival probability was 39.1 and 36.4 % 
+(p = 0.387) in arm A and B, respectively. The recurrence probability was 56.5 % 
+(SE = 5.6 %) and 45.5 % (SE = 4.2 %) (p = 0.328) in arm A and B, respectively. 
+The probability of loco regional recurrence was more in arm B than in arm A 
+(p = 0.002).
+CONCLUSIONS: The study suggests that there is no difference in clinical toxicity 
+profiles or survival outcomes with either definitive chemoradiotherapy or 
+chemoradiation followed by surgery in management of locally advanced esophageal 
+cancer.
+
+DOI: 10.1007/s12029-013-9477-7
+PMID: 23389866 [Indexed for MEDLINE]

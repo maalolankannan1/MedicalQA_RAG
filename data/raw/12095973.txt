@@ -1,0 +1,33 @@
+1. Ann Surg Oncol. 2002 Jul;9(6):568-73. doi: 10.1007/BF02573893.
+
+Chemoradiation instead of surgery to treat mid and low rectal tumors: is it 
+safe?
+
+Nakagawa WT(1), Rossi BM, de O Ferreira F, Ferrigno R, David Filho WJ, Nishimoto 
+IN, Vieira RA, Lopes A.
+
+Author information:
+(1)Pelvic Surgery Department, A. C. Camargo Cancer Hospital, Antonio Prudente 
+Foundation, São Paulo, Brazil. wtnakagawa@uol.com.br
+
+BACKGROUND: The main treatment for rectal carcinoma is surgery. Preoperative 
+chemoradiation (CRT) is advocated to reduce local recurrence and improve 
+resection of mid and low tethered rectal tumors.
+METHODS: Fifty-two patients with mid or low rectal tumors underwent CRT 
+(external beam radiation plus 5-fluorouracil plus folinic acid). Patients who 
+had low rectal tumors with complete response (CR) were not submitted to surgical 
+treatment. All other patients were submitted to surgery, independently of the 
+response. Mean follow-up was 32.1 months.
+RESULTS: Five-year overall survival was 60.5%. Clinical evaluation after CRT 
+showed CR in 10 cases (19.2%), all low tumors; incomplete response (>50%) in 21 
+(40.4%); and no response (<50%) in 19 (36.6%). Among the 10 cases with CR, 8 
+presented with local recurrence within 3.7 to 8.8 months. Two patients were not 
+submitted to surgery and are still alive without cancer after 37 and 58 months. 
+Thirty-nine patients had radical surgery. Seven had local recurrences after CRT 
+plus surgery (17.9%). Overall survival was negatively affected by lymph node 
+metastases (P =.017) and perineural invasion (P =.026).
+CONCLUSIONS: Exclusive CRT approach is not safe to treat patients with low 
+infiltrative rectal carcinoma.
+
+DOI: 10.1007/BF02573893
+PMID: 12095973 [Indexed for MEDLINE]

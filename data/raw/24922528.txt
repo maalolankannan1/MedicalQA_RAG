@@ -1,0 +1,46 @@
+1. Addict Behav. 2014 Oct;39(10):1389-93. doi: 10.1016/j.addbeh.2014.05.006. Epub
+ 2014 May 27.
+
+The association of puberty and young adolescent alcohol use: do parents have a 
+moderating role?
+
+Li HK(1), Kelly AB(2), Chan GC(2), Toumbourou JW(3), Patton GC(4), Williams 
+JW(4).
+
+Author information:
+(1)Centre for Youth Substance Abuse Research, The University of Queensland, 
+Brisbane, Australia; School of Psychology, The University of Queensland, 
+Brisbane, Australia. Electronic address: k.li@uq.edu.au.
+(2)Centre for Youth Substance Abuse Research, The University of Queensland, 
+Brisbane, Australia.
+(3)Centre for Adolescent Health, Royal Children's Hospital, Melbourne, 
+Australia; Murdoch Children's Research Institute, Royal Children's Hospital, 
+Melbourne, Australia; School of Psychology and Centre for Mental Health and 
+Wellbeing Research, Deakin University, Melbourne, Australia.
+(4)Centre for Adolescent Health, Royal Children's Hospital, Melbourne, 
+Australia; Murdoch Children's Research Institute, Royal Children's Hospital, 
+Melbourne, Australia; Department of Paediatrics, University of Melbourne, 
+Melbourne, Australia.
+
+PURPOSE: To explore the extent to which parent-adolescent emotional closeness, 
+family conflict, and parental permissiveness moderate the association of puberty 
+and alcohol use in adolescents (aged 10-14).
+METHODS: Cross-sectional survey of 7631 adolescents from 231 Australian schools. 
+Measures included pubertal status, recent (30day) alcohol use, parent-adolescent 
+emotional closeness, family conflict, parental permissiveness of alcohol use and 
+peer alcohol use. The analysis was based on a two-level (individuals nested 
+within schools) logistic regression model, with main effects entered first, and 
+interaction terms added second.
+RESULTS: The interaction of family factors and pubertal stage did not improve 
+the fit of the model, so a main effect model of family factors and pubertal 
+stage was adopted. There were significant main effects for pubertal stage with 
+boys in middle puberty at increased odds of alcohol use, and girls in advanced 
+puberty at increased odds of alcohol use.
+CONCLUSIONS: Puberty and family factors were strong predictors of adolescent 
+alcohol use, but family factors did not account for variation in the association 
+of pubertal stage and alcohol use.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.addbeh.2014.05.006
+PMID: 24922528 [Indexed for MEDLINE]

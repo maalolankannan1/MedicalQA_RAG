@@ -1,0 +1,34 @@
+1. Angle Orthod. 2014 May;84(3):500-7. doi: 10.2319/052513-39.1. Epub 2013 Nov
+18.
+
+Is trabecular bone related to primary stability of miniscrews?
+
+Marquezan M(1), Lima I, Lopes RT, Sant'Anna EF, de Souza MM.
+
+Author information:
+(1)a  PhD Student, Department of Pedodontics and Orthodontics, Universidade 
+Federal do Rio de Janeiro, Rio de Janeiro, Brazil.
+
+OBJECTIVE: To compare the primary stability of miniscrews inserted into bone 
+blocks of different bone mineral densities (BMDs) with and without cortical 
+bone, and investigate whether some trabecular properties could influence primary 
+stability.
+MATERIALS AND METHODS: Fifty-two bone blocks were extracted from fresh bovine 
+pelvic bone. Four groups were created based on bone type (iliac or pubic region) 
+and presence or absence of cortical bone. Specimens were micro-computed 
+tomography imaged to evaluate trabecular thickness, trabecular number, 
+trabecular separation, bone volume density (BV/TV), BMD, and cortical thickness. 
+Miniscrews 1.4 mm in diameter and 6 mm long were inserted into the bone blocks, 
+and primary stability was evaluated by insertion torque (IT), mini-implant 
+mobility (PTV), and pull-out strength (PS).
+RESULTS: Intergroup comparison showed lower levels of primary stability when the 
+BMD of trabecular bone was lower and in the absence of cortical bone (P≤.05). 
+The Pearson correlation test showed correlation between trabecular number, 
+trabecular thickness, BV/TV, trabecular BMD, total BMD, and IT, PTV, and PS. 
+There was correlation between cortical thickness and IT and PS (P≤.05).
+CONCLUSION: Cancellous bone plays an important role in primary stability of 
+mini-implants in the presence or absence of cortical bone.
+
+DOI: 10.2319/052513-39.1
+PMCID: PMC8667495
+PMID: 24245816 [Indexed for MEDLINE]

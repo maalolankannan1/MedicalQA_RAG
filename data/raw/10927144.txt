@@ -1,0 +1,38 @@
+1. Radiother Oncol. 2000 Aug;56(2):239-44. doi: 10.1016/s0167-8140(00)00184-5.
+
+Can p53 alterations be used to predict tumour response to pre-operative 
+chemo-radiotherapy in locally advanced rectal cancer?
+
+Elsaleh H(1), Robbins P, Joseph D, Powell B, Grieu F, Menso L, Iacopetta B.
+
+Author information:
+(1)Department of Radiation Oncology, Sir Charles Gairdner Hospital, Nedlands 
+6009, Australia.
+
+PURPOSE: To examine whether p53 tumour suppressor gene alterations can be used 
+to predict tumour response to pre-operative chemo-radiation in locally advanced 
+rectal cancer in terms of reduction in tumour size and local failure.
+METHODS: p53 alterations were studied in pre-treatment biopsy specimens of 
+rectal carcinomas from 48 patients by immunohistochemistry (IHC) and polymerase 
+chain reaction/single strand conformation polymorphism (PCR-SSCP) gene mutation 
+analysis. Pre-operative pelvic radiotherapy was delivered with four fields, 45 
+Gy to the ICRU point in 25 fractions over 5 weeks. A radio-sensitising dose of 
+5-fluorouracil (500 mg/m(2)) was delivered concurrently for 6 days of the 5-week 
+schedule (days 1, 2, 3 and days 22, 23 and 24). Total meso-rectal excision was 
+planned 4 to 6 weeks from completion of pre-operative treatment. Response to 
+therapy was assessed by macroscopic measurement of the surgical specimen by a 
+pathologist who was unaware of the pre-treatment tumour size or of the p53 
+status.
+RESULTS: IHC evidence of p53 protein accumulation was found in 40% of tumours, 
+p53 gene mutation in 35% and p53 alteration (either or both changes) in 46%. The 
+average reduction in tumour size was 53% in the group with 'wild-type' p53 
+(IHC-/SSCP-) and 63% in the group with altered p53 (either IHC+ or SSCP+; 
+P=0.18). No significant differences in tumour size reduction or local failure 
+were observed in the groups with p53 overexpression or p53 mutation compared 
+with normal.
+CONCLUSIONS: p53 alteration detected by IHC or SSCP analysis is not a clinically 
+useful predictor of local response to pre-operative adjuvant therapy in advanced 
+rectal carcinoma.
+
+DOI: 10.1016/s0167-8140(00)00184-5
+PMID: 10927144 [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+1. Med J Aust. 2015 Nov 16;203(10):406-6.e6. doi: 10.5694/mja15.00190.
+
+Do teleoncology models of care enable safe delivery of chemotherapy in rural 
+towns?
+
+Chan BA(1), Larkins SL(2), Evans R(2), Watt K(3), Sabesan S(4).
+
+Author information:
+(1)Townsville Cancer Centre, Townsville, QLD Sabe.sabesan@health.qld.gov.au.
+(2)Anton Breinl Research Centre for Health Systems Strengthening, James Cook 
+University, Townsville, QLD.
+(3)James Cook University, Townsville, QLD.
+(4)Townsville Cancer Centre, Townsville, QLD.
+
+OBJECTIVES: To compare the dose intensity and toxicity profiles for patients 
+undergoing chemotherapy at the Townsville Cancer Centre (TCC), a tertiary cancer 
+centre in northern Queensland, with those for patients treated in Mount Isa, 
+supervised by the same medical oncologists via teleoncology.
+DESIGN: A quasi-experimental design comparing two patient groups.
+SETTING: TCC and Mount Isa Hospital, which both operate under the auspices of 
+the Townsville Teleoncology Network (TTN).
+PARTICIPANTS: Eligible patients who received chemotherapy at TCC or Mt Isa 
+Hospital between 1 May 2007 and 30 April 2012.
+INTERVENTION: Teleoncology model for managing cancer patients in rural towns.
+MAIN OUTCOME MEASURES: Dose intensity (doses, number of cycles and lines of 
+treatment) and toxicity rates (rate of serious side effects, hospital admissions 
+and mortality).
+RESULTS: Over 5 years, 89 patients received a total of 626 cycles of various 
+chemotherapy regimens in Mount Isa. During the same period, 117 patients who 
+received a total of 799 cycles of chemotherapy at TCC were eligible for 
+inclusion in the comparison group. There were no significant differences between 
+the Mount Isa and TCC patients in most demographic characteristics, mean numbers 
+of treatment cycles, dose intensities, proportions of side effects, and hospital 
+admissions. There were no toxicity-related deaths in either group.
+CONCLUSION: It appears safe to administer chemotherapy in rural towns under the 
+supervision of medical oncologists from larger centres via teleoncology, 
+provided that rural health care resources and governance arrangements are 
+adequate.
+
+DOI: 10.5694/mja15.00190
+PMID: 26561905 [Indexed for MEDLINE]

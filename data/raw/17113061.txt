@@ -1,0 +1,28 @@
+1. Clin Chim Acta. 2007 Feb;377(1-2):273-5. doi: 10.1016/j.cca.2006.10.001. Epub 
+2006 Oct 7.
+
+Do mutations causing low HDL-C promote increased carotid intima-media thickness?
+
+Miller M(1), Rhyne J, Hong SH, Friel G, Dolinar C, Riley W.
+
+Author information:
+(1)University of Maryland Hospital and Veterans Affairs Medical Center, 
+Baltimore, MD 21201, United States. mmiller@medicine.umaryland.edu
+
+BACKGROUND: Although observational data support an inverse relationship between 
+high-density lipoprotein (HDL) cholesterol and coronary heart disease (CHD), 
+genetic HDL deficiency states often do not correlate with premature CHD.
+METHODS: Carotid intima-media thickness (cIMT) measurements were obtained in 
+cases comprising 10 different mutations in LCAT, ABCA1 and APOA1 to further 
+evaluate the relationship between low HDL resulting from genetic variation and 
+early atherosclerosis.
+RESULTS: In a 1:2 case-control study of sex and age-related (+/-5 y) subjects 
+(n=114), cIMT was nearly identical between cases (0.66+/-0.17 cm) and controls 
+(0.65+/-0.18 cm) despite significantly lower HDL cholesterol (0.67 vs. 1.58 
+mmol/l) and apolipoprotein A-I levels (96.7 vs. 151.4 mg/dl) (P<0.05)
+CONCLUSIONS: Genetic variants identified in the present study may be 
+insufficient to promote early carotid atherosclerosis.
+
+DOI: 10.1016/j.cca.2006.10.001
+PMCID: PMC1828111
+PMID: 17113061 [Indexed for MEDLINE]

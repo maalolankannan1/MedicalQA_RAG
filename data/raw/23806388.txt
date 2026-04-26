@@ -1,0 +1,46 @@
+1. Urology. 2013 Jul;82(1):53-8. doi: 10.1016/j.urology.2012.10.090.
+
+Do nomograms designed to predict biochemical recurrence (BCR) do a better job of 
+predicting more clinically relevant prostate cancer outcomes than BCR? A report 
+from the SEARCH database group.
+
+Teeter AE(1), Presti JC Jr, Aronson WJ, Terris MK, Kane CJ, Amling CL, Freedland 
+SJ.
+
+Author information:
+(1)Department of Surgery, Duke University Medical Center, Durham, NC, USA.
+
+Comment in
+    Urology. 2013 Jul;82(1):58-9; discussion 59. doi: 
+10.1016/j.urology.2012.10.093.
+
+OBJECTIVE: To examine the ability of various postoperative nomograms to predict 
+prostate cancer-specific mortality (PCSM) and to validate that they could 
+predict aggressive biochemical recurrence (BCR). Prostate-specific antigen 
+(PSA), grade, and stage are the classic triad used to predict BCR after radical 
+prostatectomy (RP). Multiple nomograms use these to predict risk of BCR. A 
+previous study showed that several nomograms could predict aggressive BCR 
+(prostate-specific antigen doubling time [PSADT] <9 months) more accurately than 
+BCR. However, it remains unknown if they can predict more definitive endpoints, 
+such as PCSM.
+METHODS: We performed Cox analyses to examine the ability of 4 postoperative 
+nomograms, the Duke Prostate Center (DPC) nomogram, the Kattan postoperative 
+nomogram, the Johns Hopkins Hospital (JHH) nomogram, and the joint Center for 
+Prostate Disease Research(CPDR)/Cancer of the Prostate Strategic Urologic 
+Research Endeavor (CaPSURE) nomogram to predict BCR and PCSM among 1778 men in 
+the Shared Equal Access Regional Cancer Hospital (SEARCH) database who underwent 
+RP between 1990 and 2009. We also compared their ability to predict BCR and 
+aggressive BCR in a subset of men. We calculated the c-index for each nomogram 
+to determine its predictive accuracy for estimating actual outcomes.
+RESULTS: We found that each nomogram could predict aggressive BCR and PCSM in a 
+statistically significant manner and that they all predicted PCSM more 
+accurately than they predicted BCR (ie, with higher c-index values).
+CONCLUSION: Currently available nomograms used to predict BCR accurately predict 
+PCSM and other more clinically relevant endpoints. Moreover, not only do they 
+significantly predict PCSM, but do so with generally greater accuracy than BCR.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.urology.2012.10.090
+PMCID: PMC3774016
+PMID: 23806388 [Indexed for MEDLINE]

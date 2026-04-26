@@ -1,0 +1,46 @@
+1. Ann Fr Anesth Reanim. 2012 Jan;31(1):53-9. doi: 10.1016/j.annfar.2011.08.020. 
+Epub 2011 Dec 6.
+
+[Epidural analgesia for surgical treatment of peritoneal carcinomatosis: a risky 
+technique?].
+
+[Article in French]
+
+Desgranges FP(1), Steghens A, Rosay H, Méeus P, Stoian A, Daunizeau AL, 
+Pouderoux-Martin S, Piriou V.
+
+Author information:
+(1)Département d'anesthésie-réanimation, centre régional de lutte contre le 
+cancer Léon-Bérard, Lyon, France. fp_desgranges@yahoo.fr
+
+BACKGROUND: To study the risks of haemodynamic instability, and the possible 
+occurrence of spinal haematoma, meningitis and epidural abscess when epidural 
+analgesia is performed for cytoreductive surgery and hyperthermic 
+intraperitoneal chemotherapy (HIPEC).
+METHODS: We retrospectively analyzed the data of 35 patients treated by HIPEC 
+with oxaliplatin or cisplatin. An epidural catheter was inserted before 
+induction of general anaesthesia. Postoperatively, a continuous epidural 
+infusion of ropivacain, then a patient-controlled epidural analgesia were 
+started.
+RESULTS: The epidural catheter was used peroperatively before HIPEC in 12 
+subjects (34%), and after HIPEC in 23 subjects (66%). The median dose of 
+ropivacain given peroperatively in the epidural catheter was 40 mg (30-75). 
+Norepinephrin was used in two subjects (6%) peroperatively (median infusion rate 
+0.325 μg/kg per minute [0.32-0.33]), and in four subjects (11%) in the 
+postoperative 24 hours. No spinal haematoma, meningitis or epidural abscess were 
+noted. Five subjects (14%) had a thrombopenia or a prothrombin time less than 
+60% before catheter removal. Two subjects (6%) had a leukopenia before catheter 
+removal. No thrombopenia or blood coagulation disorders were recorded the day of 
+catheter removal.
+CONCLUSION: In this series of 35 patients, the use of epidural analgesia for 
+HIPEC does not seem to be associated with a worse risk of haemodynamic 
+instability, spinal haematoma, meningitis or epidural abscess. HIPEC with 
+platinum salt is not incompatible with the safety of epidural analgesia, with an 
+optimized fluid management peroperatively and the following of perimedullary 
+anesthesia practice guidelines.
+
+Copyright © 2011 Société française d’anesthésie et de réanimation (Sfar). 
+Published by Elsevier SAS. All rights reserved.
+
+DOI: 10.1016/j.annfar.2011.08.020
+PMID: 22154448 [Indexed for MEDLINE]

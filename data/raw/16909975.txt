@@ -1,0 +1,42 @@
+1. Clin Oncol (R Coll Radiol). 2006 Aug;18(6):497-504. doi: 
+10.1016/j.clon.2006.04.014.
+
+Can dose reduction to one parotid gland prevent xerostomia?--A feasibility study 
+for locally advanced head and neck cancer patients treated with 
+intensity-modulated radiotherapy.
+
+Anand AK(1), Jain J, Negi PS, Chaudhoory AR, Sinha SN, Choudhury PS, Kumar R, 
+Munjal RK.
+
+Author information:
+(1)Department of Radiation Oncology, Rajiv Gandhi Cancer Institute and Research 
+Centre, Rohini, New Delhi, India. anandak_55@rediffmail.com
+
+AIMS: Dryness of the mouth is one of the most distressing chronic toxicities of 
+radiation therapy in head and neck cancers. In this study, parotid function was 
+assessed in patients with locally advanced head and neck cancers undergoing 
+intensity-modulated radiotherapy (IMRT) with or without chemotherapy. Parotid 
+function was assessed with the help of a questionnaire and parotid scintigraphy, 
+especially with regards to unilateral sparing of the parotid gland.
+MATERIALS AND METHODS: In total, 19 patients were treated with compensator-based 
+IMRT between February 2003 and March 2004. The dose to the clinical target 
+volume ranged between 66 and 70 Gy in 30-35 fractions to 95% of the isodose 
+volume. Ipsilateral high-risk neck nodes received an average dose of 60 Gy and 
+the contralateral low-risk neck received a dose of 54-56 Gy. Eight of 19 
+patients also received concomitant chemotherapy.
+RESULTS: Subjective toxicity to the parotid glands was assessed with the help of 
+a questionnaire at 0, 3 and 6 months and objective toxicity was assessed with 
+parotid scintigraphy at 0 and 3 months. The mean dose to the ipsilateral parotid 
+gland ranged from 19.5 to 52.8 Gy (mean 33.14 Gy) and the mean dose to the 
+contralateral gland was 11.1-46.6 Gy (mean 26.85 Gy). At a median follow-up of 
+13 months, 9/19 patients had no symptoms of dryness of the mouth (grade I), 8/19 
+had mild dryness of the mouth (grade II) and only 2/19 had grade III xerostomia, 
+although the parotid gland could only be spared on one side in most of the 
+patients.
+CONCLUSIONS: Minimising the radiation dose to one of the parotid glands with the 
+help of IMRT in patients with advanced head and neck cancers can prevent 
+xerostomia in most patients and parotid scintigraphy is a useful method of 
+documenting xerostomia.
+
+DOI: 10.1016/j.clon.2006.04.014
+PMID: 16909975 [Indexed for MEDLINE]

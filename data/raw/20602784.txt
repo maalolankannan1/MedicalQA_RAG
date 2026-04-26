@@ -1,0 +1,41 @@
+1. Int J Health Geogr. 2010 Jul 5;9:35. doi: 10.1186/1476-072X-9-35.
+
+Identification of racial disparities in breast cancer mortality: does scale 
+matter?
+
+Tian N(1), Goovaerts P, Zhan FB, Wilson JG.
+
+Author information:
+(1)Texas Center for Geographic Information Science, Department of Geography, 
+Texas State University-San Marcos, San Marcos, Texas 78666, USA. 
+jt1277@txstate.edu
+
+BACKGROUND: This paper investigates the impact of geographic scale (census 
+tract, zip code, and county) on the detection of disparities in breast cancer 
+mortality among three ethnic groups in Texas (period 1995-2005). Racial 
+disparities were quantified using both relative (RR) and absolute (RD) 
+statistics that account for the population size and correct for unreliable rates 
+typically observed for minority groups and smaller geographic units. Results 
+were then correlated with socio-economic status measured by the percentage of 
+habitants living below the poverty level.
+RESULTS: African-American and Hispanic women generally experience higher 
+mortality than White non-Hispanics, and these differences are especially 
+significant in the southeast metropolitan areas and southwest border of Texas. 
+The proportion and location of significant racial disparities however changed 
+depending on the type of statistic (RR versus RD) and the geographic level. The 
+largest proportion of significant results was observed for the RD statistic and 
+census tract data. Geographic regions with significant racial disparities for 
+African-Americans and Hispanics frequently had a poverty rate above 10.00%.
+CONCLUSIONS: This study investigates both relative and absolute racial 
+disparities in breast cancer mortality between White non-Hispanic and 
+African-American/Hispanic women at the census tract, zip code and county levels. 
+Analysis at the census tract level generally led to a larger proportion of 
+geographical units experiencing significantly higher mortality rates for 
+minority groups, although results varied depending on the use of the relative 
+versus absolute statistics. Additional research is needed before general 
+conclusions can be formulated regarding the choice of optimal geographic regions 
+for the detection of racial disparities.
+
+DOI: 10.1186/1476-072X-9-35
+PMCID: PMC2910022
+PMID: 20602784 [Indexed for MEDLINE]

@@ -1,0 +1,63 @@
+1. PLoS One. 2016 Apr 20;11(4):e0152481. doi: 10.1371/journal.pone.0152481. 
+eCollection 2016.
+
+Does Viral Co-Infection Influence the Severity of Acute Respiratory Infection in 
+Children?
+
+Cebey-López M(1)(2), Herberg J(3), Pardo-Seco J(1)(2)(4), Gómez-Carballa 
+A(1)(2)(4), Martinón-Torres N(1)(2), Salas A(1)(4), Martinón-Sánchez JM(1)(2), 
+Justicia A(1)(2), Rivero-Calle I(1)(2), Sumner E(5), Fink C(5), Martinón-Torres 
+F(1)(2); GENDRES network.
+
+Author information:
+(1)Grupo de Investigación en Genética, Vacunas, Infecciones y Pediatría, 
+Hospital Clínico Universitario and Universidade de Santiago de Compostela (USC), 
+Galicia, Spain.
+(2)Translational Pediatrics and Infectious Diseases section, Department of 
+Pediatrics, Hospital Clínico Universitario de Santiago, Santiago de Compostela, 
+Galicia, Spain.
+(3)Section of Paediatrics, Division of Infectious Disease, Imperial College of 
+London, South Kensington Campus, London, United Kingdom.
+(4)Unidade de Xenética, Departamento de Anatomía Patolóxica e Ciencias Forenses, 
+and Instituto de Ciencias Forenses, Grupo de Medicina Xenómica (GMX), Facultade 
+de Medicina, Universidade de Santiago de Compostela, Galicia, Spain.
+(5)Micropathology Ltd., University of Warwick Science Park, Coventry, United 
+Kingdom.
+
+BACKGROUND: Multiple viruses are often detected in children with respiratory 
+infection but the significance of co-infection in pathogenesis, severity and 
+outcome is unclear.
+OBJECTIVES: To correlate the presence of viral co-infection with clinical 
+phenotype in children admitted with acute respiratory infections (ARI).
+METHODS: We collected detailed clinical information on severity for children 
+admitted with ARI as part of a Spanish prospective multicenter study (GENDRES 
+network) between 2011-2013. A nested polymerase chain reaction (PCR) approach 
+was used to detect respiratory viruses in respiratory secretions. Findings were 
+compared to an independent cohort collected in the UK.
+RESULTS: 204 children were recruited in the main cohort and 97 in the 
+replication cohort. The number of detected viruses did not correlate with any 
+markers of severity. However, bacterial superinfection was associated with 
+increased severity (OR: 4.356; P-value = 0.005), PICU admission (OR: 3.342; 
+P-value = 0.006), higher clinical score (1.988; P-value = 0.002) respiratory 
+support requirement (OR: 7.484; P-value < 0.001) and longer hospital length of 
+stay (OR: 1.468; P-value < 0.001). In addition, pneumococcal vaccination was 
+found to be a protective factor in terms of degree of respiratory distress (OR: 
+2.917; P-value = 0.035), PICU admission (OR: 0.301; P-value = 0.011), lower 
+clinical score (-1.499; P-value = 0.021) respiratory support requirement (OR: 
+0.324; P-value = 0.016) and oxygen necessity (OR: 0.328; P-value = 0.001). All 
+these findings were replicated in the UK cohort.
+CONCLUSION: The presence of more than one virus in hospitalized children with 
+ARI is very frequent but it does not seem to have a major clinical impact in 
+terms of severity. However bacterial superinfection increases the severity of 
+the disease course. On the contrary, pneumococcal vaccination plays a protective 
+role.
+
+DOI: 10.1371/journal.pone.0152481
+PMCID: PMC4838299
+PMID: 27096199 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have the 
+following interests. Edward Sumner and Colin Fink are employed by Micropathology 
+Ltd. There are no patents, products in development or marketed products to 
+declare. This does not alter the authors' adherence to all the PLOS ONE policies 
+on sharing data and materials, as detailed online in the guide for authors.

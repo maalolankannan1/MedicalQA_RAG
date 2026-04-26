@@ -1,0 +1,38 @@
+1. Urol Int. 2007;79(3):210-6. doi: 10.1159/000107952.
+
+Does HER2 immunoreactivity provide prognostic information in locally advanced 
+urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy?
+
+Tsai YS(1), Tzai TS, Chow NH.
+
+Author information:
+(1)Institute of Clinical Medicine, Department of Urology, College of Medicine, 
+National Cheng Kung University, Tainan, Taiwan.
+
+INTRODUCTION: To evaluate the impact of HER2 immunoreactivity on clinical 
+outcome in locally advanced urothelial carcinoma patients who received surgery 
+alone, or methotrexate, vinblastine, epirubicin, and cisplatin (M-VEC) as 
+adjuvant chemotherapy.
+MATERIALS AND METHODS: We studied 114 formalin-fixed paraffin-embedded specimens 
+obtained from locally advanced urothelial carcinoma patients receiving surgery 
+alone or adjuvant M-VEC. The authors evaluated HER2 immunoreactivity using 
+immunohistochemical staining and explored the influence of pathological 
+parameters and HER2 immunoreactivity on progression-free survival (PFS) and 
+disease-specific overall survival (OS) using univariate and multivariate Cox's 
+analyses.
+RESULTS: Urothelial carcinoma of the bladder had a significantly higher 
+frequency of HER2 immunoreactivity than that of the upper urinary tract (60.7 
+vs. 20.7%, p < 0.0001). Overall, nodal status was a strong and independent 
+prognostic indicator for clinical outcome. The HER2 immunoreactivity was 
+significantly associated with PFS (p = 0.02) and disease-specific OS (p = 0.005) 
+in advanced urothelial carcinoma patients. As for patients with adjuvant M-VEC, 
+HER2 immunoreactivity was a significant prognostic factor for PFS (p = 0.03) and 
+disease-specific OS (p = 0.02) using univariate analysis, but not multivariate 
+analysis, and not for patients receiving watchful waiting.
+CONCLUSIONS: HER2 immunoreactivity might have a limited prognostic value for 
+advanced urothelial carcinoma patients with adjuvant M-VEC.
+
+Copyright 2007 S. Karger AG, Basel.
+
+DOI: 10.1159/000107952
+PMID: 17940352 [Indexed for MEDLINE]

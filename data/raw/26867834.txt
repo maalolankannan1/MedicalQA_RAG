@@ -1,0 +1,69 @@
+1. Chest. 2016 Feb;149(2):508-515. doi: 10.1016/j.chest.2015.10.066.
+
+Is Alveolar Macrophage Phagocytic Dysfunction in Children With Protracted 
+Bacterial Bronchitis a Forerunner to Bronchiectasis?
+
+Hodge S(1), Upham JW(2), Pizzutto S(3), Petsky HL(4), Yerkovich S(5), Baines 
+KJ(6), Gibson P(6), Simpson JL(6), Buntain H(7), Chen ACH(5), Hodge G(8), Chang 
+AB(9).
+
+Author information:
+(1)Chronic Inflammatory Lung Disease Research Laboratory, Lung Research Unit, 
+Hanson Institute and Department of Thoracic Medicine, Royal Adelaide Hospital, 
+and The School of Medicine, The University of Adelaide, Adelaide, SA, Australia. 
+Electronic address: sandra.hodge@health.sa.gov.au.
+(2)Princess Alexandra Hospital, Brisbane, QLD, Australia; The School of 
+Medicine, The University of Queensland, Brisbane, QLD, Australia.
+(3)Child Health Division, Menzies School of Health Research, Darwin, NT, 
+Australia.
+(4)Queensland University of Technology, South Brisbane, QLD, Australia.
+(5)The School of Medicine, The University of Queensland, Brisbane, QLD, 
+Australia.
+(6)Respiratory and Sleep Medicine, School of Medicine and Public Health, Centre 
+for Asthma and Respiratory Disease, The University of Newcastle, Callaghan, NSW, 
+Australia.
+(7)Queensland Children's Health Service, Brisbane, QLD, and Queensland 
+Children's Medical Research Institute, Brisbane, QLD, Australia.
+(8)Chronic Inflammatory Lung Disease Research Laboratory, Lung Research Unit, 
+Hanson Institute and Department of Thoracic Medicine, Royal Adelaide Hospital, 
+and The School of Medicine, The University of Adelaide, Adelaide, SA, Australia.
+(9)Child Health Division, Menzies School of Health Research, Darwin, NT, 
+Australia; Queensland Children's Health Service, Brisbane, QLD, and Queensland 
+Children's Medical Research Institute, Brisbane, QLD, Australia.
+
+BACKGROUND: Children with recurrent protracted bacterial bronchitis (PBB) and 
+bronchiectasis share common features, and PBB is likely a forerunner to 
+bronchiectasis. Both diseases are associated with neutrophilic inflammation and 
+frequent isolation of potentially pathogenic microorganisms, including 
+nontypeable Haemophilus influenzae (NTHi), from the lower airway. Defective 
+alveolar macrophage phagocytosis of apoptotic bronchial epithelial cells 
+(efferocytosis), as found in other chronic lung diseases, may also contribute to 
+tissue damage and neutrophil persistence. Thus, in children with bronchiectasis 
+or PBB and in control subjects, we quantified the phagocytosis of airway 
+apoptotic cells and NTHi by alveolar macrophages and related the phagocytic 
+capacity to clinical and airway inflammation.
+METHODS: Children with bronchiectasis (n = 55) or PBB (n = 13) and control 
+subjects (n = 13) were recruited. Alveolar macrophage phagocytosis, 
+efferocytosis, and expression of phagocytic scavenger receptors were assessed by 
+flow cytometry. Bronchoalveolar lavage fluid interleukin (IL) 1β was measured by 
+enzyme-linked immunosorbent assay.
+RESULTS: For children with PBB or bronchiectasis, macrophage phagocytic capacity 
+was significantly lower than for control subjects (P = .003 and P < .001 for 
+efferocytosis and P = .041 and P = .004 for phagocytosis of NTHi; PBB and 
+bronchiectasis, respectively); median phagocytosis of NTHi for the groups was as 
+follows: bronchiectasis, 13.7% (interquartile range [IQR], 11%-16%); PBB, 16% 
+(IQR, 11%-16%); control subjects, 19.0% (IQR, 13%-21%); and median efferocytosis 
+for the groups was as follows: bronchiectasis, 14.1% (IQR, 10%-16%); PBB, 16.2% 
+(IQR, 14%-17%); control subjects, 18.1% (IQR, 16%-21%). Mannose receptor 
+expression was significantly reduced in the bronchiectasis group (P = .019), and 
+IL-1β increased in both bronchiectasis and PBB groups vs control subjects.
+CONCLUSIONS: A reduced alveolar macrophage phagocytic host response to apoptotic 
+cells or NTHi may contribute to neutrophilic inflammation and NTHi colonization 
+in both PBB and bronchiectasis. Whether this mechanism also contributes to the 
+progression of PBB to bronchiectasis remains unknown.
+
+Copyright © 2016 American College of Chest Physicians. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.chest.2015.10.066
+PMID: 26867834 [Indexed for MEDLINE]

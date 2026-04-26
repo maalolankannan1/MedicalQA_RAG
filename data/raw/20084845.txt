@@ -1,0 +1,39 @@
+1. Ann Allergy Asthma Immunol. 2009 Dec;103(6):508-14. doi: 
+10.1016/S1081-1206(10)60268-2.
+
+Biomolecular identification of allergenic pollen: a new perspective for 
+aerobiological monitoring?
+
+Longhi S(1), Cristofori A, Gatto P, Cristofolini F, Grando MS, Gottardini E.
+
+Author information:
+(1)IASMA Research and Innovation Centre, Fondazione Edmund Mach, Trento, Italy.
+
+BACKGROUND: Accurate and updated information on airborne pollen in specific 
+areas can help allergic patients. Current monitoring systems are based on a 
+morphologic identification approach, a time-consuming method that may represent 
+a limiting factor for sampling network enhancement.
+OBJECTIVE: To verify the feasibility of developing a real-time polymerase chain 
+reaction (PCR) approach, an alternative to optical analysis, as a rapid, 
+accurate, and automated tool for the detection and quantification of airborne 
+allergenic pollen taxa.
+METHODS: The traditional cetyl trimethyl ammonium bromide-based method was 
+modified for DNA isolation from pollen. Taxon-specific DNA sequences were 
+identified via bioinformatics or literature searches and were PCR amplified from 
+the matching allergenic taxa; based on the sequences of PCR products, 
+complementary or degenerate TaqMan probes were developed. The accuracy of the 
+quantitative real-time PCR assay was tested on 3 plant species.
+RESULTS: The setup of a modified DNA extraction protocol allowed us to achieve 
+good-quality pollen DNA. Taxon-specific nuclear gene fragments were identified 
+and sequenced. Designed primer pairs and probes identified selected pollen taxa, 
+mostly at the required classification level. Pollen was properly identified even 
+when collected on routine aerobiological tape. Preliminary quantification assays 
+on pollen grains were successfully performed on test species and in mixes.
+CONCLUSIONS: The real-time PCR approach revealed promising results in pollen 
+identification and quantification, even when analyzing pollen mixes. Future 
+perspectives could concern the development of multiplex real-time PCR for the 
+simultaneous detection of different taxa in the same reaction tube and the 
+application of high-throughput molecular methods.
+
+DOI: 10.1016/S1081-1206(10)60268-2
+PMID: 20084845 [Indexed for MEDLINE]

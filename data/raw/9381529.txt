@@ -1,0 +1,43 @@
+1. Transplantation. 1997 Oct 15;64(7):1055-65. doi: 
+10.1097/00007890-199710150-00019.
+
+Immune suppression by lysosomotropic amines and cyclosporine on T-cell responses 
+to minor and major histocompatibility antigens: does synergy exist?
+
+Schultz KR(1), Bader S, Nelson D, Wang MD, HayGlass KT.
+
+Author information:
+(1)Department of Pediatrics, University of British Columbia and British 
+Columbia's Children's Hospital, Vancouver, Canada.
+
+BACKGROUND: Using murine models, we have shown that the lysosomotropic amine, 
+chloroquine, is effective in the prevention of graft-versus-host disease (GVHD) 
+mediated by donor T cells reactive with recipient minor histocompatibility 
+antigens (MiHCs). Because lysosomotropic amines can suppress major 
+histocompatibility complex (MHC) class II antigen presentation, their mechanism 
+of action is potentially different from current immune suppressant drugs used to 
+control GVHD such as cyclosporine.
+METHODS: We investigated the use of cyclosporine and the lysosomotropic amines 
+chloroquine and hydroxychloroquine in combination for additive or synergistic 
+immunosuppression on T-cell responses in vitro to MiHC and MHC in mice.
+RESULTS: We found that similar concentrations of chloroquine and 
+hydroxychloroquine suppress the T-cell response to MiHC in mice (C57BL/6 
+anti-BALB.B) and that lysosomotropic amines in combination with cyclosporine 
+result in synergistic suppression of a proliferative response to MiHC. Similar 
+suppression and synergy appear to be present in an alloreactive response 
+(C57BL/6 anti-BALB/c). Direct inhibition by chloroquine of T-cell proliferative 
+responses induced by anti-CD3epsilon in the absence of antigen-presenting cells 
+is present at higher concentrations than that required to suppress responses to 
+MiHC or MHC. Chloroquine appears to induce decreased T-cell viability at high 
+concentrations. This effect does not appear to be due to decreased T-cell 
+production of interleukin-2 or interferon-gamma. At lower concentrations (<25 
+microg/ml), chloroquine can also decrease the ability of antigen-presenting 
+cells to stimulate an a C57BL/6 anti-BALB/c T-cell response and can inhibit MHC 
+class II expression after activation with lipopolysaccharide.
+CONCLUSIONS: Lysosomotropic amines in combination with cyclosporine appear to be 
+synergistic in the suppression of T-cell proliferation to MiHC and MHC. Use of 
+chloroquine in combination with cyclosporine may result in improved control of 
+GVHD.
+
+DOI: 10.1097/00007890-199710150-00019
+PMID: 9381529 [Indexed for MEDLINE]

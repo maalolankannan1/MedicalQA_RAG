@@ -1,0 +1,41 @@
+1. Transfusion. 2009 Jun;49(6):1070-5. doi: 10.1111/j.1537-2995.2009.02116.x.
+Epub  2009 Feb 27.
+
+Does a febrile reaction to platelets predispose recipients to red blood cell 
+alloimmunization?
+
+Yazer MH(1), Triulzi DJ, Shaz B, Kraus T, Zimring JC.
+
+Author information:
+(1)Institute for Transfusion Medicine, Pittsburgh, PA 15213, USA. 
+myazer@itxm.org
+
+Comment in
+    Transfusion. 2009 Jun;49(6):1032-6. doi: 10.1111/j.1537-2995.2009.02182.x.
+
+BACKGROUND: A variable effect of inflammation on alloimmunization to transfused 
+red blood cells (RBCs) in mice has been recently reported. We investigated 
+whether RBC alloimmunization in humans was affected by transfusion of blood 
+products in temporal proximity to experiencing a febrile transfusion reaction 
+(FTR) to platelets (PLTs), an event predominantly mediated by inflammatory 
+cytokines.
+STUDY DESIGN AND METHODS: Blood bank databases were used to identify patients 
+who experienced an FTR or possible FTR to PLTs from August 2000 to March 2008 
+(FTR group). The control group of patients received a PLT transfusion on 
+randomly selected dates without experiencing an FTR. The "event" was defined as 
+the PLT transfusion that caused the FTR in the FTR group or the index PLT 
+transfusion in the control group. The number of transfused blood products and 
+their proximity to the event were recorded along with other recipient data. The 
+primary endpoint was the rate of RBC alloimmunization between the two groups.
+RESULTS: There were 190 recipients in the FTR group and 245 in the control 
+group. Overall, the recipients in the control group were younger and received 
+more blood products on the day of their event and over the subsequent 10 days. 
+The alloimmunization rate among recipients in the FTR group was higher than in 
+the control group (8% vs. 3%, respectively; p = 0.026).
+CONCLUSIONS: These preliminary data support our hypothesis that recipient 
+inflammation may affect RBC alloimmunization in humans; however, a more detailed 
+understanding of the pathophysiologic association between inflammation and 
+alloimmunization is required before definitive conclusions can be reached.
+
+DOI: 10.1111/j.1537-2995.2009.02116.x
+PMID: 19309468 [Indexed for MEDLINE]

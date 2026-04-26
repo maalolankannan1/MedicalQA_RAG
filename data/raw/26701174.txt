@@ -1,0 +1,55 @@
+1. Otolaryngol Head Neck Surg. 2016 Mar;154(3):486-93. doi: 
+10.1177/0194599815621739. Epub 2015 Dec 23.
+
+Inpatient Pediatric Tonsillectomy: Does Hospital Type Affect Cost and Outcomes 
+of Care?
+
+Raol N(1), Zogg CK(2), Boss EF(3), Weissman JS(2).
+
+Author information:
+(1)Center for Surgery and Public Health, Harvard Medical School and Harvard T. 
+H. Chan School of Public Health, Department of Surgery, Brigham & Women's 
+Hospital, Boston, Massachusetts, USA Massachusetts Eye and Ear Infirmary, 
+Department of Otolaryngology, Harvard Medical School, Boston, Massachusetts, USA 
+nraol@partners.org.
+(2)Center for Surgery and Public Health, Harvard Medical School and Harvard T. 
+H. Chan School of Public Health, Department of Surgery, Brigham & Women's 
+Hospital, Boston, Massachusetts, USA.
+(3)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University 
+School of Medicine, Baltimore, Maryland, USA Armstrong Institute for Patient 
+Safety and Quality, Johns Hopkins Medicine, Baltimore, Maryland, USA.
+
+OBJECTIVE: To ascertain whether hospital type is associated with differences in 
+total cost and outcomes for inpatient tonsillectomy.
+STUDY DESIGN: Cross-sectional analysis of the 2006, 2009, and 2012 Kids' 
+Inpatient Database (KID).
+SUBJECTS AND METHODS: Children ≤18 years of age undergoing tonsillectomy 
+with/without adenoidectomy were included. Risk-adjusted generalized linear 
+models assessed for differences in hospital cost and length of stay (LOS) among 
+children managed by (1) non-children's teaching hospitals (NCTHs), (2) 
+children's teaching hospitals (CTHs), and (3) nonteaching hospitals (NTHs). 
+Risk-adjusted logistic regression compared the odds of major perioperative 
+complications (hemorrhage, respiratory failure, death). Models accounted for 
+clustering of patients within hospitals, were weighted to provide national 
+estimates, and controlled for comorbidities.
+RESULTS: The 25,685 tonsillectomies recorded in the KID yielded a national 
+estimate of 40,591 inpatient tonsillectomies performed in 2006, 2009, and 2012. 
+The CTHs had significantly higher risk-adjusted total cost and LOS per 
+tonsillectomy compared with NCTHs and NTHs ($9423.34/2.8 days, $6250.78/2.11 
+days, and $5905.10/2.08 days, respectively; P < .001). The CTHs had higher odds 
+of complications compared with NCTHs (odds ratio [OR], 1.48; 95% CI, 1.15-1.91; 
+P = .002) but not when compared with NTHs (OR, 1.19; 95% CI, 0.89-1.59; P = 
+.23). The CTHs were significantly more likely to care for patients with 
+comorbidities (P < .001).
+CONCLUSION: Significant differences in costs, outcomes, and patient factors 
+exist for inpatient tonsillectomy based on hospital type. Although reasons for 
+these differences are not discernable using isolated claims data, findings 
+provide a foundation to further evaluate patient, institutional, and 
+system-level factors that may reduce cost of care and improve value for 
+inpatient tonsillectomy.
+
+© American Academy of Otolaryngology—Head and Neck Surgery Foundation 2015.
+
+DOI: 10.1177/0194599815621739
+PMCID: PMC8278804
+PMID: 26701174 [Indexed for MEDLINE]

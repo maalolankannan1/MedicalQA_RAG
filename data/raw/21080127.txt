@@ -1,0 +1,43 @@
+1. Clin Orthop Relat Res. 2011 Apr;469(4):961-9. doi: 10.1007/s11999-010-1679-8.
+
+Can implant retention be recommended for treatment of infected TKA?
+
+Choi HR(1), von Knoch F, Zurakowski D, Nelson SB, Malchau H.
+
+Author information:
+(1)Harris Orthopedic Laboratory, Department of Orthopedic Surgery, Massachusetts 
+General Hospital, 55 Fruit Street, GRJ-1126, Boston, MA 02114, USA.
+
+BACKGROUND: Retention treatment is reportedly associated with lower infection 
+control rates than two-stage revision. However, the studies on which this 
+presumption are based depend on comparisons of historical rather than concurrent 
+controls.
+QUESTIONS/PURPOSES: We (1) asked whether the infection control rates, number of 
+additional procedures, length of hospital stay, and treatment duration differed 
+between implant retention and two-stage revision treatment; and (2) identified 
+risk factors that can contribute to failure of infection control.
+METHODS: We reviewed the records of 60 patients treated for 64 infected TKA from 
+2002 to 2007. Twenty-eight patients (32 knees) underwent débridement with 
+retention of component, and 32 patients (32 knees) were treated with component 
+removal and two-stage revision surgery. We determined patients' demographics, 
+type of infection, causative organisms, and outcome of treatment. Mean followup 
+was 36 months (range, 12-84 months).
+RESULTS: Infection control rate was 31% in retention and 59% in the removal 
+group after initial surgical treatment, and 81% and 91% at latest followup, 
+respectively. Treatment duration was shorter in the retention group and there 
+was no difference in number of additional surgeries and length of hospital stay. 
+Type of treatment (retention versus removal) was the only factor associated with 
+infection control; subgroup analysis in the retention group showed 
+Staphylococcus aureus infection and polyethylene nonexchange as contributing 
+factors for failure of infection control.
+CONCLUSIONS: Although initial infection control rate was substantially lower in 
+the retention group than the removal group, final results were comparable at 
+latest followup. We believe retention treatment can be selectively considered 
+for non-S. aureus infection, and when applied in selected patients, polyethylene 
+exchange should be performed.
+LEVEL OF EVIDENCE: Level III, therapeutic study. See the Guidelines for Authors 
+for a complete description of levels of evidence.
+
+DOI: 10.1007/s11999-010-1679-8
+PMCID: PMC3048274
+PMID: 21080127 [Indexed for MEDLINE]

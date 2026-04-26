@@ -1,0 +1,36 @@
+1. Am J Otolaryngol. 2004 Mar-Apr;25(2):105-8. doi: 10.1016/j.amjoto.2003.11.010.
+
+Delayed peripheral facial palsy in the stapes surgery: can it be prevented?
+
+Salvinelli F(1), Casale M, Vitaliana L, Greco F, Dianzani C, D'Ascanio L.
+
+Author information:
+(1)Area of Orolaryngology, Interdisciplinary Center for Biomedical Research, 
+University Campus Bio-Medico, Rome, Italy.
+
+PURPOSE: The aim of this study was to evaluate poststapedectomy-delayed facial 
+palsy etiopathogenesis, risk factors, evolution, and prevention.
+MATERIALS AND METHODS: Seven hundred six stapedectomies performed in 580 
+patients were reviewed. In all patients who developed delayed facial palsy, the 
+dates of onset and subside of facial palsy, the anatomic and pathologic 
+predisposing factors, and a possible history for recurrent labial herpetic 
+lesions were considered. The House-Brackmann (H-B) grading system was used to 
+evaluate the facial function. Virus-specific immunoglobulin (Ig) G and IgM 
+antibodies against herpes simplex virus type 1 (HSV-1) were determined by 
+enzyme-linked immunosorbent assay (ELISA) 3 weeks after the onset of the 
+paralysis. The results were compared with a control group without a history of 
+recurrent herpes labialis.
+RESULTS: Poststapedectomy facial palsy developed in 7 out of 706 procedures. All 
+7 patients referred a history of recurrent labial herpetic lesions. One patient 
+showed a facial palsy H-B grade II, 2 a grade III, and 3 a grade IV. After 
+acyclovir therapy, 6 subjects recovered completely, whereas 1 maintained an H-B 
+grade II. An increased IgG antibody titer was found in 6 of the patients with 
+delayed facial palsy and in 1 out of 7 controls. Mean IgG titer was 1:14,050 in 
+the subjects with delayed facial palsy and 1:2,300 in controls (P <.001).
+CONCLUSIONS: Poststapedectomy-delayed facial palsy is likely caused by a 
+reactivation of HSV-1, latent within the geniculate ganglion. The activation of 
+the latent virus is more frequent in patients with a history of herpes labialis 
+and can be prevented by an adequate acyclovir therapy.
+
+DOI: 10.1016/j.amjoto.2003.11.010
+PMID: 14976655 [Indexed for MEDLINE]

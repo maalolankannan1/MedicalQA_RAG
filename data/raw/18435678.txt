@@ -1,0 +1,33 @@
+1. Vox Sang. 2008 Jul;95(1):66-9. doi: 10.1111/j.1423-0410.2008.01061.x. Epub
+2008  Apr 23.
+
+Kell alloimmunization in pregnancy: associated with fetal thrombocytopenia?
+
+van den Akker ES(1), Klumper FJ, Brand A, Kanhai HH, Oepkes D.
+
+Author information:
+(1)Department of Obstetrics, Leiden University Medical Centre, Leiden, The 
+Netherlands. e.s.a.van_den_akker@lumc.nl
+
+BACKGROUND AND OBJECTIVES: Kell haemolytic disease in pregnancies has been 
+suggested to be associated with decreased fetal platelet counts. The aim of this 
+study was to evaluate the incidence and clinical significance of fetal 
+thrombocytopenia in pregnancies complicated by Kell alloimmunization.
+MATERIALS AND METHODS: In this retrospective cohort study, fetal platelet counts 
+were performed in 42 pregnancies with severe Kell alloimmunization prior to the 
+first intrauterine blood transfusion. Platelet counts from 318 first 
+intrauterine transfusions in RhD alloimmunized pregnancies were used as 
+controls.
+RESULTS: Fetal thrombocytopenia (platelet count < 150 x 10(9)/l) was found in 
+4/42 (10%) in the Kell group and in 84/318 (26%) in the RhD group. None of the 
+fetuses in the Kell alloimmunized pregnancies, including 15 with severe hydrops, 
+had a clinically significant thrombocytopenia defined as a platelet count < 50 x 
+10(9)/l. In the RhD alloimmunized pregnancies, 2/230 (1%) of the non-hydropic 
+fetuses and 7/30 (23%) of the severely hydropic fetuses had a clinically 
+significant thrombocytopenia.
+CONCLUSION: In contrast to fetuses with severe anaemia and hydrops due to RhD 
+alloimmunization, fetuses with severe anaemia due to Kell alloimmunization are 
+generally not at risk for substantial thrombocytopenia.
+
+DOI: 10.1111/j.1423-0410.2008.01061.x
+PMID: 18435678 [Indexed for MEDLINE]

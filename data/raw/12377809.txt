@@ -1,0 +1,37 @@
+1. Gut. 2002 Nov;51(5):695-700. doi: 10.1136/gut.51.5.695.
+
+Is anorectal endosonography valuable in dyschesia?
+
+Van Outryve SM(1), Van Outryve MJ, De Winter BY, Pelckmans PA.
+
+Author information:
+(1)Department of Gastroenterology and Hepatology, University Hospital of 
+Antwerp, University of Antwerp, Belgium.
+
+AIMS: Dyschesia can be provoked by inappropriate defecation movements. The aim 
+of this prospective study was to demonstrate dysfunction of the anal sphincter 
+and/or the musculus (m.) puborectalis in patients with dyschesia using anorectal 
+endosonography.
+METHODS: Twenty consecutive patients with a medical history of dyschesia and a 
+control group of 20 healthy subjects underwent linear anorectal endosonography 
+(Toshiba models IUV 5060 and PVL-625 RT). In both groups, the dimensions of the 
+anal sphincter and the m. puborectalis were measured at rest, and during 
+voluntary squeezing and straining. Statistical analysis was performed within and 
+between the two groups.
+RESULTS: The anal sphincter became paradoxically shorter and/or thicker during 
+straining (versus the resting state) in 85% of patients but in only 35% of 
+control subjects. Changes in sphincter length were statistically significantly 
+different (p<0.01, chi(2) test) in patients compared with control subjects. The 
+m. puborectalis became paradoxically shorter and/or thicker during straining in 
+80% of patients but in only 30% of controls. Both the changes in length and 
+thickness of the m. puborectalis were significantly different (p<0.01, chi(2) 
+test) in patients versus control subjects.
+CONCLUSIONS: Linear anorectal endosonography demonstrated incomplete or even 
+absent relaxation of the anal sphincter and the m. puborectalis during a 
+defecation movement in the majority of our patients with dyschesia. This study 
+highlights the value of this elegant ultrasonographic technique in the diagnosis 
+of "pelvic floor dyssynergia" or "anismus".
+
+DOI: 10.1136/gut.51.5.695
+PMCID: PMC1773419
+PMID: 12377809 [Indexed for MEDLINE]

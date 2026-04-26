@@ -1,0 +1,45 @@
+1. Int J Cardiol. 2015 Aug 1;192:40-8. doi: 10.1016/j.ijcard.2015.04.259. Epub
+2015  May 1.
+
+Is ganglionated plexi ablation during Maze IV procedure beneficial for 
+postoperative long-term stable sinus rhythm?
+
+Gelsomino S(1), Lozekoot P(2), La Meir M(2), Lorusso R(2), Lucà F(3), Rostagno 
+C(4), Renzulli A(5), Parise O(3), Matteucci F(3), Gensini GF(4), Crjins HJ(2), 
+Maessen JG(2).
+
+Author information:
+(1)University Hospital Maastricht, The Netherlands; Careggi Hospital, Florence 
+Italy. Electronic address: sandro.gelsomino@maastrichtuniversity.nl.
+(2)University Hospital Maastricht, The Netherlands.
+(3)University Hospital Maastricht, The Netherlands; Careggi Hospital, Florence 
+Italy.
+(4)Careggi Hospital, Florence Italy.
+(5)University of Magna Graecia, Catanzaro, Italy.
+
+BACKGROUND: We investigated the role of surgical ablation targeting the 
+autonomous nervous system during a Cox-Maze IV procedure in the maintenance of 
+sinus rhythm at long-term follow-up.
+METHODS: The patient population consisted of 519 subjects with persistent or 
+long-standing persistent atrial fibrillation (AF) undergoing radiofrequency Maze 
+IV during open heart surgery between January 2006 and July 2013 at three 
+institutions without (Group 1) or with (Group 2) ganglionated plexi (GP) 
+ablation. Recurrence of atrial fibrillation off-antiarrhythmic drugs was the 
+primary outcome. Predictors of AF recurrence were evaluated by means of 
+competing risk regression. Median follow-up was 36.7 months.
+RESULTS: The percentage of patients in normal sinus rhythm (NSR) 
+off-antiarrhythmic drugs did not differ between groups (Group 1-75.5%, Group 
+2-67.8%, p = 0.08). Duration of AF ≥ 38 months (p = 0.01), left atrial diameter 
+≥ 54 mm (0.001), left atrial area ≥ 33 cm(2) (p = 0.005), absence of connecting 
+lesions (p= 0.04), and absence of right atrial ablation (p < 0.001) were 
+independently associated with high incidence of AF recurrence. In contrast the 
+absence of GP ablation was not a significant factor (p = 0.12).
+CONCLUSIONS: GP ablation did not prove to be beneficial for postoperative stable 
+NSR. A complete left atrial lesion set and biatrial ablation are advisable for 
+improving rhythm outcomes. Randomized controlled trials are necessary to confirm 
+our findings.
+
+Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.ijcard.2015.04.259
+PMID: 25985014 [Indexed for MEDLINE]

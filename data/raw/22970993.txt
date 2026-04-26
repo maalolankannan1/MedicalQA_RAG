@@ -1,0 +1,45 @@
+1. Asian J Endosc Surg. 2013 Feb;6(1):21-5. doi:
+10.1111/j.1758-5910.2012.00152.x.  Epub 2012 Sep 12.
+
+Does sex affect the outcome of laparoscopic cholecystectomy? A retrospective 
+analysis of single center experience.
+
+Kamran K(1), Afridi ZU, Muqim RU, Khalil J.
+
+Author information:
+(1)Department of Surgery, Surgical A Unit, Khyber Teaching Hospital, Peshawar, 
+Pakistan. kkamran.com@gmail.com
+
+INTRODUCTION: The aim of our study was to determine the effect of sex on the 
+outcome of laparoscopic cholecystectomy in terms of operative time, conversion 
+to open cholecystectomy, postoperative complications and mean hospital stay.
+METHODS: In this retrospective observational study, we analyzed the medical 
+records of 2061 patients who underwent laparoscopic cholecystectomy in the 
+surgical department of Khyber Teaching Hospital (Peshawar, Pakistan) between 
+March 2008 and January 2010. χ(2) test and t-test were respectively used to 
+analyze categorical and numerical variables. P ≤ 0.05 was considered 
+significant.
+RESULTS: The study included 1772 female and 289 male patients. The mean age for 
+male patients was 44.07 ± 11.91 years compared to 41.29 ± 12.18 years for female 
+patients (P = 0.706). Laparoscopic cholecystectomy was successfully completed in 
+1996 patients. The conversion rate was higher in men (P < 0.001), and the mean 
+operating time was longer in men (P < 0.001). Bile duct injuries occurred more 
+frequently in men (P < 0.001). Gallbladder perforation and gallstone spillage 
+also occurred more commonly in men (P = 0.001); similarly severe inflammation 
+was reported more in male patients (P = 0001). There were no statistically 
+significant differences in mean hospital stay, wound infection and port-site 
+herniation between men and women. Multivariate regression analysis showed that 
+the male sex is an independent risk factor for conversion to open 
+cholecystectomy (odds ratio = 2.65, 95% confidence interval: 1.03-6.94, 
+P = 0.041) and biliary injuries (odds ratio = 0.95, 95% confidence interval: 
+0.91-0.99, P-value = 0.036).
+CONCLUSIONS: Laparoscopic cholecystectomy is often challenging in men on account 
+of more adhesions and inflammation. This leads to higher conversion rates and 
+more postoperative complications. Optimized planning and a more experienced 
+operating surgeon may help overcome these problems.
+
+© 2012 Japan Society for Endoscopic Surgery, Asia Endosurgery Task Force and 
+Wiley Publishing Asia Pty Ltd.
+
+DOI: 10.1111/j.1758-5910.2012.00152.x
+PMID: 22970993 [Indexed for MEDLINE]

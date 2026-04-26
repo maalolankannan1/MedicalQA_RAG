@@ -1,0 +1,71 @@
+1. Can J Surg. 1999 Apr;42(2):101-8.
+
+Is perforation of the appendix a risk factor for tubal infertility and ectopic 
+pregnancy? An appraisal of the evidence.
+
+Urbach DR(1), Cohen MM.
+
+Author information:
+(1)Maternal, Infant and Reproductive Health Research Unit, University of 
+Toronto, Ont.
+
+OBJECTIVE: To critically assess the evidence that appendiceal perforation is a 
+risk factor for subsequent tubal infertility or ectopic pregnancy.
+DATA SOURCES: Epidemiologic studies investigating the relationship between 
+appendectomy and infertility or ectopic pregnancy were identified by searching 
+the MEDLINE database from 1966 to 1997. Appropriate citations were also 
+extracted from a manual search of the bibliographies of selected papers.
+STUDY SELECTION: Twenty-three articles were retrieved. Only 4 presented original 
+data including comparisons to a nonexposed control group and they form the basis 
+for this study.
+DATA EXTRACTION: Because the raw data or specific techniques of data analysis 
+were not always explicitly described, indices of risk for exposure were 
+extracted from the data as presented and were analysed without attempting to 
+convert them to a common measure.
+DATA SYNTHESIS: Articles were assessed according to the criteria of the 
+Evidence-Based Medicine Working Group for evaluating articles on harm. Review of 
+the literature yielded estimates of the risk of adverse fertility outcomes 
+ranging from 1.6 (95% confidence interval [CI] 1.1 to 2.5) for ectopic pregnancy 
+after an appendectomy to 4.8 (95% CI 1.5 to 14.9) for tubal infertility from 
+perforation of the appendix. Recall bias, and poor adjustment for confounding 
+variables in some reports, weakened the validity of the studies.
+CONCLUSIONS: The methodologic weaknesses of the studies do not permit acceptance 
+of increased risk of tubal pregnancy or infertility as a consequence of 
+perforation of the appendix, so a causal relationship cannot be supported by the 
+data currently available. Only a well-designed case-control study with unbiased 
+ascertainment of exposure and adjustment for confounding variables will provide 
+a definitive answer.
+
+OBJECTIF: Évaluer de façon critique les données probantes selon lesquelles une 
+perforation de l’appendice constitue un facteur de risque de stérilité tubaire 
+ou de grossesse ectopique subséquentes.
+SOURCES DE DONNÉES: On a repéré des études épidémiologiques portant sur le lien 
+entre l’appendicectomie et la stérilité ou la grossesse ectopique en effectuant 
+une recherche dans la base de données MEDLINE de 1966 à 1997. On a aussi extrait 
+des citations pertinentes à la suite d’une recherche manuelle effectuée dans les 
+bibliographies de certaines communications.
+SÉLECTION D’ÉTUDES: On a extrait 23 articles dont 4 seulement présentaient des 
+données originales, y compris des comparaisons avec un groupe témoin non exposé. 
+Ces articles constituent la base de la présente étude.
+EXTRACTION DE DONNÉES: Parce que les données brutes ou les techniques précises 
+d’analyse des données n’étaient pas toujours décrites explicitement, on a 
+extrait des données présentées des indices de risque d’exposition, que l’on a 
+analysés sans essayer de les convertir en mesure commune.
+SYNTHÈSE DES DONNÉES: On a évalué les articles en fonction des critères 
+d’évaluation des articles sur le préjudice du Groupe de travail sur la médecine 
+fondée sur des données probantes. Une recension des écrits a produit des 
+estimations du risque de résultats indésirables sur la fécondité variant de 1,6 
+(intervalle de confiance [IC] à 95 %, 1,1 à 2,5) dans le cas de la grossesse 
+ectopique après une appendicectomie à 4,8 (IC à 95 %, 1,5 à 14,9) dans celui de 
+la stérilité tubaire à la suite d’une perforation de l’appendice. Le biais lié 
+au rappel et le rajustement médiocre en fonction des variables confusionnelles 
+contenues dans certains rapports ont affaibli la validité des études.
+CONCLUSIONS: Les faiblesses méthodologiques des études ne permettent pas 
+d’accepter le risque accru de grossesse ectopique ou de stérilité tubaire à la 
+suite d’une perforation de l’appendice et les données actuellement disponibles 
+ne peuvent donc appuyer un lien de cause à effet. Seule une étude cas témoin 
+bien conçue comportant une évaluation non biaisée du risque et un rajustement en 
+fonction des variables confusionnelles produira une réponse définitive.
+
+PMCID: PMC3788969
+PMID: 10223070 [Indexed for MEDLINE]

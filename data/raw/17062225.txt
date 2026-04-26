@@ -1,0 +1,47 @@
+1. Ann Thorac Surg. 2006 Nov;82(5):1670-7. doi: 10.1016/j.athoracsur.2006.05.029.
+
+Thoracic and thoracoabdominal aneurysm repair: is reimplantation of spinal cord 
+arteries a waste of time?
+
+Etz CD(1), Halstead JC, Spielvogel D, Shahani R, Lazala R, Homann TM, Weisz DJ, 
+Plestis K, Griepp RB.
+
+Author information:
+(1)Department of Cardiothoracic Surgery, Mount Sinai School of Medicine, New 
+York, New York 10029, USA. christian.etz@mountsinai.org
+
+Comment in
+    Ann Thorac Surg. 2006 Nov;82(5):1677-8. doi: 
+10.1016/j.athoracsur.2006.05.073.
+    Perspect Vasc Surg Endovasc Ther. 2008 Jun;20(2):221-3. doi: 
+10.1177/1531003508317595.
+
+BACKGROUND: The impact of different strategies for management of intercostal and 
+lumbar arteries during repair of thoracic and thoracoabdominal aortic aneurysms 
+(TAA/A) on the prevention of paraplegia remains poorly understood.
+METHODS: One hundred consecutive patients with intraoperative monitoring of 
+motor evoked potentials (MEP) and somatosensory evoked potentials (SSEP) during 
+TAA/A repair involving serial segmental artery sacrifice (October 2002 to 
+December 2004) were reviewed.
+RESULTS: Operative mortality was 6%. The median intensive care unit stay was 2.5 
+days (IQ range: 1-4 days), and the median hospital stay 10.0 days (IQ range: 
+8-17 days). Potentials remained unchanged during the course of serial segmental 
+artery sacrifice, or could be returned to baseline levels by anesthetic and 
+blood pressure manipulation, in 99 of 100 cases. An average of 8.0 +/- 2.6 
+segmental artery pairs were sacrificed overall, with an average of 4.5 +/- 2.1 
+segmental pairs sacrificed between T7 and L1, where the artery of Adamkiewicz is 
+presumed to arise. Postoperative paraplegia occurred in 2 patients. In 1, 
+immediate paraplegia was precipitated by an intraoperative dissection, resulting 
+in 6 hours of lower body ischemia. A second ambulatory patient had severe 
+paraparesis albeit normal cerebral function after resuscitation from a 
+respiratory arrest.
+CONCLUSIONS: With monitoring of MEP and SSEP, sacrifice--without 
+reimplantation--of as many as 15 intercostal and lumbar arteries during TAA/A 
+repair is safe, resulting in acceptably low rates of immediate and delayed 
+paraplegia. This experience suggests that routine surgical implantation of 
+segmental vessels is not indicated, and that, with evolving understanding of 
+spinal cord perfusion, endovascular repair of the entire thoracic aorta should 
+ultimately be possible without spinal cord injury.
+
+DOI: 10.1016/j.athoracsur.2006.05.029
+PMID: 17062225 [Indexed for MEDLINE]

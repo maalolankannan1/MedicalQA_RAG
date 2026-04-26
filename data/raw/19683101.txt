@@ -1,0 +1,37 @@
+1. Am J Emerg Med. 2009 Sep;27(7):765-9. doi: 10.1016/j.ajem.2008.06.001.
+
+Can D-dimer become a new diagnostic parameter for acute appendicitis?
+
+Mentes O(1), Eryilmaz M, Harlak A, Ozer T, Balkan M, Kozak O, Tufan T.
+
+Author information:
+(1)Department of General Surgery, Gülhane Military School of Medicine, 
+Etlik/Ankara 06018, Turkey. onermentes@yahoo.com
+
+INTRODUCTION: In this study, we investigated D-dimer serum level as a diagnostic 
+parameter for acute appendicitis.
+MATERIALS AND METHODS: Forty-nine patients were enrolled in the study. Patients 
+were classified according to age; sex; duration between the beginning of pain 
+and referral to a hospital or clinic; Alvarado scores; and in physical 
+examination, presence of muscular defense, the number of leukocytes, 
+preoperative ultrasonography, and D-dimer levels of histopathologic study groups 
+were analyzed.
+RESULTS: Of the patients enrolled in the study, 26.5% were females and 73.5% 
+males. The average age was 21 years (range, 16-38 years) and 81.7% acute 
+appendicitis (AA). According the duration of pain, 63.2% of the patients were 
+referred to the hospital within the first 24 hours, 26.5% of the patients were 
+referred to the hospital within 24 to 48 hours, and 10.3% were referred to the 
+hospital within a period of more than 48 hours. No statistically significant 
+difference was determined regarding D-dimer levels between the histopathologic 
+study groups (P > .05). Alvarado scores lower than 7 were found in 36.7% and 7 
+or higher in 63.3% of the patients. There was no statistically significant 
+difference related with D-dimer levels between histopathologic study groups (P > 
+.05). The ratio of cases with a number of leukocytes below the upper limit were 
+determined respectively as 32.7% and 67.3%, and no statistically significant 
+difference was found regarding d-dimer levels between histopathologic study 
+groups (P > .05).
+CONCLUSION: Increased D-dimer levels should not be considered as a diagnostic 
+parameter in diagnosis of acute appendicitis.
+
+DOI: 10.1016/j.ajem.2008.06.001
+PMID: 19683101 [Indexed for MEDLINE]

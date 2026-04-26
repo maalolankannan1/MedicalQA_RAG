@@ -1,0 +1,33 @@
+1. Eur Heart J. 2005 Aug;26(15):1513-8. doi: 10.1093/eurheartj/ehi182. Epub 2005 
+Mar 30.
+
+Are even impaired fasting blood glucose levels preoperatively associated with 
+increased mortality after CABG surgery?
+
+Anderson RE(1), Klerdal K, Ivert T, Hammar N, Barr G, Owall A.
+
+Author information:
+(1)Department of Cardiothoracic Surgery and Anaesthesiology, Karolinska 
+University Hospital, S-171 76 Stockholm, Sweden. russell.anderson@kirurgi.ki.se
+
+AIMS: Impaired fasting glucose (IFG) below the diagnostic threshold for diabetes 
+mellitus (DM) is associated with macrovascular pathology and increased mortality 
+after percutaneous coronary interventions. The study goal was to determine 
+whether pre-operative fasting blood glucose (fB-glu) is associated with an 
+increased mortality after coronary artery bypass grafting (CABG).
+METHODS AND RESULTS: During 2001-03, 1895 patients underwent primary CABG 
+[clinical DM (CDM) in 440/1895; complete data on fB-glu for n=1375/1455]. Using 
+pre-operative fB-glu, non-diabetics were categorized as having normal fB-glu 
+(<5.6 mmol/L), IFG (5.6< or =fB-glu<6.1 mmol/L), or suspected DM (SDM) (> or 
+=6.1 mmol/L). fB-glu was normal in 59%. The relative risks of 30 day and 1 year 
+mortality compared with patients with normal fB-glu was 1.7 [95% confidence 
+interval (CI): 0.5-5.5] and 2.9 (CI: 0.8-11.2) with IFG, 2.8 (CI: 1.1-7.2) and 
+1.9 (CI: 0.5-6.3) with SDM vs. 1.8 (CI: 0.8-4.0) and 1.6 (CI: 0.6-4.3) if CDM, 
+respectively. The receiver operator characteristic area for the continuous 
+variable fB-glu and 1 year mortality was 0.65 (P=0.002).
+CONCLUSION: The elevated risk of death after CABG surgery known previously to be 
+associated with CDM seems also to be shared by a group of similar size that 
+includes patients with IFG and undiagnosed DM.
+
+DOI: 10.1093/eurheartj/ehi182
+PMID: 15800018 [Indexed for MEDLINE]

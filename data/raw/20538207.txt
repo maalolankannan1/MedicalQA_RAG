@@ -1,0 +1,44 @@
+1. Prog Urol. 2010 Jun;20(6):430-4. doi: 10.1016/j.purol.2009.11.004. Epub 2009
+Dec  30.
+
+[Should temperature be monitorized during kidney allograft preservation?].
+
+[Article in French]
+
+Billault C(1), Rolland E, Vaessen C, Van Glabeke E, Gouezo R, Richard F, Barrou 
+B.
+
+Author information:
+(1)Service d'urologie et de transplantation rénale et pancréatique, hôpital de 
+La Pitié-Salpêtrière, 47-83, boulevard de l'Hôpital, 75651 Paris cedex 13, 
+France. clairebillault@orange.fr
+
+GOAL: It is generally considered that kidney grafts should be preserved at 4 
+degrees C during cold storage. However, actual temperature conditions are not 
+known. We decided to study the temperature levels during preservation with the 
+Biotainer storage can and Vitalpack transport pack.
+MATERIAL: Temperature was monitored using the Thermobouton probe during 
+preservation of pig kidneys, in the same conditions used with human grafts. The 
+probe recorded the temperature level every 10 minutes during four days. We 
+compared the results found with the new storage can with results obtained in the 
+same conditions with the storage can formerly used by our team. We also studied 
+the best position of the probe for temperature monitoring and the influence of 
+the amount of ice within the transport pack on the temperature level. We then 
+monitored the temperature during the conservation of actual human kidney grafts 
+harvested at our institution from August 2007 to May 2008.
+RESULTS: The temperature levels were the same regardless of the position of the 
+probe within the transport pack. The lowest temperature was maintained during 15 
+hours, and the temperature level stayed below 5 degrees C for 57 hours with the 
+new storage can. The former storage can maintained the lowest temperature level 
+for 80 minutes, and temperature reached 5 degrees C after 10 hours 40 minutes. 
+Temperature levels were similar when 2 or 4 kg of crushed ice were used. We 
+observed similar results when monitoring the conservation of human grafts.
+CONCLUSION: The new storage can affords more stable temperature levels when 
+compared to the formerly used can. Since temperature is stable during 
+conservation, continuous monitoring in everyday practice does not seem 
+warranted.
+
+Copyright 2009 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.purol.2009.11.004
+PMID: 20538207 [Indexed for MEDLINE]

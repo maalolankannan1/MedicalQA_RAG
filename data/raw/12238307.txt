@@ -1,0 +1,39 @@
+1. Wien Klin Wochenschr. 2002 Mar 28;114(5-6):187-93.
+
+[Vaccine protection in the elderly: are Austrian seniors adequately protected by 
+vaccinations?].
+
+[Article in German]
+
+Hainz U(1), Aigner K, Asch E, Berger P, Böhmer F, Feldkircher B, Horwath B, 
+Jenewein B, Kassal H, Kistner O, Mack H, Pfeiffer KP, Pils K, Plank J, Renner D, 
+Saurwein-Teissl M, Schwanzer E, Trieb K, Grubeck-Loebenstein B.
+
+Author information:
+(1)Institut für Biomedizinische Altersforschung, Osterreichischen Akademie der 
+Wissenschaften, Innsbruck.
+
+Comment in
+    Wien Klin Wochenschr. 2002 Mar 28;114(5-6):167-70.
+
+OBJECTIVE: The aim of the study was to evaluate, if elderly persons are 
+sufficiently protected against infectious diseases by vaccination.
+PROBANDS AND METHODS: 300 elderly (> 60 years) and 300 young (< 35 years) 
+persons from five Austrian cities were recruited according to the criteria of a 
+field study. Antibody concentrations against tetanus, diphtheria, tickborne 
+encephalitis and influenza were assessed by ELISA or by haemagglutination 
+inhibition test. Disease and vaccination histories were recorded.
+RESULTS: The results of the study demonstrate that protection against infectious 
+diseases was frequently insufficient in the elderly. This was partly due to the 
+fact that old persons were not vaccinated according to recommended strategies. 
+However, low antibody concentration and a short duration of protective humoral 
+immunity were also observed in many elderly persons in spite of regular 
+vaccination. This was not only the case in frail, but also in healthy elderlies.
+CONCLUSION: The data demonstrate that vaccination has a relatively weak and 
+short-lasting effect in old age. The results of the study should stimulate 
+discussions about strategies how vaccinations can be made more effective in old 
+age. Improved campaigns, shortened vaccination intervals as well as the design 
+of novel vaccines tailored to fulfill the specific demands of the aging immune 
+system are imaginable.
+
+PMID: 12238307 [Indexed for MEDLINE]

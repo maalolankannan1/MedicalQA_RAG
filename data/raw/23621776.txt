@@ -1,0 +1,35 @@
+1. J Womens Health (Larchmt). 2013 Jun;22(6):501-6. doi: 10.1089/jwh.2012.3885. 
+Epub 2013 Apr 27.
+
+Does a history of unintended pregnancy lessen the likelihood of desire for 
+sterilization reversal?
+
+Grady CD(1), Schwarz EB, Emeremni CA, Yabes J, Akers A, Zite N, Borrero S.
+
+Author information:
+(1)University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA.
+
+BACKGROUND: Unintended pregnancy has been significantly associated with 
+subsequent female sterilization. Whether women who are sterilized after 
+experiencing an unintended pregnancy are less likely to express desire for 
+sterilization reversal is unknown.
+METHODS: This study used national, cross-sectional data collected by the 
+2006-2010 National Survey of Family Growth. The study sample included women ages 
+15-44 who were surgically sterile from a tubal sterilization at the time of 
+interview. Multivariable logistic regression was used to examine the 
+relationship between a history of unintended pregnancy and desire for 
+sterilization reversal while controlling for potential confounders.
+RESULTS: In this nationally representative sample of 1,418 women who were 
+sterile from a tubal sterilization, 78% had a history of at least one unintended 
+pregnancy and 28% expressed a desire to have their sterilization reversed. In 
+unadjusted analysis, having a prior unintended pregnancy was associated with 
+higher odds of expressing desire for sterilization reversal (odds ratio [OR]: 
+1.80; 95% confidence interval [CI]: 1.15-2.79). In adjusted analysis controlling 
+for sociodemographic factors, unintended pregnancy was no longer significantly 
+associated with desire for reversal (OR: 1.46; 95% CI: 0.91-2.34).
+CONCLUSION: Among women who had undergone tubal sterilization, a prior history 
+of unintended pregnancy did not decrease desire for sterilization reversal.
+
+DOI: 10.1089/jwh.2012.3885
+PMCID: PMC3678583
+PMID: 23621776 [Indexed for MEDLINE]

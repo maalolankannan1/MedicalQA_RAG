@@ -1,0 +1,30 @@
+1. Am J Hosp Palliat Care. 2011 Nov;28(7):463-6. doi: 10.1177/1049909111400723. 
+Epub 2011 Mar 10.
+
+Do symptoms matter when considering patients for phase I clinical trials?: a 
+pilot study of older adults with advanced cancer.
+
+Healy JM(1), Patel T, Lee S, Sanchez-Reilly S.
+
+Author information:
+(1)Department Medicine, Division of Geriatrics, Gerontology, and Palliative 
+Care, University of Texas Health Science Center at San Antonio, USA. 
+Healyj@uthscsa.edu
+
+BACKGROUND: Older adults (OA) with advanced cancer (AC) undergoing phase I 
+clinical trials (PICT) have poor prognosis. There are no studies which describe 
+symptoms experienced by OA.
+METHODS: Retrospective chart review of PICT participants >60 years. OA were 
+compared by age (>65 vs 60-65) and by number of symptoms (>3 vs ≤3).
+RESULTS: N = 56. Mean age = 67.09; 48.21% female. Median life-expectancy = 5 
+months (interquartile range = 2-9 months); 80.36% had pain; of those 64% without 
+pain scale. Most did not have interdisciplinary professionals or hospice 
+referrals. Older adults with >3 symptoms had more admissions (37.5% vs 14.29%; P 
+= .0335), complications (46.43% vs 16.07%; P = .0026), and greater decline in 
+functional status (24 participants >3 symptoms vs 8; P = .0173). There were no 
+significant differences comparing OA by age.
+CONCLUSIONS: Older adults enrolled in PICT with more symptoms may sacrifice QOL 
+for experimental treatment.
+
+DOI: 10.1177/1049909111400723
+PMID: 21398266 [Indexed for MEDLINE]

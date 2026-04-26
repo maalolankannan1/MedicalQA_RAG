@@ -1,0 +1,45 @@
+1. Invest Ophthalmol Vis Sci. 2012 May 4;53(6):2593-600. doi:
+10.1167/iovs.11-9340.
+
+Are normally sighted, visually impaired, and blind pedestrians accurate and 
+reliable at making street crossing decisions?
+
+Hassan SE(1).
+
+Author information:
+(1)School of Optometry, Indiana University, 800 East Atwater Avenue, 
+Bloomington, IN 47405, USA. shhassan@indiana.edu
+
+PURPOSE: The purpose of this study is to measure the accuracy and reliability of 
+normally sighted, visually impaired, and blind pedestrians at making street 
+crossing decisions using visual and/or auditory information.
+METHODS: Using a 5-point rating scale, safety ratings for vehicular gaps of 
+different durations were measured along a two-lane street of one-way traffic 
+without a traffic signal. Safety ratings were collected from 12 normally 
+sighted, 10 visually impaired, and 10 blind subjects for eight different gap 
+times under three sensory conditions: (1) visual plus auditory information, (2) 
+visual information only, and (3) auditory information only. Accuracy and 
+reliability in street crossing decision-making were calculated for each subject 
+under each sensory condition.
+RESULTS: We found that normally sighted and visually impaired pedestrians were 
+accurate and reliable in their street crossing decision-making ability when 
+using either vision plus hearing or vision only (P > 0.05). Under the hearing 
+only condition, all subjects were reliable (P > 0.05) but inaccurate with their 
+street crossing decisions (P < 0.05). Compared to either the normally sighted (P 
+= 0.018) or visually impaired subjects (P = 0.019), blind subjects were the 
+least accurate with their street crossing decisions under the hearing only 
+condition.
+CONCLUSIONS: Our data suggested that visually impaired pedestrians can make 
+accurate and reliable street crossing decisions like those of normally sighted 
+pedestrians. When using auditory information only, all subjects significantly 
+overestimated the vehicular gap time. Our finding that blind pedestrians 
+performed significantly worse than either the normally sighted or visually 
+impaired subjects under the hearing only condition suggested that they may 
+benefit from training to improve their detection ability and/or interpretation 
+of vehicular gap times.
+
+DOI: 10.1167/iovs.11-9340
+PMCID: PMC3358127
+PMID: 22427593 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure: S.E. Hassan, None

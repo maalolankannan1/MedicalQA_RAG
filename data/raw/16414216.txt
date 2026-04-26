@@ -1,0 +1,35 @@
+1. Maturitas. 2006 Jun 20;54(3):277-84. doi: 10.1016/j.maturitas.2005.12.003.
+Epub  2006 Jan 18.
+
+Are endometrial polyps from pre-menopausal women similar to post-menopausal 
+women? An immunohistochemical comparison of endometrial polyps from pre- and 
+post-menopausal women.
+
+McGurgan P(1), Taylor LJ, Duffy SR, O'Donovan PJ.
+
+Author information:
+(1)M.E.R.I.T. Centre, Bradford Royal Infirmary, UK. paul_mc_gurgan@hotmail.com
+
+OBJECTIVE: Do endometrial polyps from pre- and post-menopausal women have 
+similar immunohistochemical expression of oestrogen and progesterone receptors 
+(ER, PR) and markers of cellular proliferation/apoptosis (Ki67 and Bcl-2).
+DESIGN: Prospective cohort study. Non-parametric statistical analysis was used.
+SETTING: Polyps recruited from women attending an out-patient hysteroscopy 
+clinic in a UK district general hospital.
+PATIENTS: Fourteen pre-menopausal and 16 post-menopausal women who presented 
+with abnormal bleeding with endometrial polyps.
+INTERVENTIONS: Immunohistochemical staining was performed on endometrial polyps.
+MAIN OUTCOME MEASURES: Significant differences or correlations between hormone 
+receptor expression (oestrogen and progesterone) and cell growth indices (Ki67 
+and Bcl-2).
+RESULTS: Endometrial polyps from pre- and post-menopausal women had significant 
+differences in their expression of hormone receptors and Ki67. However, polyps 
+from both groups of women had similarly increased levels of Bcl-2, an inhibitor 
+of apoptosis.
+CONCLUSIONS: Pre- and post-menopausal polyps exhibit differing hormone receptor 
+and proliferation markers, presumably a result of their hormonal milieu. 
+However, both groups appear to have lost the usual control mechanisms for 
+apoptotic regulation, this appears to be responsible for their growth.
+
+DOI: 10.1016/j.maturitas.2005.12.003
+PMID: 16414216 [Indexed for MEDLINE]

@@ -1,0 +1,58 @@
+1. Acta Obstet Gynecol Scand. 2017 May;96(5):580-588. doi: 10.1111/aogs.13123.
+Epub  2017 Mar 24.
+
+Is the first urinary albumin/creatinine ratio (ACR) in women with suspected 
+preeclampsia a prognostic factor for maternal and neonatal adverse outcome? A 
+retrospective cohort study.
+
+Elia EG(1), Robb AO(2), Hemming K(1), Price MJ(1), Riley RD(3), French-Constant 
+A(2), Denison FC(4), Kilby MD(5), Morris RK(5), Stock SJ(4)(6).
+
+Author information:
+(1)Public Health, Epidemiology and Biostatistics, School of Health and 
+Population Sciences, College of Medical and Dental Sciences, University of 
+Birmingham, Birmingham, UK.
+(2)The Simpson Centre for Reproductive Health, Royal Infirmary of Edinburgh, 
+Edinburgh, UK.
+(3)Primary Care and Health Sciences, Keele University, Newcastle, UK.
+(4)Tommy's Centre for Maternal and Fetal Health, MRC Centre for Reproductive 
+Health, University of Edinburgh Queen's Medical Research Institute, Edinburgh, 
+UK.
+(5)Birmingham Centre for Women's & Newborn's Health, Institute of Metabolism and 
+Systems Research, College of Medical & Dental Sciences, University of 
+Birmingham, Birmingham, UK.
+(6)School of Women's and Infant's Health, University of Western Australia, The 
+University of Western Australia at King Edward Memorial Hospital, Crawley, WA, 
+Australia.
+
+INTRODUCTION: The aim of this study was to determine the prognostic value of the 
+first urinary albumin/creatinine ratio (ACR) for adverse maternal and neonatal 
+outcomes and how it relates to other prognostic factors.
+MATERIAL AND METHODS: We performed a retrospective cohort study from December 
+2009 to February 2012 with analysis of demographic, clinical and biochemical 
+data from two obstetric day assessment units in hospitals in Southeast Scotland. 
+We included 717 pregnant women, with singleton pregnancies after 20 weeks' 
+gestation, referred for evaluation of suspected preeclampsia and having their 
+first ACR performed. The ability of ACR to predict future outcomes was assessed 
+in both univariable and multivariable logistic regression models. The latter 
+assessed its prognostic value independent of (adjusting for) existing prognostic 
+factors. Primary outcome measures were maternal and neonatal composite adverse 
+outcomes, and a secondary outcome was gestation at delivery.
+RESULTS: In all, 204 women (28.5%) experienced a composite adverse maternal 
+outcome and 146 women (20.4%) experienced a composite adverse neonatal outcome. 
+Multivariate analysis of log-transformed ACR demonstrated that a 1-unit increase 
+in log ACR is associated with an increased odds of adverse maternal [odds ratio 
+1.60, 95% confidence interval (CI) 1.45-1.80] and adverse neonatal (odds ratio 
+1.15, 95% CI 1.02-1.29) composite outcomes, and with reduced gestational age at 
+delivery (coefficient: -0.46, 95% CI -0.54 to -0.38).
+CONCLUSIONS: ACR is an independent prognostic factor for maternal and neonatal 
+adverse outcomes in suspected preeclampsia. ACR may be useful to inform risk 
+predictions within a prognostic model.
+
+© 2017 The Authors. Acta Obstetricia et Gynecologica Scandinavica published by 
+John Wiley & Sons Ltd on behalf of Nordic Federation of Societies of Obstetrics 
+and Gynecology (NFOG).
+
+DOI: 10.1111/aogs.13123
+PMCID: PMC5413808
+PMID: 28247485 [Indexed for MEDLINE]

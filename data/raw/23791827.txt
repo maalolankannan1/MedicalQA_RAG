@@ -1,0 +1,44 @@
+1. Gynecol Oncol. 2013 Sep;130(3):411-5. doi: 10.1016/j.ygyno.2013.06.018. Epub 
+2013 Jun 20.
+
+Inpatient versus outpatient management of neutropenic fever in gynecologic 
+oncology patients: is risk stratification useful?
+
+Gunderson CC(1), Farrell R, Dinh BC, Thomas ED, Vesely SK, Lauer JK, Kao L, 
+Chopra S, McMeekin DS, Moore KN.
+
+Author information:
+(1)Division of Gynecologic Oncology, Department of Obstetrics and Gynecology, 
+The University of Oklahoma Health Sciences Center, 800 NE 10th Street, Oklahoma 
+City, OK 71304, USA. camille-gunderson@ouhsc.edu
+
+OBJECTIVE: This study aimed to evaluate the utility of risk stratification of 
+gynecologic oncology patients with neutropenic fever (NF).
+METHODS: A retrospective chart review of gynecologic cancer patients admitted 
+with NF from 2007 to 2011 was performed, wherein demographic, oncologic, and NF 
+characteristics (hospitalization length, complications, and death) were 
+collected. The Multinational Association for Supportive Care in Cancer (MASCC) 
+risk index score was calculated; low risk was considered ≥ 21. SAS 9.2 was used 
+for statistical analyses.
+RESULTS: Eighty-three patients met the study criteria. Most (92%) were Caucasian 
+and had advanced stage disease (71%). Primary tumors were 58% ovary, 35% 
+endometrium, and 6% cervix. All patients were receiving chemotherapy on 
+admission (72% for primary, 28% for recurrent disease). Forty-eight percent had 
+a positive culture, and most (58%) positive cultures were urine. Seventy-six 
+percent of patients were considered low risk. High-risk patients were more 
+likely to have a severe complication (10% versus 50%, p=0.0003), multiple severe 
+complications (3% versus 20%, p=0.0278), ICU admission (2% versus 40%, 
+p<0.0001), overall mortality (2% versus 15%, p=0.0417), and death due to 
+neutropenic fever (0% versus 15%, p=0.0124). MASCC had a positive predictive 
+value of 50% and negative predictive value of 90%. The median MASCC score for 
+all patients was 22 (range, 11-26), but the median MASCC score for those with 
+death or a severe complication was 17 (range, 11-24).
+CONCLUSION: Based on this pilot data, MASCC score appears promising in 
+determining suitability for outpatient management of NF in gynecologic oncology 
+patients. Prospective study is ongoing to confirm safety and determine impact on 
+cost.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygyno.2013.06.018
+PMID: 23791827 [Indexed for MEDLINE]

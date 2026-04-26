@@ -1,0 +1,33 @@
+1. Prog Urol. 2007 Apr;17(2):189-93. doi: 10.1016/s1166-7087(07)92261-7.
+
+[Is tumour expression of VEGF associated with venous invasion and survival in 
+pT3 renal cell carcinoma?].
+
+[Article in French]
+
+Bensalah K(1), Rioux-Leclercq N, Vincendeau S, Guille F, Patard JJ.
+
+Author information:
+(1)Service d'urologie, Hôpital Pontchaillou, Rennes, France.
+
+STUDY OBJECTIVE: To determine whether there is a relationship between VEGF 
+expression and renal vein and vena cava invasion in stage pT3 renal cell 
+carcinoma and to evaluate the impact of VEGF expression on survival in pT3 renal 
+cell carcinoma.
+MATERIAL AND METHODS: 78 patients with a pT3a or pT3b tumour without vena cava 
+invasion or pT3b tumour with vena cava invasion were compared for age, gender, 
+Fuhrman grade and immunohistochemical expression of VEGF. All these variables 
+were submitted to univariate and multivariate analysis to establish their impact 
+on survival.
+RESULTS: Only tumour size appeared to be significantly different between the 3 
+groups. On univariate analysis, invasion of the perirenal fat, lymph node 
+involvement, distant metastases and VEGF expression were significantly 
+associated with survival (p < 0.01). On multivariate analysis, lymph node 
+involvement, distant metastases and VEGF expression (OR 6.07) were identified as 
+independent predictive factors of survival.
+CONCLUSION: Progression of a pT3 tumour into the renal vein and vena cava is not 
+associated with increased tumour expression of VEGF. However, VEGF is an 
+independent prognostic factor in this group of poor prognosis renal tumours.
+
+DOI: 10.1016/s1166-7087(07)92261-7
+PMID: 17489316 [Indexed for MEDLINE]

@@ -1,0 +1,35 @@
+1. Panminerva Med. 2003 Jun;45(2):145-50.
+
+Is ankle/arm pressure predictive for cardiovascular mortality in older patients 
+living in nursing homes?
+
+Zanocchi M(1), Ponzetto M, Scarafiotti C, Maero B, Giona E, Francisetti F, 
+Nicola E, Corsinovi L, Amati D, Fabris F.
+
+Author information:
+(1)Geriatric Section, Department of Medical and Surgical Disciplines, University 
+of Turin, Turin, Italy. mzanocc@tin.it
+
+AIM: To identify whether Ankle/Arm Index (AAI) is a predictive factor for 
+cardiovascular mortality in institutionalised elderly.
+DESIGN: longitudinal descriptive study.
+SETTING: 2 large nursing homes in Turin, Italy.
+SUBJECTS: 418 dependent elderly (83 males, 335 females, mean age 83.7+/-8.5 y, 
+range 55-102) living in the nursing homes.
+MEASUREMENTS: the prevalence of peripheral arterial disease (PAD) was evaluated 
+using a Doppler Ultrasound measurement of AAI (Ankle/Arm blood pressure Index). 
+Death causes according to ICD-9-CM were ascertained on patient's clinical 
+records.
+RESULTS: Diagnosis of PAD was made in 122 subjects (29.2%) with AAI <0.90. After 
+a 3 year follow-up 203 patients (48.6%) died. The presence of PAD was not 
+related to total mortality or to mortality for ischemic heart disease (IHD), 
+cerebrovascular disease or other causes. IHD mortality was significantly and 
+independently related to low haemoglobin values, previous cerebrovascular 
+disease, polypharmacy and poor mobility conditions.
+CONCLUSION: The prevalence of PAD is high in nursing home residents. AAI is not 
+predictive for IHD mortality in this population. In very frail elderly 
+traditional risk factors and PAD are less important predictors of death compared 
+to poor functional status, nutritional factors and previous cardiovascular 
+disease.
+
+PMID: 12855939 [Indexed for MEDLINE]

@@ -1,0 +1,67 @@
+1. Eur Urol. 2010 Oct;58(4):588-95. doi: 10.1016/j.eururo.2010.07.006. Epub 2010 
+Jul 23.
+
+Validation of the 2009 TNM version in a large multi-institutional cohort of 
+patients treated for renal cell carcinoma: are further improvements needed?
+
+Novara G(1), Ficarra V, Antonelli A, Artibani W, Bertini R, Carini M, Cosciani 
+Cunico S, Imbimbo C, Longo N, Martignoni G, Martorana G, Minervini A, Mirone V, 
+Montorsi F, Schiavina R, Simeone C, Serni S, Simonato A, Siracusano S, Volpe A, 
+Carmignani G; SATURN Project-LUNA Foundation.
+
+Collaborators: De Cobelli O, Schiavina R, Antonelli A, Corti S, Cosciani Cunico 
+S, Simeone C, Castelli M, Cimino S, Favilla V, Morgia G, Billia M, Terrone C, 
+Volpe A, Imbimbo C, Longo N, Mirone V, Carini M, Masieri L, Minervini A, Serni 
+S, Carmignani G, Oneto F, Simonato A, Varca V, Rocco F, Artibani W, Ficarra V, 
+Novara G, Costantini E, Porena M, Zucchi A, Morgia G, Ciciliato S, Lampropoulou 
+N, Siracusano S, Fontana D, Gontero P, Tizzani A, Brunelli M, Martignoni G, 
+Valotto C, Zattoni F.
+
+Author information:
+(1)University of Padua, Padua, Italy.
+
+Erratum in
+    Eur Urol. 2011 Jan;59(1):182. Schiavina, Roberto [corrected to Schiavina, 
+Riccardo].
+
+Comment in
+    Eur Urol. 2010 Oct;58(4):517-9; discussion 519-21. doi: 
+10.1016/j.eururo.2010.08.007.
+    J Urol. 2011 Apr;185(4):1223. doi: 10.1016/j.juro.2010.12.087.
+
+BACKGROUND: A new edition of the TNM was recently released that includes 
+modifications for the staging system of kidney cancers. Specifically, T2 cancers 
+were subclassified into T2a and T2b (< or =10 cm vs >10 cm), tumors with renal 
+vein involvement or perinephric fat involvement were classified as T3a cancers, 
+and those with adrenal involvement were classified as T4 cancers.
+OBJECTIVE: Our aim was to validate the recently released edition of the TNM 
+staging system for primary tumor classification in kidney cancer.
+DESIGN, SETTING, AND PARTICIPANTS: Our multicenter retrospective study consisted 
+of 5339 patients treated in 16 academic Italian centers.
+INTERVENTION: Patients underwent either radical or partial nephrectomy.
+MEASUREMENTS: Univariable and multivariable Cox regression models addressed 
+cancer-specific survival (CSS) after surgery.
+RESULTS AND LIMITATIONS: In the study, 1897 patients (35.5%) were classified as 
+pT1a, 1453 (27%) as pT1b, 437 (8%) as pT2a, 153 (3%) as pT2b, 1059 (20%) as 
+pT3a, 117 (2%) as pT3b, 26 (0.5%) as pT3c, and 197 (4%) as pT4. At a median 
+follow-up of 42 mo, 786 (15%) had died of disease. In univariable analysis, 
+patients with pT2b and pT3a tumors had similar CSS, as did patients with pT3c 
+and pT4 tumors. Moreover, both pT3a and pT3b stages included patients with 
+heterogeneous outcomes. In multivariable analysis, the novel classification of 
+the primary tumor was a powerful independent predictor of CSS (p for trend 
+<0.0001). However, the substratification of pT1 tumors did not retain an 
+independent predictive role. The major limitations of the study are 
+retrospective design, lack of central pathologic review, and the small number of 
+patients included in some substages.
+CONCLUSIONS: The recently released seventh edition of the primary tumor staging 
+system for kidney tumors is a powerful predictor of CSS. However, some of the 
+substages identified by the classification have overlapping prognoses, and other 
+substages include patients with heterogeneous outcomes. The few modifications 
+included in this edition may have not resolved the most critical issues in the 
+previous version.
+
+Copyright 2010 European Association of Urology. Published by Elsevier B.V. All 
+rights reserved.
+
+DOI: 10.1016/j.eururo.2010.07.006
+PMID: 20674150 [Indexed for MEDLINE]

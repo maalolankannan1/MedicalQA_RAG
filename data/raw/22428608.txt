@@ -1,0 +1,35 @@
+1. Blood Press. 2012 Aug;21(4):249-54. doi: 10.3109/08037051.2012.668663. Epub
+2012  Mar 20.
+
+Would corrected QT dispersion predict left ventricular hypertrophy in 
+hypertensive patients?
+
+Abdal-Barr MG(1), Safwat M, Nammas W.
+
+Author information:
+(1)Cardiology Department, Faculty of Medicine, Ain Shams University, Cairo, 
+Egypt.
+
+AIMS: We explored whether QT corrected dispersion (QTcD) can identify left 
+ventricular hypertrophy (LVH) in hypertensives.
+METHODS: We enrolled 100 hypertensive patients (study group) and 30 normotensive 
+subjects (control group). Echocardiography was performed to measure left 
+ventricular mass and left ventricular mass index. Electrocardiogram was 
+performed to measure QTcD.
+RESULTS: LVH was present in 42 patients (42%) of the study group, none among 
+controls. Hypertensive patients had significantly greater indices of LVH and 
+QTcD compared with controls (p <0.001 for all). Similarly, among hypertensive 
+patients, those with LVH had a significantly greater QTcD compared with those 
+without (p <0.001). Pearson's correlation coefficient test demonstrated strongly 
+positive correlations between QTcD and the indices of LVH (p <0.001 for all). 
+Analysis of the receiver operating characteristic curves identified 60 ms as the 
+optimal cut-off value of QTcD that best predicts LVH in hypertensives. Using 
+this value, QTcD was able to predict LVH with a sensitivity of 92.9% and 
+specificity 98.2%.
+CONCLUSIONS: QTcD is significantly increased in hypertensive patients with LVH 
+compared with those without, being strongly correlated with the indices of LVH. 
+A QTcD cut-off value of 60 ms predicted LVH in hypertensive patients with a high 
+sensitivity and specificity.
+
+DOI: 10.3109/08037051.2012.668663
+PMID: 22428608 [Indexed for MEDLINE]

@@ -1,0 +1,51 @@
+1. Brachytherapy. 2014 Jul-Aug;13(4):394-9. doi: 10.1016/j.brachy.2013.09.003.
+
+Is oncoplastic surgery a contraindication for accelerated partial breast 
+radiation using the interstitial multicatheter brachytherapy method?
+
+Roth AM(1), Kauer-Dorner D(2), Resch A(3), Schmid A(4), Thill M(5), Niehoff 
+P(6), Melchert C(1), Berger D(2), Kovács G(1); Groupe Europeen de 
+Curietherapie-European Society for Therapeutic Radiology and Oncology 
+(GEC-ESTRO) Breast Working Group.
+
+Author information:
+(1)Interdisciplinary Brachytherapy Unit, University of Luebeck, Luebeck, 
+Germany.
+(2)Department of Radiotherapy and Radiobiology, Medical University Vienna, 
+Vienna, Austria.
+(3)Department of Radiotherapy and Radiobiology, Medical University Vienna, 
+Vienna, Austria. Electronic address: alexandra.resch@meduniwien.ac.at.
+(4)Department of Surgery, DRK Hospital, Ratzeburg, Germany.
+(5)Department of Gynecology and Obstetrics, University of Luebeck, Luebeck, 
+Germany.
+(6)Department of Radiotherapy, City Hospital Cologne, Cologne, Germany.
+
+PURPOSE: To evaluate accelerated partial breast irradiation (APBI) in patients 
+after oncoplastic surgery for early breast cancer.
+METHODS AND MATERIALS: A retrospective analysis of 136 breasts of 134 patients, 
+who received breast-conserving oncoplastic surgery for low-risk breast cancer 
+between 2002 and 2010 in the Universities of Vienna and Luebeck followed by 
+adjuvant APBI applying total doses of pulse dose rate of 50.4 Gy or high-dose 
+rate (HDR) of 32 Gy over 4 days. Target volume definition was performed by the 
+use of surgical-free margin data, related to intraoperatively fixed clip 
+positions, pre- and postoperative imaging, and palpation.
+RESULTS: At the time of data acquisition, 131 of 134 patients were alive. The 
+median follow-up time was 39 months (range, 4-106 months). After high-dose rate 
+treatment, 3 of 89 patients showed systemic progress after a mean follow-up of 
+47 months (range, 19-75 months) and 2 patients had a different quadrant 
+in-breast tumor after 27 and 35 months. One patient died 7 months after 
+treatment of unknown causes. After pulse dose rate treatment, 1 of 45 patients 
+had a local recurrence after 42 months and 1 patient died because of another 
+cause after 13 months. We observed mild fibrosis in 27 breasts, telangiectasia 
+in 6, hyperpigmentation in 14 cases, and keloid formation in 1.
+CONCLUSIONS: These preliminary results suggest the feasibility of multicatheter 
+APBI after oncoplastic breast-conserving surgery in selected low-risk breast 
+cancer patients; however, special attention to target volume definition is 
+needed. Further prospective investigations with long follow-up are needed to 
+define the real value of the procedure.
+
+Copyright © 2014 American Brachytherapy Society. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1016/j.brachy.2013.09.003
+PMID: 24946973 [Indexed for MEDLINE]

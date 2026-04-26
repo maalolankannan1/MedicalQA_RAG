@@ -1,0 +1,43 @@
+1. BMC Neurol. 2014 Mar 26;14:60. doi: 10.1186/1471-2377-14-60.
+
+Does the sex of acute stroke patients influence the effectiveness of rt-PA?
+
+Al-hussain F(1), Hussain MS, Molina C, Uchino K, Shuaib A, Demchuk AM, 
+Alexandrov AV, Saqqur M; CLOTBUST Investigators.
+
+Author information:
+(1)Department of Medicine, King Saud University, Riyadh, Saudi Arabia. 
+faalhussain@ksu.edu.sa.
+
+BACKGROUND: Women have been reported to show more frequent recanalization and 
+better recovery after intravenous (IV) recombinant tissue plasminogen activator 
+(rt-PA) treatment for acute stroke compared with men. To investigate this we 
+studied a series of stroke patients receiving IV rt-PA and undergoing acute 
+transcranial doppler (TCD) examination.
+METHODS: Acute stroke patients received IV rt-PA and had acute TCD examination 
+within 4 hours of symptom onset at 4 major stroke centers. TCD findings were 
+interpreted using the Thrombolysis in Brain Ischemia (TIBI) flow grading system. 
+The recanalization rates, and poor 3-month outcomes (modified Rankin scale >2) 
+of men and women were compared using the chi-square test. Multiple regression 
+analysis was used to assess sex as a predictor of recanalization and poor 
+3-month outcome after controlling for age, baseline NIH Stroke Scale (NIHSS), 
+time to treatment, hypertension, and blood glucose.
+RESULTS: 369 patients had TCD examinations before or during IV rt-PA treatment. 
+The 199 (53.9%) men and 170 (46.1%) women had mean ages of 67 ± 13 and 70 ± 14 
+years, respectively. The sexes did not differ significantly in baseline stroke 
+severity, time to TCD examination, or time to thrombolysis. Of the men, 68 
+(34.2%) had complete recanalization, 58 (29.1%) had partial recanalization, and 
+73 (36.6%) had no recanalization. Of the women, 53 (31.2%) had complete 
+recanalization, 46 (27%) had partial recanalization, and 71 (41.8%) had no 
+recanalization (p = 0.6). Multiple regression analyses showed no difference 
+between the sexes in recanalization rate, time to recanalization, or clinical 
+outcome at 3 months.
+CONCLUSIONS: In our study; sex is not a significant predictor of recanalization 
+rate, time to recanalization or 3-month outcome in stroke patients following IV 
+rt-PA.
+TRIAL REGISTRATION: Data from CLOTBUST trial Clinicaltrials.gov Identifier: 
+NCT01240356.
+
+DOI: 10.1186/1471-2377-14-60
+PMCID: PMC3994292
+PMID: 24669960 [Indexed for MEDLINE]

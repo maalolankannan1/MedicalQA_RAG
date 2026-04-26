@@ -1,0 +1,38 @@
+1. J Clin Oncol. 2003 Sep 1;21(17):3318-27. doi: 10.1200/JCO.2003.09.034.
+
+Do older men benefit from curative therapy of localized prostate cancer?
+
+Alibhai SM(1), Naglie G, Nam R, Trachtenberg J, Krahn MD.
+
+Author information:
+(1)University Health Network, Room ENG-233, 200 Elizabeth St, Toronto, Ontario, 
+Canada M5G 2C4. shabbir.alibhai@uhn.on.ca.
+
+PURPOSE: Prior decision-analytic models are based on outdated or suboptimal 
+efficacy, patient preference, and comorbidity data. We estimated life expectancy 
+(LE) and quality-adjusted life expectancy (QALE) associated with available 
+treatments for localized prostate cancer in men aged >/= 65 years, adjusting for 
+Gleason score, patient preferences, and comorbidity.
+METHODS: We evaluated three treatments, using a decision-analytic Markov model: 
+radical prostatectomy (RP), external beam radiotherapy (EBRT), and watchful 
+waiting (WW). Rates of treatment complications and pretreatment incontinence and 
+impotence were derived from published studies. We estimated treatment efficacy 
+using three data sources: cancer registry cohort data, pooled case series, and 
+modern radiotherapy studies. Utilities were obtained from 141 prostate cancer 
+patients and from published studies.
+RESULTS: For men with well-differentiated tumors and few comorbidities, 
+potentially curative therapy (RP or EBRT) prolonged LE up to age 75 years but 
+did not improve QALE at any age. For moderately differentiated cancers, 
+potentially curative therapy resulted in LE and QALE gains up to age 75 years. 
+For poorly differentiated disease, potentially curative therapy resulted in LE 
+and QALE gains up to age 80 years. Benefits of potentially curative therapy were 
+restricted to men with no worse than mild comorbidity. When cohort and pooled 
+case series data were used, RP was preferred over EBRT in all groups but was 
+comparable to modern radiotherapy.
+CONCLUSION: Potentially curative therapy results in significantly improved LE 
+and QALE for older men with few comorbidities and moderately or poorly 
+differentiated localized prostate cancer. Age should not be a barrier to 
+treatment in this group.
+
+DOI: 10.1200/JCO.2003.09.034
+PMID: 12947068 [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+1. Mol Diagn. 2005;9(4):187-93. doi: 10.1007/BF03260090.
+
+BCRABL transcript detection by quantitative real-time PCR : are correlated 
+results possible from homebrew assays?
+
+Fossey SC(1), Ferreira-Gonzalez A, Garrett CT, Dumur CI, Vnencak-Jones CL.
+
+Author information:
+(1)Molecular Genetics Laboratory, Department of Pathology, Vanderbilt University 
+Medical Center, Nashville, Tennessee, USA.
+
+BACKGROUND: Quantitative real-time PCR has become the predominant molecular 
+technique to monitor BCRABL levels in response to treatment in Ph(+) leukemia 
+patients. However, without some form of standardized methodology between 
+laboratories, the correlation of results is difficult.
+METHODS: Using TaqMan-based assays, parallel quantitative real-time PCR analysis 
+was performed on 70 clinical specimens at Vanderbilt University Medical Center 
+and Virginia Commonwealth University. While the same positive control cell line 
+(K562) and quality control gene (BCR) were used, the RNA isolation technique, 
+cDNA synthesis, BCR control cell line, and PCR primer and probe sequences were 
+different.
+RESULTS: The detection of BCRABL-positive results spanned a dynamic range from 
+10(0) to 10(5)/100,000 cells. Forty-three samples were negative at both 
+facilities. A Spearman rank correlation analysis was performed for the 22 
+BCRABL-positive paired results. The correlation coefficient, r(s), was 0.9435 (p 
+< 0.00001), suggesting a strong correlation of the results. One discordant 
+result was obtained for consecutive samples from one patient with a low BCRABL 
+copy number as a result of a minimal RNA yield at one laboratory.
+CONCLUSIONS: These results suggest that quantitative real-time PCR assays for 
+BCRABL detection can be comparable between laboratories despite significant 
+differences in methodologies if the same positive control cell line and quality 
+control gene are used. It is imperative that some level of assay standardization 
+be adopted between laboratories, not only for patients who are monitored at 
+different facilities, but also for larger investigative studies in which 
+hematologic, cytogenetic and molecular responses are to be compared.
+
+DOI: 10.1007/BF03260090
+PMID: 16392897 [Indexed for MEDLINE]

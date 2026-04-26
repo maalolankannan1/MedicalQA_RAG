@@ -1,0 +1,37 @@
+1. Surg Neurol. 2003 May;59(5):408-12; discussion 412. doi: 
+10.1016/s0090-3019(03)00016-8.
+
+Spinal subdural hematoma: a sequela of a ruptured intracranial aneurysm?
+
+Yamaguchi S(1), Hida K, Akino M, Yano S, Iwasaki Y.
+
+Author information:
+(1)Department of Neurosurgery, Hokkaido University Graduate School of Medicine, 
+Sapporo, Japan.
+
+BACKGROUND: A case of spinal subdural hematoma (SSDH) following subarachnoid 
+hemorrhage (SAH) because of a ruptured internal carotid aneurysm is described. 
+Such a case has never been reported.
+CASE DESCRIPTION: A 52-year-old woman underwent a craniotomy for a ruptured 
+internal carotid aneurysm. A computed tomography scan showed that SAH existed 
+predominantly in the posterior fossa and subdural hematoma beneath the 
+cerebellar tentorium. Intrathecal administration of urokinase, IV administration 
+of fasudil hydrochloride, and continuous cerebrospinal fluid (CSF) evacuation 
+via cisternal drainage were performed as prophylactic treatments for vasospasm. 
+On the sixth postoperative day, the patient complained of severe lower back and 
+buttock pain. Magnetic resonance imaging showed a subdural hematoma in the 
+lumbosacral region. Although the mass effect was extensive, the patient showed 
+no neurologic symptoms other than the sciatica. She was treated conservatively. 
+The hematoma dissolved gradually and had diminished completely 15 weeks later. 
+Her pain gradually subsided, and she was discharged 7 weeks later without any 
+neurologic deficit.
+CONCLUSION: Although the exact mechanism of SSDH in this case is unclear, we 
+speculate that this SSDH was a hematoma that migrated from the intracranial 
+subdural space. Low CSF pressure because of continuous drainage and intrathecal 
+thrombolytic therapy may have played an important role in the migration of the 
+hematoma through the spinal canal. It is important to recognize the SSDH as a 
+possible complication of the SAH accompanied with intracranial subdural 
+hematoma.
+
+DOI: 10.1016/s0090-3019(03)00016-8
+PMID: 12765819 [Indexed for MEDLINE]

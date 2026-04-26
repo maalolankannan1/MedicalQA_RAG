@@ -1,0 +1,33 @@
+1. Clin Imaging. 2014 Jul-Aug;38(4):458-463. doi: 10.1016/j.clinimag.2014.03.013.
+ Epub 2014 Mar 30.
+
+Is diffusion-weighted imaging a significant indicator of the development of 
+vascularization in hypovascular hepatocellular lesions?
+
+Takara K(1), Saito K(2), Saguchi T(1), Sugimoto K(3), Taira J(3), Imai Y(3), 
+Moriyasu F(3), Akata S(1), Tokuuye K(1).
+
+Author information:
+(1)Department of Radiology, Tokyo Medical University.
+(2)Department of Radiology, Tokyo Medical University. Electronic address: 
+saito-k@tokyo-med.ac.jp.
+(3)Department of Gastroenterology and Hepatology, Tokyo Medical University.
+
+OBJECTIVE: The objective was to evaluate the efficacy of diffusion-weighted 
+imaging (DWI) in predicting the development of vascularization in hypovascular 
+hepatocellular lesions (HHLs).
+MATERIALS AND METHODS: Forty-two HHLs that were diagnosed by computed 
+tomographic (CT) arteriography were evaluated retrospectively. The lesion on DWI 
+was classified as isointense, hypointense, or hyperintense. Follow-up studies 
+that included intravenous dynamic CT or magnetic resonance imaging were 
+performed.
+RESULTS: The 730-day cumulative developments of vascularization in hypointense, 
+isointense, and hyperintense lesions were 17%, 30%, and 40%, respectively. The 
+differences among these developments were not statistically significant.
+CONCLUSION: The signal intensity on DWI showed no significant difference in the 
+development of vascularization.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clinimag.2014.03.013
+PMID: 24799031 [Indexed for MEDLINE]

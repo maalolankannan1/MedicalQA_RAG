@@ -1,0 +1,53 @@
+1. J Oral Maxillofac Surg. 2015 Feb;73(2):333-9. doi: 10.1016/j.joms.2014.08.015.
+ Epub 2014 Aug 13.
+
+Can bone thickness and inter-radicular space affect miniscrew placement in 
+posterior mandibular sites?
+
+Sabec Rda C(1), Fernandes TM(2), de Lima Navarro R(3), Oltramari-Navarro PV(4), 
+Conti AC(4), de Almeida MR(4), Poleti ML(4).
+
+Author information:
+(1)Former Graduate Student, Department of Orthodontics, University of North 
+Paraná (UNOPAR), Londrina, Brazil.
+(2)Professor, Department of Orthodontics, University of North Paraná (UNOPAR), 
+Londrina, Brazil. Electronic address: thaismaria@hotmail.com.
+(3)Postgraduate Researcher, Department of Dentistry, Area of Oral and 
+Maxillofacial Surgery, State University of Maringá, Maringá, Brazil.
+(4)Professor, Department of Orthodontics, University of North Paraná (UNOPAR), 
+Londrina, Brazil.
+
+PURPOSE: The proper angle of miniscrew insertion is important for cortical 
+anchorage, patient safety, and biomechanical control. The purposes of this study 
+are to report the alveolar process thickness and inter-radicular space in the 
+posterior region of the mandible, to assess the impact of different miniscrew 
+insertion angle protocols, and to identify differences between the genders or 
+types of malocclusion.
+MATERIALS AND METHODS: In this retrospective study, 100 individuals were 
+selected for orthodontic treatment at a radiology clinic. Cone-beam computed 
+tomography data were imported into 3-dimensional software. The predictor 
+variable was the location in the mandible and insertion angle. The demographic 
+variables collected included age, gender, and malocclusion (Angle Classes I and 
+II). The primary outcome variables were bone thickness and inter-radicular 
+space. The inter-radicular spaces were evaluated 5 mm from the cement-enamel 
+junction. The bone thicknesses were taken at 45°, 60°, and 90° in relation to 
+the alveolar ridge, simulating a miniscrew insertion. These factors were 
+evaluated for sexual dimorphism and malocclusion (Angle Classes I and II). 
+Sexual dimorphism and malocclusion were evaluated with t tests. To compare the 
+inter-radicular space and the thickness of bone between areas, an analysis of 
+variance for repeated measures was used.
+RESULTS: The sample was composed of 100 patients with a mean age of 17.4 ± 6.74 
+years. There were 61 female and 39 male patients and 60 Class I and 40 Class II 
+molar relationships. The inter-radicular space ranged from 2.46 to 3.31 mm, and 
+alveolar bone thickness ranged from 8.01 to 13.77 mm. The thickness tended to 
+decrease with the increase in insertion angle from 45° to 90°. No significant 
+differences between the genders or types of malocclusion were found.
+CONCLUSIONS: The results of this study suggest that the safest areas for the 
+placement of miniscrews are between the first and second premolars and between 
+the first and second molars, regardless of the angle of insertion.
+
+Copyright © 2015 American Association of Oral and Maxillofacial Surgeons. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.joms.2014.08.015
+PMID: 25488308 [Indexed for MEDLINE]

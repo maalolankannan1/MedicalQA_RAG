@@ -1,0 +1,35 @@
+1. Cancer J. 2004 Sep-Oct;10(5):317-25. doi: 10.1097/00130404-200409000-00009.
+
+Does screening or surveillance for primary hepatocellular carcinoma with 
+ultrasonography improve the prognosis of patients?
+
+Yu EW(1), Chie WC, Chen TH.
+
+Author information:
+(1)Institute of Preventive Medicine, College of Public Health, National Taiwan 
+University, Taipei, Taiwan.
+
+PURPOSE: The purpose of this paper is to evaluate the efficacy of 
+ultrasonographic screening for primary hepatocellular carcinoma.
+PATIENTS AND METHODS: A total of 680 eligible cases were classified into three 
+groups (surveillance, opportunistic, and symptomatic groups) according to their 
+initial exposure. We used survival time, tumor morphology, and T staging as 
+prognostic outcomes. The outcomes of screened/unscreened and sur 
+veillance/nonsur veillance were compared with the use of the logistic regression 
+model.
+RESULTS: The adjusted odds ratios for the screened group versus the unscreened 
+group, with 1-, 2-, and 3-year survival time being used as outcomes, were 0.33 
+(95% confidence interval [CI], 0.21-0.52), 0.33 (95% CI, 0.21-0.53), and 0.37 
+(95% CI, 0.23-0.61), respectively. The adjusted odds ratios for surveillance 
+versus nonsurveillance were 0.58 (95% CI, 0.35-0.97), 0.45 (95% CI, 0.27-0.74), 
+and 0.44 (95% CI, 0.26-0.73). The odds ratios were even smaller when tumor 
+morphology or T stage was taken as the main outcome. All these results were 
+statistically significant. There were significant gradient relationships between 
+prognostic outcomes and extent of screening history.
+CONCLUSION: The significant impact of ultrasonographic screening on mortality 
+reduction was demonstrated. These findings strongly suggest that early detection 
+of hepatocellular carcinoma by ultrasound may improve the prognosis of patients 
+with hepatocellular carcinoma.
+
+DOI: 10.1097/00130404-200409000-00009
+PMID: 15530261 [Indexed for MEDLINE]

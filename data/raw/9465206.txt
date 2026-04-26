@@ -1,0 +1,54 @@
+1. Radiol Med. 1997 Nov;94(5):433-9.
+
+["Occult" posttraumatic lesions of the knee: can magnetic resonance substitute 
+for diagnostic arthroscopy?].
+
+[Article in Italian]
+
+Tamburrini O(1), Bianchi D, Capparelli G, Barresi D, Arcuri PP, Barbalace G, 
+Stanà C.
+
+Author information:
+(1)Dipartimento di Medicina Sperimentale e Clinica, Università degli Studi di 
+Reggio Calabria.
+
+PURPOSE: We investigated the actual role of MRI versus arthroscopy in the 
+detection and characterization of occult bone and/or cartilage injuries in 
+patients with previous musculoskeletal trauma of the knee, pain and severe 
+functional impairment. Occult post-traumatic osteochondral injuries of the knee 
+are trauma-related bone and/or cartilage damage missed at plain radiography.
+MATERIAL AND METHODS: We retrospectively selected 70 patients (men:women = 7:3; 
+age range: 35 +/- 7 years) with a history of acute musculoskeletal trauma, 
+negative conventional radiographs, pain and limited joint movements. All 
+patients were submitted to conventional radiography, arthroscopy and MRI, the 
+latter with 0.5 T units and T1-weighted SE. T2-weighted GE and FIR sequences 
+with fat suppression.
+RESULTS AND DISCUSSION: We identified three types of occult post-traumatic 
+injuries by morpho-topographic and signal intensity patterns: bone bruises (no. 
+25), subchondral (no. 33) and osteochondral (no. 35) injuries. Arthroscopy 
+depicted 45 osteochondral and 19 chondral injuries. A bone bruise was defined as 
+a typical subcortical area of signal loss, with various shapes, on T1-weighted 
+images and of increased signal intensity on T2-weighted and FIR images. The 
+cortical bone and articular cartilage were normal in all cases, while 
+osteochondral injuries exhibited associated bone and cartilage damage with the 
+same abnormal MR signal intensity. Sprain was the mechanism of injury in 52 
+cases, bruise in 12 and stress in 6. In 52 sprains (30 in valgus), the injury 
+site was the lateral compartment in 92.3% of cases (100% in valgus), associated 
+with meniscal damage in 73% of cases (90% in valgus) and with ligament injury in 
+90.4% (100% in valgus). In 12 bruises, the injury site was the lateral 
+compartment in 58.3% of cases, the knee cap in 25% and the medial compartment in 
+16.7%; meniscal damage was associated in 25% of cases and ligament damage in 
+8.3%. In 6 stress injuries, the injury site was localized in the medial tibial 
+condyle in 80% of cases, while meniscal and ligament tears were absent.
+CONCLUSIONS: After comparing MR with arthroscopic findings and reviewing the 
+available literature, we conclude that arthroscopy permits the direct 
+visualization of even fine articular surface changes but does not depict the 
+subchondral bone, the most frequent site of injury detected with MRI. MRI was a 
+very useful tool in the detection and characterization of the different types of 
+occult bone and/or cartilage injuries and showed a statistically significant 
+correlation between site and distribution of bone and cartilage injuries and 
+between internal damage and trauma mechanisms. Therefore, we believe that MRI 
+can help avoid diagnostic arthroscopy in the patients with a history of 
+post-traumatic pain, acute articular blocks and negative radiographic findings.
+
+PMID: 9465206 [Indexed for MEDLINE]

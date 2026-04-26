@@ -1,0 +1,43 @@
+1. Dig Endosc. 2015 Mar;27(3):338-44. doi: 10.1111/den.12384. Epub 2014 Nov 3.
+
+Emergency double-balloon enteroscopy combined with real-time viewing of capsule 
+endoscopy: a feasible combined approach in acute overt-obscure gastrointestinal 
+bleeding?
+
+Pérez-Cuadrado Robles E(1), Bebia Conesa P, Esteban Delgado P, Zamora Nava LE, 
+Martínez Andrés B, Rodrigo Agudo JL, López Higueras A, López Martin A, Latorre 
+R, Soria F, Pérez-Cuadrado Martínez E.
+
+Author information:
+(1)Small Bowel Unit, Department of Gastroenterology, Morales Meseguer Hospital, 
+Murcia, Spain.
+
+BACKGROUND AND AIM: There are few data concerning emergency double-balloon 
+enteroscopy (DBE) and its usefulness in the management of severe acute obscure 
+gastrointestinal bleeding (OGIB). The aim of this retrospective study was to 
+evaluate emergency DBE and capsule endoscopy (CE) in patients with overt OGIB, 
+analyzing the feasibility of this combined approach.
+METHODS: Emergency DBE in patients with overt OGIB was defined as performance 
+within 24 h of symptom onset. We reported 27 patients (16 men, mean age: 
+64.6 ± 17.9 years) with overt severe bleeding who underwent 29 emergency DBE (22 
+anterograde, 7 retrograde). Of 27 patients, 16 (59.3%) underwent CE with real 
+time (RT) viewing.
+RESULTS: Patients were diagnosed with the following: Dieulafoy's lesion (DL; 
+n = 11, 40.7%), angioectasia (n = 7, 25.9%), tumors (n = 4, 14.8%), diverticulum 
+(n = 3, 11.1%), ulcers (n = 2, 7.4%). We diagnosed 23 lesions amenable to 
+endoscopic hemostasis and successfully treated 21 of them (77.8%). DL detection 
+rate was statistically higher in the emergency DBE group than in OGIB patients 
+with DBE done 24 h after symptom onset (40.7% vs 0.9%, respectively, P < 0.001). 
+Combined approach with RT viewing by CE correctly modified DBE management in 
+four patients (25%).
+CONCLUSIONS: Emergency DBE is feasible, safe and effective in acute OGIB and may 
+avoid major surgery, diagnosing and successfully treating most patients. 
+Combined approach with RT viewing by CE is especially useful to identify 
+recurrent bleeding vascular lesions such as DL that may be easily misdiagnosed 
+by non-emergency DBE.
+
+© 2014 The Authors. Digestive Endoscopy © 2014 Japan Gastroenterological 
+Endoscopy Society.
+
+DOI: 10.1111/den.12384
+PMID: 25251991 [Indexed for MEDLINE]

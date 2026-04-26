@@ -1,0 +1,47 @@
+1. Rheumatology (Oxford). 2014 Nov;53(11):2088-94. doi: 
+10.1093/rheumatology/keu248. Epub 2014 Jun 17.
+
+Does ultrasound-scored synovitis depend on the pharmacokinetics of subcutaneous 
+anti-TNF agents in patients with rheumatoid arthritis?
+
+Naredo E(1), Hinojosa M(2), Valor L(2), Hernández-Flórez D(2), Mata-Martínez 
+C(2), Serrano-Benavente B(2), Del Río T(2), Bello N(2), Montoro M(2), 
+Nieto-González JC(2), González CM(2), López-Longo FJ(2), Monteagudo I(2), 
+Carreño L(2).
+
+Author information:
+(1)Department of Rheumatology, Hospital General Universitario Gregorio Marañón, 
+Faculty of Medicine, Complutense University, Madrid, Spain. enaredo@ser.es.
+(2)Department of Rheumatology, Hospital General Universitario Gregorio Marañón, 
+Faculty of Medicine, Complutense University, Madrid, Spain.
+
+OBJECTIVE: The aim of this study was to investigate the influence of the 
+pharmacokinetics of s.c. anti-TNF agents on the grade of US-detected synovitis 
+in RA patients.
+METHODS: Fifty RA patients were prospectively recruited from the Biologic 
+Therapy Unit of our hospital. Inclusion criteria were being in treatment with 
+s.c. anti-TNF agents and having had neither changes in therapy nor local 
+corticosteroid injections in the previous 3 months. Patients underwent clinical, 
+laboratory [28-joint DAS (DAS28) and Simplified Disease Activity Index (SDAI)] 
+and US assessment at two time points, i.e. at peak plasma drug concentration and 
+at trough plasma drug concentration. US assessments were performed blindly to 
+the anti-TNF agent, the administration time and the clinical and laboratory 
+data. Twenty-eight joints were investigated for the presence and grade (0-3) of 
+B-mode synovitis and synovial power Doppler signal. Global indices for B-mode 
+synovitis (BSI) and Doppler synovitis (DSI) were calculated for 12 joints and 
+for wrist-hand-ankle-foot joints. B-mode US remission was defined as a BSI <1 
+and Doppler US remission as a DSI <1.
+RESULTS: There were no significant differences between the clinical, laboratory 
+and B-mode and Doppler US parameters at peak time and trough time (P = 
+0.132-0.986). There were no significant differences between the proportion of 
+patients with active disease and those in remission according to DAS28, SDAI, 
+B-mode US and Doppler US at peak time and trough time assessments (P = 0.070-1).
+CONCLUSION: Our results suggested that s.c. anti-TNF pharmacokinetics do not 
+significantly influence US-scored synovitis in RA patients.
+
+© The Author 2014. Published by Oxford University Press on behalf of the British 
+Society for Rheumatology. All rights reserved. For Permissions, please email: 
+journals.permissions@oup.com.
+
+DOI: 10.1093/rheumatology/keu248
+PMID: 24939676 [Indexed for MEDLINE]

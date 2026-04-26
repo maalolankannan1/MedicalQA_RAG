@@ -1,0 +1,37 @@
+1. J Clin Oncol. 2006 Oct 1;24(28):4581-6. doi: 10.1200/JCO.2006.05.9592.
+
+Do patients with localized prostate cancer treatment really want more aggressive 
+treatment?
+
+van Tol-Geerdink JJ(1), Stalmeier PF, van Lin EN, Schimmel EC, Huizenga H, van 
+Daal WA, Leer JW.
+
+Author information:
+(1)Department of Radiation Oncology (874), Radboud University Nijmegen Medical 
+Center, Nijmegen, The Netherlands. J.vanTol@rther.umcn.nl
+
+PURPOSE: Examine whether patients with prostate cancer choose the more 
+aggressive of two radiotherapeutic options, whether this choice is reasoned, and 
+what the determinants of the choice are.
+PATIENTS AND METHODS: One hundred fifty patients with primary prostate cancer 
+(T(1-3)N(0)M(0)) were informed by means of a decision aid of two treatment 
+options: radiotherapy with 70 Gy versus 74 Gy. The latter treatment is 
+associated with more cure and more toxicity. The patients were asked whether 
+they wanted to choose, and if so which treatment they preferred. They also 
+assigned importance weights to the probability of various outcomes, such as 
+survival, cure and adverse effects. Patients who wanted to choose their own 
+treatment (n = 119) are described here.
+RESULTS: The majority of these patients (75%) chose the lower radiation dose. 
+Their choice was highly consistent (P < or = .001), with the importance weights 
+assigned to the probability of survival, cure (odds ratio [OR] = 6.7 and 6.9) 
+and late GI and genitourinary adverse effects (OR = 0.1 and 0.2). The lower dose 
+was chosen more often by the older patients, low-risk patients, patients without 
+hormone treatment, and patients with a low anxiety or depression score.
+CONCLUSION: Most patients with localized prostate cancer prefer the lower 
+radiation dose. Our findings indicate that many patients attach more weight to 
+specific quality-of-life aspects (eg, GI toxicity) than to improving survival. 
+Treatment preferences of patients with localized prostate cancer can and should 
+be involved in radiotherapy decision making.
+
+DOI: 10.1200/JCO.2006.05.9592
+PMID: 17008699 [Indexed for MEDLINE]

@@ -1,0 +1,70 @@
+1. BMC Pregnancy Childbirth. 2015 Apr 14;15:92. doi: 10.1186/s12884-015-0524-1.
+
+Maternal creatine homeostasis is altered during gestation in the spiny mouse: is 
+this a metabolic adaptation to pregnancy?
+
+Ellery SJ(1)(2), LaRosa DA(3)(4), Kett MM(5), Della Gatta PA(6), Snow RJ(7), 
+Walker DW(8)(9), Dickinson H(10)(11).
+
+Author information:
+(1)The Ritchie Centre, MIMR-PHI Institute of Medical Research, 27-31 Wright St, 
+Clayton, Melbourne, 3168, Australia. stacey.ellery@monash.edu.
+(2)Department of Obstetrics & Gynaecology, Monash University, Monash Medical 
+Centre, Clayton, Melbourne, Australia. stacey.ellery@monash.edu.
+(3)The Ritchie Centre, MIMR-PHI Institute of Medical Research, 27-31 Wright St, 
+Clayton, Melbourne, 3168, Australia. domenic.larosa@monash.edu.
+(4)Department of Obstetrics & Gynaecology, Monash University, Monash Medical 
+Centre, Clayton, Melbourne, Australia. domenic.larosa@monash.edu.
+(5)Department of Physiology, Monash University, Clayton Campus, Melbourne, 
+Australia. michelle.kett@monash.edu.
+(6)Centre for Physical Activity and Nutrition, Deakin University, Burwood 
+Campus, Melbourne, Australia. paul.dellagatta@deakin.edu.au.
+(7)Centre for Physical Activity and Nutrition, Deakin University, Burwood 
+Campus, Melbourne, Australia. rod.snow@deakin.edu.au.
+(8)The Ritchie Centre, MIMR-PHI Institute of Medical Research, 27-31 Wright St, 
+Clayton, Melbourne, 3168, Australia. david.walker@mimr-phi.org.
+(9)Department of Obstetrics & Gynaecology, Monash University, Monash Medical 
+Centre, Clayton, Melbourne, Australia. david.walker@mimr-phi.org.
+(10)The Ritchie Centre, MIMR-PHI Institute of Medical Research, 27-31 Wright St, 
+Clayton, Melbourne, 3168, Australia. hayley.dickinson@monash.edu.
+(11)Department of Obstetrics & Gynaecology, Monash University, Monash Medical 
+Centre, Clayton, Melbourne, Australia. hayley.dickinson@monash.edu.
+
+BACKGROUND: Pregnancy induces adaptations in maternal metabolism to meet the 
+increased need for nutrients by the placenta and fetus. Creatine is an important 
+intracellular metabolite obtained from the diet and also synthesised 
+endogenously. Experimental evidence suggests that the fetus relies on a maternal 
+supply of creatine for much of gestation. However, the impact of pregnancy on 
+maternal creatine homeostasis is unclear. We hypothesise that alteration of 
+maternal creatine homeostasis occurs during pregnancy to ensure adequate levels 
+of this essential substrate are available for maternal tissues, the placenta and 
+fetus. This study aimed to describe maternal creatine homeostasis from mid to 
+late gestation in the precocial spiny mouse.
+METHODS: Plasma creatine concentration and urinary excretion were measured from 
+mid to late gestation in pregnant (n = 8) and age-matched virgin female spiny 
+mice (n = 6). At term, body composition and organ weights were assessed and 
+tissue total creatine content determined. mRNA expression of the creatine 
+synthesising enzymes arginine:glycine amidinotransferase (AGAT) and 
+guanidinoacetate methyltransferase (GAMT), and the creatine transporter (CrT1) 
+were assessed by RT-qPCR. Protein expression of AGAT and GAMT was also assessed 
+by western blot analysis.
+RESULTS: Plasma creatine and renal creatine excretion decreased significantly 
+from mid to late gestation (P < 0.001, P < 0.05, respectively). Pregnancy 
+resulted in increased lean tissue (P < 0.01), kidney (P < 0.01), liver (P < 
+0.01) and heart (P < 0.05) mass at term. CrT1 expression was increased in the 
+heart (P < 0.05) and skeletal muscle (P < 0.05) at term compared to non-pregnant 
+tissues, and creatine content of the heart (P < 0.05) and kidney (P < 0.001) 
+were also increased at this time. CrT1 mRNA expression was down-regulated in the 
+liver (<0.01) and brain (<0.01) of pregnant spiny mice at term. Renal AGAT mRNA 
+(P < 0.01) and protein (P < 0.05) expression were both significantly 
+up-regulated at term, with decreased expression of AGAT mRNA (<0.01) and GAMT 
+protein (<0.05) observed in the term pregnant heart. Brain AGAT (<0.01) and GAMT 
+(<0.001) mRNA expression were also decreased at term.
+CONCLUSION: Change of maternal creatine status (increased creatine synthesis and 
+reduced creatine excretion) may be a necessary adjustment of maternal physiology 
+to pregnancy to meet the metabolic demands of maternal tissues, the placenta and 
+developing fetus.
+
+DOI: 10.1186/s12884-015-0524-1
+PMCID: PMC4423481
+PMID: 25885219 [Indexed for MEDLINE]

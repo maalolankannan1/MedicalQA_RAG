@@ -1,0 +1,60 @@
+1. Injury. 2014 Jul;45(7):1091-4. doi: 10.1016/j.injury.2014.01.024. Epub 2014
+Jan  30.
+
+Comparing femoral version after intramedullary nailing performed by 
+trauma-trained and non-trauma trained surgeons: is there a difference?
+
+Ayalon OB(1), Patel NM(1), Yoon RS(1), Donegan DJ(2), Koerner JD(3), Liporace 
+FA(4).
+
+Author information:
+(1)Division of Orthopaedic Trauma, Department of Orthopaedic Surgery, NYU 
+Hospital for Joint Diseases, New York, NY.
+(2)Division of Orthopaedic Trauma, Department of Orthopaedic Surgery, Hospital 
+of the University of Pennsylvania, Philadelphia, PA.
+(3)Division of Spine Surgery, Thomas Jefferson University Medical Center, 
+Philadelphia, PA.
+(4)Division of Orthopaedic Trauma, Department of Orthopaedic Surgery, NYU 
+Hospital for Joint Diseases, New York, NY. Electronic address: 
+liporace33@gmail.com.
+
+INTRODUCTION: As with some procedures, trauma fellowship training and greater 
+surgeon experience may result in better outcomes following intramedullary 
+nailing (IMN) of diaphyseal femur fractures. However, surgeons with such 
+training and experience may not always be available to all patients. The purpose 
+of this study is to determine whether trauma training affects the post-operative 
+difference in femoral version (DFV) following IMN.
+MATERIALS AND METHODS: Between 2000 and 2009, 417 consecutive patients with 
+diaphyseal femur fractures (AO/OTA 32A-C) were treated via IMN. Inclusion 
+criteria for this study included complete baseline and demographic documentation 
+as well as pre-operative films for fracture classification and post-operative CT 
+scanogram (per institutional protocol) for version and length measurement of 
+both the nailed and uninjured femurs. Exclusion criteria included bilateral 
+injuries, multiple ipsilateral lower extremity fractures, previous injury, and 
+previous deformity. Of the initial 417 subjects, 355 patients met our inclusion 
+criteria. Other data included in our analysis were age, sex, injury mechanism, 
+open vs. closed fracture, daytime vs. nighttime surgery, mechanism of injury, 
+and AO and Winquist classifications. Post-operative femoral version of both 
+lower extremities was measured on CT scanogram by an orthopaedic trauma 
+fellowship trained surgeon. Standard univariate and multivariate analyses were 
+performed to determine statistically significant risk factors for malrotation 
+between the two cohorts.
+RESULTS: Overall, 80.3% (288/355) of all fractures were fixed by trauma-trained 
+surgeons. The mean post-operative DFV was 8.7° in these patients, compared to 
+10.7° in those treated by surgeons of other subspecialties. This difference was 
+not statistically significant when accounting for other factors in a 
+multivariate model (p>0.05). The same statistical trend was true when analyzing 
+outcomes of only the more severe Winquist type III and IV fractures. 
+Additionally, surgeon experience was not significantly predictive of 
+post-operative version for either trauma or non-trauma surgeons (p>0.05 for 
+both).
+CONCLUSIONS: Post-operative version or percentage of DFV >15° did not 
+significantly differ following IMN of diaphyseal femur fractures between 
+surgeons with and without trauma fellowship training. However, prospective data 
+that removes the inherent bias that the more complex cases are left for the 
+traumatologists are required before a definitive comparison is made.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.injury.2014.01.024
+PMID: 24630333 [Indexed for MEDLINE]

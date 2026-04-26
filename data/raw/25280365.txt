@@ -1,0 +1,41 @@
+1. Vet Clin Pathol. 2014 Dec;43(4):487-95. doi: 10.1111/vcp.12202. Epub 2014 Oct
+3.
+
+Reporting and interpreting red blood cell morphology: is there discordance 
+between clinical pathologists and clinicians?
+
+Newman AW(1), Rishniw M, Behling-Kelly E.
+
+Author information:
+(1)Department of Population Medicine and Diagnostic Sciences, Cornell University 
+College of Veterinary Medicine, Ithaca, NY, USA.
+
+BACKGROUND: Clinical pathologists (CPs) report RBC morphologic (RBC-M) changes 
+to assist clinicians in prioritizing differential diagnoses. However, reporting 
+is subjective, semiquantitative, and potentially biased. Reporting decisions 
+vary among CPs, and reports may not be interpreted by clinicians as intended.
+OBJECTIVES: The aims of this study were to survey clinicians and CPs about RBC-M 
+terms and their clinical value, and identify areas of agreement and discordance.
+METHODS: Online surveys were distributed to small animal clinicians via the 
+Veterinary Information Network and to CPs via the ASVCP listserv. A quiz 
+assessed understanding of RBC-M terms among respondent groups. Descriptive 
+statistics were used to analyze responses to survey questions, and quiz scores 
+were compared among groups.
+RESULTS: Analyzable responses were obtained from 1662 clinicians and 82 CPs. 
+Both clinicians and CPs considered some terms, e.g., agglutination, useful, 
+whereas only CPs considered other terms, e.g., ghost cells, useful. All groups 
+interpreted certain terms, e.g., Heinz bodies, correctly, whereas some 
+clinicians misinterpreted others, e.g., eccentrocytes. Responses revealed that 
+CPs often do not report RBC-M they consider insignificant, when present in low 
+numbers. Twenty-eight percent of clinicians think CPs review all blood smears 
+while only 19% of CPs report reviewing all smears.
+CONCLUSIONS: Important differences about the clinical relevance of certain RBC-M 
+terms exist between clinicians and CPs. Inclusion of interpretive comments on 
+CBC reports is the clearest way to ensure that RBC-M changes are interpreted as 
+intended by the CP. Reporting practices should be examined critically to improve 
+communication, transparency, and ultimately medical decisions.
+
+© 2014 American Society for Veterinary Clinical Pathology.
+
+DOI: 10.1111/vcp.12202
+PMID: 25280365 [Indexed for MEDLINE]

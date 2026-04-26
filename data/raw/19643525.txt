@@ -1,0 +1,31 @@
+1. Eur J Obstet Gynecol Reprod Biol. 2009 Sep;146(1):100-3. doi: 
+10.1016/j.ejogrb.2009.06.002. Epub 2009 Jul 29.
+
+Can vaginal pH be measured from the wet mount slide?
+
+Donders G(1), Slabbaert K, Vancalsteren K, Pelckmans S, Bellen G.
+
+Author information:
+(1)Department of Obstetrics and Gynaecology, General Hospital H Hart Tienen, 
+Belgium. gilbert.donders@femicare.net
+
+OBJECTIVES: To assess the accuracy of vaginal pH measurement on wet mount 
+microscopy slides compared with direct measurements on fresh vaginal fluid. We 
+also tested whether differences in accuracy were dependent on the sampling 
+devices used or on the diagnosis of the vaginal infections.
+STUDY DESIGN: Using a cotton swab, cytobrush or wooden spatula a vaginal fluid 
+specimen was collected from 84 consecutive women attending a vulvo-vaginitis 
+clinic. A pH strip (pH range 4-7, Merck) was brought in contact with the vaginal 
+fluid on the sampling device and on the glass slide after adding one droplet of 
+saline and performing microscopy by two different people unaware of the 
+microscopy results of the clinical exam. Values were compared by Fisher exact 
+and Student's t-tests.
+RESULTS: pH measurement from microscopy slides after the addition of saline 
+causes systematic increases of pH leading to false positive readings. This is 
+true for all types of disturbance of the flora and infections studied, and was 
+seen in the abnormal as well as in the normal or intermediate pH range.
+CONCLUSION: Vaginal pH should be measured by bringing the pH strip in direct 
+contact with fresh vaginal fluid without first adding saline.
+
+DOI: 10.1016/j.ejogrb.2009.06.002
+PMID: 19643525 [Indexed for MEDLINE]

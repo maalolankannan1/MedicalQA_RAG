@@ -1,0 +1,34 @@
+1. Clin Rehabil. 2008 Oct-Nov;22(10-11):997-1002. doi: 10.1177/0269215508088988.
+
+Treadmill training post stroke: are there any secondary benefits? A pilot study.
+
+Smith PS(1), Thompson M.
+
+Author information:
+(1)Department of Physical Therapy, The University of Texas Southwestern Medical 
+Center, Dallas, Texas 75239-8876, USA. patricia.smith@utsouthwestern.edu
+
+OBJECTIVE: To explore the secondary benefits of treadmill training for people in 
+the chronic stage of recovery from stroke.
+DESIGN: Modified random assignment, matched-pair control group design with 
+repeated measures.
+SETTING: Outpatient stroke centre.
+PARTICIPANTS: Twenty individuals post first stroke who acknowledged walking 
+slower than pre stroke. Participants matched by side of hemiparesis and motor 
+impairment.
+INTERVENTIONS: Twelve 20-minute sessions of walking on a treadmill or weekly 
+phone call.
+MAIN OUTCOME MEASURES: Depression (Beck Depression Index), mobility and social 
+participation (Stroke Impact Scale 3.0 subscales) were assessed initially, at 
+the end of 12 treatments (four weeks) and six weeks later.
+RESULTS: No significant difference was found between groups for any dependent 
+measure. The ANOVA to investigate main effects in each group found no 
+significant findings in the control group; however in the treatment group 
+significant improvements over time for depression (P = 0.005, P < 0.001), 
+mobility (P = 0.008) and social participation (P = 0.004) were demonstrated.
+CONCLUSIONS: A task-specific intervention designed to improve gait speed may 
+potentially provide secondary benefits by positively impacting depression, 
+mobility and social participation for people post stroke.
+
+DOI: 10.1177/0269215508088988
+PMID: 18955431 [Indexed for MEDLINE]

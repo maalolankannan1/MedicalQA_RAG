@@ -1,0 +1,47 @@
+1. Arch Dis Child Fetal Neonatal Ed. 2017 Jul;102(4):F333-F338. doi: 
+10.1136/archdischild-2016-311830. Epub 2016 Dec 23.
+
+Can Ambu self-inflating bag and Neopuff infant resuscitator provide adequate and 
+safe manual inflations for infants up to 10 kg weight?
+
+Tracy M(1)(2), Maheshwari R(1)(3), Shah D(1)(3), Hinder M(1)(3).
+
+Author information:
+(1)Neonatal Intensive Care, Westmead Hospital, Westmead, New South Wales, 
+Australia.
+(2)Department of Paediatrics and Child Health, Sydney University, Westmead, New 
+South Wales, Australia.
+(3)Sydney University, Sydney, New South Wales, Australia.
+
+BACKGROUND: Manual resuscitation devices for infants and newborns must be able 
+to provide adequate ventilation in a safe and consistent manner across a wide 
+range of patient sizes (0.5-10 kg) and differing clinical states. There are 
+little comparative data assessing biomechanical performance of common infant 
+manual resuscitation devices across the manufacturers' recommended operating 
+weight ranges. We aimed to compare performance of the Ambu self-inflating bag 
+(SIB) with the Neopuff T-piece resuscitator in three resuscitation models.
+METHODS: Five experienced clinicians delivered targeted ventilation to three 
+lung models differing in compliance, delivery pressures and inflation rates; 
+Preterm (0.5 mL/cmH2O, 25/5 cmH2O, 60 per minute), Term (3 mL/cmH2O, 30/5 cmH2O, 
+40 per minute) and Infant (9 mL/cmH2O, 35/5 cmH2O, 30 per minute). The Neopuff 
+was examined with three gas inflow rates (5 litres per minute (LPM), 10 LPM and 
+15 LPM) and the Ambu with no gas inflow.
+RESULTS: 3309 inflations were collected and analysed with analysis of variance 
+for repeated measures. The Neopuff was unable to reach set peak inflation 
+pressures and exhibited seriously elevated positive end expiratory pressure 
+(PEEP) with all inflow gas rates (p<0.001) in this infant model. The Ambu SIB 
+accurately delivered targeted pressures in all three models.
+CONCLUSIONS: The Ambu SIB was able to accurately deliver targeted pressures 
+across all three models from preterm to infant. The Neopuff infant resuscitator 
+was unable to deliver the targeted pressures in the infant model developing 
+clinically significant levels of inadvertent PEEP which may pose risk during 
+infant resuscitation.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://www.bmj.com/company/products-services/rights-and-licensing/.
+
+DOI: 10.1136/archdischild-2016-311830
+PMID: 28011794 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

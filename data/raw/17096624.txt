@@ -1,0 +1,26 @@
+1. Am J Health Behav. 2006 Nov-Dec;30(6):675-83. doi: 10.5555/ajhb.2006.30.6.675.
+
+Do patterns of knowledge and attitudes exist among unvaccinated seniors?
+
+Bardenheier BH(1), Wortley PM, Winston CA, Washington ML, Lindley MC, Sapsis K.
+
+Author information:
+(1)Immunization Services Division, National Immunization Program, Centers for 
+Disease Control and Prevention, 1600 Clifton Road NE, MS E-52, Atlanta, GA, USA. 
+bfb7@cdc.gov
+
+OBJECTIVE: To examine patterns of knowledge and attitudes among adults aged > 65 
+years unvaccinated for influenza.
+METHODS: Surveyed Medicare beneficiaries in 5 areas; clustered unvaccinated 
+seniors by their immunization related knowledge and attitudes.
+RESULTS: Identified 4 clusters: Potentials (45%) would receive influenza vaccine 
+to prevent disease; Fearful Uninformeds (9%) were unsure if influenza vaccine 
+causes illness; Doubters (27%) were unsure if vaccine is efficacious; 
+Misinformeds (19%) believed influenza vaccine causes illness. More Potentials 
+(75%) and Misinformeds (70%) ever received influenza vaccine than did Fearful 
+Uninformeds (18%) and Doubters (29%).
+CONCLUSION: Findings suggest that cluster analyses may be useful in identifying 
+groups for targeted health messages.
+
+DOI: 10.5555/ajhb.2006.30.6.675
+PMID: 17096624 [Indexed for MEDLINE]

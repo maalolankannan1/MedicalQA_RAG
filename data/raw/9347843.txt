@@ -1,0 +1,39 @@
+1. Surgery. 1997 Oct;122(4):682-8; discussion 688-9. doi: 
+10.1016/s0039-6060(97)90074-x.
+
+Laparoscopic-assisted ileocolic resections in patients with Crohn's disease: are 
+abscesses, phlegmons, or recurrent disease contraindications?
+
+Wu JS(1), Birnbaum EH, Kodner IJ, Fry RD, Read TE, Fleshman JW.
+
+Author information:
+(1)Department of Surgery, Washington University School of Medicine, St. Louis, 
+Mo. 63110, USA.
+
+BACKGROUND: Because of the inflammatory nature of Crohn's disease, ileocolic 
+resections are often difficult to perform, especially if an abscess, phlegmon, 
+or recurrent disease at a previous ileocolic anastomosis is present. Our goal 
+was to determine whether the above factors are contraindications to a successful 
+laparoscopic-assisted ileocolic resection.
+METHODS: Between 1992 and 1996, 46 laparoscopic-assisted ileocolic resections 
+were attempted. Fourteen patients had an abscess or phlegmon treated with bowel 
+rest before operation (group I), 10 patients had recurrent Crohn's disease at 
+the previous ileocolic anastomosis (group II), and 22 patients had no previous 
+operation and no phlegmon or abscess associated with their disease (group III). 
+These groups were compared with each other and with 70 consecutive open 
+ileocolic resections for Crohn's disease during the same time period (group IV).
+RESULTS: Operative blood loss and time were greater in group IV than in groups 
+I, II, and III (245 versus 151, 131, and 195 ml, respectively, and 202 versus 
+152, 144, and 139 minutes, respectively). Conversion to open procedure occurred 
+in 5 patients (group I, 1 [7%]; group II, 2 [20%]; group III, 2 [9%]). Morbidity 
+was highest in group IV (21% versus 0%, 10%, and 10%, respectively). Only one 
+patient died (group IV, 1%). Length of hospital stay was longest in group IV 
+(7.9 versus 4.8, 3.9, and 4.5 days, respectively).
+CONCLUSIONS: The laparoscopic-assisted approach to Crohn's disease is feasible 
+and safe with good outcomes. Co-morbid preoperative findings such as abscess, 
+phlegmon, or recurrent disease at the previous ileocolic anastomosis are not 
+contraindications to a successful laparoscopic-assisted ileocolic resection in 
+select patients.
+
+DOI: 10.1016/s0039-6060(97)90074-x
+PMID: 9347843 [Indexed for MEDLINE]

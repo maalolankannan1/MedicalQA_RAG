@@ -1,0 +1,47 @@
+1. Circ Arrhythm Electrophysiol. 2013 Feb;6(1):108-16. doi: 
+10.1161/CIRCEP.112.974337. Epub 2012 Dec 23.
+
+Follow-up of patients with new cardiovascular implantable electronic devices: 
+are experts' recommendations implemented in routine clinical practice?
+
+Al-Khatib SM(1), Mi X, Wilkoff BL, Qualls LG, Frazier-Mills C, Setoguchi S, Hess 
+PL, Curtis LH.
+
+Author information:
+(1)Duke Clinical Research Institute, Department of Medicine, Duke University 
+School of Medicine, Durham, NC 27715, USA. alkha001@mc.duke.edu
+
+BACKGROUND: A 2008 expert consensus statement outlined the minimum frequency of 
+follow-up of patients with cardiovascular implantable electronic devices 
+(CIEDs).
+METHODS AND RESULTS: We studied 38 055 Medicare beneficiaries who received a new 
+CIED between January 1, 2005, and June 30, 2009. The main outcome measure was 
+variation of follow-up by patient factors and year of device implantation. We 
+determined the number of patients who were eligible for and attended an 
+in-person CIED follow-up visit within 2 to 12 weeks, 0 to 16 weeks, and 1 year 
+after implantation. Among eligible patients, 42.4% had an initial in-person 
+visit within 2 to 12 weeks. This visit was significantly more common among white 
+patients than black patients and patients of other races (43.0% versus 36.8% 
+versus 40.5%; P<0.001). Follow-up within 2 to 12 weeks improved from 40.3% in 
+2005 to 55.1% in 2009 (P<0.001 for trend). The rate of follow-up within 0 to 16 
+weeks was 65.1% and improved considerably from 2005 to 2009 (62.3%-79.6%; 
+P<0.001 for trend). Within 1 year, 78.0% of the overall population had at least 
+1 in-person CIED follow-up visit.
+CONCLUSIONS: Although most Medicare beneficiaries who received a new CIED 
+between 2005 and 2009 did not have an initial in-person CIED follow-up visit 
+within 2 to 12 weeks after device implantation, the rate of initial follow-up 
+improved appreciably over time. This CIED follow-up visit was significantly more 
+common in white patients than in patients of other races.
+
+DOI: 10.1161/CIRCEP.112.974337
+PMCID: PMC3640354
+PMID: 23264436 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Wilkoff 
+reported receiving royalties from Elsevier for editing a book on pacemakers and 
+implantable cardioverter-defibrillators. Dr Frazier-Mills reported receiving 
+payment for consulting (< $10,000) from Boston Scientific. Dr Curtis reported 
+receiving grants from GlaxoSmithKline and Johnson & Johnson. Drs Setoguchi and 
+Curtis have made available online detailed listings of financial disclosures 
+(http://www.dcri.duke.edu/research/coi.jsp). No other author reported 
+disclosures.

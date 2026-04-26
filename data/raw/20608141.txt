@@ -1,0 +1,33 @@
+1. Arch Ital Urol Androl. 2009 Dec;81(4):203-8.
+
+PSA repeatedly fluctuating levels are reassuring enough to avoid biopsy?
+
+Taverna G(1), Grizzi F, Minuti F, Seveso M, Piccinelli A, Giusti G, Benetti A, 
+Maugeri O, Pasini L, Zandegiacomo S, Colombo P, Di Biccari S, Graziotti P.
+
+Author information:
+(1)Department of Urology Service, Istituto Clinico Humanitas IRCCS, Rozzano, 
+Milan, Italy. gianluigi.taverna@humanitas.it
+
+INTRODUCTION: Prostate-specific antigen (PSA) levels can show wide fluctuations 
+when repeatedly measured. Here we investigatewd if: (a) biopsy timing influences 
+the prostate cancer (PC) detection rate in patients with fluctuating PSA 
+(flu-PSA) in comparison with patients with steadily increasing PSA (si-PSA); (b) 
+PSA slope estimated in patients with flu-PSA predicts a different risk of cancer 
+detection; (c) flu-PSA and si-PSA patients develop PC in topographically 
+different sites; (d) the behaviour of pre-operative PSA is an expression of a 
+disease with defferent characteristics to the following radical prostatectomy.
+METHODS: The study involved 211 patients who underwent at least a second biopsy 
+after a first negative prostate biopsy. PSA Slope, PSA velocity (PSAV) and PSA 
+doubling time (PSADT) were estimated. Flu-PSA level was defined as a PSA series 
+with at least one PSA value lower than the one immediately preceding it.
+RESULTS: 82 patients had flu-PSA levels and 129 si-PSA levels. There were no 
+significant differences between the two groups in terms of cancer detection, 
+clinical or pathological stage, but the si-PSA group with cancer had a higher 
+Gleason score. No difference was found for PSA Slope between flu-PSA patients 
+with cancer and those without.
+CONCLUSIONS: Our study demonstrates no difference in PC detection rate at repeat 
+biopsy between patients with flu or si-PSA levels. PSA Slope, PSAV and PSADT 
+were not found helpful tools in cancer detection.
+
+PMID: 20608141 [Indexed for MEDLINE]

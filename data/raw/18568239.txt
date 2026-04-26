@@ -1,0 +1,41 @@
+1. Clinics (Sao Paulo). 2008 Jun;63(3):315-20. doi: 
+10.1590/s1807-59322008000300005.
+
+Is the ability to perform transurethral resection of the prostate influenced by 
+the surgeon's previous experience?
+
+Cury J(1), Coelho RF, Bruschini H, Srougi M.
+
+Author information:
+(1)Department of Urology, Hospital das Clínicas, Faculdade de Medicina, 
+Universidade de São Paulo, São Paulo, SP, Brazil.
+
+PURPOSE: To evaluate the influence of the urologist's experience on the surgical 
+results and complications of transurethral resection of the prostate (TURP).
+PATIENTS AND METHODS: Sixty-seven patients undergoing transurethral resection of 
+the prostate without the use of a video camera were randomly allocated into 
+three groups according to the urologist's experience: a urologist having done 25 
+transurethral resections of the prostate (Group I - 24 patients); a urologist 
+having done 50 transurethral resections of the prostate (Group II - 24 
+patients); a senior urologist with vast transurethral resection of the prostate 
+experience (Group III - 19 patients). The following were recorded: the weight of 
+resected tissue, the duration of the resection procedure, the volume of 
+irrigation used, the amount of irrigation absorbed and the hemoglobin and sodium 
+levels in the serum during the procedure.
+RESULTS: There were no differences between the groups in the amount of 
+irrigation fluid used per operation, the amount of irrigation fluid absorbed or 
+hematocrit and hemoglobin variation during the procedure. The weight of resected 
+tissue per minute was approximately four times higher in group III than in 
+groups I and II. The mean absorbed irrigation fluid was similar between the 
+groups, with no statistical difference between them (p=0.24). Four patients (6%) 
+presented with TUR syndrome, without a significant difference between the 
+groups.
+CONCLUSION: The senior urologist was capable of resecting four times more tissue 
+per time unit than the more inexperienced surgeons. Therefore, a surgeon's 
+experience may be important to reduce the risk of secondary TURP due to 
+recurring adenomas or adenomas that were incompletely resected. However, the 
+incidence of complications was the same between the three groups.
+
+DOI: 10.1590/s1807-59322008000300005
+PMCID: PMC2664229
+PMID: 18568239 [Indexed for MEDLINE]

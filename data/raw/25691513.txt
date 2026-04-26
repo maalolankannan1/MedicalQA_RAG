@@ -1,0 +1,53 @@
+1. J Music Ther. 2015 Spring;52(1):78-116. doi: 10.1093/jmt/thu039. Epub 2015 Feb
+ 17.
+
+Do communication disorders extend to musical messages? An answer from children 
+with hearing loss or autism spectrum disorders.
+
+Whipple CM(1), Gfeller K(2), Driscoll V(1), Oleson J(1), McGregor K(1).
+
+Author information:
+(1)School of Music, The University of Iowa School of Music, Department of 
+Communication Sciences and Disorders, The University of Iowa Iowa Cochlear 
+Implant Clinical Research Center, University of Iowa Hospitals and Clinics 
+Department of Biostatistics, The University of Iowa Department of Communication 
+Sciences and Disorders, The DeLTA Center, The University of Iowa.
+(2)School of Music, The University of Iowa School of Music, Department of 
+Communication Sciences and Disorders, The University of Iowa Iowa Cochlear 
+Implant Clinical Research Center, University of Iowa Hospitals and Clinics 
+Department of Biostatistics, The University of Iowa Department of Communication 
+Sciences and Disorders, The DeLTA Center, The University of Iowa 
+kay-gfeller@uiowa.edu.
+
+BACKGROUND: Effective musical communication requires conveyance of the intended 
+message in a manner perceptible to the receiver. Communication disorders that 
+impair transmitting or decoding of structural features of music (e.g., pitch, 
+timbre) and/or symbolic representation may result in atypical musical 
+communication, which can have a negative impact on music therapy interventions.
+OBJECTIVE: This study compared recognition of symbolic representation of 
+emotions or movements in music by two groups of children with different 
+communicative characteristics: severe to profound hearing loss (using cochlear 
+implants [CI]) and autism spectrum disorder (ASD). Their responses were compared 
+to those of children with typical-development and normal hearing (TD-NH). 
+Accuracy was examined as a function of communicative status, emotional or 
+movement category, and individual characteristics.
+METHODS: Participants listened to recorded musical excerpts conveying emotions 
+or movements and matched them with labels. Measures relevant to auditory and/or 
+language function were also gathered.
+RESULTS: There was no significant difference between the ASD and TD-NH groups in 
+identification of musical emotions or movements. However, the CI group was 
+significantly less accurate than the other two groups in identification of both 
+emotions and movements. Mixed effects logistic regression revealed different 
+patterns of accuracy for specific emotions as a function of group.
+CONCLUSION: Conveyance of emotions or movements through music may be decoded 
+differently by persons with different types of communication disorders. Because 
+music is the primary therapeutic tool in music therapy sessions, clinicians 
+should consider these differential abilities when selecting music for clinical 
+interventions focusing on emotions or movement.
+
+© the American Music Therapy Association 2015. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/jmt/thu039
+PMCID: PMC4414659
+PMID: 25691513 [Indexed for MEDLINE]

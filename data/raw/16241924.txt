@@ -1,0 +1,39 @@
+1. Diabet Med. 2005 Nov;22(11):1574-80. doi: 10.1111/j.1464-5491.2005.01693.x.
+
+Does parity increase insulin resistance during pregnancy?
+
+Seghieri G(1), De Bellis A, Anichini R, Alviggi L, Franconi F, Breschi MC.
+
+Author information:
+(1)Department of Internal Medicine, Spedali Riuniti, Via Monte Sabotino 96/A, 
+51100 Pistoia, Italy. gseghier@tin.it
+
+AIMS: To study the effect of parity on impairment of insulin sensitivity during 
+pregnancy and on the risk of gestational diabetes (GDM).
+METHODS: We studied the relationship between parity and peripheral insulin 
+sensitivity index (ISI(OGTT)) or GDM in 1880 caucasian women, who underwent a 
+100-g, 3-h oral glucose tolerance test (OGTT) between the 24th and 28th 
+gestational week and in 75 women who underwent an OGTT in two consecutive 
+pregnancies. A proxy for beta-cell function (basal plasma C peptide/fasting 
+plasma glucose; CP/FPG) was also measured.
+RESULTS: By univariate analysis parity was related to decreased ISI(OGTT) and to 
+increased CP/FPG in those with parity > 3 and likewise GDM, diagnosed in 124 
+women (6.58%), was linearly related to parity (P = 0.0034) and strongly age 
+dependent. The relationships between parity and ISI(OGTT), CP/FPG and GDM were 
+no longer significant after adjustment for age, pregestational body mass index 
+(BMI), and weight gain. GDM was significantly related to age and pregestational 
+weight, while ISI(OGTT) and CP/FPG were inversely related to prepregnancy BMI or 
+weight gain. In comparison with the index pregnancy, the subsequent pregnancy 
+was characterized by an increase in actual and prepregnancy BMI, in 2 h area 
+under curve (AUC) glucose and by a decrease in ISI(OGTT) (P = 0.0001). The 
+longer the time interval between pregnancies and the higher the increment in 
+pregestational BMI or in weight gain during the pregnancy, the greater were the 
+ISI(OGTT) decrease and 2-h AUC glucose increase.
+CONCLUSIONS: Parity is not directly linked to insulin sensitivity deterioration, 
+to CP/FPG increase during pregnancy, or to GDM appearance, although it is linked 
+through the mediation of progressive ageing and weight gain either before or 
+during pregnancy, when there is a sufficiently long time interval between 
+pregnancies.
+
+DOI: 10.1111/j.1464-5491.2005.01693.x
+PMID: 16241924 [Indexed for MEDLINE]

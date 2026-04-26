@@ -1,0 +1,39 @@
+1. Acad Med. 2010 Apr;85(4):640-6. doi: 10.1097/ACM.0b013e3181d2cb5b.
+
+Do women residents delay childbearing due to perceived career threats?
+
+Willett LL(1), Wellons MF, Hartig JR, Roenigk L, Panda M, Dearinger AT, Allison 
+J, Houston TK.
+
+Author information:
+(1)Internal Medicine Residency Program, Division of General Internal Medicine, 
+University of Alabama at Birmingham, Birmingham, Alabama 35291-0012, USA. 
+lwillett@uab.edu
+
+PURPOSE: To assess gender differences among residents regarding their plans to 
+have children during residency and determine the most influential reasons for 
+these differences.
+METHOD: Using the Health Belief Model as a framework, the authors created an 
+instrument to survey 424 residents from 11 residency programs at three academic 
+medical institutions about their intentions to have children during residency. 
+The authors developed a scale to assess the perceived career threats of having 
+children during residency, evaluated its psychometric properties, and calculated 
+the effect of the mediators.
+RESULTS: The response rate was 77% (328/424). Forty-one percent of men versus 
+27% of women planned to have children during residency (P = .01). The instrument 
+measured four career threats-extended training, loss of fellowship positions, 
+pregnancy complications, and interference with career plans-on a five-point 
+Likert scale. The scale had a Cronbach alpha of 0.84 and an eigenvalue of 2.2. 
+Compared with men, women had higher scores for each item and a higher mean score 
+(2.9 versus 2.1, P = .001), signifying greater belief in the potential of 
+pregnancy to threaten careers. After adjusting for age, institution, 
+postgraduate year, and knowledge of parental leave policies, women were less 
+likely to plan to have children during residency (odds ratio 0.46 [95% 
+confidence interval 0.25-0.84]). In mediation analysis, threats to career 
+explained 67% of the gender variance.
+CONCLUSIONS: Women residents intentionally postpone pregnancy because of 
+perceived threats to their careers. Medical educators should be aware of these 
+findings when counseling female trainees.
+
+DOI: 10.1097/ACM.0b013e3181d2cb5b
+PMID: 20354380 [Indexed for MEDLINE]

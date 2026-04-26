@@ -1,0 +1,38 @@
+1. Diabet Med. 2007 Dec;24(12):1449-54. doi: 10.1111/j.1464-5491.2007.02263.x.
+Epub  2007 Sep 26.
+
+Serum angiotensin-converting enzyme and frequency of severe hypoglycaemia in 
+Type 1 diabetes: does a relationship exist?
+
+Zammitt NN(1), Geddes J, Warren RE, Marioni R, Ashby JP, Frier BM.
+
+Author information:
+(1)Department of Diabetes, Royal Infirmary of Edinburgh, Edinburgh, UK.
+
+AIMS: An association has been described between elevated serum 
+angiotensin-converting enzyme (ACE) and an increased risk of severe 
+hypoglycaemia (SH). To ascertain whether this reported association could be 
+replicated in a different country, it was re-examined in 300 individuals with 
+Type 1 diabetes.
+METHODS: People with Type 1 diabetes, none of whom was taking renin-angiotensin 
+system blocking drugs, were recruited. Participants recorded the frequency with 
+which they had experienced SH. Glycated haemoglobin (HbA(1c)) and serum ACE were 
+measured. The difference in the incidence of SH between different quartiles of 
+ACE activity and the relationship between serum ACE and SH were examined using 
+non-parametric statistical tests and a negative binomial model.
+RESULTS: Data were obtained from 300 patients [158 male; HbA(1c) median (range) 
+8.2% (5.2-12.8%), median age 36 years (16-88); duration of diabetes 14.5 years 
+(2-49)]. The incidence of SH was 0.93 episodes per patient year. The mean 
+incidence of SH in the top and bottom quartiles of ACE activity was 0.5 and 1.7 
+episodes per patient year, respectively, but this difference was not 
+statistically significant (P = 0.075). Spearman's test showed a very weak, 
+although statistically significant, association between serum ACE level and SH 
+incidence (r = 0.115, P = 0.047). The binomial model also showed a statistically 
+significant (P = 0.002), but clinically weak, relationship between serum ACE and 
+SH.
+CONCLUSIONS: The present survey showed a weak relationship between serum ACE and 
+the frequency of SH, the clinical relevance of which is unclear. This limits the 
+proposed role for serum ACE as an index of risk for SH.
+
+DOI: 10.1111/j.1464-5491.2007.02263.x
+PMID: 17894828 [Indexed for MEDLINE]

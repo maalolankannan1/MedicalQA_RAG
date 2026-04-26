@@ -1,0 +1,43 @@
+1. BMC Neurosci. 2011 Jul 29;12:76. doi: 10.1186/1471-2202-12-76.
+
+The effect of an intracerebroventricular injection of metformin or AICAR on the 
+plasma concentrations of melatonin in the ewe: potential involvement of AMPK?
+
+Menassol JB(1), Tautou C, Collet A, Chesneau D, Lomet D, Dupont J, Malpaux B, 
+Scaramuzzi RJ.
+
+Author information:
+(1)Physiologie de la Reproduction et des Comportements UMR85, INRA, Nouzilly 
+F-37380, France. jbmenassol@gmail.com
+
+BACKGROUND: It is now widely accepted that AMP-activated protein kinase (AMPK) 
+is a critical regulator of energy homeostasis. Recently, it has been shown to 
+regulate circadian clocks. In seasonal breeding species such as sheep, the 
+circadian clock controls the secretion of an endogenous rhythm of melatonin and, 
+as a consequence, is probably involved in the generation of seasonal rhythms of 
+reproduction. Considering this, we identified the presence of the subunits of 
+AMPK in different hypothalamic nuclei involved in the pre- and post-pineal 
+pathways that control seasonality of reproduction in the ewe and we investigated 
+if the intracerebroventricular (i.c.v.) injection of two activators of AMPK, 
+metformin and AICAR, affected the circadian rhythm of melatonin in ewes that 
+were housed in constant darkness. In parallel the secretion of insulin was 
+monitored as a peripheral metabolic marker. We also investigated the effects of 
+i.c.v. AICAR on the phosphorylation of AMPK and acetyl-CoA carboxylase (ACC), a 
+downstream target of AMPK, in brain structures along the photoneuroendocrine 
+pathway to the pineal gland.
+RESULTS: All the subunits of AMPK that we studied were identified in all brain 
+areas that were dissected but with some differences in their level of expression 
+among structures. Metformin and AICAR both reduced (p < 0.001 and p < 0.01 
+respectively) the amplitude of the circadian rhythm of melatonin secretion 
+independently of insulin secretion. The i.c.v. injection of AICAR only tended (p 
+= 0.1) to increase the levels of phosphorylated AMPK in the paraventricular 
+nucleus but significantly increased the levels of phosphorylated ACC in the 
+paraventricular nucleus (p < 0.001) and in the pineal gland (p < 0.05).
+CONCLUSIONS: Taken together, these results suggest a potential role for AMPK on 
+the secretion of melatonin probably acting trough the paraventricular nucleus 
+and/or directly in the pineal gland. We conclude that AMPK may act as a 
+metabolic cue to modulate the rhythm of melatonin secretion.
+
+DOI: 10.1186/1471-2202-12-76
+PMCID: PMC3156753
+PMID: 21801416 [Indexed for MEDLINE]

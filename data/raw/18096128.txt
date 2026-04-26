@@ -1,0 +1,28 @@
+1. Am J Surg. 2008 Feb;195(2):170-3. doi: 10.1016/j.amjsurg.2007.09.029.
+
+Cervical spine fractures in geriatric blunt trauma patients with low-energy 
+mechanism: are clinical predictors adequate?
+
+Schrag SP(1), Toedter LJ, McQuay N Jr.
+
+Author information:
+(1)Division of Trauma/Surgical Critical Care, St. Luke's Hospital and University 
+of Pennsylvania Trauma Network, 801 Ostrum St., Bethlehem, PA 18015, USA.
+
+BACKGROUND: Studies have identified clinical predictors to guide radiologic 
+evaluation of the cervical spine in geriatric patients. We hypothesized that 
+clinical predictors are not adequate in the identification of cervical spine 
+fractures in geriatric blunt trauma patients with low-energy mechanism.
+METHODS: A retrospective case-control study was performed on geriatric blunt 
+trauma patients sustaining low-energy trauma from January 2000 to January 2006. 
+A data form including 8 clinical predictors was completed for each group.
+RESULTS: There were 35 study and 64 control patients identified. Both groups 
+were similar in age (study 83.6 vs control 81.2) and injury severity score 
+(study 9.06 vs control 9.61). Only neck tenderness exceeded the expected 
+occurrence in the presence of a cervical spine injury (chi(2) = 18.1, P = .001) 
+in just 45.5% of the study group.
+CONCLUSIONS: Clinical predictors appear inadequate for the evaluation of the 
+cervical spine in geriatric trauma patients with low-energy mechanism.
+
+DOI: 10.1016/j.amjsurg.2007.09.029
+PMID: 18096128 [Indexed for MEDLINE]

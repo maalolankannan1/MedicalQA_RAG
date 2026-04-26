@@ -1,0 +1,37 @@
+1. J Cardiovasc Med (Hagerstown). 2016 Feb;17(2):137-43. doi: 
+10.2459/JCM.0000000000000292.
+
+Does patient-prosthesis mismatch after aortic valve replacement affect survival 
+and quality of life in elderly patients?
+
+Sportelli E(1), Regesta T, Salsano A, Ghione P, Brega C, Bezante GP, Passerone 
+G, Santini F.
+
+Author information:
+(1)aDivision of Cardiac Surgery bDivision of Cardiology, IRCCS San Martino-IST, 
+University of Genova Medical School, Genova, Italy.
+
+BACKGROUND: To evaluate the impact of patient-prosthesis mismatch (PPM) on 
+survival, functional status, and quality of life (QoL) after aortic valve 
+replacement (AVR) with small prosthesis size in elderly patients.
+METHODS: Between January 2005 and December 2013, 152 patients with pure aortic 
+stenosis, aged at least 75 years, underwent AVR, with a 19 or 21 mm prosthetic 
+heart valve. PPM was defined as an indexed effective orifice area less than 
+0.85 cm/m. Median age was 82 years (range 75-93 years). Mean follow-up was 56 
+months (range 1-82 months) and was 98% complete. Late survival rate, New York 
+Heart Association functional class, and QoL (RAND SF-36) were assessed.
+RESULTS: Overall, PPM was found in 78 patients (53.8%). Among them, 42 patients 
+(29%) had an indexed effective orifice area less than 0.75 cm/m and 17 less than 
+0.65 cm/m (11.7%). Overall survival at 5 years was 78 ± 4.5% and was not 
+influenced by PPM (P = NS). The mean New York Heart Association class for 
+long-term survivors with PPM improved from 3.0 to 1.7 (P < 0.001). QoL (physical 
+functioning 45.18 ± 11.35, energy/fatigue 49.36 ± 8.64, emotional well being 
+58.84 ± 15.44, social functioning 61.29 ± 6.15) was similar to that of no-PPM 
+patients (P = NS).
+CONCLUSION: PPM after AVR does not affect survival, functional status, and QoL 
+in patients aged at least 75 years. Surgical procedures, often time-consuming, 
+contemplated to prevent PPM, may therefore be not justified in this patient 
+subgroup.
+
+DOI: 10.2459/JCM.0000000000000292
+PMID: 26237424 [Indexed for MEDLINE]

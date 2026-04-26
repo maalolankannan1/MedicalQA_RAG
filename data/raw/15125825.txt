@@ -1,0 +1,39 @@
+1. J Fam Pract. 2004 May;53(5):393-9.
+
+Starting insulin in type 2 diabetes: continue oral hypoglycemic agents? A 
+randomized trial in primary care.
+
+Goudswaard AN(1), Stolk RP, Zuithoff P, de Valk HW, Rutten GE.
+
+Author information:
+(1)University Medical Center Utrecht, Julius Center for Health Sciences and 
+Primary Care, Koperslagersgilde 5, 3994 CH Houten, The Netherlands. 
+lex@goudswaard.cx
+
+OBJECTIVE: To evaluate the effects of insulin 30/70 twice daily or bedtime 
+isophane (NPH) insulin plus continued sulfonylurea and metformin in patients 
+with type 2 diabetes in primary care.
+STUDY DESIGN: Open-label, randomized trial.
+POPULATION: Persons younger than 76 years with type 2 diabetes whose disease had 
+not been controlled with oral hypoglycemic agents alone. A total of 64 
+insulin-naive patients treated with maximal feasible dosages of sulfonylurea and 
+metformin (baseline glycosylated hemoglobin [HbA1c]=8.5%) were randomly assigned 
+to insulin monotherapy (IM group; n=31) or insulin in addition to unchanged oral 
+hypoglycemic medication (IC group; n=33) for 12 months. Insulin doses were 
+adjusted to obtain fasting glucose <7.0 mmol/L and postprandial glucose <10.0 
+mmol/L.
+OUTCOMES MEASURED: Outcome measures included HbA1c, treatment failure, weight, 
+hypoglycemic events and symptoms, satisfaction with treatment, general 
+well-being, and fear of injecting insulin and testing.
+RESULTS: HbA1c improved from 8.3% to 7.6% in the IC group, and from 8.8% to 7.6% 
+in the IM group (P=NS). The IC group had 24% treatment failures, compared with 
+2% in the IM group (P=.09). Patients in the IC group had less weight gain than 
+those in the IM group (1.3 vs 4.2 kg; P=.01), and they reported fewer 
+hypoglycemic events (2.7 vs 4.3; P=.02). Increased satisfaction with treatment 
+was equal in the 2 groups, and general well-being improved by 3.0 points more in 
+the IC group (P=.05). Fear of self-injecting and self-testing did not differ.
+CONCLUSIONS: Bedtime NPH insulin added to maximal therapy with sulfonylurea and 
+metformin is an effective, simple, well-tolerated approach for patients with 
+uncontrolled type 2 diabetes.
+
+PMID: 15125825 [Indexed for MEDLINE]

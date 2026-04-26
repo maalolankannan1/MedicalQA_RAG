@@ -1,0 +1,37 @@
+1. BMJ. 1992 Mar 21;304(6829):756-8. doi: 10.1136/bmj.304.6829.756.
+
+Storage of vaccines in the community: weak link in the cold chain?
+
+Thakker Y(1), Woods S.
+
+Author information:
+(1)Pinderfields Hospital, Wakefield.
+
+Comment in
+    BMJ. 1992 May 9;304(6836):1245. doi: 10.1136/bmj.304.6836.1245-a.
+    BMJ. 1992 May 30;304(6839):1441. doi: 10.1136/bmj.304.6839.1441.
+
+OBJECTIVE: To assess quality of storage of vaccines in the community.
+DESIGN: Questionnaire survey of general practices and child health clinics, and 
+monitoring of storage temperatures of selected refrigerators.
+SETTING: Central Manchester and Bradford health districts.
+SUBJECTS: 45 general practices and five child health clinics, of which 40 (80%) 
+responded. Eight practices were selected for refrigeration monitoring.
+MAIN OUTCOME MEASURES: Adherence to Department of Health guidelines for vaccine 
+storage, temperature range to which vaccines were exposed over two weeks.
+RESULTS: Of the 40 respondents, only 16 were aware of the appropriate storage 
+conditions for the vaccines; eight had minimum and maximum thermometers but only 
+one of these was monitored daily. In six of the eight practices selected for 
+monitoring of refrigeration temperatures the vaccines were exposed to either 
+subzero temperatures (three fridges) or temperatures up to 16 degrees C (three). 
+Two of these were specialised drug storage refrigerators with an incorporated 
+thermostat and external temperature gauges.
+CONCLUSION: Vaccines were exposed to temperatures that may reduce their potency. 
+Safe storage of vaccines in the clinics cannot be ensured without adhering to 
+the recommended guidelines. Provision of adequate equipment and training for 
+staff in maintaining the "cold chain" and the use and care of equipment are 
+important components of a successful immunisation programme.
+
+DOI: 10.1136/bmj.304.6829.756
+PMCID: PMC1881607
+PMID: 1571683 [Indexed for MEDLINE]

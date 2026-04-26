@@ -1,0 +1,57 @@
+1. Am J Gastroenterol. 2010 Apr;105(4):848-58. doi: 10.1038/ajg.2010.47. Epub
+2010  Mar 2.
+
+Is irritable bowel syndrome a diagnosis of exclusion?: a survey of primary care 
+providers, gastroenterologists, and IBS experts.
+
+Spiegel BM(1), Farid M, Esrailian E, Talley J, Chang L.
+
+Author information:
+(1)Department of Gastroenterology, VA Greater Los Angeles Healthcare System, Los 
+Angeles, California 90073, USA. bspiegel@mednet.ulca.edu
+
+Comment in
+    Z Gastroenterol. 2010 Aug;48(8):852-3. doi: 10.1055/s-0029-1245564.
+
+OBJECTIVES: Guidelines emphasize that irritable bowel syndrome (IBS) is not a 
+diagnosis of exclusion and encourage clinicians to make a positive diagnosis 
+using the Rome criteria alone. Yet many clinicians are concerned about 
+overlooking alternative diagnoses. We measured beliefs about whether IBS is a 
+diagnosis of exclusion, and measured testing proclivity between IBS experts and 
+community providers.
+METHODS: We developed a survey to measure decision-making in two standardized 
+patients with Rome III-positive IBS, including IBS with diarrhea (D-IBS) and IBS 
+with constipation (C-IBS). The survey elicited provider knowledge and beliefs 
+about IBS, including testing proclivity and beliefs regarding IBS as a diagnosis 
+of exclusion. We surveyed nurse practitioners, primary care physicians, 
+community gastroenterologists, and IBS experts.
+RESULTS: Experts were less likely than nonexperts to endorse IBS as a diagnosis 
+of exclusion (8 vs. 72%; P<0.0001). In the D-IBS vignette, experts were more 
+likely to make a positive diagnosis of IBS (67 vs. 38%; P<0.001), to perform 
+fewer tests (2.0 vs. 4.1; P<0.01), and to expend less money on testing (US$297 
+vs. $658; P<0.01). Providers who believed IBS is a diagnosis of exclusion 
+ordered 1.6 more tests and consumed $364 more than others (P<0.0001). Experts 
+only rated celiac sprue screening and complete blood count as appropriate in 
+D-IBS; nonexperts rated most tests as appropriate. Parallel results were found 
+in the C-IBS vignette.
+CONCLUSIONS: Most community providers believe IBS is a diagnosis of exclusion; 
+this belief is associated with increased resource use. Experts comply more 
+closely with guidelines to diagnose IBS with minimal testing. This disconnect 
+suggests that better implementation of guidelines is warranted to minimize 
+variation and improve cost-effectiveness of care.
+
+DOI: 10.1038/ajg.2010.47
+PMCID: PMC2887205
+PMID: 20197761 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST Guarantor of the article: 
+Brennan M.R. Spiegel, MD, MSHS. Specific author contributions: Study design, 
+study implementation, data collection, data analysis, data interpretation, paper 
+preparation, and paper approval: Brennan Spiegel; study design, study 
+implementation, data collection, and paper review: Mary Farid; study design, 
+data interpretation, and paper review: Eric Esrailian; study implementation and 
+data collection: Jennifer Talley; study design, data interpretation, paper 
+preparation, and paper approval: Lin Chang. Potential competing interests: 
+Spiegel and Chang have served as advisors to Prometheus Laboratories, and have 
+received grant support from Takeda Sucampo Pharmaceuticals, Rose 
+Pharmaceuticals, and Prometheus Laboratories.

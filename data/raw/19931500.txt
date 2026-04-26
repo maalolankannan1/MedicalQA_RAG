@@ -1,0 +1,37 @@
+1. Cancer Epidemiol. 2009 Nov;33(5):387-90. doi: 10.1016/j.canep.2009.10.011.
+Epub  2009 Nov 20.
+
+Can the condition of the cell microenvironment of mediastinal lymph nodes help 
+predict the risk of metastases in non-small cell lung cancer?
+
+Zieliński P(1), Dyszkiewicz W, Piwkowski CT, Dworacki G, Gasiorowski L.
+
+Author information:
+(1)Department of Thoracic Surgery, Poznan University of Medical Sciences, 62 
+Szamarzewski St., 60-569 Poznan, Poland.
+
+BACKGROUND: The aim of this study was to analyze the properties of the immune 
+cell microenvironment of regional lymph nodes (LNs) positive for lung cancer.
+METHODS: Twenty-four patients operated on for stages T1 and T2 of the NSCLC, 
+were enrolled in the study. Peripheral blood and LN tissue were obtained from 
+different lymph node sites and levels. As a control, LN tissue was taken from 
+patients diagnosed with emphysema or pneumothorax. The cells from randomly 
+chosen LN were tested by multi-color flow cytometry. Separate portions of LN 
+were snap-frozen and examined for the presence of cytokeratin positive cells 
+(CK). Propensity for apoptosis, level of TCR zeta chain expression of T cells 
+and the number and maturation status of dendritic cells were confronted with the 
+presence of CK-positive cells.
+RESULTS: The presence of metastases correlated with the downregulation of TCR 
+zeta, especially CD8(+) T cells. The most striking feature was the reduction in 
+the number of myeloid CD11c(+) dendritic cells in the LN of patients with LN 
+metastases. This could be a reflection of the immunodeficient state observed in 
+lung cancer patients. Even in the absence of metastases in the regional LN, the 
+same type of changes in the LN microenvironment were observed in those LN 
+located nearer the primary tumor.
+CONCLUSIONS: The preliminary results of this study suggest that this approach 
+may be helpful as an independent tumor staging factor. It is also worth noting 
+that part of the staging process could also be based on features describing the 
+immune cells in the peripheral blood.
+
+DOI: 10.1016/j.canep.2009.10.011
+PMID: 19931500 [Indexed for MEDLINE]

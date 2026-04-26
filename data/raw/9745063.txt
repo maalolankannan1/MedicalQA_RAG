@@ -1,0 +1,34 @@
+1. Surg Endosc. 1998 Oct;12(10):1236-41. doi: 10.1007/s004649900827.
+
+Is laparoscopic sonography a reliable and sensitive procedure for staging 
+colorectal cancer? A comparative study.
+
+Goletti O(1), Celona G, Galatioto C, Viaggi B, Lippolis PV, Pieri L, Cavina E.
+
+Author information:
+(1)Department of Surgery, University of Pisa, Via Roma 67, 56100 Pisa, Italy.
+
+BACKGROUND: Laparoscopic colectomy has developed rapidly with the explosion of 
+technology. In most cases, laparoscopic resection is performed for colorectal 
+cancer. Intraoperative staging during laparoscopic procedure is limited. 
+Laparoscopic ultrasonography (LUS) represents the only real alternative to 
+manual palpation during laparoscopic surgery.
+METHODS: We evaluated the diagnostic accuracy of LUS in comparison with 
+preoperative staging and laparoscopy in 33 patients with colorectal cancer. 
+Preoperative staging included abdominal US, CT, and endoscopic US (for rectal 
+cancer). Laparoscopy and LUS were performed in all cases. Pre- and 
+intraoperative staging were related to definitive histology. Staging was done 
+according to the TNM classification.
+RESULTS: LUS obtained good results in the evaluation of hepatic metastases, with 
+a sensitivity of 100% versus 62.5% and 75% by preoperative diagnostic means and 
+laparoscopy, respectively. Nodal metastases were diagnosed with a sensitivity of 
+94% versus 18% with preoperative staging and 6% with laparoscopy, but the method 
+had a low specificity (53%). The therapeutic program was changed thanks to 
+laparoscopy and LUS in 11 cases (33%). In four cases (12%), the planned 
+therapeutic approach was changed after LUS alone.
+CONCLUSIONS: The results obtained in this study demonstrate that LUS is an 
+accurate and highly sensitive procedure in staging colorectal cancer, providing 
+a useful and reliable diagnostic tool complementary to laparoscopy.
+
+DOI: 10.1007/s004649900827
+PMID: 9745063 [Indexed for MEDLINE]

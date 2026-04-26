@@ -1,0 +1,52 @@
+1. PLoS One. 2012;7(1):e30936. doi: 10.1371/journal.pone.0030936. Epub 2012 Jan
+27.
+
+Does a family meetings intervention prevent depression and anxiety in family 
+caregivers of dementia patients? A randomized trial.
+
+Joling KJ(1), van Marwijk HW, Smit F, van der Horst HE, Scheltens P, van de Ven 
+PM, Mittelman MS, van Hout HP.
+
+Author information:
+(1)Department of General Practice and the EMGO Institute for Health and Care 
+Research, VU University Medical Center, Amsterdam, The Netherlands. 
+k.joling@vumc.nl
+
+BACKGROUND: Family caregivers of dementia patients are at increased risk of 
+developing depression or anxiety. A multi-component program designed to mobilize 
+support of family networks demonstrated effectiveness in decreasing depressive 
+symptoms in caregivers. However, the impact of an intervention consisting solely 
+of family meetings on depression and anxiety has not yet been evaluated. This 
+study examines the preventive effects of family meetings for primary caregivers 
+of community-dwelling dementia patients.
+METHODS: A randomized multicenter trial was conducted among 192 primary 
+caregivers of community dwelling dementia patients. Caregivers did not meet the 
+diagnostic criteria for depressive or anxiety disorder at baseline. Participants 
+were randomized to the family meetings intervention (n = 96) or usual care 
+(n = 96) condition. The intervention consisted of two individual sessions and 
+four family meetings which occurred once every 2 to 3 months for a year. Outcome 
+measures after 12 months were the incidence of a clinical depressive or anxiety 
+disorder and change in depressive and anxiety symptoms (primary outcomes), 
+caregiver burden and quality of life (secondary outcomes). Intention-to-treat as 
+well as per protocol analyses were performed.
+RESULTS: A substantial number of caregivers (72/192) developed a depressive or 
+anxiety disorder within 12 months. The intervention was not superior to usual 
+care either in reducing the risk of disorder onset (adjusted IRR 0.98; 95% CI 
+0.69 to 1.38) or in reducing depressive (randomization-by-time interaction 
+coefficient = -1.40; 95% CI -3.91 to 1.10) or anxiety symptoms 
+(randomization-by-time interaction coefficient = -0.55; 95% CI -1.59 to 0.49). 
+The intervention did not reduce caregiver burden or their health related quality 
+of life.
+CONCLUSION: This study did not demonstrate preventive effects of family meetings 
+on the mental health of family caregivers. Further research should determine 
+whether this intervention might be more beneficial if provided in a more 
+concentrated dose, when applied for therapeutic purposes or targeted towards 
+subgroups of caregivers.
+TRIAL REGISTRATION: Controlled-Trials.com ISRCTN90163486.
+
+DOI: 10.1371/journal.pone.0030936
+PMCID: PMC3267736
+PMID: 22303473 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

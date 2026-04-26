@@ -1,0 +1,34 @@
+1. Optom Vis Sci. 2009 Feb;86(2):139-45. doi: 10.1097/OPX.0b013e318194eb47.
+
+Can clinicians use the PHQ-9 to assess depression in people with vision loss?
+
+Lamoureux EL(1), Tee HW, Pesudovs K, Pallant JF, Keeffe JE, Rees G.
+
+Author information:
+(1)Singapore Eye Research Institute, Singapore National Eye Centre, Singapore. 
+ecosse@unimelb.edu.au
+
+PURPOSE: To investigate whether the Patient Health Questionnaire-9 (PHQ-9) 
+possesses the essential psychometric characteristics to measure depressive 
+symptoms in people with visual impairment.
+METHODS: The PHQ-9 scale was completed by 103 participants with low vision. 
+These data were then assessed for fit to the Rasch model.
+RESULTS: The participants' mean +/- standard deviation (SD) age was 74.7 +/- 
+12.2 years. Almost one half of them (n = 46; 44.7%) were considered to have 
+severe vision impairment (presenting visual acuity <6/60 in the better eye). 
+Disordered thresholds were evident initially. Collapsing the two middle 
+categories produced ordered thresholds and fit to the Rasch model (chi = 10.1; 
+degrees of freedom = 9; p = 0.34). The mean (SD) items and persons Fit Residual 
+values were -0.31 (1.12) and -0.25 (0.78), respectively, where optimal fit of 
+data to the Rasch model would have a mean = 0 and SD = 1. Unidimensionality was 
+demonstrated confirming the construct validity of the PHQ-9 and there was no 
+evidence of differential item functioning on a number of factors including 
+visual disability. The person separation reliability value was 0.80 indicating 
+that the PHQ-9 has satisfactory precision. There was a degree of mistargeting as 
+expected in this largely non-clinically depressed sample.
+CONCLUSIONS: Our findings demonstrate that the PHQ-9, when scaled with Rasch 
+analysis, forms a linear interval measurement of depressive symptoms suitable 
+for use in a vision impaired population.
+
+DOI: 10.1097/OPX.0b013e318194eb47
+PMID: 19156007 [Indexed for MEDLINE]

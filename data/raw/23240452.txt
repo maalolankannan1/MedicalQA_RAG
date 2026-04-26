@@ -1,0 +1,31 @@
+1. Adv Clin Exp Med. 2012 Jul-Aug;21(4):469-75.
+
+Can we predict urinary stone composition based on an analysis of microelement 
+concentration in the hair and urine?
+
+Słojewski M(1), Safranow K, Jakubowska K, Olszewska M, Pawlik A, Juzyszyn Z, 
+Droździk M, Chlubek D, Hammerer P, Sikorski A.
+
+Author information:
+(1)Department of Urology and Urological Oncology, Pomeranian Medical University, 
+Szczecin, Poland. mslojewski@csv.pl
+
+BACKGROUND: In recent years the role of trace elements in lithogenesis has 
+received steadily increasing attention.
+OBJECTIVES: This study was aimed to attempt to find the correlations between the 
+chemical content of the stones and the concentration of chosen elements in the 
+urine and hair of stone formers.
+MATERIAL AND METHODS: The proposal for the study was approved by the local 
+ethics committee. Specimens were taken from 219 consecutive stone-formers. The 
+content of the stone was evaluated using atomic absorption spectrometry, 
+spectrophotometry, and colorimetric methods. An analysis of 29 elements in hair 
+and 21 elements in urine was performed using inductively coupled plasma-atomic 
+emission spectrometry.
+RESULTS: Only a few correlations between the composition of stones and the 
+distribution of elements in urine and in hair were found. All were considered 
+incidental.
+CONCLUSIONS: The data obtained did not allow for the creation of a proper and 
+practical algorithm to predict stone chemical composition based on hair and 
+urine analysis.
+
+PMID: 23240452 [Indexed for MEDLINE]

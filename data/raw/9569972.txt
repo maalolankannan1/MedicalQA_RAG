@@ -1,0 +1,29 @@
+1. Anal Quant Cytol Histol. 1998 Apr;20(2):144-52.
+
+Proliferative index obtained by DNA image cytometry. Does it add prognostic 
+information in Auer IV breast cancer?
+
+Baldetorp B(1), Fernö M, Bendahl PO, Fallenius G, Idvall I, Akerman M, Killander 
+D.
+
+Author information:
+(1)Department of Oncology, University Hospital, Lund, Sweden.
+
+OBJECTIVE: To investigate whether the S + G2/M fraction (proliferative index) is 
+a prognostic determinant in breast cancers classified as Auer IV.
+STUDY DESIGN: Prognostic evaluation of Auer IV DNA histograms with respect to 
+the high versus low S + G2/M fraction, obtained by image cytometry on 
+consecutive breast cancer imprint preparations.
+RESULTS: When studying recurrence-free survival (n = 136), the prognostic value 
+of S + G2/M was found to vary with time: it was negligible before the median 
+time to relapse (1.5 years) but thereafter statistically significant, in both 
+univariate and multivariate analysis. The same pattern was found when overall 
+survival was used as the end point; the effect was delayed to about the median 
+time until death (three years). Tumors with a low S + G2/M fraction were smaller 
+and more often estrogen receptor- and progesterone receptor-positive than those 
+with a high S + G2/M fraction.
+CONCLUSION: According to ICM-DNA values corresponding to the S + G2/M region, 
+patients with breast cancers classified as Auer IV can be divided into subgroups 
+with different tumor characteristics and prognoses.
+
+PMID: 9569972 [Indexed for MEDLINE]

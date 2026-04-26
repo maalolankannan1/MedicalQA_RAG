@@ -1,0 +1,37 @@
+1. J Infect Dev Ctries. 2013 Aug 15;7(8):593-9. doi: 10.3855/jidc.2926.
+
+Treatment as prevention in resource-limited settings: is it feasible to maintain 
+HIV viral load suppression over time?
+
+Socías ME(1), Rotryng F, Lapadula P, Medrano M, Paz D, Stern L, Lambierto A, 
+Pryluka D.
+
+Author information:
+(1)Sanatorio Otamendi, Buenos Aires, Argentina. eugenia.socias@gmail.com
+
+INTRODUCTION: Recently, there has been increasing interest in the role of 
+"treatment as prevention" (TasP). Some of the questions regarding TasP 
+strategies arise from the perceived difficulties in achieving and maintaining 
+viral load (VL) suppression over time and the risk of emergence of viral 
+resistance that could compromise future treatment options. This study was 
+conducted to assess these questions in a resource-limited setting.
+METHODOLOGY: We performed a retrospective observational study of HIV-infected 
+patients diagnosed in the pre-HAART era on follow-up at a private center from 
+Buenos Aires, Argentina. Socio-demographic, clinical, and laboratory data were 
+extracted from clinical charts. Analyses were performed to test for potential 
+associations of selected variables with current virologic failure or use of 
+third-line drugs.
+RESULTS: Of 619 patients on follow-up, 82 (13.2%) were diagnosed in the 
+pre-HAART era. At the time of our study, 79 (96.3%) patients were on HAART, with 
+a median duration of 14 years (IQR 12-15) of therapy, and exposure to mono or 
+dual nucleoside reverse transcriptase inhibitors regimens in 47.8% of 
+cases. Sixty-nine patients (87.3%) had undetectable VL, 37 (46.8%) never 
+presented virologic failure, and 19 (24.1%) experienced only one failure. 
+Thirteen patients (16.5%) were receiving third-line ART regimens, with an 
+average of 2.7-fold more virologic failures than those on first- or second-line 
+regimens (p = 0.007).
+CONCLUSIONS: Maintaining viral load suppression over time in 
+resource-limited-settings is feasible.
+
+DOI: 10.3855/jidc.2926
+PMID: 23949294 [Indexed for MEDLINE]

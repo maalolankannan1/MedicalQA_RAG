@@ -1,0 +1,36 @@
+1. Gynecol Endocrinol. 2012 Aug;28(8):644-8. doi: 10.3109/09513590.2011.650767. 
+Epub 2012 Feb 10.
+
+Are polymorphisms in oestrogen receptors genes associated with lipid levels in 
+response to hormone therapy?
+
+Smiderle L(1), Mattevi VS, Giovenardi M, Wender MC, Hutz MH, Almeida S.
+
+Author information:
+(1)Programa de Pós-Graduação em Ciências da Saúde, Universidade Federal de 
+Ciências da Saúde de Porto Alegre – UFCSPA, Porto Alegre, RS, Brazil.
+
+BACKGROUND: Polymorphisms in the oestrogen receptor 1 (ESR1) and oestrogen 
+receptor 2 (ESR2) genes are associated with intermediate or endpoint markers of 
+cardiovascular disease and with the efficacy of postmenopausal hormone therapy 
+(HT). Contradictory findings have been described in the past and the role of 
+these genetics variants remains unclear.
+METHODS: A cross-sectional study was carried out with 266 postmenopausal women, 
+of whom 115 received oral HT (HT+) and 151 did not receive any HT (HT-). We 
+analysed three single-nucleotide polymorphisms (SNPs) in ESR1 (rs1801132, 
+rs7757956 and rs2813544) and two in ESR2 (rs3020450 and rs7154455) and derived 
+haplotypes with three additional polymorphisms that had been previously 
+investigated by our group (ESR1 rs2234693 and ESR2 rs1256049 and rs4986938).
+RESULTS: The ESR1 rs2813544 polymorphism was associated with low-density 
+lipoprotein cholesterol (LDL-C) in HT+ postmenopausal women (p = 0.044; 
+pC = 0.388), while one ESR2 gene haplotype was associated with total cholesterol 
+(T-chol) (p = 0.015; pC = 0.090) and LDL-C in HT+ postmenopausal women 
+(p = 0.021; pC = 0.126).
+CONCLUSION: Our findings suggest that, in HT+ postmenopausal women, the 
+rs2813544 polymorphism may influence LDL-C levels and, as previously described, 
+ESR2 rs1256049 is associated with T-chol and LDL-C. No previous study has 
+investigated the association of this SNP set with lipoprotein levels in women 
+while taking into account the hormonal status of the patients.
+
+DOI: 10.3109/09513590.2011.650767
+PMID: 22324545 [Indexed for MEDLINE]

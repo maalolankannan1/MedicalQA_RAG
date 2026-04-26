@@ -1,0 +1,44 @@
+1. Pharmacoepidemiol Drug Saf. 2012 May;21(5):524-34. doi: 10.1002/pds.3238. Epub
+ 2012 Mar 13.
+
+Comparative safety of infliximab and etanercept on the risk of serious 
+infections: does the association vary by patient characteristics?
+
+Toh S(1), Li L, Harrold LR, Bayliss EA, Curtis JR, Liu L, Chen L, Grijalva CG, 
+Herrinton LJ.
+
+Author information:
+(1)Department of Population Medicine, Harvard Medical School and Harvard Pilgrim 
+Health Care Institute, Boston, MA 02215, USA. darrentoh@post.harvard.edu
+
+PURPOSE: Infliximab, a chimeric monoclonal anti-TNFα antibody, has been found to 
+increase the risk of serious infections compared with the TNF receptor fusion 
+protein etanercept in some studies. It is unclear whether the risk varies by 
+patient characteristics. We conducted a study to address this question.
+METHODS: We identified members of Kaiser Permanente Northern California who 
+initiated infliximab (n = 793) or etanercept (n = 2692) in 1997-2007. Using a 
+Cox model, we estimated the propensity-score-adjusted hazard ratio (HR) and 95% 
+confidence interval (CI) of serious infections requiring hospitalization or 
+opportunistic infections comparing infliximab initiators to etanercept 
+initiators. We tested whether the adjusted HR differed by age, sex, 
+race/ethnicity, body mass index, and smoking status.
+RESULTS: The crude incidence rate of serious infections per 100 person-years was 
+5.4 (95%CI: 3.8, 7.5) in patients <65 years and 16.0 (95%CI: 10.4, 23.4) in 
+patients ≥ 65 years during the first 3 months following treatment initiation. 
+Compared with etanercept, the adjusted HR during this period was elevated for 
+infliximab in patients <65 years (HR: 3.01; 95%CI: 1.49, 6.07), but not in those 
+≥ 65 years (HR 0.94; 95%CI: 0.41, 2.13). Findings did not suggest that the HR 
+varied by the other patient characteristics examined.
+CONCLUSIONS: An increased risk of serious infections associated with infliximab 
+relative to etanercept did not appear to be modified by patients' sex, 
+race/ethnicity, body mass index, or smoking status. There was an indication that 
+the increased risk might be limited to patients <65 years. Additional studies 
+are warranted to verify or refute this finding.
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/pds.3238
+PMCID: PMC3330193
+PMID: 22411435 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None

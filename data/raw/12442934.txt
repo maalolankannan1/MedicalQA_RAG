@@ -1,0 +1,29 @@
+1. Eur J Anaesthesiol. 2002 Nov;19(11):829-31. doi: 10.1017/s0265021502001345.
+
+Does ibuprofen increase perioperative blood loss during hip arthroplasty?
+
+Slappendel R(1), Weber EW, Benraad B, Dirksen R, Bugter ML.
+
+Author information:
+(1)St Maartenskliniek, Department of Anaesthesiology, Nijmegen, The Netherlands. 
+r.slappendel@maartenskliniek.nl
+
+BACKGROUND AND OBJECTIVE: To determine whether prior exposure of non-steroidal 
+anti-inflammatory drugs increases perioperative blood loss associated with major 
+orthopaedic surgery.
+METHODS: Fifty patients scheduled for total hip replacement were allocated to 
+two groups (double blind, randomized manner). All patients were pretreated for 2 
+weeks before surgery: Group 1 with placebo drug, Group 2 with ibuprofen. All 
+patients were injected intrathecally with bupivacaine 20mg plus morphine 0.1 mg, 
+in a total volume of 4 mL, to provide surgical anaesthesia.
+RESULTS: The presence of severe adverse effects caused eight patients in the 
+ibuprofen group and six in the placebo group to terminate their participation in 
+the trial. The perioperative blood loss increased by 45% in the ibuprofen group 
+compared with placebo. The total (+/-SD) blood loss in the ibuprofen group was 
+1161 (+/-472) mL versus 796 (+/-337) mL in the placebo group.
+CONCLUSIONS: Pretreatment with ibuprofen before elective total hip surgery 
+increases the perioperative blood loss significantly. Early discontinuation of 
+non-selective non-steroidal anti-inflammatory drugs is advised.
+
+DOI: 10.1017/s0265021502001345
+PMID: 12442934 [Indexed for MEDLINE]

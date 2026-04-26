@@ -1,0 +1,43 @@
+1. Med Care. 2011 Apr;49(4):397-405. doi: 10.1097/MLR.0b013e318202ac10.
+
+Are patients with serious mental illness more likely to be admitted to nursing 
+homes with more deficiencies in care?
+
+Li Y(1), Cai X, Cram P.
+
+Author information:
+(1)Division of General Internal Medicine, Carver College of Medicine, University 
+of Iowa, Iowa City, IA 52242, USA. yue-li@uiowa.edu
+
+BACKGROUND: Patients diagnosed with serious mental illness (SMI) who qualify for 
+nursing home placement tend to require high levels of both psychiatric and 
+nursing care. However, it is unknown whether they are equally likely to be 
+admitted to nursing homes with adequate quality of care compared with other 
+patients.
+METHODS: We analyzed a national cohort of more than 1.3 million new nursing home 
+admissions in 2007 using the minimum data set. The total and healthcare-related 
+deficiency citations for each facility were obtained from the Online Survey, 
+Certification, and Reporting file. Bivariate and multivariate regression 
+analyses determined the association of schizophrenia or bipolar disorder with 
+admissions to facilities with higher deficiencies.
+RESULTS: Compared with other patients, patients with schizophrenia (n=23,767) 
+tended to enter nursing homes with more total (13.3 vs. 11.2, P<0.001) and 
+healthcare-related deficiencies (8.6 vs. 7.2, P<0.001); and patients with 
+bipolar disorder (n=19,741) were more likely to enter facilities with more 
+problematic care too (12.5 vs. 11.2, P<0.001 for total deficiencies; and 8.2 vs. 
+7.2, P<0.001 for healthcare-related deficiencies). After sequentially 
+controlling for the within-county choice of facilities, patient characteristics, 
+and facility covariates, the association of SMI with admitting to 
+higher-deficiency nursing homes persisted.
+CONCLUSIONS: Patients diagnosed with schizophrenia or bipolar disorder (ie, SMI) 
+were more likely than other patients to be admitted to nursing homes with higher 
+deficiency citations for both overall quality and clinical care quality. Further 
+research is necessary to understand the reasons behind the disparity in quality 
+of nursing home care associated with SMI.
+
+DOI: 10.1097/MLR.0b013e318202ac10
+PMCID: PMC3784995
+PMID: 21368683 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interests: no conflicts of interest 
+for any authors.

@@ -1,0 +1,36 @@
+1. Spinal Cord. 2014 May;52(5):364-7. doi: 10.1038/sc.2014.23. Epub 2014 Mar 11.
+
+Prognostic factors for cervical spondylotic amyotrophy: are signs of spinal cord 
+involvement associated with the neurological prognosis?
+
+Iizuka Y(1), Iizuka H(1), Mieda T(1), Kobayashi R(1), Tsutsumi S(1), Nakajima 
+T(1), Sorimachi Y(1), Ara T(1), Nishinome M(1), Seki T(1), Takagishi K(1).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Gunma University Graduate School of 
+Medicine, Maebashi, Japan.
+
+OBJECTIVES: The purpose of this study was to clarify the prognostic factors for 
+cervical spondylotic amyotrophy (CSA).
+METHODS: The authors retrospectively reviewed the medical records of 47 
+consecutive patients with CSA in whom the presence/absence of the pyramidal 
+tract sign was noted. We analyzed whether the age, sex, presence of diabetes 
+mellitus, medication (vitamin B12), type of the most atrophic and impaired 
+muscle, the muscle strength at the presentation, the presence of the pyramidal 
+tract sign, magnetic resonance imaging (MRI) findings, including the presence 
+and number of T2 high signal intensity areas (T2 HIA) in the spinal cord and the 
+conversion to surgery were associated with the recovery of muscle strength in 
+the patients. In addition, we also investigated whether the duration of symptoms 
+before surgery and the type of surgery were associated with the recovery of 
+muscle strength in patients who required conversion to surgical treatment.
+RESULTS: The presence of T2 HIA on MRI (P=0.002), the number of T2 HIA on MRI 
+(P=0.002) and conversion to surgery (P=0.015) were found to be significantly 
+associated with a poorer recovery at the observational final follow-up. Further, 
+the presence of the pyramidal tract sign (P=0.043) was significantly associated 
+with a poor recovery at the final follow-up after surgery.
+CONCLUSION: The presence of a high signal intensity change on T2-weighted MRI 
+and the pyramidal tract sign can be used as prognostic factors for patients with 
+CSA.
+
+DOI: 10.1038/sc.2014.23
+PMID: 24614851 [Indexed for MEDLINE]

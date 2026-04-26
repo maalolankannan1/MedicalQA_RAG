@@ -1,0 +1,36 @@
+1. Menopause. 2013 Nov;20(11):1164-8. doi: 10.1097/GME.0b013e31828cec53.
+
+Sternal skin conductance: a reasonable surrogate for hot flash measurement?
+
+Pachman DR(1), Loprinzi CL, Novotny PJ, Satele DV, Linquist BM, Wolf S, Barton 
+DL.
+
+Author information:
+(1)From the 1Department of Oncology and 2Cancer Center Statistics, Mayo Clinic, 
+Rochester, MN.
+
+OBJECTIVE: This study aims to examine the accuracy of a new sternal skin 
+conductance (SSC) device in measuring hot flashes and to assess the 
+acceptability of the device by women.
+METHODS: Three small descriptive pilot studies were performed using two 
+sequential prototypes of the SSC device developed by an engineering device 
+company in the Midwest. The devices were worn either in a monitored setting for 
+24 hours or in an ambulatory setting for 5 weeks. During the study period, women 
+recorded hot flashes in a prospective hot flash diary and answered questions 
+about the acceptability of wearing the SSC device.
+RESULTS: The first prototype was not able to collect any analyzable skin 
+conductance data owing to various malfunction issues, including poor conductance 
+and battery failure. However, 16 women wore the device for 5 weeks and reported 
+that wearing the device was acceptable, although 31% stated that it interfered 
+with daily activities. Hot flash data from the second prototype revealed a 24% 
+concordance rate between self-reported and device-recorded hot flashes.
+CONCLUSIONS: Findings from these studies support discordance between 
+device-recorded and self-reported hot flashes. In addition, the studies reveal 
+further limitations of SSC monitoring, including difficulties with data 
+collection and lack of consistency in interpretation. Based on these results and 
+other recent trials identifying issues with SSC methodology, it is time to find 
+a better physiologic surrogate measure for hot flashes.
+
+DOI: 10.1097/GME.0b013e31828cec53
+PMCID: PMC3724754
+PMID: 23571528 [Indexed for MEDLINE]

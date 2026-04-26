@@ -1,0 +1,39 @@
+1. Vox Sang. 2014 Aug;107(2):148-52. doi: 10.1111/vox.12147. Epub 2014 Mar 31.
+
+Should all patients be optimized to the same preoperative hemoglobin level to 
+avoid transfusion in primary knee arthroplasty?
+
+Basora M(1), Tió M, Martin N, Lozano L, Salazar F, Sánchez-Etayo G, Raquel B, 
+Pereira A.
+
+Author information:
+(1)Department of Anesthesiology, Hospital Clinic of Barcelona, Barcelona, Spain.
+
+BACKGROUND AND OBJECTIVE: Optimization of the preoperative hemoglobin (Hb) level 
+is an effective way to reduce allogeneic transfusion in total knee arthroplasty 
+(TKA) though the procedure is expensive, requires close monitoring and is often 
+inconvenient for patients with reduced mobility. Our aim was to investigate the 
+value of preoperative Hb levels to predict transfusion and thereby tailoring Hb 
+optimization to patient characteristics.
+MATERIALS AND METHODS: All consecutive patients who undergone primary TKA in our 
+center over 2 years, and received tranexamic acid intraoperatively, were 
+reviewed. The adjusted association between preoperative Hb levels and 
+transfusion was assessed by multivariate logistic regression, and the estimated 
+probability of transfusion for individual patients was derived from the logistic 
+model.
+RESULTS: Out of the 784 patients who meet the inclusion criteria, risk of 
+transfusion was associated with poorer performance status, as measured by the 
+America Association of Anestesiology (ASA) score III/IV (OR: 3·3, P < 0·001) and 
+lower preoperative Hb level (OR 3·8 for each g/dl below 13 g/dl; P < 0·001). 
+According to the Hb level, the estimated probability of transfusion was 0·03 
+(range: 0·03-0·64) for ASA I/II patients and 0·10 (range: 0·10-0·84) for ASA 
+III/IV.
+CONCLUSION: Not all the patients undergoing TKA who receive tranexamic acid need 
+the same preoperative Hb optimization target. Two easily available factors, such 
+as the ASA score and the Hb level, can help individualize the Hb optimization 
+target.
+
+© 2014 International Society of Blood Transfusion.
+
+DOI: 10.1111/vox.12147
+PMID: 24684514 [Indexed for MEDLINE]

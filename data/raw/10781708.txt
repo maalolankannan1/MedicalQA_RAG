@@ -1,0 +1,32 @@
+1. Neth J Med. 2000 May;56(5):171-6. doi: 10.1016/s0300-2977(00)00011-5.
+
+Thrombosis prophylaxis in hospitalised medical patients: does prophylaxis in all 
+patients make sense?
+
+Schuurman B(1), den Heijer M, Nijs AM.
+
+Author information:
+(1)University Medical Centre St. Radboud, Geert Grooteplein 8, 6500 HB, 
+Nijmegen, The Netherlands. miba@xs4all.nl
+
+BACKGROUND: Most studies on thrombosis prophylaxis focus on postoperative venous 
+thrombosis. In medical wards thrombosis prophylaxis is generally restricted to 
+patients who are immobilised. Our primary aim was to investigate the incidence 
+of venous thrombosis in a general internal ward, to assess whether more rigorous 
+prophylaxis would be feasible.
+METHODS: We investigated the incidence of venous thrombosis in patients 
+hospitalised from 1992 to 1996 and related our findings to literature reports.
+RESULTS: The incidence of symptomatic venous thrombosis in internal patients 
+during hospitalisation was 39/6332 (0.6%). Among these 39 patients, 24 had a 
+malignancy, whereas 876 out of all 6332 patients had a known malignancy. So, the 
+incidence in this group with cancer was 2.7% compared with 0.3% (15/5456) in the 
+non-cancer group (relative risk for venous thrombosis due to malignancy was 10.0 
+(95%C.I. 5.3-18.9).
+CONCLUSION: The incidence of venous thrombosis during hospitalisation in a 
+department of general internal medicine is low and does not justify prophylaxis 
+in all internal patients. Cancer is a strong risk factor for hospital-acquired 
+thrombosis in the medical ward. Further studies may answer the question as to 
+whether thrombosis prophylaxis in this subgroup is feasible.
+
+DOI: 10.1016/s0300-2977(00)00011-5
+PMID: 10781708 [Indexed for MEDLINE]

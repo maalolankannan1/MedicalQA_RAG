@@ -1,0 +1,33 @@
+1. Pediatrics. 2006 Mar;117(3):714-21. doi: 10.1542/peds.2005-0735.
+
+Birth characteristics and risk of low intellectual performance in early 
+adulthood: are the associations confounded by socioeconomic factors in 
+adolescence or familial effects?
+
+Bergvall N(1), Iliadou A, Tuvemo T, Cnattingius S.
+
+Author information:
+(1)Department of Medical Epidemiology and Biostatistics, Karolinska Institute, 
+Stockholm, Sweden. niklas.bergvall@meb.ki.se
+
+OBJECTIVE: In this study we investigated whether the association between 
+measures of fetal growth restriction and intellectual performance was mediated 
+by socioeconomic or familial factors.
+METHODS: This was a population-based cohort study of 357,768 Swedish males born 
+as singletons without congenital malformations between 1973 and 1981. The main 
+outcome measure was intellectual performance at military conscription.
+RESULTS: Compared with men born with appropriate birth weight for gestational 
+age, men born light for gestational age suffered an increased risk of low 
+intellectual performance after adjustment for maternal and socioeconomic 
+factors. The increase in risk of low intellectual performance related to a 
+decrease in birth weight for gestational age was similar between families and 
+within families. Men born short or with a small head circumference for 
+gestational age were also at increased risk of low intellectual performance, 
+both when adjusting for maternal and socioeconomic factors and within families.
+CONCLUSIONS: We found that all of the studied dimensions of restricted fetal 
+growth are independently associated with increased risks of low intellectual 
+performance and that these associations are only partly mediated by 
+socioeconomic or familial factors.
+
+DOI: 10.1542/peds.2005-0735
+PMID: 16510651 [Indexed for MEDLINE]

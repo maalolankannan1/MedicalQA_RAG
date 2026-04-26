@@ -1,0 +1,33 @@
+1. Anesth Analg. 2007 Jul;105(1):263-6. doi: 10.1213/01.ane.0000266437.41544.b3.
+
+Parasacral sciatic nerve block: does the elicited motor response predict the 
+success rate?
+
+Hagon BS(1), Itani O, Bidgoli JH, Van der Linden PJ.
+
+Author information:
+(1)Department of Anesthesiology, CHU-Brugmann--Huderf, Brussels, Belgium. 
+benedicte.hagon@chu-brugmann.be
+
+BACKGROUND: In this prospective, randomized, double-blind study, we compared the 
+tibial and the peroneal evoked motor response with regard to efficacy of sciatic 
+nerve block using the parasacral approach.
+METHODS: Twenty-six ASA I-III patients scheduled for elective lower limb surgery 
+were randomized to receive a parasacral sciatic block, using a nerve stimulator 
+technique seeking either a tibial (n = 14) or peroneal (n = 12) motor response. 
+After the evoked motor response was obtained, a solution of 10 mL 2% lidocaine 
+with epinephrine and 10 mL 0.75% ropivacaine (actual final concentration of 
+epinephrine, 1/160,000) was slowly injected through the needle. Sensory and 
+motor blocks were assessed every 5 min for 30 min by an anesthesiologist blinded 
+to the elicited motor response. If the block was not complete 30 min after 
+injection of the local anesthetics, it was considered as failed, and general 
+anesthesia was supplemented.
+RESULTS: Time to perform the block and level of minimal and maximal stimulation 
+were not different between groups. The success rate of complete block was 
+significantly higher in the tibial compared to the peroneal group (11 of 14 vs 2 
+of 12; P = 0.002).
+CONCLUSIONS: Eliciting a tibial motor response predicts a higher success rate 
+than eliciting a peroneal motor response with parasacral sciatic nerve block.
+
+DOI: 10.1213/01.ane.0000266437.41544.b3
+PMID: 17578985 [Indexed for MEDLINE]

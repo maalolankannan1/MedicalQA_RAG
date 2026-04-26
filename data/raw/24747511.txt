@@ -1,0 +1,41 @@
+1. J Behav Ther Exp Psychiatry. 2014 Sep;45(3):368-74. doi: 
+10.1016/j.jbtep.2014.03.004. Epub 2014 Apr 4.
+
+Updating emotional content in working memory: a depression-specific deficit?
+
+Yoon KL(1), LeMoult J(2), Joormann J(3).
+
+Author information:
+(1)Department of Psychology, University of Maine, Orono, ME 04469-5782, USA. 
+Electronic address: lira.k.yoon@umit.maine.edu.
+(2)Department of Psychology, Stanford University, Stanford, CA 94305, USA. 
+Electronic address: jlemoult@stanford.edu.
+(3)Department of Psychology, Northwestern University, Evanston, IL 60208-2071, 
+USA. Electronic address: jutta.joormann@northwestern.edu.
+
+BACKGROUND AND OBJECTIVES: Interference from irrelevant negative material might 
+be a key mechanism underlying intrusive ruminative thoughts in depression. 
+Considering commonalities between depression and social anxiety and the presence 
+of similar intrusive thoughts in social anxiety, the current study was designed 
+to assess whether interference from irrelevant material in working memory is 
+specific to depression or is also present in social anxiety disorder.
+METHODS: To examine the effects of irrelevant emotional material on working 
+memory performance, participants memorized two lists of words on each trial and 
+were subsequently instructed to ignore one of the lists. Participants were then 
+asked to indicate whether a probe word belonged to the relevant list or not.
+RESULTS: Compared to control and social anxiety groups, the depression groups 
+(both pure and comorbid with social anxiety disorder) exhibited greater 
+difficulties removing irrelevant emotional material from working memory (i.e., 
+greater intrusion effects). Greater intrusion effects were also associated with 
+increased rumination.
+LIMITATIONS: Although we included three clinical groups (depression, social 
+anxiety, and the comorbid groups), the results are based on a relatively small 
+number of participants.
+CONCLUSIONS: The results indicate that difficulties removing irrelevant material 
+from working memory might be unique to depression, and the ability to inhibit 
+irrelevant information is relatively preserved in social anxiety disorder.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jbtep.2014.03.004
+PMID: 24747511 [Indexed for MEDLINE]

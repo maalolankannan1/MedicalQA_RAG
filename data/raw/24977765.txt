@@ -1,0 +1,44 @@
+1. J Trauma Acute Care Surg. 2014 Jul;77(1):117-22; discussion 122. doi: 
+10.1097/TA.0000000000000275.
+
+Are pediatric concussion patients compliant with discharge instructions?
+
+Hwang V(1), Trickey AW, Lormel C, Bradford AN, Griffen MM, Lawrence CP, Sturek 
+C, Stacey E, Howell JM.
+
+Author information:
+(1)From the Department of Emergency Medicine, Inova Fairfax Hospital, Falls 
+Church, Virginia.
+
+BACKGROUND: Concussions are commonly diagnosed in pediatric patients presenting 
+to the emergency department (ED). The primary objective of this study was to 
+evaluate compliance with ED discharge instructions for concussion management.
+METHODS: A prospective cohort study was conducted from November 2011 to November 
+2012 in a pediatric ED at a regional Level 1 trauma center, serving 35,000 
+pediatric patients per year. Subjects were aged 8 years to 17 years and were 
+discharged from the ED with a diagnosis of concussion. Exclusion criteria 
+included recent (past 3 months) diagnosis of head injury, hospital admission, 
+intracranial injury, skull fracture, suspected nonaccidental trauma, or 
+preexisting neurologic condition. Subjects were administered a baseline survey 
+in the ED and were given standardized discharge instructions for concussion by 
+the treating physician. Telephone follow-up surveys were conducted at 2 weeks 
+and 4 weeks after ED visit.
+RESULTS: A total of 150 patients were enrolled. The majority (67%) of 
+concussions were sports related. Among sports-related concussions, soccer (30%), 
+football (11%), lacrosse (8%), and basketball (8%) injuries were most common. 
+More than one third (39%) reported return to play (RTP) on the day of the 
+injury. Physician follow-up was equivalent for sport and nonsport concussions (2 
+weeks, 58%; 4 weeks, 64%). Sports-related concussion patients were more likely 
+to follow up with a trainer (2 weeks, 25% vs. 10%, p = 0.06; 4 weeks, 29% vs. 
+8%, p < 0.01). Of the patients who did RTP or normal activities at 2 weeks 
+(44%), more than one third (35%) were symptomatic, and most (58%) did not 
+receive medical clearance. Of the patients who had returned to activities at 4 
+weeks (64%), less than one quarter (23%) were symptomatic, and most (54%) 
+received medical clearance.
+CONCLUSION: Pediatric patients discharged from the ED are mostly compliant with 
+concussion instructions. However, a significant number of patients RTP on the 
+day of injury, while experiencing symptoms or without medical clearance.
+LEVEL OF EVIDENCE: Care management, level IV. Epidemiologic study, level III.
+
+DOI: 10.1097/TA.0000000000000275
+PMID: 24977765 [Indexed for MEDLINE]

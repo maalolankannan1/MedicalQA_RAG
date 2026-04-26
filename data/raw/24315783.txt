@@ -1,0 +1,44 @@
+1. Addict Behav. 2014 Mar;39(3):562-5. doi: 10.1016/j.addbeh.2013.11.005. Epub
+2013  Nov 10.
+
+Aripiprazole: a new risk factor for pathological gambling? A report of 8 case 
+reports.
+
+Gaboriau L(1), Victorri-Vigneau C(2), Gérardin M(2), Allain-Veyrac G(1), 
+Jolliet-Evin P(2), Grall-Bronnec M(3).
+
+Author information:
+(1)Pharmacology Department, Nantes University Hospital, 9, quai Moncousu., 44093 
+Nantes cedex 1, France.
+(2)Pharmacology Department, Nantes University Hospital, 9, quai Moncousu., 44093 
+Nantes cedex 1, France; EA 4275 "Biostatistics, Pharmacoepidemiology and 
+Subjective Measures in Health Sciences", Nantes University, 1, rue Gaston Veil, 
+BP 53508, 44035 Nantes cedex 1, France.
+(3)EA 4275 "Biostatistics, Pharmacoepidemiology and Subjective Measures in 
+Health Sciences", Nantes University, 1, rue Gaston Veil, BP 53508, 44035 Nantes 
+cedex 1, France; Addictology and Psychiatry Department, Nantes University 
+Hospital, 85, rue Saint Jacques, 44093 Nantes cedex 1, France. Electronic 
+address: marie.bronnec@chu-nantes.fr.
+
+OBJECTIVE: It is commonly accepted that pathological gambling results from the 
+interaction of multiple risk factors. Among these, dopamine replacement therapy 
+(DRT) prescribed for Parkinson disease can be cited. Another dopamine agonist, 
+aripiprazole, could be a new risk factor. We decided to explore this potential 
+adverse drug reaction (ADR).
+METHOD: Based on a cohort of 166 pathological gamblers starting treatment in our 
+department, data of each of the 8 patients treated by aripiprazole at inclusion 
+were analyzed.
+RESULTS: The patients involved were schizophrenic or bipolar, mostly young men 
+with a history of addictive disorders and regular gambling prior to the 
+prescription of aripiprazole. For each one of them, the causality of 
+aripiprazole was considered, using an algorithm. The probability that 
+pathological gambling is actually due to aripiprazole is "possible" in 7 cases 
+out of 8, and "doubtful" in one.
+CONCLUSIONS: Adverse drug reactions were confronted with other already published 
+case reports. Dopamine partial agonist mechanism of aripiprazole could explain 
+the occurrence of pathological gambling.
+
+Copyright © 2013 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.addbeh.2013.11.005
+PMID: 24315783 [Indexed for MEDLINE]

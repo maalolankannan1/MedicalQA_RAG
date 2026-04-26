@@ -1,0 +1,43 @@
+1. Neurosurg Focus. 2010 Jul;29(1):E8. doi: 10.3171/2010.3.FOCUS1072.
+
+A patient with myelomeningocele: is untethering necessary prior to scoliosis 
+correction?
+
+Samdani AF(1), Fine AL, Sagoo SS, Shah SC, Cahill PJ, Clements DH, Betz RR.
+
+Author information:
+(1)Shriners Hospital for Children, Philadelphia, Pennsylvania 19140, USA. 
+amersamdani@yahoo.com
+
+OBJECT: Tethering of the spinal cord is thought to increase the chance of 
+neurological injury when scoliosis correction is undertaken. All patients with 
+myelomeningocele (MM) are radiographically tethered, and untethering procedures 
+carry significant morbidity risks including worsening neurological function and 
+wound complications. No guidelines exist as regards untethering in patients with 
+MM prior to scoliosis correction surgery. The authors' aim in this study was to 
+evaluate their experience in patients with MM who were not untethered before 
+scoliosis correction.
+METHODS: Seventeen patients with MM were retrospectively identified and 1) had 
+no evidence of a clinically symptomatic tethered cord, 2) had undergone spinal 
+fusion for scoliosis correction, and 3) had not been untethered for at least 1 
+year prior to surgery. The minimum follow-up after fusion was 2 years. Charts 
+and radiographs were reviewed for neurological or shunt complications in the 
+perioperative period.
+RESULTS: The average age of the patients was 12.4 years, and the following 
+neurological levels were affected: T-12 and above, 7 patients; L-1/L-2, 6 
+patients; L-3, 2 patients; and L-4, 2 patients. All were radiographically 
+tethered as confirmed on MR imaging. Fourteen of the patients (82%) had a 
+ventriculoperitoneal shunt. The mean Cobb angle was corrected from 82 degrees to 
+35 degrees , for a 57% correction. All patients underwent neuromonitoring of 
+their upper extremities, and some underwent lower extremity monitoring as well. 
+Postoperatively, no patient experienced a new cranial nerve palsy, shunt 
+malfunction, change in urological function, or upper extremity weakness/sensory 
+loss. One patient had transient lower extremity weakness, which returned to 
+baseline within 1 month of surgery.
+CONCLUSIONS: The study results suggested that spinal cord untethering may be 
+unnecessary in patients with MM who are undergoing scoliosis corrective surgery 
+and do not present with clinical symptoms of a tethered cord, even though 
+tethering is radiographically demonstrated.
+
+DOI: 10.3171/2010.3.FOCUS1072
+PMID: 20594006 [Indexed for MEDLINE]

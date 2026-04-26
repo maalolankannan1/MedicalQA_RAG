@@ -1,0 +1,49 @@
+1. Phys Ther. 2014 Jul;94(7):968-76. doi: 10.2522/ptj.20130398. Epub 2014 Mar 20.
+
+Clinical identifiers for early-stage primary/idiopathic adhesive capsulitis: are 
+we seeing the real picture?
+
+Walmsley S(1), Osmotherly PG(2), Rivett DA(3).
+
+Author information:
+(1)S. Walmsley, MAppSc(Ortho Physio), Discipline of Physiotherapy, School of 
+Health Sciences, Faculty of Health and Medicine, The University of Newcastle, 
+University Drive, Callaghan, New South Wales 2308, Australia. 
+sarah.walmsley@uon.edu.au.
+(2)P.G. Osmotherly, PhD, Discipline of Physiotherapy, School of Health Sciences, 
+Faculty of Health and Medicine, The University of Newcastle.
+(3)D.A. Rivett, PhD, Discipline of Physiotherapy, School of Health Sciences, 
+Faculty of Health and Medicine, The University of Newcastle.
+
+BACKGROUND: Adhesive capsulitis is often difficult to diagnose in its early 
+stage and to differentiate from other common shoulder disorders.
+OBJECTIVE: The aim of this study was to validate any or all of the 8 clinical 
+identifiers of early-stage primary/idiopathic adhesive capsulitis established in 
+an earlier Delphi study.
+DESIGN: This was a cross-sectional study.
+METHODS: Sixty-four patients diagnosed with early-stage adhesive capsulitis by a 
+physical therapist or medical practitioner were included in the study. Eight 
+active and 8 passive shoulder movements and visual analog scale pain scores for 
+each movement were recorded prior to and immediately following an 
+intra-articular injection of corticosteroid and local anesthetic. Using the 
+local anesthetic as the reference standard, pain relief of ≥70% for passive 
+external rotation was deemed a positive anesthetic response (PAR).
+RESULTS: Sixteen participants (25%) demonstrated a PAR. Univariate logistic 
+regression identified that of the proposed identifiers, global loss of passive 
+range of movement (odds ratio [OR]=0.26, P=.03), pain at the end of range of all 
+measured active movements (OR=0.06, P=.02), and global loss of passive 
+glenohumeral movements (OR=0.23, P=.02) were associated with a PAR. Following 
+stepwise removal of the variables, pain at the end of range of all measured 
+active movements remained the only identifier but was associated with reduced 
+odds of a PAR.
+LIMITATIONS: The lack of a recognized reference standard for diagnosing 
+early-stage adhesive capsulitis remains problematic in all related research.
+CONCLUSIONS: None of the clinical identifiers for early-stage adhesive 
+capsulitis previously proposed by expert consensus have been validated in this 
+study. Clinicians should be aware that commonly used clinical identifiers may 
+not be applicable to this stage.
+
+© 2014 American Physical Therapy Association.
+
+DOI: 10.2522/ptj.20130398
+PMID: 24652474 [Indexed for MEDLINE]

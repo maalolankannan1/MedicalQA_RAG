@@ -1,0 +1,33 @@
+1. Obesity (Silver Spring). 2015 Feb;23(2):301-4. doi: 10.1002/oby.20976. Epub
+2014  Dec 17.
+
+Is plate clearing a risk factor for obesity? A cross-sectional study of 
+self-reported data in US adults.
+
+Robinson E(1), Aveyard P, Jebb SA.
+
+Author information:
+(1)Psychological Sciences, University of Liverpool, Liverpool, UK.
+
+OBJECTIVES: Identifying eating behaviors which contribute to excess weight gain 
+will inform obesity prevention strategies. A tendency to clear one's plate when 
+eating may be a risk factor for obesity in an environment where food is 
+plentiful. Whether plate clearing is associated with increased body weight in a 
+cohort of US participants was examined.
+METHODS: Nine hundred and ninety-three US adults (60% male, 80% American 
+European, mean age=31 years) completed self-report measures of habitual plate 
+clearing together with behavioral and demographic characteristics known to be 
+associated with obesity.
+RESULTS: Plate clearing tendencies were positively associated with BMI and 
+remained so after accounting for a large number of other demographic and 
+behavioral predictors of BMI in analyses (β=0.18, 95% CIs=0.07, 0.29, P<0.001); 
+an increased tendency to plate clear was associated with a significantly higher 
+body weight.
+CONCLUSIONS: The tendency to clear one's plate when eating is associated with 
+increased body weight and may constitute a risk factor for weight gain.
+
+© 2014 The Obesity Society.
+
+DOI: 10.1002/oby.20976
+PMCID: PMC4719168
+PMID: 25521278 [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+1. Acad Med. 2011 Apr;86(4):516-20. doi: 10.1097/ACM.0b013e31820de435.
+
+Can students' scores on preclerkship clinical performance examinations predict 
+that they will fail a senior clinical performance examination?
+
+Klamen DL(1), Borgia PT.
+
+Author information:
+(1)Southern Illinois University School of Medicine, Springfield, Illinois 62794, 
+USA. dklamen@siumed.edu
+
+PURPOSE: This study was designed to determine whether preclerkship performance 
+examinations could accurately identify medical students at risk for failing a 
+senior clinical performance examination (CPE).
+METHOD: This study used a retrospective case-control, multiyear design, with 
+contingency table analyses, to examine the performance of 412 students in the 
+classes of 2005 to 2010 at a midwestern medical school. During their second 
+year, these students took four CPEs that each used three standardized patient 
+(SP) cases, for a total of 12 cases. The authors correlated each student's 
+average year 2 case score with the student's average case score on a senior 
+(year 4) CPE. Contingency table analysis was carried out using performance on 
+the year 2 CPEs and passing/failing the senior CPE. Similar analyses using each 
+student's United States Medical Licensing Examination (USMLE) Step 1 scores were 
+also performed. Sensitivity, specificity, odds ratio, and relative risk were 
+calculated for two year 2 performance standards.
+RESULTS: Students' low performances relative to their class on the year 2 CPEs 
+were a strong predictor that they would fail the senior CPE. Their USMLE Step 1 
+scores also correlated with their performance on the senior CPE, although the 
+predictive values for these scores were considerably weaker.
+CONCLUSIONS: Under the conditions of this study, preclerkship (year 2) CPEs 
+strongly predicted medical students at risk for failing a senior CPE. This 
+finding opens the opportunity for remediation of deficits prior to or during 
+clerkships.
+
+© by the Association of American Medical Colleges.
+
+DOI: 10.1097/ACM.0b013e31820de435
+PMID: 21346501 [Indexed for MEDLINE]

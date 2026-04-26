@@ -1,0 +1,43 @@
+1. J Clin Pathol. 1999 Jul;52(7):494-7. doi: 10.1136/jcp.52.7.494.
+
+Is the international normalised ratio (INR) reliable? A trial of comparative 
+measurements in hospital laboratory and primary care settings.
+
+Hobbs FD(1), Fitzmaurice DA, Murray ET, Holder R, Rose PE, Roper JL.
+
+Author information:
+(1)Department of General Practice, Medical School, University of Birmingham, 
+Edgbaston, UK.
+
+AIM: To determine the reliability of international normalised ratio (INR) 
+measurement in primary care by practice nurses using near patient testing (NPT), 
+in comparison with results obtained within hospital laboratories by varied 
+methods.
+METHODS: As part of an MRC funded study into primary care oral anticoagulation 
+management, INR measurements obtained in general practice were validated against 
+values on the same samples obtained in hospital laboratories. A prospective 
+comparative trial was undertaken between three hospital laboratories and nine 
+general practices. All patients attending general practice based anticoagulant 
+clinics had parallel INR estimations performed in general practice and in a 
+hospital laboratory.
+RESULTS: 405 tests were performed. Comparison between results obtained in the 
+practices and those in the reference hospital laboratory (gold standard), which 
+used the same method of testing for INR, showed a correlation coefficient of 
+0.96. Correlation coefficients comparing the results with the various standard 
+laboratory techniques ranged from 0.86 to 0.92. It was estimated that up to 53% 
+of tests would have resulted in clinically significant differences (change in 
+warfarin dose) depending upon the site and method of testing. The practice 
+derived results showed a positive bias ranging from 0.28 to 1.55, depending upon 
+the site and method of testing.
+CONCLUSIONS: No technical problems associated with INR testing within primary 
+care were uncovered. Discrepant INR results are as problematic in hospital 
+settings as they are in primary care. These data highlight the failings of the 
+INR to standardise when different techniques and reagents are used, an issue 
+which needs to be resolved. For primary care to become more involved in 
+therapeutic oral anticoagulation monitoring, close links are needed between 
+hospital laboratories and practices, particularly with regard to training and 
+quality assurance.
+
+DOI: 10.1136/jcp.52.7.494
+PMCID: PMC501488
+PMID: 10605400 [Indexed for MEDLINE]

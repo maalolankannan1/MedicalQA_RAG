@@ -1,0 +1,33 @@
+1. Strahlenther Onkol. 2013 Sep;189(9):771-6. doi: 10.1007/s00066-013-0360-z.
+Epub  2013 May 31.
+
+Does high-dose radiotherapy benefit palliative lung cancer patients?: An 
+intradepartmental comparison of two dose regimens.
+
+Schröder C(1), Ivo M, Buchali A.
+
+Author information:
+(1)Klinik für Strahlentherapie und Radioonkologie, Ruppiner Kliniken GmbH, 
+Neuruppin, Germany. Christina.schroeder@med.uni-giessen.de
+
+BACKGROUND AND PURPOSE: The present analysis compares two palliative treatment 
+concepts for lung cancer in terms of overall survival.
+PATIENTS AND METHODS: Survival data from 207 patients were used in a 
+retrospective analysis. All patients received palliative treatment comprising 
+either 25 Gy applied in 5 fractions or 50 Gy in 20 fractions. A subgroup 
+analysis was performed to compare patients with a good-fair vs. poor overall 
+condition.
+RESULTS: Median survival times were 21 weeks (range 6-26 weeks) for patients 
+treated with 25 Gy in 5 fractions and 23 weeks (range 14.5-31.5 weeks) for 
+patients treated with 50 Gy in 20 fractions (95 % confidence interval, CI; 
+p = 0.334). For patients with a good-fair overall condition, median survival 
+times were 30 weeks (21.8-39.2 weeks) for 25 Gy in 5 fractions and 28 weeks 
+(14.2-41.8 weeks) for 50 Gy in 20 fractions (CI 95 %, p = 0.694). In patients 
+with a poor overall condition, these values were 18 weeks (14.5-21.5 weeks) and 
+21 weeks (13.0-29.0 weeks), respectively (CI 95 %, p = 0.248).
+CONCLUSION: The palliative treatment concept of 25 Gy applied in 5 fractions is 
+sufficient for radiation of lung cancer, given that there was no obvious 
+survival improvement in patients treated with the higher total dose regimen.
+
+DOI: 10.1007/s00066-013-0360-z
+PMID: 23719685 [Indexed for MEDLINE]

@@ -1,0 +1,29 @@
+1. Eur J Obstet Gynecol Reprod Biol. 1998 Mar;77(1):47-50. doi: 
+10.1016/s0301-2115(97)00226-1.
+
+Does lunar position influence the time of delivery? A statistical analysis.
+
+Ghiandoni G(1), Seclì R, Rocchi MB, Ugolini G.
+
+Author information:
+(1)Institute of Biomathematics, Urbino University, Italy.
+
+OBJECTIVE: To study the relationship between lunar position and the day of 
+delivery; to investigate the synodic distribution of spontaneous deliveries, 
+especially in relation to the presence of a full moon.
+STUDY DESIGN: Retrospective analysis of 1248 spontaneous full-term deliveries in 
+three-year period (36 lunar months), setted at Department of Obstetrics and 
+Gynaecology, Civil Hospital, Fano (Marche, Italy), using circular statistics 
+techniques.
+RESULTS: A connection between the distribution of spontaneous full-term 
+deliveries and the lunar month was found. The effect of the phases of the moon 
+seems to be particularly relevant in multiparae and plurigravidae; in these 
+cases, the mean day of delivery corresponds to the first or second day after the 
+full moon.
+CONCLUSIONS: In this paper the effect of lunar phases on the time of delivery is 
+shown. This influence seems to be especially relevant in the case of multiparae 
+and plurigravidae. Nevertheless, it is too weak to allow for prediction 
+regarding the days with the highest frequency of deliveries.
+
+DOI: 10.1016/s0301-2115(97)00226-1
+PMID: 9550200 [Indexed for MEDLINE]

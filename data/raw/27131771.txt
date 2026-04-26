@@ -1,0 +1,41 @@
+1. Int J Cardiol. 2016 Jul 15;215:494-501. doi: 10.1016/j.ijcard.2016.03.204.
+Epub  2016 Apr 9.
+
+Does left atrial appendage (LAA) occlusion device alter the echocardiography and 
+electrocardiogram parameters in patients with atrial fibrillation?
+
+Jie Q(1), Wang D(1), Liu B(1), Zhao D(1), Li Y(1), Luo J(1), Dai L(1), Li S(1), 
+Xu Y(1), Wei Y(2).
+
+Author information:
+(1)Department of Cardiology, Shanghai Tenth People's Hospital, Tongji University 
+School of Medicine, 301 Yanchang Road, Shanghai 200072, China.
+(2)Department of Cardiology, Shanghai Tenth People's Hospital, Tongji University 
+School of Medicine, 301 Yanchang Road, Shanghai 200072, China. Electronic 
+address: ywei@tongji.edu.cn.
+
+BACKGROUND: The alterations of echocardiography and electrocardiogram (ECG) in 
+patients received left atrial appendage LAA occlusion therapy are still unclear. 
+The present study was to evaluate the influence of LAA occlusion device on 
+echocardiography and ECG changes in patients with atrial fibrillation (AF).
+METHODS: Seventy-three patients who had undergone Watchman, LAmbre and Lefort 
+were enrolled in this study. Echocardiography and ECG results at pre- and 
+post-operation were collected. Besides, echocardiography was also performed 
+during follow-up visits at 1, 6 and 12months after discharge.
+RESULTS: After LAA occlusion, a slight and measureable movement of QRS electric 
+axis was observed in most patients. The significant differences were also 
+observed in heart rate (HR) and the mean-mean QT interval between pre- and 
+post-operation for all patients. There existed no significant difference in 
+echocardiographic parameters between before and after device implantation. 
+However, a larger left atrial (LA) diameter was detected by echocardiography 
+during follow-up visit at 6months when compared with pre-operation parameters. 
+Similarly, aortic root diameter (ARD) was also larger during follow-up at 
+12months than the baseline dimension in pre-operation.
+CONCLUSIONS: LAA occlusion device resulted in a slightly movement in QRS axis, 
+reduced HR and increased the mean-mean QT interval duration. In addition, LA 
+diameter and ARD seemed to be larger after device implantation.
+
+Copyright © 2016 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.ijcard.2016.03.204
+PMID: 27131771 [Indexed for MEDLINE]

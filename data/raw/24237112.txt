@@ -1,0 +1,41 @@
+1. Health Serv Res. 2014 Jun;49(3):858-77. doi: 10.1111/1475-6773.12129. Epub
+2013  Nov 18.
+
+Do provider service networks result in lower expenditures compared with HMOs or 
+primary care case management in Florida's Medicaid program?
+
+Harman JS(1), Hall AG, Lemak CH, Duncan RP.
+
+Author information:
+(1)Department of Health Services Research, Management and Policy, College of 
+Public Health and Health Professions, University of Florida, Gainesville, FL.
+
+OBJECTIVE: To determine the impact of Florida's Medicaid Demonstration 4 years 
+post-implementation on per member per month (PMPM) Medicaid expenditures and 
+whether receiving care through HMOs versus provider service networks (PSNs) in 
+the Demonstration was associated with PMPM expenditures.
+DATA: Florida Medicaid claims from two fiscal years prior to implementation of 
+the Demonstration (FY0405, FY0506) and the first four fiscal years after 
+implementation (FY0607-FY0910) from two urban Demonstration counties and two 
+urban non-Demonstration counties.
+STUDY DESIGN: A difference-in-difference approach was used to compare changes in 
+enrollee expenditures before and after implementation of the Demonstration 
+overall and specifically for HMOs and PSNs.
+DATA EXTRACTION: Claims data were extracted for enrollees in the Demonstration 
+and non-Demonstration counties and collapsed into monthly amounts (N = 
+26,819,987 person-months).
+PRINCIPAL FINDINGS: Among SSI enrollees, the Demonstration resulted in lower 
+increases in PMPM expenditures over time ($40) compared with the 
+non-Demonstration counties ($186), with Demonstration PSNs lowering PMPM 
+expenditures by $7 more than HMOs. Savings were also seen among TANF enrollees 
+but to a lesser extent.
+CONCLUSIONS: The Medicaid Demonstration in Florida appears to result in lower 
+PMPM expenditures. Demonstration PSNs generated slightly greater reductions in 
+expenditures compared to Demonstration HMOs. PSNs appear to be a promising model 
+for delivering care to Medicaid enrollees.
+
+© Health Research and Educational Trust.
+
+DOI: 10.1111/1475-6773.12129
+PMCID: PMC4231575
+PMID: 24237112 [Indexed for MEDLINE]

@@ -1,0 +1,35 @@
+1. Menopause. 2007 Sep-Oct;14(5):885-90. doi: 10.1097/GME.0b013e3180333a58.
+
+Does menopausal transition affect the quality of life? A longitudinal study of 
+middle-aged women in Kinmen.
+
+Cheng MH(1), Lee SJ, Wang SJ, Wang PH, Fuh JL.
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Neurological Institute, Taipei 
+Veterans General Hospital, and National Yang-Ming University School of Medicine, 
+Taipei, Taiwan.
+
+OBJECTIVE: The aim of this study was to investigate the role of menopausal 
+transition and menopausal symptoms in relation to quality of life in a cohort of 
+middle-aged women in Kinmen.
+DESIGN: A total of 734 premenopausal women participated in the baseline study, 
+and 579 women (78.9%) completed a follow-up 2 years later. Quality of life was 
+assessed by the Medical Outcomes Study Short Form-36. Participating women were 
+asked for demographic data, about vasomotor symptoms, and to complete the 
+Medical Outcomes Study Short Form-36 and the Hospital Anxiety and Depression 
+Scale.
+RESULTS: There was no demographic difference between women who remained 
+premenopausal and those who entered perimenopause except for age. Vitality 
+deteriorated no matter whether the women stayed in premenopause or entered 
+perimenopause. In multivariate analysis, only vasomotor symptoms had an adverse 
+influence on role limitation of emotion after adjusting for age, education, 
+menopausal status, baseline cognitive score, and Hospital Anxiety and Depression 
+Scale score. The menopausal transition did not influence the eight domains of 
+the Short Form-36 in the multivariate regression model.
+CONCLUSION: This longitudinal study found no significant effect of menopausal 
+transition on quality of life among Taiwanese women. The decline in the role 
+limitations due to emotional problems was related to vasomotor symptoms.
+
+DOI: 10.1097/GME.0b013e3180333a58
+PMID: 17429333 [Indexed for MEDLINE]

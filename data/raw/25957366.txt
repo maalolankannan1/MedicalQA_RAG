@@ -1,0 +1,46 @@
+1. J Am Board Fam Med. 2015 May-Jun;28(3):334-42. doi: 
+10.3122/jabfm.2015.03.140149.
+
+Prompting Primary Care Providers about Increased Patient Risk As a Result of 
+Family History: Does It Work?
+
+Zazove P(1), Plegue MA(2), Uhlmann WR(2), Ruffin MT 4th(2).
+
+Author information:
+(1)From the Department of Family Medicine (PZ, MAP, MTR), the Division of 
+Molecular Medicine and Genetics, Department of Internal Medicine (WRU), and the 
+Department of Human Genetics (WRU), University of Michigan, Ann Arbor. 
+pzaz@umich.edu.
+(2)From the Department of Family Medicine (PZ, MAP, MTR), the Division of 
+Molecular Medicine and Genetics, Department of Internal Medicine (WRU), and the 
+Department of Human Genetics (WRU), University of Michigan, Ann Arbor.
+
+BACKGROUND: Electronic health records have the potential to facilitate family 
+history use by primary care physicians (PCPs) to provide personalized care. The 
+objective of this study was to determine whether automated, at-the-visit 
+tailored prompts about family history risk change PCP behavior.
+METHODS: Automated, tailored prompts highlighting familial risk for heart 
+disease, stroke, diabetes, and breast, colorectal, or ovarian cancer were 
+implemented during 2011 to 2012. Medical records of a cohort of community-based 
+primary care patients, aged 35 to 65 years, who previously participated in our 
+Family Healthware study and had a moderate or strong familial risk for any of 
+the 6 diseases were subsequently reviewed. The main outcome measures were PCP 
+response to the prompts, adding family history risk to problem summary lists, 
+and patient screening status for each disease.
+RESULTS: The 492 eligible patients had 847 visits during the study period; 152 
+visits had no documentation of response to a family history prompt. Of the 
+remaining 695 visits, physician responses were reviewed family history (n = 372, 
+53.5%), discussed family history (n = 159, 22.9%), not addressed (n = 155, 
+22.3%), and reviewed family history and ordered tests/referrals (n = 5, 0.7%). 
+There was no significant change in problem summary list documentation of risk 
+status or screening interventions for any of the 6 diseases.
+CONCLUSIONS: No change occurred upon instituting simple, at-the-visit family 
+history prompts geared to improve PCPs' ability to identify patients at high 
+risk for 6 common conditions. The results are both surprising and disappointing. 
+Further studies should examine physicians' perception of the utility of prompts 
+for family history risk.
+
+© Copyright 2015 by the American Board of Family Medicine.
+
+DOI: 10.3122/jabfm.2015.03.140149
+PMID: 25957366 [Indexed for MEDLINE]

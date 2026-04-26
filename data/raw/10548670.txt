@@ -1,0 +1,45 @@
+1. Stroke. 1999 Nov;30(11):2355-9. doi: 10.1161/01.str.30.11.2355.
+
+Does the National Institutes of Health Stroke Scale favor left hemisphere 
+strokes? NINDS t-PA Stroke Study Group.
+
+Woo D(1), Broderick JP, Kothari RU, Lu M, Brott T, Lyden PD, Marler JR, Grotta 
+JC.
+
+Author information:
+(1)Department of Neurology, University of Cincinnati, Cincinnati, Ohio 45220, 
+USA. daniel.woo@uc.edu
+
+BACKGROUND AND PURPOSE: The National Institutes of Health Stroke Scale (NIHSS) 
+is a valid, reproducible scale that measures neurological deficit. Of 42 
+possible points, 7 points are directly related to measurement of language 
+compared with only 2 points related to neglect.
+METHODS: We examined the placebo arm of the NINDS t-PA stroke trial to test the 
+hypothesis that the total volume of cerebral infarction in patients with right 
+hemisphere strokes would be greater than the volume of cerebral infarction in 
+patients with left hemisphere strokes who have similar NIHSS scores. The volume 
+of stroke was determined by computerized image analysis of CT films and CT 
+images stored on computer tape and optical disks. Cube-root transformation of 
+lesion volume was performed for each CT. Transformed lesion volume was analyzed 
+in a logistic regression model to predict volume of stroke by NIHSS score for 
+each hemisphere. Spearman rank correlation was used to determine the relation 
+between the NIHSS score and lesion volume.
+RESULTS: The volume for right hemisphere stroke was statistically greater than 
+the volume for left hemisphere strokes, adjusting for the baseline NIHSS (P<0. 
+001). For each 5-point category of the NIHSS score <20, the median volume of 
+right hemisphere strokes was approximately double the median volume of left 
+hemisphere strokes. For example, for patients with a left hemisphere stroke and 
+a 24-hour NIHSS score of 16 to 20, the median volume of cerebral infarction was 
+48 mL (interquartile range 14 to 111 mL) as compared with 133 mL (interquartile 
+range 81 to 208 mL) for patients with a right hemisphere stroke (P<0.001). The 
+median volume of a right hemisphere stroke was roughly equal to the median 
+volume of a left hemisphere stroke in the next highest 5-point category of the 
+NIHSS. The Spearman rank correlation between the 24-hour NIHSS score and 3-month 
+lesion volume was 0.72 for patients with left hemisphere stroke and 0.71 for 
+patients with right hemisphere stroke.
+CONCLUSIONS: For a given NIHSS score, the median volume of right hemisphere 
+strokes is consistently larger than the median volume of left hemisphere 
+strokes. The clinical implications of our finding need further exploration.
+
+DOI: 10.1161/01.str.30.11.2355
+PMID: 10548670 [Indexed for MEDLINE]

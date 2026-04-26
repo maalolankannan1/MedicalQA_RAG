@@ -1,0 +1,38 @@
+1. Br J Ophthalmol. 2007 Aug;91(8):1016-8. doi: 10.1136/bjo.2006.108829. Epub
+2006  Dec 19.
+
+Human papillomavirus and pterygium. Is the virus a risk factor?
+
+Sjö NC(1), von Buchwald C, Prause JU, Norrild B, Vinding T, Heegaard S.
+
+Author information:
+(1)Eye Pathology Institute, University of Copenhagen, Frederik V's Vej 11, 
+DK-2100 Copenhagen, Denmark.
+
+BACKGROUND: Pterygium is a disease of unknown origin and pathogenesis that might 
+be vision threatening. It is characterised by a wing-like conjunctival 
+overgrowth of the cornea. Several studies have investigated human papillomavirus 
+(HPV) as a risk factor for the development of pterygia, but the results are 
+inconclusive.
+AIM: To investigate a large sample of pterygia for the presence of HPV in order 
+to clarify the putative association between pterygia and HPV.
+METHODS: 100 specimens of pterygium from Danish patients and 20 normal 
+conjunctival biopsy specimens were investigated for the presence of HPV with PCR 
+technique using beta-globin primers to access the quality of the extracted DNA 
+and the HPV primers MY09/11 and GP5+/6+. HPV-positive specimens underwent 
+subsequent HPV typing with type-specific HPV primers and further investigation 
+with DNA in situ hybridisation (ISH).
+RESULTS: 90 of 100 investigated pterygia proved suitable for HPV analysis by 
+PCR. As beta-globin could not be amplified, 10 specimens were excluded from the 
+study. 4 of 90 pterygia harboured HPV. HPV type 6 was identified in all four 
+HPV-positive pterygia. The 20 normal conjunctival biopsy specimens were 
+beta-globin positive and HPV negative. All four pterygia that were HPV type 6 
+positive were DNA ISH negative.
+CONCLUSIONS: The low presence of HPV DNA in pterygia does not support the 
+hypothesis that HPV is involved in the development of pterygia in Denmark.
+
+DOI: 10.1136/bjo.2006.108829
+PMCID: PMC1954836
+PMID: 17179167 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

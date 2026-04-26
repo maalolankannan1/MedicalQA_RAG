@@ -1,0 +1,39 @@
+1. Epilepsia. 2002;43 Suppl 5:196-202. doi: 10.1046/j.1528-1157.43.s.5.6.x.
+
+Do mossy fibers release GABA?
+
+Walker MC(1), Ruiz A, Kullmann DM.
+
+Author information:
+(1)Department of Clinical and Experimental Epilepsy, Institute of Neurology, 
+Queen Square, London WC1N 3BG, UK. m.walker@ion.ucl.ac.uk
+
+PURPOSE: Mossy fibers are the sole excitatory projection from dentate gyrus 
+granule cells to the hippocampus, forming part of the trisynaptic hippocampal 
+circuit. They undergo significant plasticity during epileptogenesis and have 
+been implicated in seizure generation. Mossy fibers are a highly unusual 
+projection in the mammalian brain; in addition to glutamate, they release 
+adenosine, dynorphin, zinc, and possibly other peptides. Mossy fiber terminals 
+also show intense immunoreactivity for the inhibitory neurotransmitter 
+gamma-aminobutyric acid (GABA), and immunoreactivity for GAD67. The purpose of 
+this review is to present physiologic evidence of GABA release by mossy fibers 
+and its modulation by epileptic activity.
+METHODS: We used hippocampal slices from 3- to 5-week-old guinea pigs and made 
+whole-cell voltage clamp recordings from CA3 pyramidal cells. We placed 
+stimulating electrodes in stratum granulosum and adjusted their position in 
+order to recruit mossy fiber to CA3 projections.
+RESULTS: We have shown that electrical stimuli that recruit dentate granule 
+cells elicit monosynaptic GABAA receptor-mediated synaptic signals in CA3 
+pyramidal neurons. These inhibitory signals satisfy the criteria that 
+distinguish mossy fiber-CA3 synapses: high sensitivity to metabotropic 
+glutamate-receptor agonists, facilitation during repetitive stimulation, and 
+N-methyl-D-aspartate (NMDA) receptor-independent long-term potentiation.
+CONCLUSIONS: We have thus provided compelling evidence that there is a mossy 
+fiber GABAergic signal. The physiologic role of this mossy fiber GABAergic 
+signal is uncertain, but may be of developmental importance. Other evidence 
+suggests that this GABAergic signal is transiently upregulated after seizures. 
+This could have an inhibitory or disinhibitory effect, and further work is 
+needed to elucidate its actual role.
+
+DOI: 10.1046/j.1528-1157.43.s.5.6.x
+PMID: 12121321 [Indexed for MEDLINE]

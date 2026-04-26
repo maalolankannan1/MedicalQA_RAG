@@ -1,0 +1,63 @@
+1. Aten Primaria. 2001 Apr 15;27(6):408-11. doi: 10.1016/s0212-6567(01)78822-1.
+
+[Is there awareness of pharmaceutical expenditure in the reformed primary care 
+system?].
+
+[Article in Spanish]
+
+Mengíbar Torres F(1).
+
+Author information:
+(1)CAP Can Rull, Dirección de Atención Primaria Sabadell, Institut Català de la 
+Salut, Barcelona.
+
+OBJECTIVE: To evaluate the effectiveness of feeding information on pharmacy back 
+to primary care doctors in order to create awareness (knowledge) of 
+pharmaceutical expenditure (PE).
+DESIGN: Retrospective cross-sectional study, through personal interview.
+SETTING: Reformed PC, Sabadell, Barcelona.
+PARTICIPANTS: The 80 PC doctors working with primary care teams.
+INTERVENTIONS: As the personal feed-back on PE, each doctor was asked for the PE 
+generated during 1997 and the mean cost of prescriptions to active and pensioner 
+patients. The statistical test used was the t test to compare means for paired 
+data, with p < 0.05 the required level of significance.
+RESULTS: Out of the total doctors interviewed (80), 71 replies were obtained for 
+the annual PE and 76 for the mean cost of prescriptions, for both active and 
+pensioner patients. Significant differences were found between the annual PE in 
+reality and doctors' estimates: around twelve million pesetas. The differences 
+between the real mean costs of prescription and the estimates were also 
+significant.
+CONCLUSIONS: In view of the results, it is concluded that there is no awareness 
+of PE among the doctors in the reformed PC in our area. This poses a question 
+over the efficacy of feed-back of pharmacy information in order to create this 
+awareness. This information needs to be more frequent and richer in content, and 
+to be complemented by other measures.
+
+OBJETIVO: Evaluar la efectividad de la retroinformación sobre farmacia para 
+crear conciencia (conocimiento) de gasto farmacéutico (GF) entre los médicos de 
+atención primaria (AP).
+DISEÑO: Estudio transversal, retrospectivo. Se realiza entrevista personal.
+EMPLAZAMIENTO: La AP reformada de la Dirección de Atención Primaria (DAP) 
+Sabadell (Barcelona).
+PARTICIPANTES: Los 80 médicos de AP de la DAP que trabajan con equipos de 
+atención primaria (EAP).
+INTERVENCIONES: En función de la retroinformación personalizada sobre GF, se le 
+pregunta a cada médico por el GF generado durante 1997 y el precio medio de la 
+receta de activo y de pensionista. La prueba estadística utilizada ha sido la t 
+de comparación de medias para datos apareados. El nivel exigido de significación 
+ha sido de p < 0,05.
+RESULTADOS: Del total de médicos entrevistados (80), se obtienen 71 respuestas 
+para el GF anual y 76 para el precio medio de las recetas, tanto de activo como 
+de pensionista. Se encuentran diferencias significativas entre el GF anual 
+producido y el estimado cercanas a los 12 millones de pts. Las diferencias entre 
+los precios medios reales de las recetas y los estimados también resultan 
+significativas.
+CONCLUSIONES: A la vista de los resultados obtenidos se concluye que no existe 
+conciencia de GF entre los médicos de la AP reformada de nuestra DAP. Esto 
+pondría en entredicho la eficacia de la retroinformación sobre farmacia para 
+crear tal propósito. Dicha información debería ser más frecuente y rica en 
+contenido, así como complementarse con otras medidas.
+
+DOI: 10.1016/s0212-6567(01)78822-1
+PMCID: PMC7676013
+PMID: 11334578 [Indexed for MEDLINE]

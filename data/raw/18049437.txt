@@ -1,0 +1,28 @@
+1. Med Sci Monit. 2007 Dec;13(12):CR567-9.
+
+Is there any relationship between streptococcal infection and multiple 
+sclerosis?
+
+Topkaya AE(1), Sahin S, Aksungar FB, Boru UT, Yildiz Z, Sur H.
+
+Author information:
+(1)Department of Microbiology, Faculty of Medicine, Maltepe University, 
+Istanbul, Turkey.
+
+BACKGROUND: Multiple sclerosis (MS) is an immune-mediated inflammatory 
+demyelinating disease of uncertain etiology. Although the mechanisms of 
+inducting autoimmunity by some of the infectious agents have been investigated, 
+there is not yet enough research on streptococcal infections.
+MATERIAL/METHODS: To understand the effect of past group A streptococcal 
+infection on MS, antistreptolysin O (ASO) and antideoxyribonuclease B (ADNase B) 
+were measured in 21 patients with relapsing-remitting MS and 21 healthy blood 
+donors by nephelometric assay.
+RESULTS: ADNase B levels in the patients with MS were found to be significantly 
+higher than in the controls (p<0.001); however, ASO levels were similar in both 
+groups.
+CONCLUSIONS: These findings indicate that a relationship between multiple 
+sclerosis and streptococcal infections may exist, but to acquire a better 
+understanding of the role of group A streptococci in the pathogenesis of 
+multiple sclerosis, more studies with animal models are necessary.
+
+PMID: 18049437 [Indexed for MEDLINE]

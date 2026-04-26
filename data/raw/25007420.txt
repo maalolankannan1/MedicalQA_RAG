@@ -1,0 +1,81 @@
+1. Can J Psychiatry. 2014 Jul;59(7):366-75. doi: 10.1177/070674371405900704.
+
+Are there mental health differences between francophone and non-francophone 
+populations in manitoba?
+
+Chartier MJ(1), Finlayson G(2), Prior H(3), Mcgowan KL(4), Chen H(3), Walld 
+R(3), De Rocquigny J(5).
+
+Author information:
+(1)Research Scientist, Manitoba Centre for Health Policy, Department of 
+Community Health Sciences, Faculty of Medicine, University of Manitoba, 
+Winnipeg, Manitoba; Assistant Professor, Department of Community Health 
+Sciences, Faculty of Medicine, University of Manitoba, Winnipeg, Manitoba.
+(2)Research Scientist, Manitoba Centre for Health Policy, Department of 
+Community Health Sciences, Faculty of Medicine, University of Manitoba, 
+Winnipeg, Manitoba.
+(3)Data Analyst, Manitoba Centre for Health Policy, Department of Community 
+Health Sciences, Faculty of Medicine, University of Manitoba, Winnipeg, 
+Manitoba.
+(4)Research Coordinator, Manitoba Centre for Health Policy, Department of 
+Community Health Sciences, Faculty of Medicine, University of Manitoba, 
+Winnipeg, Manitoba.
+(5)Graduate Student, Department of Community Health Sciences, Faculty of 
+Medicine, University of Manitoba, Winnipeg, Manitoba.
+
+OBJECTIVE: Francophones may experience poorer health due to social status, 
+cultural differences in lifestyle and attitudes, and language barriers to health 
+care. Our study sought to compare mental health indicators between Francophones 
+and non-Francophones living in the province of Manitoba.
+METHODS: Two populations were used: one from administrative datasets housed at 
+the Manitoba Centre for Health Policy and the other from representative survey 
+samples. The administrative datasets contained data from physician billings, 
+hospitalizations, prescription drug use, education, and social services use, and 
+surveys included indicators on language variables and on self-rated health.
+RESULTS: Outside urban areas, Francophones had lower rates of diagnosed 
+substance use disorder (rate ratio [RR] = 0.80; 95% CI 0.68 to 0.95) and of 
+suicide and suicide attempts (RR = 0.59; 95% CI 0.43 to 0.79), compared with 
+non-Francophones, but no differences were found between the groups across the 
+province in rates of diagnosed mood disorders, anxiety disorders, dementia, or 
+any mental disorders after adjusting for age, sex, and geographic area. When 
+surveyed, Francophones were less likely than non-Francophones to report that 
+their mental health was excellent, very good, or good (66.9%, compared with 
+74.2%).
+CONCLUSIONS: The discrepancy in how Francophones view their mental health and 
+their rates of diagnosed mental disorders may be related to health seeking 
+behaviours in the Francophone population. Community and government agencies 
+should try to improve the mental health of this population through mental health 
+promotion and by addressing language and cultural barriers to health services.
+
+OBJECTIF : Les francophones peuvent avoir une moins bonne santé en raison du 
+statut social, des différences culturelles de style de vie et de mentalité, et 
+des obstacles linguistiques aux soins de santé. Notre étude cherchait à comparer 
+les indicateurs de santé mentale entre francophones et non-francophones habitant 
+dans la province du Manitoba.
+MÉTHODES : Deux populations ont été utilisées : l’une tirée des bases de données 
+administratives du Centre des politiques de santé du Manitoba et l’autre, issue 
+d’échantillons d’enquête représentatifs. Les bases de données administratives 
+contenaient des données de facturation des médecins, d’hospitalisations, 
+d’utilisation de médicaments sur ordonnance, d’éducation, et d’utilisation des 
+services sociaux, alors que les enquêtes incluaient des indicateurs des 
+variables linguistiques et de la santé autoévaluée.
+RÉSULTATS : Hors des régions urbaines, les francophones avaient des taux plus 
+faibles de trouble lié à une substance diagnostiqué (rapport de taux [RT] = 
+0,80; IC à 95 % 0,68 à 0,95) et de suicide ou de tentatives de suicide (RT = 
+0,59; IC à 95 % 0,43 à 0,79), comparativement aux non-francophones, mais aucune 
+différence n’a été observée entre les groupes à l’échelle de la province en ce 
+qui concerne les taux de troubles de l’humeur, de troubles anxieux, et de 
+démence diagnostiqués, ou de tout trouble mental après correction pour l’âge, le 
+sexe, et la région géographique. Lorsqu’interrogés, les francophones étaient 
+moins susceptibles que les non-francophones de déclarer que leur santé mentale 
+était excellente, très bonne, ou bonne (66,9 %, comparé à 74,2 %).
+CONCLUSIONS : L’écart entre la façon dont les francophones voient leur santé 
+mentale et leurs taux de troubles mentaux diagnostiqués peut être lié aux 
+comportements favorisant la santé dans la population francophone. Les organismes 
+communautaires et gouvernementaux devraient tenter d’améliorer la santé mentale 
+de cette population en faisant la promotion de la santé mentale et en réduisant 
+les obstacles linguistiques et culturels aux services de santé.
+
+DOI: 10.1177/070674371405900704
+PMCID: PMC4086314
+PMID: 25007420 [Indexed for MEDLINE]

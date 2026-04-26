@@ -1,0 +1,39 @@
+1. Caries Res. 2014;48(3):208-13. doi: 10.1159/000354838. Epub 2014 Jan 29.
+
+Should cavitation in proximal surfaces be reported in cone beam computed 
+tomography examination?
+
+Sansare K(1), Singh D, Sontakke S, Karjodkar F, Saxena V, Frydenberg M, Wenzel 
+A.
+
+Author information:
+(1)Oral Medicine and Radiology, Nair Hospital Dental College, Mumbai, India.
+
+AIM: A clinical study was done to assess the clinical diagnostic accuracy of 
+cone beam computed tomography (CBCT) in detecting proximal cavitated carious 
+lesions in order to determine whether cavitation should be reported when a CBCT 
+examination is available.
+MATERIALS AND METHODS: 79 adjacent proximal surfaces without restorations in 
+permanent teeth were examined. Patients suspected to have carious lesions after 
+a visual clinical and a bitewing examination participated in a CBCT examination 
+(Kodak 9000 3D, 5 × 3.7 cm field of view, voxel size 0.07 mm). Ethical approval 
+and informed consent were obtained according to the Helsinki Declaration. 
+Radiographic assessment recording lesions with or without cavitation was 
+performed by two observers in bitewings and CBCT sections. Orthodontic 
+separators were placed interdentally between two lesion-suspected surfaces. The 
+separator was removed after 3 days and the surfaces recorded as cavitated 
+(yes/no), i.e. validated clinically. Differences between the two radiographic 
+modalities (sensitivity, specificity and overall accuracy) were estimated by 
+analyzing the binary data in a generalized linear model.
+RESULTS: For both observers, sensitivity was significantly higher for CBCT than 
+for bitewings (average difference 33%, p < 0.001) while specificity was not 
+significantly different between the methods (p = 0.19). The overall accuracy was 
+also significantly higher for CBCT (p < 0.001).
+CONCLUSION: CBCT was more accurate in detecting cavitation in proximal surfaces 
+than bitewing radiographs; therefore a CBCT examination performed for other 
+clinical applications should also be assessed for proximal surface cavities in 
+teeth without restorations, and when detected, this pathology must be part of 
+the dentist's report.
+
+DOI: 10.1159/000354838
+PMID: 24481006 [Indexed for MEDLINE]

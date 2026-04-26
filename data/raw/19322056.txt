@@ -1,0 +1,43 @@
+1. J Pediatr Gastroenterol Nutr. 2009 Apr;48(4):464-70. doi: 
+10.1097/MPG.0b013e31818c5fc3.
+
+Does the enteral feeding advancement affect short-term outcomes in very low 
+birth weight infants?
+
+Härtel C(1), Haase B, Browning-Carmo K, Gebauer C, Kattner E, Kribs A, Segerer 
+H, Teig N, Wense Av, Wieg C, Herting E, Göpel W.
+
+Author information:
+(1)Department of Pediatrics, University of Lübeck, Germany.
+
+Comment in
+    J Pediatr Gastroenterol Nutr. 2009 Apr;48(4):397-8. doi: 
+10.1097/mpg.0b013e31818de3d8.
+
+BACKGROUND AND OBJECTIVES: Controversy exists regarding the optimal enteral 
+feeding regimen of very low birth weight infants (VLBW). Rapid advancement of 
+enteral feeding has been associated with an increased rate of necrotizing 
+enterocolitis. In contrast, delaying enteral feeding may have unfavorable 
+effects on nutrition, growth, and neurodevelopment. The aim is to compare the 
+short-term outcomes of VLBW infants in tertiary care centers according to their 
+enteral feeding advancement.
+PATIENTS AND METHODS: We prospectively studied the influence of center-specific 
+enteral feeding advancement in 1430 VLBW infants recruited from 13 tertiary 
+neonatal intensive care units in Germany on short-term outcome parameters. The 
+centers were post hoc stratified to "rapid advancement to full enteral feeds" 
+(median duration of advancement to full enteral feeds < or =12.5 days; 6 
+centers), that is, rapid advancement (RA), or "slow advancement to full enteral 
+feeds" (median duration of advancement to full enteral feeds >12.5 days; 7 
+centers), that is, slow advancement (SA).
+RESULTS: VLBW infants born in centers with SA (n = 713) had a significantly 
+higher rate of sepsis compared with VLBW infants born in centers with RA (n = 
+717), which was particularly evident for late-onset sepsis (14.0% vs 20.4%; P = 
+0.002). Furthermore, more central venous lines (48.6% vs 31.1%, P < 0.001) and 
+antibiotics (92.4% vs 77.7%, P < 0.001) were used in centers with SA.
+CONCLUSIONS: Center differences in enteral feeding advancement occur and may 
+have a significant impact on short-term outcomes such as nosocomial sepsis. 
+Large, multicenter, prospective trials are required to further elucidate the 
+optimal feeding strategy for VLBW infants.
+
+DOI: 10.1097/MPG.0b013e31818c5fc3
+PMID: 19322056 [Indexed for MEDLINE]

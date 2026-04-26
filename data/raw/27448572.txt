@@ -1,0 +1,59 @@
+1. Soc Psychiatry Psychiatr Epidemiol. 2016 Nov;51(11):1495-1507. doi: 
+10.1007/s00127-016-1267-7. Epub 2016 Jul 23.
+
+Is duration of psychological treatment for depression related to return into 
+treatment?
+
+Boerema AM(1)(2), Cuijpers P(3)(4), Beekman AT(4)(5), Hellenthal A(6), Voorrips 
+L(6), van Straten A(3)(4).
+
+Author information:
+(1)Department of Clinical Neuro and Developmental Psychology, Section Clinical 
+Psychology, Faculty of Behavioural and Movement Sciences, Vrije Universiteit 
+Amsterdam, van der Boechorststraat 1, 1081 BT, Amsterdam, The Netherlands. 
+a.m.boerema@vu.nl.
+(2)EMGO+ Institute for Health Care and Research, VU University Medical Centre, 
+van der Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands. 
+a.m.boerema@vu.nl.
+(3)Department of Clinical Neuro and Developmental Psychology, Section Clinical 
+Psychology, Faculty of Behavioural and Movement Sciences, Vrije Universiteit 
+Amsterdam, van der Boechorststraat 1, 1081 BT, Amsterdam, The Netherlands.
+(4)EMGO+ Institute for Health Care and Research, VU University Medical Centre, 
+van der Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands.
+(5)Department of Psychiatry, VU University Medical Centre, van der 
+Boechorststraat 7, 1081 BT, Amsterdam, The Netherlands.
+(6)Statistics Netherlands (CBS), Henri Faasdreef 312, 2492 JP, The Hague, The 
+Netherlands.
+
+PURPOSE: There is increasing pressure on mental health providers to reduce the 
+duration of treatments, while retaining level of quality and effectiveness. The 
+risk is that the population is underserved and therefore needs new treatment 
+episodes. The primary aim of this study was to investigate whether duration of 
+treatment and return into mental health care were related.
+METHODS: This study examined Dutch patients with an initial treatment episode in 
+2009 or 2010 in specialized mental health settings for depressive disorder 
+(N = 85,754). Follow-up data about treatment episodes were available up until 
+2013. The data set included demographic (age, gender), and clinical factors 
+(comorbidity with other DSM-IV Axis; scores on the 'Global Assessment of 
+Functioning'). Cox regression analyses were used to assess whether duration of 
+treatment and relapse into mental health care were related.
+RESULTS: The majority of patients did not return into mental health care (86 %). 
+Patients with a shorter duration of treatment (5-250 min; 251-500 min and 
+751-1000 min) were slightly more likely to return (reference group: >1000 min) 
+(HR 1.19 95 % CI 1.13-1.26; HR 1.11 95 % CI 1.06-1.17; HR 1.18 95 % CI 
+1.11-1.25), adjusted for demographic and clinical variables.
+CONCLUSIONS: The results suggest that a longer duration of treatment may prevent 
+return into mental health care in some groups. However, because of the design of 
+the study, no causal inference can be drawn. Further research, preferably in a 
+RCT, is needed to determine whether the trend towards lower intensity treatments 
+is associated with repeated mental health care use.
+
+DOI: 10.1007/s00127-016-1267-7
+PMCID: PMC5101270
+PMID: 27448572 [Indexed for MEDLINE]
+
+Conflict of interest statement: Compliance with ethical standards Ethical 
+standards The manuscript does not contain clinical studies or patient data. The 
+data included only information about the registered treatment activities and was 
+not traceable to individual persons. Conflict of interest On behalf of all 
+authors, the corresponding author states that there is no conflict of interest.

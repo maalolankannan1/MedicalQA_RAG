@@ -1,0 +1,42 @@
+1. AJNR Am J Neuroradiol. 2009 Mar;30(3):591-6. doi: 10.3174/ajnr.A1412. Epub
+2009  Jan 8.
+
+Diffusion-weighted echo-planar MR imaging of primary parotid gland tumors: is a 
+prediction of different histologic subtypes possible?
+
+Habermann CR(1), Arndt C, Graessner J, Diestel L, Petersen KU, Reitmeier F, 
+Ussmueller JO, Adam G, Jaehne M.
+
+Author information:
+(1)Department of Diagnostic and Interventional Radiology, Diagnostic Center, 
+University Medical Center Hamburg-Eppendorf, Hamburg, Germany. 
+c.habermann@uke.uni-hamburg.de
+
+BACKGROUND AND PURPOSE: Our aim was to determine the value of echo-planar 
+diffusion-weighted MR imaging (epiDWI) in differentiating various types of 
+primary parotid gland tumors.
+MATERIALS AND METHODS: One hundred forty-nine consecutive patients with 
+suspected tumors of the parotid gland were examined with an epiDWI sequence by 
+using a 1.5T unit. Image analysis was performed by 2 radiologists independently, 
+and the intraclass correlation coefficient was computed. Histologic diagnosis 
+was obtained in every patient. For comparison of apparent diffusion coefficients 
+(ADCs), a paired 2-tailed Student t test with a Bonferroni correction was used.
+RESULTS: In 136 patients, a primary parotid gland tumor was confirmed by 
+histology. Among the observers, a high correlation was calculated (0.98). ADC 
+values of pleomorphic adenomas were significantly higher than those of all other 
+entities, except for myoepithelial adenomas (P = .054). ADC values of Warthin 
+tumors were different from those of myoepithelial adenomas, lipomas, and 
+salivary duct carcinomas (P < .001, 0.013, and .037, respectively). 
+Mucoepidermoid carcinomas, acinic cell carcinomas, and basal cell 
+adenocarcinomas were not differentiable from Warthin tumors (P = .094, .396, and 
+.604, respectively).
+CONCLUSION: epiDWI has the potential to differentiate pleomorphic adenoma and 
+myoepithelial adenomas from all other examined entities. Due to an overlap not 
+only within the group of benign and malignant lesions but also between groups, 
+diagnoses should not be addressed on the basis of ADC values solely. Therefore, 
+further studies combining DWI, morphologic criteria, and probably other MR 
+imaging techniques seem warranted.
+
+DOI: 10.3174/ajnr.A1412
+PMCID: PMC7051445
+PMID: 19131405 [Indexed for MEDLINE]

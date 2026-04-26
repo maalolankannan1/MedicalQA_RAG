@@ -1,0 +1,37 @@
+1. Biomed Res Int. 2014;2014:628217. doi: 10.1155/2014/628217. Epub 2014 Mar 25.
+
+Can ki-67 play a role in prediction of breast cancer patients' response to 
+neoadjuvant chemotherapy?
+
+Ingolf JB(1), Russalina M(1), Simona M(1), Julia R(1), Gilda S(1), Bohle RM(2), 
+Andrea H(2), Erich S(1), Daniel H(1).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Homburg University Medical Centre, 
+66421 Homburg, Germany.
+(2)Department of Pathology, Homburg University Medical Centre, 66421 Homburg, 
+Germany.
+
+BACKGROUND: Currently the choice of breast cancer therapy is based on prognostic 
+factors. The proliferation marker Ki-67 is used increasingly to determine the 
+method of therapy. The current study analyses the predictive value of Ki-67 in 
+foreseeing breast cancer patients' responses to neoadjuvant chemotherapy.
+METHODS: This study includes patients with invasive breast cancer treated 
+between 2008 and 2013. The clinical response was assessed by correlating Ki-67 
+to histological examination, mammography, and ultrasonography findings.
+RESULTS: The average Ki-67 value in our patients collectively (n = 77) is 34.9 ± 
+24.6%. The average Ki-67 value is the highest with 37.4 ± 24.0% in patients with 
+a pCR. The Ki-67 values do not differ significantly among the 3 groups: pCR 
+versus partial pathological response versus stable disease/progress (P = 0.896). 
+However, Ki-67 values of patients with luminal, Her2 enriched, and basal-like 
+cancers differed significantly from each other. Furthermore, within the group of 
+luminal tumors Ki-67 values of patients with versus without pCR also differed 
+significantly.
+CONCLUSION: Our data shows that the Ki-67 value predicts the response to 
+neoadjuvant chemotherapy as a function of the molecular subtype, reflecting the 
+daily routine concerning Ki-67 and its impressing potential and limitation as a 
+predictive marker for neoadjuvant chemotherapy response.
+
+DOI: 10.1155/2014/628217
+PMCID: PMC3982412
+PMID: 24783217 [Indexed for MEDLINE]

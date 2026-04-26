@@ -1,0 +1,40 @@
+1. Hosp Pediatr. 2014 May;4(3):172-80. doi: 10.1542/hpeds.2013-0088.
+
+Is dexamethasone an effective alternative to oral prednisone in the treatment of 
+pediatric asthma exacerbations?
+
+Meyer JS(1), Riese J, Biondi E.
+
+Author information:
+(1)The Warren Alpert Medical School of Brown University, Rhode Island 
+Hospital/Hasbro Children's Hospital, Department of Pediatrics, Providence, Rhode 
+Island; and.
+
+BACKGROUND: A short course of systemic corticosteroids is an important therapy 
+in the treatment of pediatric asthma exacerbations. Although a 5-day course of 
+oral prednisone or prednisolone has become the most commonly used regimen, 
+dexamethasone has also been used for a shorter duration (1-2 days) with 
+potential for improvement in compliance and palatability. We reviewed the 
+literature to determine if there is sufficient evidence that dexamethasone can 
+be used as an effective alternative in the treatment of pediatric asthma 
+exacerbations in the inpatient setting.
+METHODS: A Medline search was conducted on the use of dexamethasone in the 
+treatment of asthma exacerbations in children. The studies selected were 
+clinical trials comparing the efficacy of dexamethasone with prednisone. 
+Meta-analysis was performed examining physician revisitation rates and 
+symptomatic return to baseline.
+RESULTS: Six completed pediatric clinical trials met the inclusion criteria. All 
+of the pediatric trials found that prednisone is not superior to dexamethasone 
+in treating mild to moderate asthma exacerbations. Meta-analysis demonstrated 
+homogeneity between the dexamethasone and prednisone groups when examining 
+symptomatic return to baseline and unplanned physician revisits after the 
+initial emergency department encounter. Some studies found potential additional 
+benefits of dexamethasone, including improved compliance and less vomiting.
+CONCLUSIONS: The current literature suggests that dexamethasone can be used as 
+an effective alternative to prednisone in the treatment of mild to moderate 
+acute asthma exacerbations in children, with the added benefits of improved 
+compliance, palatability, and cost. However, more research is needed to examine 
+the role of dexamethasone in hospitalized children.
+
+DOI: 10.1542/hpeds.2013-0088
+PMID: 24785562 [Indexed for MEDLINE]

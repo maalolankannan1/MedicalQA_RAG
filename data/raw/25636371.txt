@@ -1,0 +1,51 @@
+1. Gastroenterol Hepatol. 2015 May;38(5):305-12. doi: 
+10.1016/j.gastrohep.2014.12.001. Epub 2015 Jan 27.
+
+[Is it possible to stop treatment with nucleos(t)ide analogs in patients with 
+e-antigen negative chronic hepatitis B? Experience and new expectations].
+
+[Article in Spanish]
+
+Martín Mateos RM(1), Moreira Vicente VF(2), Tavío Hernández E(3), Cuño Roldán 
+JL(3), Téllez Villajos L(3), Aicart Ramos M(3), Arribas Anta J(3), Zaera de la 
+Fuente C(3), Albillos Martínez A(4).
+
+Author information:
+(1)Servicio de gastroenterología, Hospital Universitario Ramón y Cajal, IRYCIS, 
+Madrid, España. Electronic address: rosam.martinma@salud.madrid.org.
+(2)Servicio de gastroenterología. Hospital Universitario Ramón y Cajal, Madrid, 
+España; Departamento de medicina. Universidad de Alcalá, Madrid, España.
+(3)Servicio de gastroenterología. Hospital Universitario Ramón y Cajal, Madrid, 
+España.
+(4)Servicio de gastroenterología, Hospital Universitario Ramón y Cajal, IRYCIS, 
+Madrid, España; Departamento de medicina. Universidad de Alcalá, Madrid, España; 
+CIBERehd, Instituto de Salud Carlos III, Madrid, España.
+
+BACKGROUND: Treatment of HBeAg-negative chronic hepatitis B (CHB) with 
+nucleos(t)ide analogues (NA) is usually indefinite, since the loss of HBsAg, as 
+a criterion for its discontinuation, is a rare event. Recent evidence suggests 
+that discontinuing NA therapy may be feasible in selected patients.
+OBJECTIVES: To analyze the rate of virological relapse in patients with 
+HBeAg-negative CHB who discontinued treatment with NAs.
+METHODS: We performed a single-center observational study that included 140 
+patients with HBsAg-negative CHB. Twenty-two patients, who received only NAs, 
+discontinued treatment for different reasons and were subsequently monitored. 
+All had normal ALT and AST, undetectable DNA and absence of cirrhosis or 
+significant comorbidities before stopping treatment.
+RESULTS: Twelve patients showed virologic relapse (54.54%). The mean interval 
+between discontinuation and relapse was 6.38 months (± 1.9) (75% relapsed during 
+the first 12 months after discontinuation). Five received adefovir, 1 lamivudine 
+and adefovir, 1 tenofovir and 5 lamivudine alone. The mean treatment duration in 
+this group was 38.5 months (± 4.5). The sustained response group had a higher 
+mean age and longer treatment duration than patients with virologic relapse but 
+these differences were not statistically significant.
+CONCLUSIONS: The results suggest that NA treatment can be stopped in selected 
+patients with CHB as long as they are not cirrhotic, have completed a minimum 
+period of treatment, have normal ALT and sustained undetectable DNA. These 
+patients should be closely monitored during the first year and then 
+indefinitely.
+
+Copyright © 2014 Elsevier España, S.L.U. and AEEH y AEG. All rights reserved.
+
+DOI: 10.1016/j.gastrohep.2014.12.001
+PMID: 25636371 [Indexed for MEDLINE]

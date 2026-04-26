@@ -1,0 +1,35 @@
+1. Rofo. 2010 Aug;182(8):706-14. doi: 10.1055/s-0029-1245371. Epub 2010 Apr 16.
+
+[Is ultrasound equal to X-ray in pediatric fracture diagnosis?].
+
+[Article in German]
+
+Moritz JD(1), Hoffmann B, Meuser SH, Sehr DH, Caliebe A, Heller M.
+
+Author information:
+(1)Klinik für Diagnostische Radiologie, Pädiatrische Radiologie und Sonografie, 
+UK-SH, Campus Kiel. joerg.d.moritz@rad.uni-kiel.de
+
+PURPOSE: Ultrasound is currently not established for the diagnosis of fractures. 
+The aim of this study was to compare ultrasound and X-ray beyond their use 
+solely for the identification of fractures, i. e., for the detection of fracture 
+type and dislocation for pediatric fracture diagnosis.
+MATERIALS AND METHODS: Limb bones of dead young pigs served as a model for 
+pediatric bones. The fractured bones were examined with ultrasound, X-ray, and 
+CT, which served as the gold standard.
+RESULTS: 162 of 248 bones were fractured. 130 fractures were identified using 
+ultrasound, and 148 using X-ray. There were some advantages of X-ray over 
+ultrasound in the detection of fracture type (80 correct results using X-ray, 66 
+correct results using ultrasound). Ultrasound, however, was superior to X-ray 
+for dislocation identification (41 correct results using X-ray, 51 correct 
+results using ultrasound). Both findings were not statistically significant 
+after adjustment for multiple testing.
+CONCLUSION: Ultrasound not only has comparable sensitivity to that of X-ray for 
+the identification of limb fractures but is also equally effective for the 
+diagnosis of fracture type and dislocation. Thus, ultrasound can be used as an 
+adequate alternative method to X-ray for pediatric fracture diagnosis.
+
+Georg Thieme Verlag KG Stuttgart, New York.
+
+DOI: 10.1055/s-0029-1245371
+PMID: 20401819 [Indexed for MEDLINE]

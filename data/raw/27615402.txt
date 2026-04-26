@@ -1,0 +1,47 @@
+1. Drug Alcohol Depend. 2016 Nov 1;168:45-51. doi: 
+10.1016/j.drugalcdep.2016.08.630. Epub 2016 Aug 31.
+
+Does the familial transmission of drinking patterns persist into young 
+adulthood? A 10-year follow up.
+
+Karlsson P(1), Magnusson C(2), Svensson J(3).
+
+Author information:
+(1)Department of Social Work, Stockholm University, 106 91 Stockholm, Sweden. 
+Electronic address: patrik.karlsson@socarb.su.se.
+(2)Swedish Institute for Social Research (SOFI), Stockholm University, 106 91 
+Stockholm, Sweden. Electronic address: charlotta.magnusson@sofi.su.se.
+(3)Swedish Council for Information on Alcohol and Drugs (CAN), Box 70412, Klara 
+Norra, Kyrkogata 34, 107 25 Stockholm, Sweden; Department of Clinical 
+Neuroscience, Karolinska Institutet, Administration, Tomtebodavägen 18A, 5th 
+floor, 171 77 Stockholm, Sweden. Electronic address: johan.svensson@can.se.
+
+BACKGROUND: Parental drinking has been shown to be associated with offspring 
+drinking. However, the relationship appears to be more complex than often 
+assumed and few studies have tracked it over longer time periods.
+AIMS: To explore the long-term (10-year) transmission of familial drinking 
+during adolescence to offspring drinking patterns in young adulthood.
+DESIGN: Swedish longitudinal study, assessing the relationship between familial 
+drinking in 2000 and offspring drinking in 2010 using simultaneous quantile 
+regression analysis (n=744).
+DATA: Data on familial drinking was gathered from the Swedish level-of-living 
+surveys (LNU) and from partner LNU in 2000 while data on offspring drinking in 
+young adulthood was gathered from LNU 2010. Drinking among offspring, parents 
+and potential stepparents was measured through identical quantity-frequency 
+indices referring to the past 12 months in 2010 and 2000 respectively.
+RESULTS: Young adults whose families were abstainers in 2000 drank substantially 
+less across quintiles in 2010 than offspring of non-abstaining families. The 
+difference, however, was not statistically significant between quintiles of the 
+conditional distribution. Actual drinking levels in drinking families were not 
+at all or weakly associated with drinking in offspring. Supplementary analyses 
+confirmed these patterns.
+CONCLUSION: The association between familial drinking and offspring drinking in 
+young adulthood exhibits clear non-linear trends. Changes in the lower part of 
+the familial drinking distribution are strongly related to drinking in young 
+adults, but the actual levels of drinking in drinking families appear less 
+important in shaping the drinking patterns of the offspring in young adulthood.
+
+Copyright © 2016 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.drugalcdep.2016.08.630
+PMID: 27615402 [Indexed for MEDLINE]

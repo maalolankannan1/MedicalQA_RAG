@@ -1,0 +1,73 @@
+1. Osteoarthritis Cartilage. 2014 Mar;22(3):415-30. doi: 
+10.1016/j.joca.2014.01.005. Epub 2014 Jan 31.
+
+Pharmacologic regimens for knee osteoarthritis prevention: can they be 
+cost-effective?
+
+Losina E(1), Burbine SA(2), Suter LG(3), Hunter DJ(4), Solomon DH(5), Daigle 
+ME(6), Dervan EE(7), Jordan JM(8), Katz JN(9).
+
+Author information:
+(1)Orthopaedic and Arthritis Center for Outcomes Research, Department of 
+Orthopaedic Surgery, Brigham and Women's Hospital, Boston, MA, USA; Section of 
+Clinical Sciences, Division of Rheumatology, Immunology and Allergy, Brigham and 
+Women's Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA, USA; 
+Boston University School of Public Health, Boston, MA, USA. Electronic address: 
+elosina@partners.org.
+(2)Orthopaedic and Arthritis Center for Outcomes Research, Department of 
+Orthopaedic Surgery, Brigham and Women's Hospital, Boston, MA, USA. Electronic 
+address: sara.burbine@gmail.com.
+(3)Yale University, New Haven, CT, USA. Electronic address: lisa.suter@yale.edu.
+(4)University of Sydney and Royal North Shore Hospital, Sydney, Australia. 
+Electronic address: david.hunter@sydney.edu.au.
+(5)Section of Clinical Sciences, Division of Rheumatology, Immunology and 
+Allergy, Brigham and Women's Hospital, Boston, MA, USA; Harvard Medical School, 
+Boston, MA, USA. Electronic address: dsolomon@partners.org.
+(6)Orthopaedic and Arthritis Center for Outcomes Research, Department of 
+Orthopaedic Surgery, Brigham and Women's Hospital, Boston, MA, USA. Electronic 
+address: m.e.daigle@gmail.com.
+(7)Orthopaedic and Arthritis Center for Outcomes Research, Department of 
+Orthopaedic Surgery, Brigham and Women's Hospital, Boston, MA, USA. Electronic 
+address: edervan@partners.org.
+(8)Thurston Arthritis Research Center, University of North Carolina, Chapel 
+Hill, NC, USA. Electronic address: joanne_jordan@med.unc.edu.
+(9)Orthopaedic and Arthritis Center for Outcomes Research, Department of 
+Orthopaedic Surgery, Brigham and Women's Hospital, Boston, MA, USA; Section of 
+Clinical Sciences, Division of Rheumatology, Immunology and Allergy, Brigham and 
+Women's Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA, USA. 
+Electronic address: jnkatz@partners.org.
+
+OBJECTIVE: We sought to determine the target populations and drug efficacy, 
+toxicity, cost, and initiation age thresholds under which a pharmacologic 
+regimen for knee osteoarthritis (OA) prevention could be cost-effective.
+DESIGN: We used the Osteoarthritis Policy (OAPol) Model, a validated 
+state-transition simulation model of knee OA, to evaluate the cost-effectiveness 
+of using disease-modifying OA drugs (DMOADs) as prophylaxis for the disease. We 
+assessed four cohorts at varying risk for developing OA: (1) no risk factors, 
+(2) obese, (3) history of knee injury, and (4) high-risk (obese with history of 
+knee injury). The base case DMOAD was initiated at age 50 with 40% efficacy in 
+the first year, 5% failure per subsequent year, 0.22% major toxicity, and annual 
+cost of $1,000. Outcomes included costs, quality-adjusted life expectancy 
+(QALE), and incremental cost-effectiveness ratios (ICERs). Key parameters were 
+varied in sensitivity analyses.
+RESULTS: For the high-risk cohort, base case prophylaxis increased 
+quality-adjusted life-years (QALYs) by 0.04 and lifetime costs by $4,600, and 
+produced an ICER of $118,000 per QALY gained. ICERs >$150,000/QALY were observed 
+when comparing the base case DMOAD to the standard of care in the knee injury 
+only cohort; for the obese only and no risk factors cohorts, the base case DMOAD 
+was less cost-effective than the standard of care. Regimens priced at $3,000 per 
+year and higher demonstrated ICERs above cost-effectiveness thresholds 
+consistent with current US standards.
+CONCLUSIONS: The cost-effectiveness of DMOADs for OA prevention for persons at 
+high risk for incident OA may be comparable to other accepted preventive 
+therapies.
+
+Copyright © 2014 Osteoarthritis Research Society International. Published by 
+Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.joca.2014.01.005
+PMCID: PMC4006219
+PMID: 24487044 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST The authors do not have any 
+conflict of interest with respect to the content of this paper.

@@ -1,0 +1,36 @@
+1. Ital J Pediatr. 2013 Oct 7;39:63. doi: 10.1186/1824-7288-39-63.
+
+Are IgM-enriched immunoglobulins an effective adjuvant in septic VLBW infants?
+
+Capasso L(1), Borrelli AC, Parrella C, Lama S, Ferrara T, Coppola C, Catania MR, 
+Iula VD, Raimondi F.
+
+Author information:
+(1)Neonatal Intensive Care Unit, Department of Pediatrics, Università degli 
+Studi di Napoli Federico II, Via S, Pansini 5, 80131 Naples, Italy. 
+letizia.capasso@gmail.com.
+
+AIM: To investigate the effectiveness of IgM-enriched immunoglobulins 
+(IgM-eIVIG) in reducing short-term mortality of neonates with proven late-onset 
+sepsis.
+METHODS: All VLBW infants from January 2008 to December 2012 with positive blood 
+culture beyond 72 hours of life were enrolled in a retrospective cohort study. 
+Newborns born after June 2010 were treated with IgM-eIVIG, 250 mg/kg/day iv for 
+three days in addition to standard antibiotic regimen and compared to an 
+historical cohort born before June 2010, receiving antimicrobial regimen alone. 
+Short-term mortality (i.e. death within 7 and 21 days from treatment) was the 
+primary outcome. Secondary outcomes were: total mortality, intraventricular 
+hemorrhage, necrotizing enterocolitis, periventricular leukomalacia, 
+bronchopulmonary dysplasia at discharge.
+RESULTS: 79 neonates (40 cases) were enrolled. No difference in birth weight, 
+gestational age or SNAP II score (disease severity score) were found. 
+Significantly reduced short-term mortality was found in treated infants (22% vs 
+46%; p = 0.005) considering all microbial aetiologies and the subgroup affected 
+by Candida spp. Secondary outcomes were not different between groups.
+CONCLUSION: This hypothesis-generator study shows that IgM-eIVIG is an effective 
+adjuvant therapy in VLBW infants with proven sepsis. Randomized controlled 
+trials are warranted to confirm this pilot observation.
+
+DOI: 10.1186/1824-7288-39-63
+PMCID: PMC3851812
+PMID: 24098953 [Indexed for MEDLINE]

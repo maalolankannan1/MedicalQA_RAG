@@ -1,0 +1,31 @@
+1. N Z Med J. 2001 Dec 14;114(1145):547-9.
+
+Does a delay in transfer to a rehabilitation unit for older people affect 
+outcome after fracture of the proximal femur?
+
+Weatherall M(1).
+
+Author information:
+(1)Department of Medicine, Wellington School of Medicine, Wellington South. 
+markw@wnmeds.ac.nz
+
+AIMS: To detemine the relationship between delay in transfer to rehabilitation 
+wards and outcome for patients aged over 75 years with fracture of the proximal 
+femur.
+METHODS: An observational study in a district general hospital of all patients 
+admitted to hospital aged over 75 years with fracture of the proximal femur over 
+3 1/2 years. Outcome data collected included the number of patients discharged 
+back to their usual residence and total hospital length of stay related to age, 
+gender, usual residence and delay in transfer to a rehabilitation ward.
+RESULTS: 58% of 455 patients were transferred to a rehabilitation ward. For 
+those patients who were transferred to a rehabilitation ward only age predicted 
+discharge to a more dependent residence. The relative risk for discharge to a 
+more dependent residence for people aged over 85 years compared to younger 
+people was 1.47 (95% CI 1.15-1.88). Delay in transfer to rehabilitation was 
+associated with a longer total hospital length of stay of 0.64 (95% CI 
+0.23-1.05) days per day of delay in transfer.
+CONCLUSIONS: Delay in transfer to a rehabilitation ward was associated with a 
+disproportionate increase in total hospital length of stay for patients aged 
+over 75 with fracture of the proximal femur.
+
+PMID: 11833948 [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+1. Langenbecks Arch Surg. 1999 Aug;384(4):354-9. doi: 10.1007/s004230050213.
+
+Is delayed gastric emptying following pancreaticoduodenectomy related to pylorus 
+preservation?
+
+Horstmann O(1), Becker H, Post S, Nustede R.
+
+Author information:
+(1)Department of General Surgery, Georg August University, Robert Koch Strasse 
+40, D-37075 Göttingen, Germany, ohorstm@med.uni-goettingen.de
+
+BACKGROUND: Delayed gastric emptying (DGE) is the most frequent postoperative 
+complication after pylorus-preserving pancreaticoduodenectomy (PPPD). This 
+prospective, non-randomized study was undertaken to determine whether the 
+incidence of DGE may be reduced by modifying the original reconstructive anatomy 
+with a retrocolic duodenojejunostomy towards an antecolic duodenojejunostomy.
+PATIENTS AND METHODS: The study was comprised of 51 patients who underwent PPPD 
+between August 1994 and November 1997. The operation was carried out as 
+originally described but was modified by performing the duodenojejunostomy 
+antecolically. Clinical data were recorded prospectively, with special regard to 
+DGE.
+RESULTS: After PPPD, the nasogastric tube could be removed at a median of 2 days 
+(range 1-22 days) postoperatively; in two patients, the nasogastric tube was 
+reinserted because of vomiting and nausea. A liquid diet was started at a median 
+of 5 days (3-11 days); the patients were able to tolerate a full, regular diet 
+at a median of 10 days (7-28 days). The overall incidence of DGE was 12% (n=6). 
+No postoperative complications other than DGE were exhibited by 36 patients 
+(71%). In this group, DGE was only seen in one patient (3%). In the second 
+group, where postoperative complications other than DGE occurred (n=15), five 
+patients (30%) exhibited DGE (P=0.002).
+CONCLUSIONS: DGE after PPPD seems to be of minor clinical importance following 
+uncomplicated surgery. When taking the results into consideration, it can be 
+said that, despite the lack of a control group, antecolic duodenojejunostomy 
+might be the key to a low incidence of DGE after PPPD. In our experience, DGE is 
+linked to the occurrence of other postoperative complications rather than to 
+pylorus preservation.
+
+DOI: 10.1007/s004230050213
+PMID: 10473855 [Indexed for MEDLINE]

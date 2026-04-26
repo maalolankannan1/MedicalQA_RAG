@@ -1,0 +1,39 @@
+1. J Rheumatol. 2009 Sep;36(9):1892-902. doi: 10.3899/jrheum.090013. Epub 2009
+Jul  31.
+
+Does sonographic needle guidance affect the clinical outcome of intraarticular 
+injections?
+
+Sibbitt WL Jr(1), Peisajovich A, Michael AA, Park KS, Sibbitt RR, Band PA, 
+Bankhurst AD.
+
+Author information:
+(1)Department of Internal Medicine, Division of Rheumatology, University of New 
+Mexico Health Sciences Center, Albuquerque, NM 87131, USA. 
+wsibbitt@salud.unm.edu
+
+OBJECTIVE: This randomized controlled study addressed whether sonographic needle 
+guidance affected clinical outcomes of intraarticular (IA) joint injections.
+METHODS: In total, 148 painful joints were randomized to IA triamcinolone 
+acetonide injection by conventional palpation-guided anatomic injection or 
+sonographic image-guided injection enhanced with a one-handed control syringe 
+(the reciprocating device). A one-needle, 2-syringe technique was used, where 
+the first syringe was used to introduce the needle, aspirate any effusion, and 
+anesthetize and dilate the IA space with lidocaine. After IA placement and 
+synovial space dilation were confirmed, a syringe exchange was performed, and 
+corticosteroid was injected with the second syringe through the indwelling IA 
+needle. Baseline pain, procedural pain, pain at outcome (2 weeks), and changes 
+in pain scores were measured with a 0-10 cm visual analog pain scale (VAS).
+RESULTS: Relative to conventional palpation-guided methods, sonographic guidance 
+resulted in 43.0% reduction in procedural pain (p < 0.001), 58.5% reduction in 
+absolute pain scores at the 2 week outcome (p < 0.001), 75% reduction in 
+significant pain (VAS pain score > or = 5 cm; p < 0.001), 25.6% increase in the 
+responder rate (reduction in VAS score > or = 50% from baseline; p < 0.01), and 
+62.0% reduction in the nonresponder rate (reduction in VAS score < 50% from 
+baseline; p < 0.01). Sonography also increased detection of effusion by 200% and 
+volume of aspirated fluid by 337%.
+CONCLUSION: Sonographic needle guidance significantly improves the performance 
+and outcomes of outpatient IA injections in a clinically significant manner.
+
+DOI: 10.3899/jrheum.090013
+PMID: 19648304 [Indexed for MEDLINE]

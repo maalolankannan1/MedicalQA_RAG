@@ -1,0 +1,29 @@
+1. Breast. 2008 Feb;17(1):98-103. doi: 10.1016/j.breast.2007.07.042. Epub 2007
+Sep  24.
+
+Can computerised tomography replace bone scintigraphy in detecting bone 
+metastases from breast cancer? A prospective study.
+
+Bristow AR(1), Agrawal A, Evans AJ, Burrell HC, Cornford EJ, James JJ, Hamilton 
+L, Robertson JF, Chan SY, Lawton PA, Cheung KL.
+
+Author information:
+(1)Division of Breast Surgery, University of Nottingham, UK.
+
+BACKGROUND: The aim of this study was to determine whether bone scans (BS) can 
+be avoided if pelvis was included in CT thorax and abdomen to detect bony 
+metastases from breast cancer.
+MATERIALS AND METHODS: Results of 77 pairs of CT (thorax, abdomen, and pelvis) 
+and BS in newly diagnosed patients with metastatic breast cancer (MBC) were 
+compared prospectively for 12 months. Both scans were blindly assessed by 
+experienced radiologists and discussed at multidisciplinary team meetings 
+regarding the diagnosis of bone metastases.
+RESULTS: CT detected metastatic bone lesions in 43 (98%) of 44 patients with 
+bone metastases. The remaining patient had a solitary, asymptomatic bony 
+metastasis in shaft of femur. BS was positive in all patients with bone 
+metastases. There were 11 cases of false positive findings on BS.
+CONCLUSION: Our findings suggest routine BS of patients presenting with MBC is 
+not required if CT (thorax, abdomen, and pelvis) is performed.
+
+DOI: 10.1016/j.breast.2007.07.042
+PMID: 17890090 [Indexed for MEDLINE]

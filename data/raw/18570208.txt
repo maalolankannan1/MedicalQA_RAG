@@ -1,0 +1,34 @@
+1. Ultrasound Obstet Gynecol. 2008 Nov;32(6):740-3. doi: 10.1002/uog.5310.
+
+Is severe macrosomia manifested at 11-14 weeks of gestation?
+
+Hackmon R(1), Le Scale KB, Horani J, Ferber A, Divon MY.
+
+Author information:
+(1)Lenox Hill Hospital, Department of Obstetrics and Gynecology, New York, NY, 
+USA. rhackmon@fhcrc.org
+
+OBJECTIVE: To determine the association between fetal biometry in the first or 
+early second trimester and severe macrosomia at delivery.
+METHODS: This case-control study included 30 term severely macrosomic neonates; 
+90 appropriate-for-gestational age (AGA) neonates served as controls. All 
+pregnancies underwent nuchal translucency (NT) screening at 11-14 weeks' 
+gestation. Pregnancies were dated by accurate last menstrual period consistent 
+with crown-rump length (CRL) measurements at the time of screening, early 
+pregnancy CRL or date of fertilization. The association between birth weight and 
+the difference between the measured and the expected CRL at the time of NT 
+screening was analyzed.
+RESULTS: The difference between measured and expected CRL, expressed both in mm 
+and in days of gestation, was statistically greater in the severely macrosomic 
+neonates compared with controls (mean, 6.66 +/- 4.78 mm vs. 1.17 +/- 4.6 mm, P < 
+0.0001 and 3 +/- 2.2 days vs. 0.5 +/- 2.3 days, P < 0.0001, respectively). 
+Furthermore, there were significant correlations between the extent of 
+macrosomia and the discrepancy between expected and measured fetal size at the 
+time of NT screening (r = 0.47, P < 0.01 and r = 0.48, P < 0.01, respectively).
+CONCLUSION: Severe macrosomia apparently manifests as early as 11-14 weeks' 
+gestation.
+
+(c) 2008 ISUOG. Published by John Wiley & Sons, Ltd.
+
+DOI: 10.1002/uog.5310
+PMID: 18570208 [Indexed for MEDLINE]

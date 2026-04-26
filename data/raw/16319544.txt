@@ -1,0 +1,36 @@
+1. Eur J Cardiovasc Prev Rehabil. 2005 Dec;12(6):548-54. doi: 
+10.1097/00149831-200512000-00006.
+
+Is high-sensitivity C-reactive protein associated with carotid atherosclerosis 
+in healthy Koreans?
+
+Hee Choi S(1), Chang Kim H, Woo Ahn C, Keun Cho H, Soo Cha B, Chung YS, Woo Lee 
+K, Chul Lee H, Bum Huh K, Kim DJ.
+
+Author information:
+(1)Department of Internal Medicine, Seoul National University Bundang Hospital, 
+Seongnam-si, Seoul, Korea.
+
+BACKGROUND: There is a positive association between chronic inflammation and the 
+risk of cardiovascular disease, but whether there is an association between 
+C-reactive protein (CRP) and carotid atherosclerosis is controversial. We 
+investigated the relationship between high-sensitivity CRP (hsCRP) levels and 
+carotid intima-media thickness (IMT) in healthy Koreans.
+DESIGN: We measured hsCRP levels, the carotid IMT, and conventional 
+cardiovascular risk factors including obesity parameters, blood pressure, lipid 
+profiles, insulin resistance, and smoking habits in 820 volunteers (35-79 years 
+old) in a cross-sectional study.
+RESULTS: Higher hsCRP quartile groups had higher mean IMTs, as compared with the 
+lowest quartile (P < 0.001 for the trend across quartiles). However, after 
+adjustment for age, the relationship between hsCRP level and IMT was 
+substantially weaker (P = 0.018). After additional adjustments for conventional 
+cardiovascular risk factors, no significant association was observed (P = 
+0.548). The unadjusted risk for a high carotid IMT value (> or = 1.0 mm) was 
+also positively related to hsCRP quartile, but this relationship was not 
+significant after adjustment for age and other cardiovascular risk factors.
+CONCLUSIONS: Both hsCRP levels and the carotid IMT were strongly correlated with 
+conventional cardiovascular risk factors, but there was no independent 
+association between hsCRP levels and carotid IMT in healthy Korean adults.
+
+DOI: 10.1097/00149831-200512000-00006
+PMID: 16319544 [Indexed for MEDLINE]

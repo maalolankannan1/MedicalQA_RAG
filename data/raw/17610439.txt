@@ -1,0 +1,46 @@
+1. Health Serv Res. 2007 Aug;42(4):1589-612. doi:
+10.1111/j.1475-6773.2006.00663.x.
+
+Do hospitals provide lower quality care on weekends?
+
+Becker DJ(1).
+
+Author information:
+(1)Department of Health Care Organization and Policy, School of Public Health, 
+University of Alabama at Birmingham, RPHB 330, 1530 3rd Avenue South, 
+Birmingham, AL 35294-0022, USA.
+
+OBJECTIVE: To examine the effect of a weekend hospitalization on the timing and 
+incidence of intensive cardiac procedures, and on subsequent expenditures, 
+mortality and readmission rates for Medicare patients hospitalized with acute 
+myocardial infarction (AMI).
+DATA SOURCES: The primary data are longitudinal, administrative claims for 
+922,074 elderly, non-rural, fee-for-service Medicare beneficiaries hospitalized 
+with AMI from 1989 to 1998. Annual patient-level cohorts provide information on 
+ex ante health status, procedure use, expenditures, and health outcomes.
+STUDY DESIGN: The patient is the primary unit of analysis. I use ordinary least 
+squares regression to estimate the effect of weekend hospitalization on rates of 
+cardiac catheterization, angioplasty, and bypass surgery (in various time 
+periods subsequent to the initial hospitalization), 1-year expenditures and 
+rates of adverse health outcomes in various periods following the AMI admission.
+PRINCIPAL FINDINGS: Weekend AMI patients are significantly less likely to 
+receive immediate intensive cardiac procedures, and experience significantly 
+higher rates of adverse health outcomes. Weekend admission leads to a 3.47 
+percentage point reduction in catheterization at 1 day, a 1.52 point reduction 
+in angioplasty, and a 0.35 point reduction in by-pass surgery (p<.001 in all 
+cases). The primary effect is delayed treatment, as weekend-weekday procedure 
+differentials narrow over time from the initial hospitalization. Weekend 
+patients experience a 0.38 percentage point (p<.001) increase in 1-year 
+mortality and a 0.20 point (p<.001) increase in 1-year readmission with 
+congestive heart failure.
+CONCLUSIONS: Weekend hospitalization leads to delayed provision of intensive 
+procedures and elevated 1-year mortality for elderly AMI patients. The existence 
+of measurable differences in treatments raises questions regarding the efficacy 
+of a single input regulation (e.g., mandated nurse staffing ratios) in enhancing 
+the quality of weekend care. My results suggest that targeted financial 
+incentives might be a more cost-effective policy response than broad regulation 
+aimed at improving quality.
+
+DOI: 10.1111/j.1475-6773.2006.00663.x
+PMCID: PMC1955270
+PMID: 17610439 [Indexed for MEDLINE]

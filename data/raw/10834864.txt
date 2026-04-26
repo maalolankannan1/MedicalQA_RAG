@@ -1,0 +1,32 @@
+1. Ann Rheum Dis. 2000 Jun;59(6):462-7. doi: 10.1136/ard.59.6.462.
+
+Risk factors for avascular necrosis of bone in patients with systemic lupus 
+erythematosus: is there a role for antiphospholipid antibodies?
+
+Mok MY(1), Farewell VT, Isenberg DA.
+
+Author information:
+(1)Bloomsbury Rheumatology Unit, University College London Medical School, Hong 
+Kong. mymok@netvigator.com
+
+BACKGROUND: Avascular necrosis of bone (AVN) is a well known complication in 
+patients with systemic lupus erythematosus (SLE).
+OBJECTIVE: To investigate the role of antiphospholipid antibody status (IgM and 
+IgG anticardiolipin antibodies and lupus anticoagulant) with adjustment for 
+corticosteroid use as risk factors for the development of AVN.
+METHODS: A cohort of 265 patients receiving long term follow up in our SLE 
+clinic from 1978 to 1998 was analysed. Patients with AVN complications were 
+detected and then matched for age, sex, ethnicity, duration of disease, and 
+organ disease with two other patients with SLE. A further 31 patients were 
+chosen at random for the analysis.
+RESULTS: Eleven patients had AVN, giving a point prevalence of 4%. There were no 
+significant differences demonstrable in the presence of individual 
+antiphospholipid antibodies (aPL) or their combination between the group with 
+AVN or the two control groups.
+CONCLUSION: Incorporating an adjustment for corticosteroid use we were unable to 
+show a link between the presence of aPL and the development of AVN in patients 
+with SLE.
+
+DOI: 10.1136/ard.59.6.462
+PMCID: PMC1753161
+PMID: 10834864 [Indexed for MEDLINE]

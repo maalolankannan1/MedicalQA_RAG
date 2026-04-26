@@ -1,0 +1,40 @@
+1. Int Urogynecol J. 2014 Sep;25(9):1269-75. doi: 10.1007/s00192-014-2400-3. Epub
+ 2014 May 9.
+
+Does concomitant anterior/apical repair during midurethral sling improve the 
+overactive bladder component of mixed incontinence?
+
+Dieter AA(1), Edenfield AL, Weidner AC, Levin PJ, Siddiqui NY.
+
+Author information:
+(1)Division of Urogynecology & Reconstructive Pelvic Surgery, Department of 
+Obstetrics and Gynecology, Duke University Medical Center, 5324 McFarland Drive 
+Suite 310, Durham, NC, 27707, USA, alexis.dieter@duke.edu.
+
+INTRODUCTION AND HYPOTHESIS: Midurethral sling (MUS) can improve overactive 
+bladder (OAB) symptoms. It is unclear if anterior/apical prolapse (AA) repair 
+provides additional benefit. We hypothesized that women with mixed urinary 
+incontinence (MUI) experience greater improvement in the OAB component of their 
+symptoms after concomitant MUS and AA repair compared with MUS alone.
+METHODS: This is a retrospective cohort study of women with bothersome MUI 
+(defined by objective stress test and validated questionnaire) undergoing MUS 
+alone ("MUS-only") or concomitant MUS and AA repair ("MUS + AA"). Our primary 
+outcome was the Overactive Bladder Questionnaire Symptom Severity (OAB-q SS) 
+change score 6 weeks after surgery.
+RESULTS: Of 151 women, 67 (44 %) underwent MUS-only and 84 (56 %) underwent MUS 
++ AA. The MUS-only cohort was younger and had less severe baseline prolapse 
+(p < 0.05 for both). Postoperative complications (predominantly UTI) occurred in 
+35 (23 %) patients and were similar between cohorts. For all subjects mean OAB-q 
+SS scores significantly improved postoperatively (p < 0.05). Our primary 
+outcome, OAB-q SS change score, showed no significant differences between 
+cohorts (30 ± 26 MUS-only vs 25 ± 25 MUS + AA, p = 0.20), indicating similar 
+improvements in OAB symptoms. Multivariate linear regression analysis revealed 
+no difference in OAB-q SS change score between cohorts; however, OAB-q SS change 
+scores were lower for women with a postoperative complication (β = -19, 95 % CI 
+-31 to -6; p < 0.01).
+CONCLUSIONS: In women with bothersome MUI, concomitant AA repair does not result 
+in additional improvement in OAB symptoms over MUS alone. Patients with 
+postoperative complications exhibit less improvement in OAB symptoms.
+
+DOI: 10.1007/s00192-014-2400-3
+PMID: 24809662 [Indexed for MEDLINE]

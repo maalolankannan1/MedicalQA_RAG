@@ -1,0 +1,36 @@
+1. Ann Clin Biochem. 2013 Jul;50(Pt 4):368-70. doi: 10.1177/0004563212474563.
+Epub  2013 Jun 10.
+
+Is calibration the cause of variation in liquid chromatography tandem mass 
+spectrometry testosterone measurement?
+
+Owen LJ(1), MacDonald PR, Keevil BG.
+
+Author information:
+(1)The University of Manchester, Manchester Academic Health Science Centre, 
+Manchester, UK. Laura.owen@uhsm.nhs.uk
+
+BACKGROUND: Testosterone measurement by liquid chromatography tandem mass 
+spectrometry (LC-MS/MS) is well accepted as the preferred technique for the 
+analysis of testosterone. Variation is seen between assays and this may be due 
+to differences in calibration as commercial calibrators for this assay are not 
+readily available. We investigated the effects calibration in routine clinical 
+LC-MS/MS assays.
+METHODS: All LC-MS/MS users that were registered with the UKNEQAS external 
+quality assurance scheme for testosterone were invited to take part in the 
+study. A set of seven serum samples and serum-based calibrators were sent to all 
+laboratories that expressed an interest. The laboratories were instructed to 
+analyse all samples using there own calibrators and return the results and a 
+method questionnaire for analysis.
+RESULTS: Fifteen laboratories took part in the study. There was no consensus on 
+supplier of testosterone or matrix for the preparation of calibrators and all 
+were prepared in-house. Also, a wide variety of mass spectrometers, internal 
+standards, chromatography conditions and sample extractions were used. The 
+variation in results did not improve when the results were corrected with a 
+common calibrator.
+CONCLUSIONS: The variation in results obtained could not be attributed to 
+variations in calibrators. The differences in methodologies between laboratories 
+must be the reason for this variation.
+
+DOI: 10.1177/0004563212474563
+PMID: 23761381 [Indexed for MEDLINE]

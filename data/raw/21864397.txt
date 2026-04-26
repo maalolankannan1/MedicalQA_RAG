@@ -1,0 +1,38 @@
+1. BMC Cancer. 2011 Aug 24;11:370. doi: 10.1186/1471-2407-11-370.
+
+Factors determining the survival of nasopharyngeal carcinoma with lung 
+metastasis alone: does combined modality treatment benefit?
+
+Cao X(1), He LR, Xie FY, Chen YF, Wen ZS.
+
+Author information:
+(1)State Key Laboratory of Oncology in South China, Cancer Center, Sun Yat-Sen 
+University, Guangzhou, China.
+
+BACKGROUND: Nasopharyngeal carcinoma (NPC) with lung metastasis alone has been 
+reported as a relatively favorable prognostic group, and combined modality 
+treatment might be indicated for selected cases. However, the prognostic factors 
+determining survival of this group and the indication of combined therapy have 
+not been thoroughly studied.
+METHODS: We retrospectively reviewed 246 patients of NPC with lung 
+metastasis(es) alone presented at diagnosis or as the first failure after 
+primary treatment from 1993 to 2008 in an academic tertiary hospital. Univariate 
+and multivariate survival analyses of post-metastasis survival (PMS) and overall 
+survival (OS) were carried out to determine the prognostic factors.
+RESULTS: The 3-year, 5-year, and 10-year of PMS and OS for the whole cohort were 
+34.3%, 17.0%, 8.6% and 67.8%, 45.4%, 18.5%, respectively. The median PMS (45.6 
+months vs. 23.7 months) and OS (73.7 months vs. 46.2 months) of patients treated 
+with combined therapy was significantly longer than that of those treated with 
+chemotherapy alone (P < 0.001). Age, disease-free interval (DFI) and treatment 
+modality were evaluated as independent prognostic factors of OS, while only age 
+and treatment modality retain their independent significance in PMS analysis. In 
+stratified survival analysis, compared to chemotherapy alone, combined therapy 
+could benefit the patients with DFI > 1 year, but not those with DFI ≤ 1 year.
+CONCLUSIONS: Age ≤ 45 years, DFI > 1 year, and the combined therapy were good 
+prognostic factors for NPC patients with lung metastasis(es) alone. The 
+combination of local therapy and the basic chemotherapy should be considered for 
+these patients with DFI > 1 year.
+
+DOI: 10.1186/1471-2407-11-370
+PMCID: PMC3170652
+PMID: 21864397 [Indexed for MEDLINE]

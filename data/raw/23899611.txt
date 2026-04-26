@@ -1,0 +1,44 @@
+1. Eur Surg Res. 2013;51(1-2):21-32. doi: 10.1159/000353403. Epub 2013 Jul 26.
+
+Attenuation of ischemia/reperfusion-induced ovarian damage in rats: does 
+edaravone offer protection?
+
+Ergenoglu M(1), Erbaş O, Akdemir A, Yeniel AÖ, Yildirim N, Oltulu F, Aktuğ H, 
+Taskiran D.
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Ege University School of Medicine, 
+Izmir, Turkey.
+
+AIM: The aim of this study was to investigate whether prophylactic treatment 
+with edaravone prevents ischemia/reperfusion (I/R)-induced ovarian damage during 
+pneumoperitoneum in an experimental rat model.
+METHODS: Twenty-eight female Sprague Dawley rats were allocated randomly to 4 
+groups. The sham group (group 1) was only subjected to catheter insertion, not 
+to pneumoperitoneum. Group 2 received a 1 mg/kg dose of 0.9% sodium chloride by 
+the intraperitoneal route for 10 min before pneumoperitoneum. Groups 3 and 4 
+received 6 and 12 mg/kg edaravone, respectively, by the intraperitoneal route 
+for 10 min before pneumoperitoneum. After 60 min of pneumoperitoneum, the gas 
+was deflated. Immediately after the reperfusion period, both ovaries were 
+excised for histological scoring, caspase-3 immunohistochemistry and biochemical 
+evaluation including glutathione (GSH) and malondialdehyde (MDA) levels. Also, 
+total antioxidant capacity (TAC) was measured in plasma samples to evaluate the 
+antioxidant effect of edaravone.
+RESULTS: Ovarian sections in the saline group revealed higher scores for 
+follicular degeneration and edema (p < 0.0001) when compared with the sham 
+group. Administration of different doses of edaravone in rats significantly 
+prevented degenerative changes in the ovary (p < 0.0001). Caspase-3 expression 
+was only detected in the ovarian surface epithelium in all groups, and there was 
+a significant difference between the treatment groups and the saline group (p < 
+0.0001). Treatment of rats with edaravone reduced caspase-3 expression in a 
+dose-dependent manner. Moreover, biochemical measurements of oxidative stress 
+markers (MDA, GSH and TAC) revealed that prophylactic edaravone treatment 
+attenuated oxidative stress induced by I/R injury.
+CONCLUSION: These results indicate that prophylactic treatment with edaravone 
+prevents I/R-induced ovarian damage during pneumoperitoneum in an experimental 
+rat model.
+
+© 2013 S. Karger AG, Basel.
+
+DOI: 10.1159/000353403
+PMID: 23899611 [Indexed for MEDLINE]

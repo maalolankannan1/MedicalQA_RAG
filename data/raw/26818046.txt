@@ -1,0 +1,35 @@
+1. Clin Neuropharmacol. 2016 May-Jun;39(3):121-4. doi: 
+10.1097/WNF.0000000000000138.
+
+Could Adult European Pharmacoresistant Epilepsy Patients Be Treated With Higher 
+Doses of Zonisamide?
+
+Miro J(1), Jaraba S, Juvany R, Santurino M, Cobo S, Falip M.
+
+Author information:
+(1)*Epilepsy Unit, Neurology Service, and †Pharmacology Service, Hospital 
+Universitari de Bellvitge, Barcelona, Spain.
+
+OBJECTIVE: To examine the clinical effect (efficacy and tolerability) of high 
+doses of zonisamide (ZNS) (>500 mg/d) in adult patients with pharmacoresistant 
+epilepsy.
+METHODS: Between 2006 and 2013, all epileptic outpatients treated with high 
+doses of ZNS were selected. Safety and efficacy were assessed based on patient 
+and caregiver reports. Serum levels of ZNS and other concomitant antiepileptic 
+drugs were evaluated if available.
+RESULTS: Nine patients (5 female): 8 focal/1 generalized pharmacoresistant 
+epilepsy. Mean age: 34 years. Most frequent seizure type: complex partial 
+seizures; other seizure types: generalized tonic-clonic, tonic, myoclonia. 
+Zonisamide in polytherapy in all (100%), administered in tritherapy in 3 (33%) 
+of 9 patients; mean dose: 633 (600-700) mg/d; efficacy (>50% seizure reduction) 
+was observed in 5 (55%) of 9 patients. Five of 9 patients are still taking high 
+doses of ZNS (more than 1 year). Adverse events were observed in 3 (37%) of 8 
+patients. Good tolerance to high doses of other antiepileptic drugs had been 
+observed in 6 (66%) of 9 patients. Plasma levels of ZNS were only available in 2 
+patients; both were in the therapeutic range (34.95, 30.91) (10-40 mg/L).
+CONCLUSIONS: High doses of ZNS are effective and safe in pharmacoresistant 
+epileptic patients. Therapeutic drug monitoring of ZNS may be considered at 
+therapeutic failure.
+
+DOI: 10.1097/WNF.0000000000000138
+PMID: 26818046 [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+1. Arch Gynecol Obstet. 2017 Feb;295(2):481-485. doi: 10.1007/s00404-016-4252-1. 
+Epub 2016 Dec 7.
+
+Do ART patients face higher C-section rates during their stage of delivery? A 
+German monocenter experience.
+
+Neumann K(1), Cirkel C(2), Rody A(2), Beyer DA(3).
+
+Author information:
+(1)Department of Obstetrics and Gynaecology, Schleswig- Holstein University, 
+Campus Luebeck, Ratzeburger Allee 160, 23538, Luebeck, Germany. 
+Kay.Neumann@uksh.de.
+(2)Department of Obstetrics and Gynaecology, Schleswig- Holstein University, 
+Campus Luebeck, Ratzeburger Allee 160, 23538, Luebeck, Germany.
+(3)Westpfalz-Klinikum GmbH, Hellmut-Hartert-Str. 1, 67655, Kaiserslautern, 
+Germany.
+
+PURPOSE: The mode of delivery depends on multiple parameters. After assisted 
+reproductive technology (ART), previous studies have shown elevated C-section 
+rates but few studies differentiated between elective and emergency operations 
+and different protocols of cryopreservation. Because these studies did not use 
+multiparity as exclusion criteria which reduces confounding with previous 
+pregnancies, aim of this study is to compare mode of delivery of different 
+techniques of ART using data of primiparae only [1, 2].
+METHODS: Retrospective analysis of patient data treated at the university 
+hospital of Luebeck in a period of 12 years. Patients were divided in different 
+groups according to their way of conception: spontaneous conception and 
+conception after ART. The group of ART was further divided into: (a) a group of 
+fresh transferred embryos (IVF/ICSI), (b) vitrification and (c) slow freezing. 
+Exclusion criteria were defined as: multiparity, delivery <24. + 0 p.m., 
+incomplete data and treatment outside university of Luebeck. Main parameter of 
+this study was mode of delivery which was divided into spontaneous delivery or 
+C-section. C-sections were further differentiated into elective or emergency 
+C-sections.
+RESULTS: The group of fresh transferred embryos and slow freezing showed higher 
+risks for elective and emergency C-sections (elective C-sections odds ratio 2.0, 
+CI 95% 1.6-2.6, emergency C-sections odds ratio 1.4, CI 95% 1.1-1.9). Moreover, 
+all groups of ART show enhanced risk of significant perinatal bleeding.
+CONCLUSION: Patients after ART treatment suffer from higher C-section rates 
+during their stage of delivery.
+
+DOI: 10.1007/s00404-016-4252-1
+PMID: 27928673 [Indexed for MEDLINE]

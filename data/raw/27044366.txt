@@ -1,0 +1,51 @@
+1. BMC Pulm Med. 2016 Apr 5;16:46. doi: 10.1186/s12890-016-0208-2.
+
+Detailed analysis of sputum and systemic inflammation in asthma phenotypes: are 
+paucigranulocytic asthmatics really non-inflammatory?
+
+Demarche S(1)(2)(3), Schleich F(4)(5), Henket M(4)(5), Paulus V(4)(5), Van Hees 
+T(6), Louis R(4)(5).
+
+Author information:
+(1)Department of Respiratory Medicine, CHU Liege, Sart-Tilman B35, 4000, Liege, 
+Belgium. sophie.demarche@ulg.ac.be.
+(2)GIGA I3 Research Group, University of Liege, Liege, Belgium. 
+sophie.demarche@ulg.ac.be.
+(3)Department of Clinical and Hospital Pharmacy, University of Liege, Liege, 
+Belgium. sophie.demarche@ulg.ac.be.
+(4)Department of Respiratory Medicine, CHU Liege, Sart-Tilman B35, 4000, Liege, 
+Belgium.
+(5)GIGA I3 Research Group, University of Liege, Liege, Belgium.
+(6)Department of Clinical and Hospital Pharmacy, University of Liege, Liege, 
+Belgium.
+
+BACKGROUND: The technique of induced sputum has allowed to subdivide asthma 
+patients into inflammatory phenotypes according to their level of granulocyte 
+airway infiltration. There are very few studies which looked at detailed sputum 
+and blood cell counts in a large cohort of asthmatics divided into inflammatory 
+phenotypes. The purpose of this study was to analyze sputum cell counts, blood 
+leukocytes and systemic inflammatory markers in these phenotypes, and 
+investigate how those groups compared with healthy subjects.
+METHODS: We conducted a retrospective cross-sectional study on 833 asthmatics 
+recruited from the University Asthma Clinic of Liege and compared them with 194 
+healthy subjects. Asthmatics were classified into inflammatory phenotypes.
+RESULTS: The total non-squamous cell count per gram of sputum was greater in 
+mixed granulocytic and neutrophilic phenotypes as compared to eosinophilic, 
+paucigranulocytic asthma and healthy subjects (p < 0.005). Sputum eosinophils 
+(in absolute values and percentages) were increased in all asthma phenotypes 
+including paucigranulocytic asthma, compared to healthy subjects (p < 0.005). 
+Eosinophilic asthma showed higher absolute sputum neutrophil and lymphocyte 
+counts than healthy subjects (p < 0.005), while neutrophilic asthmatics had a 
+particularly low number of sputum macrophages and epithelial cells. All asthma 
+phenotypes showed an increased blood leukocyte count compared to healthy 
+subjects (p < 0.005), with paucigranulocytic asthmatics having also increased 
+absolute blood eosinophils compared to healthy subjects (p < 0.005). 
+Neutrophilic asthma had raised CRP and fibrinogen while eosinophilic asthma only 
+showed raised fibrinogen compared to healthy subjects (p < 0.005).
+CONCLUSIONS: This study demonstrates that a significant eosinophilic 
+inflammation is present across all categories of asthma, and that 
+paucigranulocytic asthma may be seen as a low grade inflammatory disease.
+
+DOI: 10.1186/s12890-016-0208-2
+PMCID: PMC4820945
+PMID: 27044366 [Indexed for MEDLINE]

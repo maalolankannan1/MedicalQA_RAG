@@ -1,0 +1,53 @@
+1. J Infect Dis. 2015 Jan 15;211(2):283-9. doi: 10.1093/infdis/jiu416. Epub 2014 
+Jul 28.
+
+Can mass drug administration lead to the sustainable control of schistosomiasis?
+
+Ross AG(1), Olveda RM(2), Chy D(3), Olveda DU(1), Li Y(4), Harn DA(5), Gray 
+DJ(6), McManus DP(3), Tallo V(2), Chau TN(7), Williams GM(6).
+
+Author information:
+(1)Griffith Health Institute, Griffith University, Gold Coast Campus, 
+Queensland, Australia.
+(2)Department of Health, Research Institute for Tropical Medicine, Manila.
+(3)Municipal Medical Officer of Health, Palapag, The Philippines.
+(4)QIMR Berghofer Medical Research Institute, Brisbane, Australia Hunan 
+Institute of Parasitic Diseases, WHO Collaborating Center for Research and 
+Control of Schistosomiasis in the Lake Region, Yueyang, China.
+(5)Department of Infectious Diseases, College of Veterinary Medicine and Center 
+for Tropical and Emerging Global Diseases, University of Georgia.
+(6)School of Population Health, University of Queensland, Brisbane.
+(7)Discipline of Public Health, Flinders University, Adelaide, Australia.
+
+Comment in
+    J Infect Dis. 2015 Mar 1;211(5):848-9. doi: 10.1093/infdis/jiu506.
+    J Infect Dis. 2015 Mar 1;211(5):849-50. doi: 10.1093/infdis/jiu507.
+
+BACKGROUND: In the Philippines, the current national control strategy for 
+schistosomiasis is annual mass drug administration (MDA) with 40 mg/kg of 
+praziquantel in all schistosomiasis-endemic villages with a prevalence ≥10%.
+METHODS: A cross-sectional survey of schistosomiasis was conducted in 2012 on 18 
+221 individuals residing in 22 schistosomiasis-endemic villages in the province 
+of Northern Samar. The prevalence of schistosomiasis, intensity of Schistosoma 
+infection, and morbidity of disease were assessed.
+RESULTS: Despite an active schistosomiasis-control program in Northern Samar for 
+>30 years, which included a MDA campaign in the last 5 years, the mean 
+prevalence of schistosomiasis among 10 435 evaluated subjects was 27.1% (95% 
+confidence interval [CI], 26.3%-28.0%), and the geometric mean intensity of 
+infection among 2832 evaluated subjects was 17.2 eggs per gram of feces (95% CI, 
+16.4-18.1). Ultrasonography revealed high levels of schistosomiasis-induced 
+morbidity in the schistosomiasis-endemic communities. Left lobe liver 
+enlargement (≥70 mm) was evident in 89.3% of subjects. Twenty-five percent of 
+the study population had grade II/III liver parenchyma fibrosis, and 13.3% had 
+splenomegaly (≥100 mm).
+CONCLUSIONS: MDA on its own was insufficient to control the prevalence of 
+schistosomiasis, intensity of Schistosoma infection, or morbidity of the 
+disease. Alternative control measures will be needed to complement the existing 
+national MDA program.
+
+© The Author 2014. Published by Oxford University Press on behalf of the 
+Infectious Diseases Society of America. All rights reserved. For Permissions, 
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiu416
+PMID: 25070942 [Indexed for MEDLINE]

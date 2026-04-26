@@ -1,0 +1,38 @@
+1. Perit Dial Int. 2011 Mar-Apr;31(2):168-72. doi: 10.3747/pdi.2009.00089. Epub 
+2010 Mar 25.
+
+Does peritoneal dialysis affect halitosis in patients with end-stage renal 
+disease?
+
+Keles M(1), Tozoglu U, Uyanik A, Eltas A, Bayindir YZ, Cetinkaya R, Bilge OM.
+
+Author information:
+(1)Department of Nephrology, Faculty of Medicine, Atatürk University, Erzurum, 
+Turkey. keles.m@gmail.com
+
+OBJECTIVE: There are various causes of halitosis, one of which is chronic renal 
+failure. The objective of this study was to investigate halitosis levels in 
+end-stage renal disease (ESRD) patients before and after peritoneal dialysis 
+(PD) therapy.
+METHODS: 42 subjects with ESRD were included in this study. The presence of 
+halitosis was assessed using an organoleptic measurement and compared with blood 
+urea nitrogen (BUN) levels and salivary flow rates. Decayed, missing, and filled 
+teeth (DMFT) index and Community Periodontal Index (CPI) were calculated. All 
+measurements were done before and after patients had received 3 months of PD 
+therapy.
+RESULTS: Mean serum BUN level was found to be lower (46.05 ± 13.30 vs 91.24 ± 
+31.28 mg/dL), salivary flow rate higher (0.34 ± 0.07 vs 0.26 ± 0.04 mL/minute), 
+and halitosis level lower (2.39 ± 0.60 vs 3.90 ± 0.37) at the end of 3 months of 
+PD therapy than at the beginning of PD therapy. There was no significant 
+difference in CPI or DMFT index before and after PD therapy (p > 0.05). There 
+was statistically significant positive correlation between the presence of 
+halitosis and BUN levels (r = 0.702, p = 0.001 before PD; r = 0.45, p = 0.002 
+after PD) and a negative correlation between the presence of halitosis and 
+salivary flow rates (r = -0.69, p = 0.000 before PD; r = -0.37, p = 0.01 after 
+PD).
+CONCLUSION: High BUN levels and low salivary flow rates were found to be 
+associated with halitosis. PD may play an important role in decreasing the level 
+of halitosis in ESRD patients.
+
+DOI: 10.3747/pdi.2009.00089
+PMID: 20338971 [Indexed for MEDLINE]

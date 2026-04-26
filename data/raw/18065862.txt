@@ -1,0 +1,36 @@
+1. Rev Chir Orthop Reparatrice Appar Mot. 2007 Oct;93(6):541-5. doi: 
+10.1016/s0035-1040(07)92675-6.
+
+[Can the postoperative pain level be predicted preoperatively?].
+
+[Article in French]
+
+Dambreville A(1), Blay M, Carles M, Hovorka I, Boileau P.
+
+Author information:
+(1)Service de chirurgie orthopédique et chirurgie du sport, Hôpital de l'Archet 
+2, CHU de Nice, 151, route de Saint-Antoine-de-Ginestière, 06202 Nice. 
+alain.dambreville@wanadoo.fr
+
+PURPOSE OF THE STUDY: We searched for factors present preoperatively which could 
+be used to predict the intensity of postoperative pain.
+MATERIAL AND METHODS: We undertook a prospective study among all patients aged 
+over 18 years who underwent shoulder surgery from January to September 2004 in 
+our unit. The study included 86 patients for which the following data were noted 
+preoperatively: past history of pain, intensity and duration of prior pain, 
+triggering factors, localization, psychological context. The intensity of the 
+postoperative pain was measured on a visual analog scale (VAS); measurements 
+were noted up to 24 hours postop then at one month. Data processing was 
+performed with Statview5.5.
+RESULTS: Significant postoperative pain was correlated with a prior history of 
+surgical pain, with duration of prior pain, with intensity of preoperative pain, 
+and with depression.
+DISCUSSION: Significant sustained preoperative pain can favor memory of pain 
+leading to postoperative sensitivization of nociception neurons. Intense 
+postoperative pain can favor the development of refractory chronic pain.
+CONCLUSION: Significant postoperative pain can be expected in the following 
+situations: pain after prior surgery, presence of chronic pain sustained for 
+more than six months, intense preoperative pain, state of depression.
+
+DOI: 10.1016/s0035-1040(07)92675-6
+PMID: 18065862 [Indexed for MEDLINE]

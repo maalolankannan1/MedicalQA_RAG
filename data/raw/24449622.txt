@@ -1,0 +1,37 @@
+1. Anadolu Kardiyol Derg. 2014 Mar;14(2):115-20. doi: 10.5152/akd.2014.4742. Epub
+ 2014 Jan 14.
+
+Is there a relationship between serum paraoxonase level and epicardial fat 
+tissue thickness?
+
+Ertem AG(1), Erayman A, Efe TH, Duran Karaduman B, Aydın HI, Bilge M.
+
+Author information:
+(1)Clinic of Cardiology, Ankara Penal Instution Campus State Hospital; 
+Ankara-Turkey. agertem@hotmail.com.
+
+OBJECTIVE: This study aimed to show the relationship between serum paraoxonase 1 
+level and the epicardial fat tissue thickness.
+METHODS: Two hundred and seven patients without any atherosclerotic disease 
+history were included in this cross-sectional observational study. Correlation 
+analysis was performed to determine the correlation between epicardial fat 
+tissue thickness, which was measured by echocardiography and serum paraoxonase 1 
+level. Also correlation analysis was performed to show correlation between 
+patients' clinical and laboratory findings and the level of serum paraoxonase 1 
+(PON 1) and the epicardial fat tissue thickness. Pearson and Spearman test were 
+used for correlation analysis.
+RESULTS: No linear correlation between epicardial fat tissue thickness and serum 
+PON 1 found (correlation coefficient: -0.127, p=0.069). When epicardial fat 
+tissue thickness were grouped as 7 mm and over, and below, and 5 mm and over, 
+and below, serum PON 1 level were significantly lower in ≥7 mm group (PON1 : 
+168.9 U/L) than <7 mm group (PON 1: 253.9 U/L) (p<0.001). Also hypertension 
+prevalence was increased in ≥7 mm group (p=0.001). Serum triglyceride was found 
+to be higher in ≥7 mm group (p=0.014), body mass index was found higher in ≥5 mm 
+group (p=0.006).
+CONCLUSION: Serum PON 1 level is not correlated with the epicardial fat tissue 
+thickness. But PON 1 level is lower in patients with epicardial fat tissue 
+thickness 7 mm and over. Therefore, increased atherosclerosis progression can be 
+found among patients with 7 mm and higher epicardial fat tissue thickness.
+
+DOI: 10.5152/akd.2014.4742
+PMID: 24449622 [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+1. J Antimicrob Chemother. 2007 Aug;60(2):402-5. doi: 10.1093/jac/dkm206. Epub
+2007  Jun 11.
+
+Is Panton-Valentine leucocidin associated with the pathogenesis of 
+Staphylococcus aureus bacteraemia in the UK?
+
+Ellington MJ(1), Hope R, Ganner M, Ganner M, East C, Brick G, Kearns AM.
+
+Author information:
+(1)Staphylococcus Reference Laboratory (SRL), Centre for Infections, Health 
+Protection Agency, 61 Colindale Avenue, London NW9 5EQ, UK. 
+matthew.ellington@hpa.org.uk
+
+BACKGROUND: The morbidity and mortality associated with Panton-Valentine 
+leucocidin (PVL)-positive Staphylococcus aureus suggest that this toxin is a key 
+marker of disease severity. Nevertheless, the importance of PVL in the 
+pathogenesis of primary bacteraemia caused by S. aureus is uncertain. We have 
+determined the prevalence of PVL-encoding genes among isolates of S. aureus from 
+bacteraemic patients.
+METHODS: Consecutive bacteraemia isolates of S. aureus (n=244) from patients 
+hospitalized in 25 centres in the UK and Ireland during 2005 were screened for 
+PVL and mecA genes. PVL-positive isolates were characterized by toxin gene 
+profiling, PFGE, spa-typing and MIC determinations for a range of 
+antimicrobials.
+RESULTS: Four out of 244 isolates (1.6%) were PVL-positive and susceptible to 
+oxacillin [methicillin-susceptible S. aureus (MSSA)]. Eighty-eight out of 244 
+(36%) were oxacillin-resistant (methicillin-resistant S. aureus), but none was 
+PVL-positive. The four patients (two males: 30 and 33 years; two females: 62 and 
+80 years) had infection foci of: skin and soft tissue, unknown, indwelling line, 
+and surgical site, and were located at one centre in Wales, one in England and 
+two in Ireland. One of four PVL-positive isolates was resistant to penicillin 
+and fusidic acid, the remainder were susceptible to all antibiotics tested. 
+Genotypic analyses showed that the four isolates represented three distinct 
+strains; the two isolates from Ireland were related.
+CONCLUSIONS: We found that 1.6% of S. aureus (all MSSA) from bacteraemic 
+patients were PVL-positive. This low incidence suggests that PVL-positive S. 
+aureus are of no particular significance as causative agents of S. aureus 
+bacteraemia.
+
+DOI: 10.1093/jac/dkm206
+PMID: 17562682 [Indexed for MEDLINE]

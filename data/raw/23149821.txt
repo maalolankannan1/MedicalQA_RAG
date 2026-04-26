@@ -1,0 +1,42 @@
+1. Eur J Nucl Med Mol Imaging. 2013 Jan;40(2):271-9. doi: 
+10.1007/s00259-012-2262-1. Epub 2012 Nov 14.
+
+Should HIV-infected patients be screened for silent myocardial ischaemia using 
+gated myocardial perfusion SPECT?
+
+Mariano-Goulart D(1), Jacquet JM, Molinari N, Bourdon A, Benkiran M, Sainmont M, 
+Cornillet L, Macia JC, Reynes J, Ben Bouallègue F.
+
+Author information:
+(1)Department of Nuclear Medicine, Montpellier University Hospital, Montpellier, 
+France. d-mariano_goulart@chu-montpellier.fr
+
+PURPOSE: A higher prevalence of cardiovascular risk factors (CRFs) in 
+HIV-infected patients, together with chronic infection and treatments, has 
+resulted in an increased risk of silent myocardial ischaemia (SMI). The 
+objective of this study was to evaluate whether myocardial SPECT should be used 
+for screening HIV-infected patients with no clinical symptoms of coronary artery 
+disease.
+METHODS: The prevalence of SMI detected by myocardial SPECT was determined in 94 
+HIV-infected patients with a normal clinical cardiovascular examination in 
+relation to anthropomorphic parameters, CRFs, inflammatory and HIV infection 
+status, and treatment.
+RESULTS: Coronary artery disease was detected in nine patients (eight with 
+ischaemia, one with myocardial infarction), corresponding to 9.6 % positivity. 
+All but two of the scintigraphic diagnoses of ischaemia were confirmed by 
+coronarography. Univariate analysis revealed that the overall number of CRFs and 
+the combination of gender and age were associated with a diagnosis of SMI (p < 
+0.05). According to multivariate analysis, the only independent parameter 
+significantly associated with the scintigraphic diagnosis of SMI was the 
+combination of gender and age (p = 0.01). All the positive myocardial SPECT 
+scans were in men older than 52 years with at least two other CRFs. In this 
+subpopulation of 47 patients, the prevalence of SMI detected by myocardial SPECT 
+reached 19.2 %.
+CONCLUSION: In male HIV-infected patients older than 52 years and with at least 
+two other CRFs, screening for SMI using myocardial SPECT was about four times 
+more likely to be positive than in the general population. This may motivate 
+physicians to advise these patients to undergo more systematic screening for SMI 
+using this technique.
+
+DOI: 10.1007/s00259-012-2262-1
+PMID: 23149821 [Indexed for MEDLINE]

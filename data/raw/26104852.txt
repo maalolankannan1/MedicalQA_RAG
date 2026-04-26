@@ -1,0 +1,38 @@
+1. Amyloid. 2015;22(3):163-70. doi: 10.3109/13506129.2015.1037831. Epub 2015 Jun 
+25.
+
+Can echocardiography and ECG discriminate hereditary transthyretin V30M 
+amyloidosis from hypertrophic cardiomyopathy?
+
+Gustavsson S(1), Granåsen G, Grönlund C, Wiklund U, Mörner S, Henein M, Suhr OB, 
+Lindqvist P.
+
+Author information:
+(1)a Division of Clinical Physiology , Heart Centre and Department of Public 
+Health and Clinical Medicine .
+
+OBJECTIVE: Hereditary transthyretin (ATTR) amyloidosis with increased left 
+ventricular wall thickness could easily be misdiagnosed by echocardiography as 
+hypertrophic cardiomyopathy (HCM). Our aim was to create a diagnostic tool based 
+on echocardiography and ECG that could optimise identification of ATTR 
+amyloidosis.
+METHODS: Data were analysed from 33 patients with biopsy proven ATTR amyloidosis 
+and 30 patients with diagnosed HCM. Conventional features from ECG were acquired 
+as well as two dimensional and Doppler echocardiography, speckle tracking 
+derived strain and tissue characterisation analysis. Classification trees were 
+used to select the most important variables for differentiation between ATTR 
+amyloidosis and HCM.
+RESULTS: The best classification was obtained using both ECG and 
+echocardiographic features, where a QRS voltage >30 mm was diagnostic for HCM, 
+whereas in patients with QRS voltage <30 mm, an interventricular 
+septal/posterior wall thickness ratio (IVSt/PWt) >1.6 was consistent with HCM 
+and a ratio <1.6 supported the diagnosis of ATTR amyloidosis. This 
+classification presented both high sensitivity (0.939) and specificity (0.833).
+CONCLUSION: Our study proposes an easily interpretable classification method for 
+the differentiation between HCM and increased left ventricular myocardial 
+thickness due to ATTR amyloidosis. Our combined echocardiographic and ECG model 
+could increase the ability to identify ATTR cardiac amyloidosis in clinical 
+practice.
+
+DOI: 10.3109/13506129.2015.1037831
+PMID: 26104852 [Indexed for MEDLINE]

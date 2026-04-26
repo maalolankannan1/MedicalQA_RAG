@@ -1,0 +1,49 @@
+1. BMC Public Health. 2011 Sep 13;11:699. doi: 10.1186/1471-2458-11-699.
+
+Health care for immigrants in Europe: is there still consensus among country 
+experts about principles of good practice? A Delphi study.
+
+Devillé W(1), Greacen T, Bogic M, Dauvrin M, Dias S, Gaddini A, Jensen NK, 
+Karamanidou C, Kluge U, Mertaniemi R, Riera RP, Sárváry A, Soares JJ, Stankunas 
+M, Strassmayr C, Welbel M, Priebe S.
+
+Author information:
+(1)International and Migrant Health, Netherlands Institute for Health Services 
+Research, Otterstraat 118-124, 3500 BN Utrecht, the Netherlands. 
+w.deville@nivel.nl
+
+BACKGROUND: European Member States are facing a challenge to provide accessible 
+and effective health care services for immigrants. It remains unclear how best 
+to achieve this and what characterises good practice in increasingly 
+multicultural societies across Europe. This study assessed the views and values 
+of professionals working in different health care contexts and in different 
+European countries as to what constitutes good practice in health care for 
+immigrants.
+METHODS: A total of 134 experts in 16 EU Member States participated in a 
+three-round Delphi process. The experts represented four different fields: 
+academia, Non-Governmental Organisations, policy-making and health care 
+practice. For each country, the process aimed to produce a national consensus 
+list of the most important factors characterising good practice in health care 
+for migrants.
+RESULTS: The scoring procedures resulted in 10 to 16 factors being identified as 
+the most important for each participating country. All 186 factors were 
+aggregated into 9 themes: (1) easy and equal access to health care, (2) 
+empowerment of migrants, (3) culturally sensitive health care services, (4) 
+quality of care, (5) patient/health care provider communication, (6) respect 
+towards migrants, (7) networking in and outside health services, (8) targeted 
+outreach activities, and (9) availability of data about specificities in migrant 
+health care and prevention. Although local political debate, level of 
+immigration and the nature of local health care systems influenced the selection 
+and rating of factors within each country, there was a broad European consensus 
+on most factors. Yet, discordance remained both within countries, e.g. on the 
+need for prioritising cultural differences, and between countries, e.g. on the 
+need for more consistent governance of health care services for immigrants.
+CONCLUSIONS: Experts across Europe asserted the right to culturally sensitive 
+health care for all immigrants. There is a broad consensus among experts about 
+the major principles of good practice that need to be implemented across Europe. 
+However, there also is some disagreement both within and between countries on 
+specific issues that require further research and debate.
+
+DOI: 10.1186/1471-2458-11-699
+PMCID: PMC3182934
+PMID: 21914194 [Indexed for MEDLINE]

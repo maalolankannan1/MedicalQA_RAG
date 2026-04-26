@@ -1,0 +1,50 @@
+1. Can J Ophthalmol. 2014 Aug;49(4):320-5. doi: 10.1016/j.jcjo.2014.03.006. Epub 
+2014 Jul 19.
+
+Does government assistance improve utilization of eye care services by 
+low-income individuals?
+
+Hong CJ(1), Trope GE(2), Buys YM(2), Robinson BE(3), Jin YP(4).
+
+Author information:
+(1)Faculty of Medicine, University of Ottawa, Ottawa.
+(2)Department of Ophthalmology and Vision Sciences, University of Toronto, 
+Toronto.
+(3)School of Optometry, University of Waterloo, Waterloo.
+(4)Department of Ophthalmology and Vision Sciences, University of Toronto, 
+Toronto; Department of Ophthalmology and Vision Sciences & Dalla Lana School of 
+Public Health, University of Toronto, Toronto, Ont.. Electronic address: 
+yaping.jin@utoronto.ca.
+
+OBJECTIVE: To examine whether government-funded, low-income vision care programs 
+improve use of eye care services by low-income individuals in Canada.
+DESIGN: Cross-sectional survey.
+PARTICIPANTS: 27,375 white respondents to the Canadian Community Health Survey 
+(CCHS) Healthy Aging 2008/2009.
+METHODS: Government-funded, low-income vision care programs were reviewed. The 
+amount of assistance provided was compared with professional fee schedules for 
+general/routine eye examinations and market prices for eyeglasses. The 
+utilization of eye care providers was derived from the CCHS.
+RESULTS: To receive low-income vision care assistance, individuals must be in 
+receipt of social assistance. Criteria for receiving social assistance are 
+stringent. The Canadian Financial Capability Survey revealed that 7.9% of 
+Canadians aged 45 to 64 years and 5.5% aged ≥65 years received social assistance 
+in 2009. The CCHS found in 2008/2009 that 12.5% of citizens aged 45 to 64 years 
+and 13.2% of those aged ≥65 years had difficulty paying for basic expenses such 
+as food. In 5 provinces, low-income vision care assistance fully covers a 
+general/routine eye examination. In the remainder, the assistance provided is 
+insufficient for a general/routine eye examination. The assistance for 
+eyeglasses is inadequate in 5 provinces, requiring out-of-pocket copayments. 
+Among middle-aged whites who self-reported not having glaucoma, cataracts, 
+diabetes, or vision problems not corrected by lenses, utilization of eye care 
+providers was 28.1% among those with financial difficulty versus 41.9% among 
+those without (p < 0.05), giving a prevalence ratio 0.68 (95% CI 0.57-0.80) 
+adjusted for age, sex and education.
+CONCLUSIONS: Despite government assistance, low-income individuals use vision 
+care services less often than wealthy individuals.
+
+Copyright © 2014 Canadian Ophthalmological Society. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.jcjo.2014.03.006
+PMID: 25103647 [Indexed for MEDLINE]

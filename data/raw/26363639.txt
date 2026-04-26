@@ -1,0 +1,52 @@
+1. Eur J Appl Physiol. 2016 Jan;116(1):145-52. doi: 10.1007/s00421-015-3259-9.
+Epub  2015 Sep 12.
+
+Is aerobic workload positively related to ambulatory blood pressure? A 
+cross-sectional field study among cleaners.
+
+Korshøj M(1)(2), Clays E(3), Lidegaard M(4), Skotte JH(4), Holtermann A(4)(5), 
+Krustrup P(6)(7), Søgaard K(5).
+
+Author information:
+(1)The National Research Centre for the Working Environment, Lersø Parkallé 105, 
+2100, Copenhagen Ø, Denmark. mkl@nrcwe.dk.
+(2)Department of Nutrition, Exercise and Sports, Copenhagen Centre for Team 
+Sport and Health, University of Copenhagen, Nørre Allé 51, 2200, Copenhagen N, 
+Denmark. mkl@nrcwe.dk.
+(3)Department of Public Health, Ghent University, De Pintelaan 185, 9000, Ghent, 
+Belgium.
+(4)The National Research Centre for the Working Environment, Lersø Parkallé 105, 
+2100, Copenhagen Ø, Denmark.
+(5)Institute of Sports Science and Clinical Biomechanics, University of Southern 
+Denmark, Campusvej 55, 5230, Odense M, Denmark.
+(6)Department of Nutrition, Exercise and Sports, Copenhagen Centre for Team 
+Sport and Health, University of Copenhagen, Nørre Allé 51, 2200, Copenhagen N, 
+Denmark.
+(7)Sport and Health Sciences, College of Life and Environmental Sciences, 
+University of Exeter, St. Luke's Campus, Exeter, UK.
+
+PURPOSE: Cardiovascular disease is prevalent among workers with high levels of 
+occupational physical activity. The increased risk may be due to a high relative 
+aerobic workload, possibly leading to increased blood pressure. However, studies 
+investigating the relation between relative aerobic workload and ambulatory 
+blood pressure (ABP) are lacking. The aim was to explore the relationship 
+between objectively measured relative aerobic workload and ABP.
+METHODS: A total of 116 cleaners aged 18-65 years were included after informed 
+consent was obtained. A portable device (Spacelabs 90217) was mounted for 24-h 
+measurements of ABP, and an Actiheart was mounted for 24-h heart rate 
+measurements to calculate relative aerobic workload as percentage of relative 
+heart rate reserve. A repeated-measure multi-adjusted mixed model was applied 
+for analysis.
+RESULTS: A fully adjusted mixed model of measurements throughout the day showed 
+significant positive relations (p < 0.001): a 1% increase in mean relative 
+aerobic workload was associated with an increase of 0.42 ± 0.05 mmHg (95% CI 
+0.32-0.52 mmHg) in systolic ABP and 0.30 ± 0.04 mmHg (95% CI 0.22-0.38 mmHg) in 
+diastolic ABP. Correlations between relative aerobic workload and ABP were 
+significant.
+CONCLUSIONS: Because workers may have an elevated relative aerobic workload for 
+several hours each working day, this relationship may elucidate a mechanism 
+behind the increased risk for cardiovascular disease among workers exposed to 
+high levels of occupational physical activity.
+
+DOI: 10.1007/s00421-015-3259-9
+PMID: 26363639 [Indexed for MEDLINE]

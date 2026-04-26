@@ -1,0 +1,43 @@
+1. Acad Radiol. 2011 Nov;18(11):1337-40. doi: 10.1016/j.acra.2011.06.017. Epub
+2011  Aug 27.
+
+Is the h-index predictive of greater NIH funding success among academic 
+radiologists?
+
+Rezek I(1), McDonald RJ, Kallmes DF.
+
+Author information:
+(1)Department of Radiology, College of Medicine, Mayo Clinic, Rochester, MN 
+55905, USA.
+
+RATIONALE AND OBJECTIVES: Despite rapid adoption of the Hirsch index (h-index) 
+as a measure of academic success, the correlations between the h-index and other 
+metrics of productivity remain poorly understood. The aims of this study were to 
+determine whether h-indices were associated with greater National Institutes of 
+Health (NIH) funding success among academic radiologists.
+MATERIALS AND METHODS: Using the Scopus database, h-indices were calculated for 
+a random sample of academic radiologists with the rank of professor. Using the 
+NIH tool Research Portfolio Online Reporting Tools Expenditures and Reports, we 
+determined the number, classification, and total years of NIH grant funding as 
+principal investigator for each radiologist. Differences in h-index, sorted by 
+funding status, were determined using Wilcoxon's tests. Associations between 
+h-index and funding status were determined using logistic regression. 
+Significant correlations between h-index and grant metrics were determined using 
+Spearman's ρ.
+RESULTS: Among 210 professors of radiology, 48 (23%) secured at least one NIH 
+grant. The mean h-index was significantly higher among individuals who secured 
+at least one NIH grant (19.1) compared to those who did not (10.4) (P < .0001). 
+Professors with h-indices < 10 compared to those with h-indices > 10 were 
+significantly less likely to receive NIH funding (odds ratio, 0.07; P = .0321). 
+However, h-indices > 10 were not significantly predictive of greater funding. No 
+significant relationships were observed between h-index and the number of grant 
+awards, years of prior funding, the amounts of grant awards, or grant 
+classification.
+CONCLUSION: Having obtained at least one NIH grant was associated with a higher 
+h-index, yet multiple or large grants, such as those for program projects, were 
+not predictive of higher h-indices.
+
+Copyright © 2011 AUR. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.acra.2011.06.017
+PMID: 21873082 [Indexed for MEDLINE]

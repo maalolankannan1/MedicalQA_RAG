@@ -1,0 +1,50 @@
+1. Transfus Apher Sci. 2016 Aug;55(1):125-8. doi: 10.1016/j.transci.2016.05.001. 
+Epub 2016 May 6.
+
+Does microbial contamination influence the success of the hematopoietic cell 
+transplantation outcomes?
+
+Dal MS(1), Tekgündüz E(2), Çakar MK(2), Kaya AH(2), Namdaroğu S(2), Batgi H(2), 
+Bekdemir F(2), Uncu Ulu B(2), Yiğenoğlu TN(2), Kılınç A(3), İskender D(2), Uğur 
+B(2), Koçubaba Ş(2), İskender G(4), Altuntaş F(2).
+
+Author information:
+(1)Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+Transplantation Clinic, Ankara, Turkey. Electronic address: 
+dr.sinandal@gmail.com.
+(2)Ankara Oncology Education and Research Hospital, Hematology and Stem Cell 
+Transplantation Clinic, Ankara, Turkey.
+(3)Ankara Oncology Education and Research Hospital, Therapeutic Apheresis 
+Center, Ankara, Turkey.
+(4)Ankara Oncology Education and Research Hospital, Department of Clinical 
+Microbiology and Infectious Diseases, Ankara, Turkey.
+
+INTRODUCTION: Microbial contamination can be a marker for faulty process and is 
+assumed to play an important role in the collection of hematopoietic progenitor 
+cell (HPC) and infusion procedure. We aimed to determine the microbial 
+contamination rates and evaluate the success of hematopoietic cell 
+transplantation (HCT) in patients who received contaminated products.
+PATIENTS-METHODS: We analyzed microbial contamination records of HPC grafts 
+between 2012 and 2015, retrospectively. Contamination rates of autologous donors 
+were evaluated for at three steps: at the end of mobilization, following 
+processing with dimethyl sulfoxide, and just before stem cell infusion. Grafts 
+of allogeneic donors were assessed only before HCT.
+RESULT: A total of 445 mobilization procedures were carried out on 333 (167 
+autologous and 166 allogeneic) donors. The microbiological contamination of 
+peripheral blood (323/333 donations) and bone marrow (10/333 donations) products 
+were analyzed. Bacterial contamination was detected in 18 of 1552 (1.15 %) 
+culture bottles of 333 donors. During the study period 248 patients underwent 
+HCT and among these patients microbial contamination rate on sample basis was 
+1.3 % (16/1212). Microbial contamination detected in nine patients (7 
+autologous; 2 allogeneic). In 8 of 9 patients, a febrile neutropenic attack was 
+observed. The median day for the neutropenic fever was 4 days (0-9). None of the 
+patients died within the post-transplant 30 days who received contaminated 
+products.
+CONCLUSION: The use of contaminated products with antibiotic prophylaxis may be 
+safe in terms of the first day of fever, duration of fever, neutrophil, platelet 
+engraftment and duration of hospitalization.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.transci.2016.05.001
+PMID: 27184293 [Indexed for MEDLINE]

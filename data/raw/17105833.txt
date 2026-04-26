@@ -1,0 +1,40 @@
+1. Ann Pharmacother. 2006 Dec;40(12):2223-7. doi: 10.1345/aph.1H396. Epub 2006
+Nov  14.
+
+Empiric treatment of uncomplicated urinary tract infection with fluoroquinolones 
+in older women in Israel: another lost treatment option?
+
+Kahan NR(1), Chinitz DP, Waitman DA, Dushnitzky D, Kahan E, Shapiro M.
+
+Author information:
+(1)Hadassah Medical Organization School of Public Health, the Hebrew University 
+of Jerusalem, Jerusalem, Israel. natank@pob.huji.ac.il
+
+BACKGROUND: Current guidelines for the treatment of uncomplicated urinary tract 
+infection (UTI) in women recommend empiric therapy with antibiotics for which 
+local resistance rates do not exceed 10-20%. We hypothesized that resistance 
+rates of Escherichia coli to fluoroquinolones may have surpassed this level in 
+older women in the Israeli community setting.
+OBJECTIVES: To identify age groups of women in which fluoroquinolones may no 
+longer be appropriate for empiric treatment of UTI.
+METHODS: Resistance rates for ofloxacin were calculated for all cases of 
+uncomplicated UTI diagnosed during the first 5 months of 2005 in a managed care 
+organization (MCO) in Israel, in community-dwelling women aged 41-75 years. The 
+women were without risk factors for fluoroquinolone resistance. Uncomplicated 
+UTI was diagnosed with a urine culture positive for E. coli. The data set was 
+stratified for age, using 5 year intervals, and stratum-specific resistance 
+rates (% and 95% CI) were calculated. These data were analyzed to identify age 
+groups in which resistance rates have surpassed 10%.
+RESULTS: The data from 1291 urine cultures were included. The crude resistance 
+rate to ofloxacin was 8.7% (95% CI 7.4 to 10.2). Resistance was lowest among the 
+youngest (aged 41-50 y) women (3.2%; 95% CI 1.11 to 5.18), approached 10% in 
+women aged 51-55 years (7.1%; 95% CI 3.4 to 10.9), and reached 19.86% (95% CI 
+13.2 to 26.5) among the oldest women (aged 56-75 y).
+CONCLUSIONS: Physicians who opt to treat UTI in postmenopausal women empirically 
+should consider prescribing drugs other than fluoroquinolones. Concomitant 
+longitudinal surveillance of both antibiotic utilization patterns and 
+uropathogen resistance rates should become routine practice in this managed-care 
+organization.
+
+DOI: 10.1345/aph.1H396
+PMID: 17105833 [Indexed for MEDLINE]

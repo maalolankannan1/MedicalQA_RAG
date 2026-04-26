@@ -1,0 +1,65 @@
+1. Target Oncol. 2016 Feb;11(1):71-82. doi: 10.1007/s11523-015-0380-y.
+
+Does Molecular Genotype Provide Useful Information in the Management of 
+Radioiodine Refractory Thyroid Cancers? Results of a Retrospective Study.
+
+de la Fouchardiere C(1), Oussaid N(2), Derbel O(3), Decaussin-Petrucci M(4), 
+Fondrevelle ME(5), Wang Q(6), Bringuier PP(7), Bournaud-Salinas C(8), Peix 
+JL(9), Lifante JC(9), Giraudet AL(10), Lopez J(11)(12), Borson-Chazot F(13).
+
+Author information:
+(1)Medical Oncology Department, Centre Leon Berard, University Lyon I, 28 rue 
+Laennec, 69003, Lyon, France. christelle.delafouchardiere@lyon.unicancer.fr.
+(2)Department of Biostatistics, Centre Leon Berard, University Lyon I, Lyon, 
+France.
+(3)Medical Oncology Department, Centre Leon Berard, University Lyon I, 28 rue 
+Laennec, 69003, Lyon, France.
+(4)Pathology Department, Hospital Lyon-Sud, University Lyon I, Pierre-Benite, 
+France.
+(5)Pathology Department, Centre Leon Berard, University Lyon I, Lyon, France.
+(6)Molecular Biology Platform, Clinical Science Center, Centre Leon Berard, 
+University Lyon I, Lyon, France.
+(7)Department of Pathology, Edouard Herriot Hospital, University Lyon I, Lyon, 
+France.
+(8)Department of Nuclear Medicine, Hospital Louis Pradel, University Lyon I, 
+Bron, France.
+(9)Department of General and Endocrine Surgery, Hospital Lyon-Sud, University 
+Lyon I, Lyon, France.
+(10)Department of Nuclear Medicine, Centre Leon Berard, University Lyon I, Lyon, 
+France.
+(11)Department of Biochemistry, Hospital Lyon-Sud, University Lyon I, Lyon, 
+Pierre-Bénite, France.
+(12)Inserm UMR-S1052, CNRS UMR5286, Centre Leon Berard, University Lyon I, Lyon, 
+France.
+(13)Endocrinology Department-INSERM, UMR 1052, Hospital Louis Pradel, University 
+Lyon I, Lyon, France.
+
+INTRODUCTION: Whether mutation status should be used to guide therapy is an 
+important issue in many cancers. We correlated mutation profile in 
+radioiodine-refractory (RAIR) metastatic thyroid cancers (TCs) with patient 
+outcome and response to tyrosine kinase inhibitors (TKIs), and discussed the 
+results with other published data.
+MATERIALS AND METHODS: Outcome in 82 consecutive patients with metastatic RAIR 
+thyroid carcinoma prospectively tested for BRAF, RAS and PI3KCA mutations was 
+retrospectively analyzed, including 55 patients treated with multikinase 
+inhibitors.
+RESULTS: Papillary thyroid carcinomas (PTCs) were the most frequent histological 
+subtype (54.9 %), followed by poorly differentiated thyroid carcinoma [PDTC] 
+(30.5 %) and follicular thyroid carcinoma [FTC] (14.6 %). A genetic mutation was 
+identified in 23 patients (28 %) and BRAF was the most frequently mutated gene 
+(23 %). Median progression-free survival (PFS) on first-line TKI treatment was 
+14.6 months (95% CI 9.9-18.4). BRAF mutation positively influenced median PFS, 
+both in the entire TKI-treated cohort (median PFS 34.7 months versus 11.6 
+months; hazard ratio [HR] 0.29; 95% CI 0.09-0.98; p = 0.03) and in the 
+TKI-treated PTC cohort (n = 22) [log-rank p = 0.086; HR 2.95; 95 % CI 
+0.81-10.70). However, in TKI-treated patients, PDTC histologic subtype was the 
+only independent prognostic factor for PFS identified in the multivariate 
+analysis (HR 2.36; 95% CI 1.01-5.54; p = 0.048).
+CONCLUSION: Patients with BRAF-mutant PTC had a significantly longer PFS than 
+BRAF wild-type when treated with TKIs. However, due to the small number of 
+BRAF-mutant patients, further investigations are required, especially to 
+understand the potential positive effect of BRAF mutations in RAIR TC patients 
+while having a negative prognostic impact in RAI-sensitive PTC patients.
+
+DOI: 10.1007/s11523-015-0380-y
+PMID: 26285789 [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+1. Intern Med J. 2015 Dec;45(12):1293-9. doi: 10.1111/imj.12917.
+
+Can we ease the financial burden of colonoscopy? Using real-time endoscopic 
+assessment of polyp histology to predict surveillance intervals.
+
+Chandran S(1), Parker F(2), Lontos S(1)(3), Vaughan R(1)(3), Efthymiou M(1).
+
+Author information:
+(1)Departments of Gastroenterology, Austin Health, Melbourne, Australia.
+(2)Anaesthetics, Austin Health, Melbourne, Australia.
+(3)Department of Gastroenterology, Warringal Private Hospital, Melbourne, 
+Australia.
+
+BACKGROUND: Polyps identified at colonoscopy are predominantly diminutive 
+(<5 mm) with a small risk (>1%) of high-grade dysplasia or carcinoma; however, 
+the cost of histological assessment is substantial.
+AIM: The aim of this study was to determine whether prediction of colonoscopy 
+surveillance intervals based on real-time endoscopic assessment of polyp 
+histology is accurate and cost effective.
+METHODS: A prospective cohort study was conducted across a tertiary care and 
+private community hospital. Ninety-four patients underwent colonoscopy and 
+polypectomy of diminutive (≤5 mm) polyps from October 2012 to July 2013, 
+yielding a total of 159 polyps. Polyps were examined and classified according to 
+the Sano-Emura classification system. The endoscopic assessment (optical 
+diagnosis) of polyp histology was used to predict appropriate colonoscopy 
+surveillance intervals. The main outcome measure was the accuracy of optical 
+diagnosis of diminutive colonic polyps against the gold standard of histological 
+assessment.
+RESULTS: Optical diagnosis was correct in 105/108 (97.2%) adenomas. This yielded 
+a sensitivity, specificity and positive and negative predictive values (with 
+95%CI) of 97.2% (92.1-99.4%), 78.4% (64.7-88.7%), 90.5% (83.7-95.2%) and 93% 
+(80.9-98.5%) respectively. Ninety-two (98%) patients were correctly triaged to 
+their repeat surveillance colonoscopy. Based on these findings, a cut and 
+discard approach would have resulted in a saving of $319.77 per patient.
+CONCLUSION: Endoscopists within a tertiary care setting can accurately predict 
+diminutive polyp histology and confer an appropriate surveillance interval with 
+an associated financial benefit to the healthcare system. However, limitations 
+to its application in the community setting exist, which may improve with 
+further training and high-definition colonoscopes.
+
+© 2015 Royal Australasian College of Physicians.
+
+DOI: 10.1111/imj.12917
+PMID: 26418441 [Indexed for MEDLINE]

@@ -1,0 +1,30 @@
+1. J Infect Dev Ctries. 2009 Nov 5;4(1):44-7. doi: 10.3855/jidc.539.
+
+Is low birth weight a risk indicator for congenital cytomegalovirus infection?
+
+Al-Hareth Z(1), Monem F, Abdel Megiud N.
+
+Author information:
+(1)Clinical Laboratories Department, Al-Assad Hospital, Damascus University, 
+Damascus, Syria.
+
+BACKGROUND: Congenital cytomegalovirus infection is currently the leading cause 
+of congenital infection in 0.2-2.2% of live births worldwide leading to variable 
+serious sequalae. The aim of the study was to determine if low birth weight is 
+an indicator of CMV congenital infection evidenced by detecting CMV-DNA in 
+umbilical cord blood at the time of delivery.
+METHODOLOGY: CMV-IgG and IgM antibodies and CMV-DNAemia were assessed in 
+umbilical cord blood of two hundreds newborns, one hundred of whom had birth 
+weight < or = 2700 gram and/or head circumference < or = 32 cm.
+RESULTS: CMV-IgM was not detected, while CMV-IgG was positive in 80-90% of the 
+two hundreds tested newborns. CMV-DNA was detected in four out of the 200 
+newborns. One of them was over the adopted weight limit (> 2700 gram).
+CONCLUSIONS: CMV-IgM and IgG antibodies assessment was not a potential 
+discriminative test to identify congenitally infected newborns. In addition, low 
+birth weight and small head circumference at birth failed to predict congenital 
+CMV infection. CMV-DNA detection in umbilical cord blood at the time of delivery 
+using real-time PCR of all newborns is recommended as decisive, rapid and 
+non-invasive test.
+
+DOI: 10.3855/jidc.539
+PMID: 20130378 [Indexed for MEDLINE]

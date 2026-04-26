@@ -1,0 +1,43 @@
+1. J Cardiothorac Surg. 2009 May 7;4:19. doi: 10.1186/1749-8090-4-19.
+
+Sternal plating for primary and secondary sternal closure; can it improve 
+sternal stability?
+
+Fawzy H(1), Alhodaib N, Mazer CD, Harrington A, Latter D, Bonneau D, Errett L, 
+Mahoney J.
+
+Author information:
+(1)Division of Cardiovascular and Thoracic Surgery, Department of Surgery, 
+Terrence Donnelly Heart Center, Keenan Research Center in the Li Ka Shing 
+Knowledge Institute of St Michael's Hospital, University of Toronto, Ontario, 
+Canada. hosamfawzy@hotmail.com
+
+BACKGROUND: Sternal instability with mediastinitis is a very serious 
+complication after median sternotomy. Biomechanical studies have suggested 
+superiority of rigid plate fixation over wire cerclage for sternal fixation. 
+This study tests the hypothesis that sternal closure stability can be improved 
+by adding plate fixation in a human cadaver model.
+METHODS: Midline sternotomy was performed in 18 human cadavers. Four sternal 
+closure techniques were tested: (1) approximation with six interrupted steel 
+wires; (2) approximation with six interrupted cables; (3) closure 1 (wires) or 2 
+(cables) reinforced with a transverse sternal plate at the sixth rib; (4) 
+Closure using 4 sternal plates alone. Intrathoracic pressure was increased in 
+all techniques while sternal separation was measured by three pairs of 
+sonomicrometry crystals fixed at the upper, middle and lower parts of the 
+sternum until 2.0 mm separation was detected. Differences in displacement 
+pressures were analyzed using repeated measures ANOVA and Regression 
+Coefficients.
+RESULTS: Intrathoracic pressure required to cause 2.0 mm separation increased 
+significantly from 183.3 +/- 123.9 to 301.4 +/- 204.5 in wires/cables alone vs. 
+wires/cables plus one plate respectively, and to 355.0 +/- 210.4 in the 4 plates 
+group (p < 0.05). Regression Coefficients (95% CI) were 120 (47-194) and 142 
+(66-219) respectively for the plate groups.
+CONCLUSION: Transverse sternal plating with 1 or 4 plates significantly improves 
+sternal stability closure in human cadaver model. Adding a single sternal plate 
+to primary closure improves the strength of sternal closure with traditional 
+wiring potentially reducing the risk of sternal dehiscence and could be 
+considered in high risk patients.
+
+DOI: 10.1186/1749-8090-4-19
+PMCID: PMC2684105
+PMID: 19419587 [Indexed for MEDLINE]

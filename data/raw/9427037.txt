@@ -1,0 +1,32 @@
+1. In Vivo. 1997 Sep-Oct;11(5):371-5.
+
+Are endothelial cell patterns of astrocytomas indicative of grade?
+
+Selby DM(1), Woodard CA, Henry ML, Bernstein JJ.
+
+Author information:
+(1)Department of Pathology, Children's National Medical Center, Washington, DC 
+20010, USA.
+
+BACKGROUND: The most common primary brain tumors in children and adults are of 
+astrocytic origin. Classic histologic grading schemes for astrocytomas have 
+included evaluating the presence or absence of nuclear abnormalities, mitoses, 
+vascular endothelial proliferation, and tumor necrosis.
+MATERIALS AND METHODS: We evaluated the vascular pattern of 17 astrocytoma 
+surgical specimens (seven from children and 10 from adults), and four normal 
+brains obtained at autopsy, utilizing antibody to glial fibrillary acidic 
+protein (GFAP) and von Willebrand factor (vWF) utilizing confocal microscopy. A 
+modified WHO classification was used.
+RESULTS: All tumor cases showed cells positive for GFAP. Control tissues showed 
+a few, widely separated vessels. Pilocytic astrocytomas (four cases) showed lacy 
+clusters of small-to-medium sized vessels, with intact vessel wall integrity. 
+Diffuse, low grade astrocytoma (three cases) showed a staining pattern similar 
+to control tissue; intermediate grade (one case), anaplastic astrocytoma (three 
+cases) and gliobastoma multiforme (six cases) showed an increased vessel density 
+with multiple small vessels (glomeruloid clusters), some with prominent intimal 
+hyperplasia, loss of vessel wall integrity, and with numerous vWF-positive 
+single cells/microvessels within the tumor substance.
+CONCLUSIONS: Evaluation of astrocytomas utilizing antibody to vWF and confocal 
+microscopy aids in the grading of these neoplasms.
+
+PMID: 9427037 [Indexed for MEDLINE]

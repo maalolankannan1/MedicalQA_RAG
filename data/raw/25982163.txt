@@ -1,0 +1,51 @@
+1. J Chin Med Assoc. 2015 Jul;78(7):395-9. doi: 10.1016/j.jcma.2015.04.001. Epub 
+2015 May 14.
+
+Appendectomy timing: Will delayed surgery increase the complications?
+
+Chen CC(1), Ting CT(2), Tsai MJ(2), Hsu WC(2), Chen PC(2), Lee MD(2), Liu MH(2), 
+Shih HC(3).
+
+Author information:
+(1)Division of Gastrointestinal Surgery, Department of Surgery, Ren-Ai Branch, 
+Taipei City Hospital, Taipei, Taiwan, ROC; Institute of Emergency and Critical 
+Care Medicine, National Yang-Ming University, Taipei, Taiwan, ROC.
+(2)Division of Gastrointestinal Surgery, Department of Surgery, Ren-Ai Branch, 
+Taipei City Hospital, Taipei, Taiwan, ROC.
+(3)Institute of Emergency and Critical Care Medicine, National Yang-Ming 
+University, Taipei, Taiwan, ROC. Electronic address: hcshih@vghtpe.gov.tw.
+
+BACKGROUND: This study investigated whether the time from emergency room 
+registration to appendectomy (ETA) would affect the incidence of perforation and 
+postoperative complications in patients with acute appendicitis.
+METHODS: Patients who underwent an appendectomy at the Ren-Ai branch of Taipei 
+City Hospital between January 2010 and October 2012 were retrospectively 
+reviewed. Their demographics, white blood cell count, C-reactive protein, body 
+temperature, computed tomography scan usage, operation method, pathology report, 
+postoperative complication, length of hospital stay, and ETA were abstracted. 
+Multivariate analysis was performed to search the predictors, including ETA, of 
+outcomes for the perforation and postoperative complication rates.
+RESULTS: A total of 236 patients were included in the study. Perforation 
+occurred in 12.7% (30/236) and postoperative complications developed in 24.1% 
+(57/236) of these patients. There were 121 patients with ETA <8 hours, 88 
+patients with ETA of 8-24 hours, and 27 patients with ETA >24 hours; patients 
+with ETA >24 hours had significantly longer hospital stay. Univariate analysis 
+showed that perforated patients were significantly older, and had higher 
+C-reactive protein level, longer hospital stay, and higher complication rate. 
+Patients who developed postoperative complications were significantly older, and 
+had higher neutrophil count, less use of computed tomography, and higher open 
+appendectomy rate. After multivariate analysis, age ≥55 years was the only 
+predictor for perforation [odds ratio (OR) = 3.65; 95% confidence interval (CI), 
+1.54-8.68]; for postoperative complications, age ≥55 years (OR = 1.65; 95% CI, 
+1.84-3.25), perforated appendicitis (OR = 3.17; 95% CI, 1.28-7.85), and open 
+appendectomy (OR = 3.21; 95% CI, 1.36-7.58) were associated. ETA was not a 
+significant predictor in both analyses.
+CONCLUSION: In our study, it was observed that although longer ETA was 
+associated with longer hospitalization, ETA was not correlated with 
+postoperative complications. Our results inclined toward the position that 
+appendectomy can be performed as a semielective surgery.
+
+Copyright © 2015. Published by Elsevier Taiwan.
+
+DOI: 10.1016/j.jcma.2015.04.001
+PMID: 25982163 [Indexed for MEDLINE]

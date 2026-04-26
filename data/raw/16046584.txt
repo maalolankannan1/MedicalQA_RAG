@@ -1,0 +1,43 @@
+1. J Clin Endocrinol Metab. 2005 Oct;90(10):5528-35. doi: 10.1210/jc.2005-0688. 
+Epub 2005 Jul 26.
+
+Menopausal hormone therapy and irregular endometrial bleeding: a potential role 
+for uterine natural killer cells?
+
+Hickey M(1), Crewe J, Goodridge JP, Witt CS, Fraser IS, Doherty D, Christiansen 
+FT, Salamonsen LA.
+
+Author information:
+(1)School of Women's and Infants' Health, Royal Perth Hospital, Perth 6008, 
+Western Australia, Australia. mhickey@obsgyn.uwa.edu.au
+
+CONTEXT: Irregular bleeding affects many users of combined menopausal hormone 
+therapy (HT) and commonly leads to invasive and expensive investigations to 
+exclude underlying malignancy. In most cases no abnormality is found.
+OBJECTIVE: The main objective of this study was to explore the role of uterine 
+natural killer (uNK) cells and their regulatory cytokine IL-15 in irregular 
+bleeding in HT users.
+DESIGN: This was a prospective observational study conducted between 2002 and 
+2004.
+SETTING: The study was conducted in a tertiary referral menopause clinic at King 
+Edward Memorial Hospital, Western Australia.
+PATIENTS: Patients included 117 postmenopausal women taking combined HT.
+INTERVENTIONS: Outpatient endometrial biopsies were taken during and outside 
+bleeding episodes.
+MAIN OUTCOME MEASURES: The relationship between endometrial uNK cells (CD56+) 
+and bleeding patterns was measured. We also addressed the impact of HT exposure 
+on uNK cell populations, the relationship between endometrial IL-15 expression 
+and uNK cell populations, and killer Ig like receptor genotype in subjects with 
+irregular bleeding.
+RESULTS: Endometrial CD56+ uNK cells were significantly increased in biopsies 
+obtained during bleeding episodes (P < 0.001), compared with HT users with no 
+bleeding. The highest level of IL-15 expression was also seen in biopsies taken 
+during bleeding. No clear relationship between killer Ig like receptor genotype 
+and bleeding on HT was observed.
+CONCLUSIONS: Little is known about the mechanisms underlying irregular bleeding 
+in HT users. This is the first report of uNK cells and their association with 
+regulating cytokines in postmenopausal endometrium and demonstrates a possible 
+mechanism by which HT may induce irregular bleeding.
+
+DOI: 10.1210/jc.2005-0688
+PMID: 16046584 [Indexed for MEDLINE]

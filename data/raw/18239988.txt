@@ -1,0 +1,35 @@
+1. Wien Klin Wochenschr. 2008;120(1-2):25-30. doi: 10.1007/s00508-007-0921-1.
+
+Differentiation of nonalcoholic from alcoholic steatohepatitis: are routine 
+laboratory markers useful?
+
+Kazemi-Shirazi L(1), Veloso MP, Frommlet F, Steindl-Munda P, Wrba F, Zehetmayer 
+S, Marsik C, Ferenci P.
+
+Author information:
+(1)Department of Internal Medicine III, Division of Gastroenterology and 
+Hepatology, Medical University of Vienna, Vienna, Austria.
+
+BACKGROUND/AIMS: Specific markers for differentiation of nonalcoholic (NASH) 
+from alcoholic steatohepatitis (ASH) are lacking. We investigated the role of 
+routine laboratory parameters in distinguishing NASH from ASH.
+METHODS: Liver biopsies performed at our hospital over a 10-year period were 
+reviewed, 95 patients with steatohepatitis identified and their data prior to 
+biopsy reevaluated. The diagnosis NASH or ASH was assigned (other liver diseases 
+excluded) on the basis of the biopsy and history of alcohol consumption (< 140 
+g/week). Logistic regression models were used for analysis.
+RESULTS: NASH was diagnosed in 58 patients (61%; 30 f) and ASH in 37 (39%; 9 f). 
+High-grade fibrosis (59% vs. 19%, P < 0.0001) and an AST/ALT ratio > 1 (54.1% vs 
+20.7%, P = 0.0008) were more common in ASH. The MCV was elevated in 53% of ASH 
+patients and normal in all NASH patients (P < 0.0001). Multivariate analysis 
+identified the MCV (P = 0.0013), the AST/ALT ratio (P = 0.011) and sex (P = 
+0.0029) as relevant regressors (aROC = 0.92). The AST/ALT ratio (P < 0.0001) and 
+age (P = 0.00049) were independent predictors of high-grade fibrosis. 
+Differences in MCV were more marked in high-grade fibrosis.
+CONCLUSIONS: Higher MCVs and AST/ALT ratios in ASH reflect the severity of 
+underlying liver disease and do not differentiate NASH from ASH. Instead, these 
+biomarkers might prove useful in guiding selection of patients for liver biopsy 
+and in targeting therapy.
+
+DOI: 10.1007/s00508-007-0921-1
+PMID: 18239988 [Indexed for MEDLINE]

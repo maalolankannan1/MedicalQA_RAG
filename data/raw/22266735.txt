@@ -1,0 +1,46 @@
+1. Diabetes Care. 2012 Mar;35(3):529-35. doi: 10.2337/dc11-1643. Epub 2012 Jan
+20.
+
+Screening for gestational diabetes mellitus: are the criteria proposed by the 
+international association of the Diabetes and Pregnancy Study Groups 
+cost-effective?
+
+Werner EF(1), Pettker CM, Zuckerwise L, Reel M, Funai EF, Henderson J, Thung SF.
+
+Author information:
+(1)Department of Gynecology and Obstetrics, Johns Hopkins School of Medicine, 
+Baltimore, Maryland, USA. ewerner4@jhmi.edu
+
+Comment in
+    Diabetes Care. 2012 Mar;35(3):461-2. doi: 10.2337/dc11-2237.
+
+OBJECTIVE: The International Association of the Diabetes and Pregnancy Study 
+Groups (IADPSG) recently recommended new criteria for diagnosing gestational 
+diabetes mellitus (GDM). This study was undertaken to determine whether adopting 
+the IADPSG criteria would be cost-effective, compared with the current standard 
+of care.
+RESEARCH DESIGN AND METHODS: We developed a decision analysis model comparing 
+the cost-utility of three strategies to identify GDM: 1) no screening, 2) 
+current screening practice (1-h 50-g glucose challenge test between 24 and 28 
+weeks followed by 3-h 100-g glucose tolerance test when indicated), or 3) 
+screening practice proposed by the IADPSG. Assumptions included that 1) women 
+diagnosed with GDM received additional prenatal monitoring, mitigating the risks 
+of preeclampsia, shoulder dystocia, and birth injury; and 2) GDM women had 
+opportunity for intensive postdelivery counseling and behavior modification to 
+reduce future diabetes risks. The primary outcome measure was the incremental 
+cost-effectiveness ratio (ICER).
+RESULTS: Our model demonstrates that the IADPSG recommendations are 
+cost-effective only when postdelivery care reduces diabetes incidence. For every 
+100,000 women screened, 6,178 quality-adjusted life-years (QALYs) are gained, at 
+a cost of $125,633,826. The ICER for the IADPSG strategy compared with the 
+current standard was $20,336 per QALY gained. When postdelivery care was not 
+accomplished, the IADPSG strategy was no longer cost-effective. These results 
+were robust in sensitivity analyses.
+CONCLUSIONS: The IADPSG recommendation for glucose screening in pregnancy is 
+cost-effective. The model is most sensitive to the likelihood of preventing 
+future diabetes in patients identified with GDM using postdelivery counseling 
+and intervention.
+
+DOI: 10.2337/dc11-1643
+PMCID: PMC3322683
+PMID: 22266735 [Indexed for MEDLINE]

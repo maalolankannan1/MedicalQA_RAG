@@ -1,0 +1,52 @@
+1. Diabetes Care. 2016 Oct;39(10):1738-44. doi: 10.2337/dc16-0302. Epub 2016 Jul 
+25.
+
+Do Electrochemiluminescence Assays Improve Prediction of Time to Type 1 Diabetes 
+in Autoantibody-Positive TrialNet Subjects?
+
+Fouts A(1), Pyle L(2), Yu L(1), Miao D(1), Michels A(1), Krischer J(3), Sosenko 
+J(4), Gottlieb P(1), Steck AK(5); Type 1 Diabetes TrialNet Study Group.
+
+Author information:
+(1)Barbara Davis Center for Childhood Diabetes, University of Colorado School of 
+Medicine, Aurora, CO.
+(2)Department of Pediatrics, University of Colorado Denver, Aurora, CO 
+Department of Biostatistics and Informatics, Colorado School of Public Health, 
+Aurora, CO.
+(3)Pediatrics Epidemiology Center, University of South Florida, Tampa, FL.
+(4)University of Miami School of Medicine, Miami, FL.
+(5)Barbara Davis Center for Childhood Diabetes, University of Colorado School of 
+Medicine, Aurora, CO andrea.steck@ucdenver.edu.
+
+OBJECTIVE: To explore whether electrochemiluminescence (ECL) assays can help 
+improve prediction of time to type 1 diabetes in the TrialNet 
+autoantibody-positive population.
+RESEARCH DESIGN AND METHODS: TrialNet subjects who were positive for one or more 
+autoantibodies (microinsulin autoantibody, GAD65 autoantibody [GADA], IA-2A, and 
+ZnT8A) with available ECL-insulin autoantibody (IAA) and ECL-GADA data at their 
+initial visit were analyzed; after a median follow-up of 24 months, 177 of these 
+1,287 subjects developed diabetes.
+RESULTS: Univariate analyses showed that autoantibodies by radioimmunoassays 
+(RIAs), ECL-IAA, ECL-GADA, age, sex, number of positive autoantibodies, presence 
+of HLA DR3/4-DQ8 genotype, HbA1c, and oral glucose tolerance test (OGTT) 
+measurements were all significantly associated with progression to diabetes. 
+Subjects who were ECL positive had a risk of progression to diabetes within 6 
+years of 58% compared with 5% for the ECL-negative subjects (P < 0.0001). 
+Multivariate Cox proportional hazards models were compared, with the base model 
+including age, sex, OGTT measurements, and number of positive autoantibodies by 
+RIAs. The model with positivity for ECL-GADA and/or ECL-IAA was the best, and 
+factors that remained significantly associated with time to diabetes were area 
+under the curve (AUC) C-peptide, fasting C-peptide, AUC glucose, number of 
+positive autoantibodies by RIAs, and ECL positivity. Adding ECL to the Diabetes 
+Prevention Trial risk score (DPTRS) improved the receiver operating 
+characteristic curves with AUC of 0.83 (P < 0.0001).
+CONCLUSIONS: ECL assays improved the ability to predict time to diabetes in 
+these autoantibody-positive relatives at risk for developing diabetes. These 
+findings might be helpful in the design and eligibility criteria for prevention 
+trials in the future.
+
+© 2016 by the American Diabetes Association.
+
+DOI: 10.2337/dc16-0302
+PMCID: PMC5033080
+PMID: 27456836 [Indexed for MEDLINE]

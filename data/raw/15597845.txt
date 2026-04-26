@@ -1,0 +1,34 @@
+1. Eur J Gynaecol Oncol. 2004;25(6):699-701.
+
+Is the combination with 2-methoxyestradiol able to reduce the dosages of 
+chemotherapeutices in the treatment of human ovarian cancer? Preliminary in 
+vitro investigations.
+
+Mueck AO(1), Seeger H, Wallwiener D, Huober J.
+
+Author information:
+(1)Section of Endocrinology and Menopause, University Women's Hospital, 
+Tuebingen, Germany.
+
+PURPOSE OF INVESTIGATION: The endogenous estradiol metabolite, 
+2-methoxyestradiol (2ME), has been shown to be a potent inhibitor of cell growth 
+and a strong anti-angiogenic substance. We investigated for the first time 
+whether in vitro combinations of 2ME with various chemotherapeutic compounds may 
+result in an additive inhibitory effect on the proliferation of human ovary 
+cancer cells.
+METHOD: As a model two different human ovary cancer cell lines were used. All 
+cell lines were incubated with equimolar concentrations of 2ME (0.8-25 microM) 
+and the chemotherapeutics epirubicine, doxorubicine, paclitaxel, docetaxel, 
+carboplatin, vinorelbine, 5-fluorouracil and mafosfamide. Proliferation was 
+measured after four days using the ATP-chemosensitivity test.
+RESULTS: For both ovary cancer cell lines a significant additive effect of 2ME 
+with epirubicine and carboplatin was observed at the lower concentration range 
+of these chemotherapeutic substances.
+CONCLUSION: 2ME is able to enhance the antiproliferative activity of certain 
+chemotherapeutics at pharmacological relevant concentrations. This estradiol 
+metabolite is currently in a phase II trial in patients with refractary 
+metastatic breast cancer and the tolerability has been shown to be very good. 
+The combination of 2ME with chemotherapeutics may therefore offer a new 
+clinically relevant treatment regimen for hormone-dependent cancer.
+
+PMID: 15597845 [Indexed for MEDLINE]

@@ -1,0 +1,50 @@
+1. PLoS One. 2014 Feb 6;9(2):e88394. doi: 10.1371/journal.pone.0088394.
+eCollection  2014.
+
+Is the determination of specific IgE against components using ISAC 112 a 
+reproducible technique?
+
+Martínez-Aranguren R(1), Lizaso MT(2), Goikoetxea MJ(1), García BE(2), 
+Cabrera-Freitag P(1), Trellez O(3), Sanz ML(1).
+
+Author information:
+(1)Department of Allergology and Clinical Immunology, Clínica Universidad de 
+Navarra, Pamplona, Spain.
+(2)Allergology Service, Complejo Hospitalario de Navarra, Pamplona, Spain.
+(3)Department of Computer Architecture, Universidad de Málaga, Málaga, Spain.
+
+BACKGROUND: The ImmunoCAP ISAC 112 is a fluoro-immunoassay that allows detection 
+of specific IgE to 112 molecular components from 51 allergenic sources. We 
+studied the reliability of this technique intra- and inter- assay, as well as 
+inter-batch- and inter-laboratory-assay.
+METHODS: Twenty samples were studied, nineteen sera from polysensitized allergic 
+patients, and the technique calibrator provided by the manufacturer (CTR02). We 
+measured the sIgE from CTR02 and three patients' sera ten times in the same and 
+in different assays. Furthermore, all samples were tested in two laboratories 
+and with two batches of ISAC kit. To evaluate the accuracy of ISAC 112, we 
+contrasted the determinations of CTR02 calibrator with their expected values by 
+T Student test. To analyse the precision, we calculated the coefficient of 
+variation (CV) of the 15 allergens that generate the calibration curve, and to 
+analyse the repeatability and the reproducibility, we calculated the intraclass 
+coefficient correlation (ICC) to each allergen.
+RESULTS: The results obtained for CTR02 were similar to those expected in 7 of 
+15 allergens that generate the calibration curve, whereas in 8 allergens the 
+results showed significant differences. The mean CV obtained in the CTR02 
+determinations was of 9.4%, and the variability of sera from patients was of 
+22.9%. The agreement in the intra- and inter-assay analysis was very good to 94 
+allergens and good to one. In the inter-batch analyse, we obtained a very good 
+agreement to 82 allergens, good to 14, moderate to 5 allergens, poor to one, and 
+bad to 1 allergen. In the inter-laboratory analyse, we obtained a very good 
+agreement to 73 allergens, good to 22, moderate to 6 and poor to two allergens.
+CONCLUSION: The allergen microarray immunoassay, ISAC 112, is a repeatable and 
+reproducible in vitro diagnostic tool for determination of sIgE beyond the own 
+laboratory.
+
+DOI: 10.1371/journal.pone.0088394
+PMCID: PMC3916438
+PMID: 24516646 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: Thermofisher supplies part 
+of the material (ISAC CRD 112 kits) required for this study. This does not alter 
+the authors' adherence to all the PLOS ONE policies on sharing data and 
+materials.

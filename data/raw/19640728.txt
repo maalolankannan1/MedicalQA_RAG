@@ -1,0 +1,44 @@
+1. Eur J Cardiothorac Surg. 2010 Jan;37(1):159-62. doi: 
+10.1016/j.ejcts.2009.06.019. Epub 2009 Jul 28.
+
+Surgical treatment of prosthetic valve endocarditis in patients with double 
+prostheses: is single-valve replacement safe?
+
+Guerrero ML(1), Alonso J, Rey M, Martinell J, Górgolas M, Artiz V, Fraile J.
+
+Author information:
+(1)Division of Infectious Diseases, Fundación Jiménez Díaz, Universidad Autónoma 
+de Madrid, Madrid, Spain. mlfernandez@fjd.es
+
+OBJECTIVE: Bias against operating on patients with prosthetic valve endocarditis 
+(PVE) who have multiple prostheses may preclude the use of life-saving valve 
+replacement. We investigated the accuracy of the preoperative diagnosis of PVE 
+in patients with both mitral and aortic prosthesis and the safety of 
+single-valve replacement when only one valve seemed infected.
+METHODS: Patients with a diagnosis of active PVE who had mitral and aortic 
+prosthesis in place were assessed. We looked at the methods for diagnosis, 
+causative agents, indication for valve replacement, operative findings and 
+outcome.
+RESULTS: Twenty patients, who had both mitral and aortic prostheses and a 
+diagnosis of PVE, were assessed. Streptococci and staphylococci caused 70% of 
+cases. By means of echocardiography, the valves involved were: mitral (11 
+patients), aortic (six patients), and in three cases both prosthetic valves 
+seemed infected. Surgery was undertaken in 17 patients (85%). The positive 
+predictive value of transesophageal echocardiogram (TEE) for the preoperative 
+diagnosis of the site of infection was 100%. In 13 patients, only the prosthetic 
+valve that seemed infected was replaced. Four of these patients died within a 
+week after the procedure. Nine patients survived the surgical procedure, 
+completed a course of antimicrobial therapy and were followed up for 15.78 
+months (95% CI: 12.83-18.72). All were considered cured and relapses were not 
+observed.
+CONCLUSIONS: TEE allowed a diagnosis of site involvement that did correlate with 
+the anatomic diagnosis obtained during the operation. This fact contributed to 
+the management of patients and was of great help in guiding the surgical 
+intervention. Echo-oriented single-valve replacement may be a safe strategy for 
+patients with PVE and double prostheses.
+
+Copyright 2009 European Association for Cardio-Thoracic Surgery. Published by 
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejcts.2009.06.019
+PMID: 19640728 [Indexed for MEDLINE]

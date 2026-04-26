@@ -1,0 +1,49 @@
+1. World Neurosurg. 2017 Feb;98:171-175. doi: 10.1016/j.wneu.2016.10.092. Epub
+2016  Oct 27.
+
+Does the Simultaneous Use of a Neuroendoscope Influence the Incidence of 
+Ventriculoperitoneal Shunt Infection?
+
+Giannetti AV(1), Pimenta FG(2), Clemente WT(3).
+
+Author information:
+(1)Department of Surgery, School of Medicine, Federal University of Minas 
+Gerais, Belo Horizonte, Minas Gerais, Brazil; Neurosurgery Service, Hospital das 
+Clínicas, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais, 
+Brazil. Electronic address: agjg@terra.com.br.
+(2)Infection Control Service, Hospital das Clínicas, Federal University of Minas 
+Gerais, Belo Horizonte, Minas Gerais, Brazil.
+(3)Department of Internal Medicine, School of Medicine, Federal University of 
+Minas Gerais, Belo Horizonte, Minas Gerais, Brazil; Infection Control Service, 
+Hospital das Clínicas, Federal University of Minas Gerais, Belo Horizonte, Minas 
+Gerais, Brazil.
+
+Comment in
+    World Neurosurg. 2017 Aug;104:1029-1030. doi: 10.1016/j.wneu.2017.03.083.
+
+BACKGROUND: The relationship between the use of an endoscope during 
+ventriculoperitoneal shunt (VPS) procedures and infection remains poorly 
+defined. In this study, we sought to analyze whether the simultaneous use of an 
+endoscope could in fact increase the infection rate associated with VPS 
+procedures.
+METHODS: This study included 438 VPS procedures, 49 in which an endoscope was 
+used (11.2%) and 389 in which an endoscope was not used (88.8%). The infection 
+rates in these 2 main groups were calculated and compared. Subsequently, 4 new 
+groups were created, composed of patients with a shunt inserted for the first 
+time (groups 1A and 1B) and patients with a shunt reviewed or inserted for a 
+second time (groups 2A and 2B). Groups 1A and 2A comprised patients in whom an 
+endoscope was used simultaneously with VPS surgery, and groups 1B and 2B 
+comprised patients in whom an endoscope was not used. These groups were compared 
+to determine the infection rate.
+RESULTS: The overall infection rate was 18.5%, including 22.4% in the groups in 
+which an endoscope was used and 18% in those in which an endoscope was not used 
+(P = 0.449). Groups 1A and 1B and groups 2A and 2B were matched for possible 
+intervening risk factors. The infection rate was 28.6% in group 1A and 16.2% in 
+group 1B (P = 0.27), and 20% in group 2A and 19.8% in group 2B (P = 0.977).
+CONCLUSIONS: In the present study, the use of an endoscope during VPS procedures 
+did not increase the risk of surgical infection.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2016.10.092
+PMID: 27989969 [Indexed for MEDLINE]

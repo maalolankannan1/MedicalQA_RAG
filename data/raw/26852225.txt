@@ -1,0 +1,51 @@
+1. BMC Psychiatry. 2016 Feb 6;16:25. doi: 10.1186/s12888-016-0733-9.
+
+Is adjustment for reporting heterogeneity necessary in sleep disorders? Results 
+from the Japanese World Health Survey.
+
+Tareque MI(1), Ikeda N(2), Koshio A(3), Hasegawa T(4).
+
+Author information:
+(1)Department of Population Science and Human Resource Development, University 
+of Rajshahi, Rajshahi, Bangladesh. tareque_pshd@yahoo.com.
+(2)Center for International Collaboration and Partnership, National Institute of 
+Health and Nutrition, National Institutes of Biomedical Innovation, Health and 
+Nutrition, Tokyo, Japan. ikedan@nibiohn.go.jp.
+(3)The Graduate School of Project Design, Tokyo, Japan. koshio@nms.ac.jp.
+(4)Department of Health Policy and Management, Nippon Medical School, Tokyo, 
+Japan. hasegawatoshihiko@nms.ac.jp.
+
+BACKGROUND: Anchoring vignettes are brief texts describing a hypothetical 
+character who illustrates a certain fixed level of a trait under evaluation. 
+This research uses vignettes to elucidate factors associated with sleep 
+disorders in adult Japanese before and after adjustment for reporting 
+heterogeneity in self-reports. This study also evaluates the need for adjusting 
+for reporting heterogeneity in the management of sleep and energy related 
+problems in Japan.
+METHODS: We investigated a dataset of 1002 respondents aged 18 years and over 
+from the Japanese World Health Survey, which collected information through 
+face-to-face interview from 2002 to 2003. The ordered probit model and the 
+Compound Hierarchical Ordered Probit (CHOPIT) model, which incorporated 
+anchoring vignettes, were employed to estimate and compare associations of sleep 
+and energy with socio-demographic and life-style factors before and after 
+adjustment for differences in response category cut-points for each individual.
+RESULTS: The prevalence of self-reported problems with sleep and energy was 53 
+%. Without correction of cut-point shifts, age, sex, and the number of 
+comorbidities were significantly associated with a greater severity of 
+sleep-related problems. After correction, age, the number of comorbidities, and 
+regular exercise were significantly associated with a greater severity of 
+sleep-related problems; sex was no longer a significant factor. Compared to the 
+ordered probit model, the CHOPIT model provided two changes with a subtle 
+difference in the magnitude of regression coefficients after correction for 
+reporting heterogeneity.
+CONCLUSION: Sleep disorders are common in the general adult population of Japan. 
+Correction for reporting heterogeneity using anchoring vignettes is not a 
+necessary tool for proper management of sleep and energy related problems among 
+Japanese adults. Older age, gender differences in communicating sleep-related 
+problems, the presence of multiple morbidities, and regular exercise should be 
+the focus of policies and clinical practice to improve sleep and energy 
+management in Japan.
+
+DOI: 10.1186/s12888-016-0733-9
+PMCID: PMC4744451
+PMID: 26852225 [Indexed for MEDLINE]

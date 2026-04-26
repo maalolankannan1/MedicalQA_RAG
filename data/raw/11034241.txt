@@ -1,0 +1,37 @@
+1. Ann Surg Oncol. 2000 Oct;7(9):651-5. doi: 10.1007/s10434-000-0651-3.
+
+Is routine intraoperative frozen-section examination of sentinel lymph nodes in 
+breast cancer worthwhile?
+
+Weiser MR(1), Montgomery LL, Susnik B, Tan LK, Borgen PI, Cody HS.
+
+Author information:
+(1)Department of Surgery, Memorial Sloan-Kettering Cancer Center, New York, New 
+York 10021, USA.
+
+BACKGROUND: Routine intraoperative frozen section (FS) of sentinel lymph nodes 
+(SLN) can detect metastatic disease, allowing immediate axillary dissection and 
+avoiding the need for reoperation. Routine FS is also costly, increases 
+operative time, and is subject to false-negative results. We examined the 
+benefit of routine intraoperative FS among the first 1000 patients at Memorial 
+Sloan Kettering Cancer Center who had SLN biopsy for breast cancer.
+METHODS: We performed SLN biopsy with intraoperative FS in 890 consecutive 
+breast cancer patients, none of whom had a back-up axillary dissection planned 
+in advance. Serial sections and immunohistochemical staining for cytokeratins 
+were performed on all SLN that proved negative on FS. The sensitivity of FS was 
+determined as a function of (1) tumor size and (2) volume of metastatic disease 
+in the SLN, and the benefit of FS was defined as the avoidance of a reoperative 
+axillary dissection.
+RESULTS: The sensitivity of FS ranged from 40% for patients with Tla to 76% for 
+patients with T2 cancers. The volume of SLN metastasis was highly correlated 
+with tumor size, and FS was far more effective in detecting macrometastatic 
+disease (sensitivity 92%) than micrometastases (sensitivity 17%). The benefit of 
+FS in avoiding reoperative axillary dissection ranged from 4% for Tla (6 of 143) 
+to 38% for T2 (45 of 119) cancers.
+CONCLUSIONS: In breast cancer patients having SLN biopsy, the failure of routine 
+intraoperative FS is largely the failure to detect micrometastatic disease. The 
+benefit of routine intraoperative FS increases with tumor size. Routine FS may 
+not be indicated in patients with the smallest invasive cancers.
+
+DOI: 10.1007/s10434-000-0651-3
+PMID: 11034241 [Indexed for MEDLINE]

@@ -1,0 +1,48 @@
+1. J Clin Endocrinol Metab. 2015 Dec;100(12):4662-8. doi: 10.1210/jc.2015-2957. 
+Epub 2015 Oct 27.
+
+Are Biochemical Markers of Bone Turnover Representative of Bone Histomorphometry 
+in 370 Postmenopausal Women?
+
+Chavassieux P(1), Portero-Muzy N(1), Roux JP(1), Garnero P(1), Chapurlat R(1).
+
+Author information:
+(1)Inserm UMR 1033 and Université de Lyon, 69372 Lyon, France.
+
+Comment in
+    J Clin Endocrinol Metab. 2016 Feb;101(2):L17-8. doi: 10.1210/jc.2015-4219.
+    J Clin Endocrinol Metab. 2016 Feb;101(2):L19. doi: 10.1210/jc.2015-4341.
+    J Clin Endocrinol Metab. 2016 Feb;101(2):L24-5. doi: 10.1210/jc.2015-4112.
+    J Clin Endocrinol Metab. 2016 Feb;101(2):L26. doi: 10.1210/jc.2015-4237.
+
+CONTEXT: The levels of bone formation and resorption can be assessed at the 
+tissue level by bone histomorphometry on transiliac bone biopsies. Systemic 
+biochemical markers of bone turnover reflect the overall bone formation and 
+resorption at the level of the entire skeleton but cannot discriminate the 
+different skeletal compartments.
+OBJECTIVE: Our aim was to investigate the correlations between the serum 
+biochemical markers of formation and resorption with histomorphometric 
+parameters.
+DESIGN: We performed post hoc analysis of a previous clinical study.
+SETTING: Patients were selected from the general population.
+PATIENTS: A total of 371 untreated postmenopausal osteoporotic women aged 50 to 
+84 years with a lumbar T-score ≤ -2.5 SD or ≤ -1 SD with at least one 
+osteoporotic fracture.
+INTERVENTIONS: Transiliac bone biopsies were obtained after a double 
+tetracycline labeling, and blood samples were collected.
+MAIN OUTCOME MEASURES: The static and dynamic parameters of formation and bone 
+resorption were measured by histomorphometry. Serum biochemical markers of 
+formation (bone alkaline phosphatase [ALP]; procollagen type I N-terminal 
+propeptide [PINP]) and resorption (C-terminal crosslinking telopeptide of 
+collagen type 1 [sCTX]) were assessed.
+RESULTS: The mean values of biochemical markers were: bone ALP, 15.0 ± 5.2 
+ng/mL; PINP, 56.2 ± 21.9 μg/mL; and sCTX, 0.58 ± 0.26 ng/mL. Bone ALP and PINP 
+were significantly correlated with both the static and dynamic parameters of 
+formation (0.21 ≤ r' ≤ 0.36; 0.01 ≥ P ≥ .0001). sCTX was significantly 
+correlated with all resorption parameters (0.18 ≤ r' ≤ 0.24; 0.02 ≥ P ≥ .0001).
+CONCLUSION: Bone turnover markers were significantly but modestly associated 
+with bone turnover parameters measured in iliac cancellous bone. The iliac crest 
+bone may not represent perfectly the whole bone turnover.
+
+DOI: 10.1210/jc.2015-2957
+PMID: 26505821 [Indexed for MEDLINE]

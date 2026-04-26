@@ -1,0 +1,32 @@
+1. Europace. 2007 Jan;9(1):55-60. doi: 10.1093/europace/eul145.
+
+Effects of exercise training on heart rate and QT interval in healthy young 
+individuals: are there gender differences?
+
+Genovesi S(1), Zaccaria D, Rossi E, Valsecchi MG, Stella A, Stramba-Badiale M.
+
+Author information:
+(1)Dipartimento di Medicina Clinica Prevenzione e Biotecnologie, University of 
+Milano-Bicocca, Sanitarie, Via Cadore 48, 20052-Monza, Italy. 
+simonetta.genovese@unimib.it
+
+AIMS: The aim of the present study was to assess the effects of exercise 
+training on heart rate, QT interval, and on the relation between ventricular 
+repolarization and heart rate in men and women.
+METHODS AND RESULTS: A 24 h Holter recording was obtained in 80 healthy subjects 
+(40 males) who differed for the degree of physical activity. Trained individuals 
+showed a lower heart rate and a higher heart rate variability than sedentary 
+subjects, independent of the gender difference in basal heart rate. Mean 24 h 
+QTc was similar in trained and non-trained men, while a significant difference 
+was observed between trained and non-trained women. Exercise training reduced 
+the QT/RR slope in both genders. This effect on the QT/RR relation was more 
+marked in women; in fact, the gender difference in the ventricular 
+repolarization duration at low heart rate observed in sedentary subjects was no 
+longer present among trained individuals.
+CONCLUSION: The results of this study suggest that the cardiovascular response 
+to exercise training may be different in men and women. Women may benefit more 
+from interventions aimed to increase physical activity as a tool for prevention 
+of cardiovascular morbidity and mortality.
+
+DOI: 10.1093/europace/eul145
+PMID: 17224424 [Indexed for MEDLINE]

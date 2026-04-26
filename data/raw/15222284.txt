@@ -1,0 +1,43 @@
+1. J Heart Valve Dis. 2004 May;13(3):382-8; discussion 388-9.
+
+The effective orifice area/patient aortic annulus area ratio: a better way to 
+compare different bioprostheses? A prospective randomized comparison of the 
+Mosaic and Perimount bioprostheses in the aortic position.
+
+Eichinger WB(1), Botzenhardt F, Guenzinger R, Bleiziffer S, Keithahn A, 
+Bauernschmitt R, Lange R.
+
+Author information:
+(1)Department of Cardiovascular Surgery, German Heart Centre Munich, 
+Lazarettstr. 36, 80636 Munich, Germany. eichinger@dhm.mhn.de
+
+BACKGROUND AND AIM OF THE STUDY: The aim of this prospective, randomized study 
+was to compare the hemodynamic performance of the Medtronic Mosaic and Edwards 
+Perimount bioprostheses in the aortic position, and to evaluate 
+prosthesis-specific differences in valve sizing and valve-size labeling.
+METHODS: Between August 2000 and September 2002, 139 patients underwent isolated 
+aortic valve replacement (AVR) with the Mosaic (n = 67) or Perimount (n = 72) 
+bioprosthesis. Intraoperatively, the internal aortic annulus diameter was 
+measured by insertion of a gauge (Hegar dilator), while prosthesis size was 
+determined by using the original sizers. Transthoracic echocardiography was 
+performed to determine hemodynamic and dimensional data. As the aim of AVR is to 
+achieve a maximal effective orifice area (EOA) within a given aortic annulus, 
+the ratio of EOA to patient aortic annulus area was calculated, the latter being 
+based on annulus diameter measured intraoperatively.
+RESULTS: Operative mortality was 2.2% (Mosaic 3.0%; Perimount 1.4%; p = NS). 
+Upsizing (using a prosthesis larger in labeled valve size than the patient's 
+measured internal aortic annulus diameter) was possible in 28.4% of Mosaic 
+patients and 8.3% of Perimount patients. The postoperative mean systolic 
+pressure gradient ranged from 10.5 to 22.2 mmHg in the Mosaic group, and from 
+9.4 to 12.6 mmHg in the Perimount group; it was significantly lower for 21 and 
+23 Perimount valves than for 21 and 23 Mosaic valves. The EOA ranged from 0.78 
+to 2.37 cm2 in Mosaic patients, and from 0.95 to 2.12 cm2 in Perimount patients. 
+When indexing EOA by calculating the ratio of EOA to patient aortic annulus area 
+to adjust for variables such as patient anatomy and valve dimensions, there was 
+no significant difference between the two bioprostheses.
+CONCLUSION: Comparisons of absolute EOA values grouped by the manufacturers' 
+valve sizes are misleading because of specific differences in geometric 
+dimensions. The EOA:patient aortic annulus area ratio provides a new hemodynamic 
+index which may facilitate objective comparisons between different valve types.
+
+PMID: 15222284 [Indexed for MEDLINE]

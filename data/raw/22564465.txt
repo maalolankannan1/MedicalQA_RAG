@@ -1,0 +1,37 @@
+1. Int J Circumpolar Health. 2012 Apr 16;71:1-6. doi: 10.3402/ijch.v71i0.18205.
+
+Mammographic screening in Sami speaking municipalities and a control group. Are 
+early outcome measures influenced by ethnicity?
+
+Norum J(1), Hofvind S, Nieder C, Schnell EA, Broderstad AR.
+
+Author information:
+(1)Institute of Clinical Medicine, Faculty of Health Sciences, University of 
+Tromsø, Tromsø, Norway. jan.norum@helse-nord.no
+
+OBJECTIVES: Female citizens of Sami (the indigenous people of Norway) 
+municipalities in northern Norway have a low risk of breast cancer. The 
+objective of this study was to describe the attendance rate and outcome of the 
+Norwegian Breast Cancer Screening Program (NBCSP) in the Sami-speaking 
+municipalities and a control group.
+STUDY DESIGN: A retrospective registry-based study.
+METHODS: The 8 municipalities included in the administration area of the Sami 
+language law (Sami) were matched with a control group of 11 municipalities 
+(non-Sami). Population data were accessed from Statistics Norway. Data regarding 
+invitations and outcome in the NBCSP during the period 2001-2010 was derived 
+from the Cancer Registry of Norway (CRN). The NBCSP targets women aged 50-69 
+years. Rates and percentages were compared using chi-square test with a 
+p-value<0.05 as statistical significant.
+RESULTS: The attendance rate in the NBCSP was 78% in the Sami and 75% in the 
+non-Sami population (p< 0.01). The recall rates were 2.4 and 3.3% in the Sami 
+and non-Sami population, respectively (p<0.01). The rate of invasive screen 
+detected cancer was not significantly lower in the Sami group (p=0.14). The 
+percentage of all breast cancers detected in the NBCSP among the Sami (67%) was 
+lower compared with the non-Sami population (86%, p=0.06).
+CONCLUSION: Despite a lower risk of breast cancer, the Sami attended the NBCSP 
+more frequently than the control group. The recall and cancer detection rate was 
+lower among the Sami compared with the non-Sami group.
+
+DOI: 10.3402/ijch.v71i0.18205
+PMCID: PMC3417642
+PMID: 22564465 [Indexed for MEDLINE]

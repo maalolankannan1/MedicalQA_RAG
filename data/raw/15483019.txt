@@ -1,0 +1,42 @@
+1. J Clin Oncol. 2004 Oct 15;22(20):4103-8. doi: 10.1200/JCO.2004.04.127.
+
+Is eligibility for a chemotherapy protocol a good prognostic factor for invasive 
+bladder cancer after radical cystectomy?
+
+Madersbacher S(1), Thalmann GN, Fritsch JC, Studer UE.
+
+Author information:
+(1)FEBU, Associate Professor, Department of Urology, Inselspital, CH-3010 Bern, 
+Switzerland.
+
+Comment in
+    J Urol. 2005 Aug;174(2):485. doi: 10.1097/01.ju.0000171071.88466.cc.
+
+PURPOSE: To assess whether eligibility to an adjuvant chemotherapy protocol in 
+itself represents a good prognostic factor after radical cystectomy for bladder 
+cancer.
+PATIENTS AND METHODS: Between April 1984 and May 1989, our institution entered 
+35 patients with invasive bladder cancer into the Swiss Group for Clinical and 
+Epidemiological Cancer Research (SAKK) study 09/84. They were randomly assigned 
+to either observation or three postoperative courses of cisplatin monotherapy 
+after cystectomy. This study had a negative result. The outcome of these 35 
+patients (protocol group) was compared with an age- and tumor-stage-matched 
+cohort (matched group; n = 35) who also underwent cystectomy during the same 
+period, but were not entered into the SAKK study, as well as the remaining 57 
+patients treated during the study period for the same indication (remaining 
+group).
+RESULTS: Median overall survival decreased from 76.3 months in the protocol 
+group to 52.1 months in the matched group and to 20.3 months in the remaining 
+group. The respective times of median recurrence-free survival were 67.2, 16.0, 
+and 9.4 months. Tumor progression occurred in 46% of the protocol group compared 
+with 69% in the matched group and 65% in the remaining group (P < .05). 
+Cancer-related death was noted in 40% of the protocol group, 57% in the matched 
+group, and 56% in the remaining group.
+CONCLUSION: These data suggest that being willing and fit enough for a 
+chemotherapy protocol is a good prognostic factor for invasive bladder cancer. 
+This eligibility bias emphasizes the need for prospective, randomized trials, 
+and indicates that single-group studies using historical or matched controls 
+have to be interpreted with caution.
+
+DOI: 10.1200/JCO.2004.04.127
+PMID: 15483019 [Indexed for MEDLINE]

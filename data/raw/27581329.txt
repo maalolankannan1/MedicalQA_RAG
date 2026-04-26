@@ -1,0 +1,47 @@
+1. Nutr J. 2016 Aug 31;15(1):79. doi: 10.1186/s12937-016-0197-2.
+
+Estimation of basal metabolic rate in Chinese: are the current prediction 
+equations applicable?
+
+Camps SG(1), Wang NX(1), Tan WS(1), Henry CJ(2)(3).
+
+Author information:
+(1)Clinical Nutrition Research Centre (CNRC), Singapore Institute for Clinical 
+Sciences (SICS), Agency for Science, Technology and Research (A*STAR), 30 
+Medical Drive, Singapore, 117609, Singapore.
+(2)Clinical Nutrition Research Centre (CNRC), Singapore Institute for Clinical 
+Sciences (SICS), Agency for Science, Technology and Research (A*STAR), 30 
+Medical Drive, Singapore, 117609, Singapore. jeya_henry@sics.a-star.edu.sg.
+(3)Department of Biochemistry, Yong Loo Lin School of Medicine, National 
+University of Singapore, Singapore, Singapore. jeya_henry@sics.a-star.edu.sg.
+
+BACKGROUND: Measurement of basal metabolic rate (BMR) is suggested as a tool to 
+estimate energy requirements. Therefore, BMR prediction equations have been 
+developed in multiple populations because indirect calorimetry is not always 
+feasible. However, there is a paucity of data on BMR measured in overweight and 
+obese adults living in Asia and equations developed for this group of interest. 
+The aim of this study was to develop a new BMR prediction equation for Chinese 
+adults applicable for a large BMI range and compare it with commonly used 
+prediction equations.
+METHODS: Subjects were 121 men and 111 women (age: 21-67 years, BMI: 
+16-41 kg/m(2)). Height, weight, and BMR were measured. Continuous open-circuit 
+indirect calorimetry using a ventilated hood system for 30 min was used to 
+measure BMR. A regression equation was derived using stepwise regression and 
+accuracy was compared to 6 existing equations (Harris-Benedict, Henry, Liu, 
+Yang, Owen and Mifflin). Additionally, the newly derived equation was 
+cross-validated in a separate group of 70 Chinese subjects (26 men and 44 women, 
+age: 21-69 years, BMI: 17-39 kg/m(2)).
+RESULTS: The equation developed from our data was: BMR (kJ/d) = 52.6 x weight 
+(kg) + 828 x gender + 1960 (women = 0, men = 1; R(2) = 0.81). The accuracy rate 
+(within 10 % accurate) was 78 % which compared well to Owen (70 %), Henry 
+(67 %), Mifflin (67 %), Liu (58 %), Harris-Benedict (45 %) and Yang (37 %) for 
+the whole range of BMI. For a BMI greater than 23, the Singapore equation 
+reached an accuracy rate of 76 %. Cross-validation proved an accuracy rate of 
+80 %.
+CONCLUSIONS: To date, the newly developed Singapore equation is the most 
+accurate BMR prediction equation in Chinese and is applicable for use in a large 
+BMI range including those overweight and obese.
+
+DOI: 10.1186/s12937-016-0197-2
+PMCID: PMC5007802
+PMID: 27581329 [Indexed for MEDLINE]

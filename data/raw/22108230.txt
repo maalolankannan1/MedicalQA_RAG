@@ -1,0 +1,42 @@
+1. PM R. 2011 Nov;3(11):1030-4. doi: 10.1016/j.pmrj.2011.07.003.
+
+Is the fibronectin-aggrecan complex present in cervical disk disease?
+
+Gajendran VK(1), Reuter MW, Golish SR, Hanna LS, Scuderi GJ.
+
+Author information:
+(1)Department of Orthopaedic Surgery, Stanford University, Redwood City, CA, 
+USA. varun182@stanford.edu
+
+OBJECTIVE: To investigate the presence of inflammatory cytokines and the 
+fibronectin-aggrecan complex (FAC) in persons undergoing surgical treatment for 
+cervical radiculopathy caused by disk herniation.
+DESIGN: Single-center, prospective, consecutive case series.
+SETTING: A single large academic institution.
+PATIENTS: A total of 11 patients with radiculopathic pain and magnetic resonance 
+imaging findings positive for disk herniation elected to undergo single-level 
+cervical diskectomy. METHODS OR INTERVENTIONS: Lavage was performed by needle 
+injection and aspiration upon entering the disk space for fluoroscopic 
+localization before diskectomy.
+MAIN OUTCOME MEASUREMENTS: The lavage fluid was assayed for pH and the FAC, as 
+well as for the cytokines interleukin-6 (IL-6), interferon-γ, monocyte 
+chemotactic protein (MCP), and macrophage inhibitory protein-1β.
+RESULTS: The subjects were 7 women and 4 men with a mean age of 50.6 years (SE 
+9.7; range, 36-70 years). The mean concentrations (SE; range) in picograms per 
+milliliter were 7.9 (4.4; 0-44) for IL-6, 25.3 (15.5; 0-159) for interferon-γ, 
+16.1 (11.9; 0-121) for MCP, and 6.1 (2.8; 0-29) for macrophage inhibitory 
+protein-1β. The optical density of the FAC at 450 nm was 0.151 (0.036; 
+0.1-0.32), and the pH was 6.68 (0.1; 6.10-7.15). Statistically significant 
+correlations were found between MCP and FAC (P = .036) and between FAC and pH (P 
+= .008).
+CONCLUSIONS: Biochemical analysis of injured cervical intervertebral disks 
+reveals the presence of inflammatory markers such as MCP, fragments of 
+structural matrix proteins such as FAC, and a correlation with pH. Further 
+evaluation of the FAC as a potential diagnostic biomarker or therapeutic target 
+is warranted in the cervical spine.
+
+Copyright © 2011 American Academy of Physical Medicine and Rehabilitation. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pmrj.2011.07.003
+PMID: 22108230 [Indexed for MEDLINE]

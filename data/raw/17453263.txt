@@ -1,0 +1,41 @@
+1. J Gen Intern Med. 2007 Jul;22(7):976-81. doi: 10.1007/s11606-007-0209-1. Epub 
+2007 Apr 24.
+
+Are physician estimates of asthma severity less accurate in black than in white 
+patients?
+
+Okelo SO(1), Wu AW, Merriman B, Krishnan JA, Diette GB.
+
+Author information:
+(1)Department of Pediatrics, Johns Hopkins University, 200 N. Wolfe Street, 
+Suite 3025, Baltimore, MD 21287, USA. sandeokelo@jhmi.edu
+
+BACKGROUND: Racial differences in asthma care are not fully explained by 
+socioeconomic status, care access, and insurance status. Appropriate care 
+requires accurate physician estimates of severity. It is unknown if accuracy of 
+physician estimates differs between black and white patients, and how this 
+relates to asthma care disparities.
+OBJECTIVE: We hypothesized that: 1) physician underestimation of asthma severity 
+is more frequent among black patients; 2) among black patients, physician 
+underestimation of severity is associated with poorer quality asthma care.
+DESIGN, SETTING AND PATIENTS: We conducted a cross-sectional survey among adult 
+patients with asthma cared for in 15 managed care organizations in the United 
+States. We collected physicians' estimates of their patients' asthma severity. 
+Physicians' estimates of patients' asthma as being less severe than 
+patient-reported symptoms were classified as underestimates of severity.
+MEASUREMENTS: Frequency of underestimation, asthma care, and communication.
+RESULTS: Three thousand four hundred and ninety-four patients participated (13% 
+were black). Blacks were significantly more likely than white patients to have 
+their asthma severity underestimated (OR = 1.39, 95% CI 1.08-1.79). Among black 
+patients, underestimation was associated with less use of daily inhaled 
+corticosteroids (13% vs 20%, p < .05), less physician instruction on management 
+of asthma flare-ups (33% vs 41%, p < .0001), and lower ratings of asthma care (p 
+= .01) and physician communication (p = .04).
+CONCLUSIONS: Biased estimates of asthma severity may contribute to racially 
+disparate asthma care. Interventions to improve physicians' assessments of 
+asthma severity and patient-physician communication may minimize racial 
+disparities in asthma care.
+
+DOI: 10.1007/s11606-007-0209-1
+PMCID: PMC2583798
+PMID: 17453263 [Indexed for MEDLINE]

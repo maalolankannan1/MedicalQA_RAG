@@ -1,0 +1,32 @@
+1. Educ Prim Care. 2012 Mar;23(2):95-100. doi: 10.1080/14739879.2012.11494083.
+
+Do general practice selection scores predict success at MRCGP? An exploratory 
+study.
+
+Ahmed H(1), Rhydderch M, Matthews P.
+
+Author information:
+(1)Wales Deanery, Heath Park, Cardiff, UK. harryahmed@doctors.org.uk
+
+BACKGROUND: Selection into general practice training is undertaken using a 
+competency based approach. The clear advantage of this approach over traditional 
+methods has been demonstrated through evaluation of its validity and 
+reliability. However, the relationship between selection and performance in the 
+Royal College of General Practitioner examinations (MRCGP) has yet to be 
+explored. The MRCGP comprises of an applied knowledge test (AKT), a clinical 
+skills assessment (CSA) and workplace-based assessments (WPBA).
+AIM: To explore the predictive validity of general practice selection scores 
+using the AKT and CSA elements of the MRCGP as a final outcome measure.
+METHODS: This study carried out a retrospective analysis of 101 trainees from 
+the Wales Deanery who were successfully selected on to general practice training 
+in 2007. Selection data consisted of an overall selection score as well as 
+scores from each individual stage of selection. Correlation was used to explore 
+associations between selection scores and examination scores.
+RESULTS: The score for overall performance at selection achieved statistically 
+significant correlation with examination performance (r = 0.491 for the AKT and 
+r = 0.526 for the CSA, P <0.01).
+CONCLUSIONS: The general practice selection process is predictive of future 
+performance in the MRCGP.
+
+DOI: 10.1080/14739879.2012.11494083
+PMID: 22449464 [Indexed for MEDLINE]

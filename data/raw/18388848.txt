@@ -1,0 +1,39 @@
+1. Med Care. 2008 Mar;46(3):323-30. doi: 10.1097/MLR.0b013e318158aefb.
+
+Does having a regular primary care clinician improve quality of preventive care 
+for young children?
+
+Inkelas M(1), Newacheck PW, Olson LM, Zuckerman B, Schuster MA.
+
+Author information:
+(1)Department of Health Services, UCLA School of Public Health, Center for 
+Healthier Children, Families, and Communities, Los Angeles, California 90024, 
+USA. minkelas@ucla.edu
+
+OBJECTIVE: This study examines whether having a regular clinician for preventive 
+care is associated with quality of care for young children, as measured by 
+interpersonal quality ratings and content of anticipatory guidance.
+DATA SOURCE: The National Survey of Early Childhood Health (NSECH), a nationally 
+representative parent survey of health care quality for 2068 young US children 
+fielded by the National Center for Health Statistics (NCHS).
+STUDY DESIGN: Bivariate and multivariate analyses evaluate associations between 
+having a regular clinician for well child care and interpersonal quality, the 
+content of anticipatory guidance, and timely access to care.
+PRINCIPAL FINDINGS: In bivariate analysis, parents of children with a regular 
+clinician for preventive care reported slightly higher interpersonal quality (69 
+vs. 65 on a 0-100 scale, P = 0.01). Content of anticipatory guidance received 
+was slightly greater for children with a regular clinician (82 vs. 80 on a 0-100 
+scale, P = 0.03). In bivariate analysis, a regular clinician was associated with 
+interpersonal quality only among African American and Hispanic children. In 
+multivariate analyses, controlling for factors that could independently 
+influence self-reports of experiences with care, interpersonal quality but not 
+anticipatory guidance content was higher for children with a regular clinician.
+CONCLUSIONS: Having a regular primary care clinician is embraced in pediatrics, 
+although team care among physicians is also widely practiced. For young 
+children, having a regular clinician is associated with modest gains in 
+interpersonal quality and no differences in content of anticipatory guidance. 
+The benefit of having a regular clinician may primarily occur in interpersonal 
+quality for subgroups of young children.
+
+DOI: 10.1097/MLR.0b013e318158aefb
+PMID: 18388848 [Indexed for MEDLINE]

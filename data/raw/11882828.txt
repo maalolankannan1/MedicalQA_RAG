@@ -1,0 +1,42 @@
+1. J Thorac Cardiovasc Surg. 2002 Mar;123(3):539-43. doi:
+10.1067/mtc.2002.117281.
+
+Does tranexamic acid reduce desmopressin-induced hyperfibrinolysis?
+
+Ozal E(1), Kuralay E, Bingöl H, Cingöz F, Ceylan S, Tatar H.
+
+Author information:
+(1)Cardiovascular Surgery Department, Gülhane Military Medical Academy, Etlik, 
+Ankara, Turkey 06010. ozal@tr.net
+
+OBJECTIVE: Desmopressin releases tissue-type plasminogen activator, which 
+augments cardiopulmonary bypass--associated hyperfibrinolysis, causing excessive 
+bleeding. Combined use of desmopressin with prior administration of the 
+antifibrinolytic drug tranexamic acid may decrease fibrinolytic activity and 
+might improve postoperative hemostasis.
+METHODS: This prospective randomized study was carried out with 100 patients 
+undergoing coronary artery bypass operations between April 1999 and November 
+2000 in Gülhane Military Medical Academy. Patients were divided into 2 groups. 
+Desmopressin (0.3 microg/kg) was administrated just after cardiopulmonary bypass 
+and after protamine infusion in group 1 (n = 50). Both desmopressin and 
+tranexamic acid (before the skin incision at a loading dose of 10 mg/kg over 30 
+minutes and followed by 12 hours of 1 mg.kg(-1).h(-1)) were administrated in 
+group 2 (n = 50).
+RESULTS: Significantly less drainage was noted in group 2 (1010 +/- 49.9 mL vs 
+623 +/- 41.3 mL, P =.0001). Packed red blood cells were transfused at 2.1 +/- 
+0.5 units per patient in group 1 versus 0.9 +/- 0.3 units in group 2 (P =.0001). 
+Fresh frozen plasma was transfused at 1.84 +/- 0.17 units per patient in group 1 
+versus 0.76 +/- 0.14 units in group 2 (P =.0001). Only 24% of patients in group 
+2 required donor blood or blood products compared with 74% of those in the 
+isolated desmopressin group (group 1, P =.00001). Group 1 and group 2 findings 
+were as follows: postoperative fibrinogen, 113 +/- 56.3 mg/dL versus 167 +/- 
+45.8 mg/dL (P =.0001); fibrin split product, 21.2 +/- 2.3 ng/mL versus 13.5 +/- 
+3.4 ng/mL (P =.0001); and postoperative hemoglobin level, 7.6 plus minus 1.2 
+g/dL versus 9.1 plus minus 1.2 g/dL (P =.0001).
+CONCLUSION: Tranexamic acid administration significantly reduces desmopressin 
+and bypass-induced hyperfibrinolysis. Combined use of tranexamic acid and 
+desmopressin decreases both postoperative blood loss and transfusion 
+requirement.
+
+DOI: 10.1067/mtc.2002.117281
+PMID: 11882828 [Indexed for MEDLINE]

@@ -1,0 +1,51 @@
+1. Addiction. 2016 Feb;111(2):360-70. doi: 10.1111/add.13160. Epub 2015 Nov 11.
+
+Are financial incentives cost-effective to support smoking cessation during 
+pregnancy?
+
+Boyd KA(1), Briggs AH(1), Bauld L(2), Sinclair L(2), Tappin D(3).
+
+Author information:
+(1)Health Economics and Health Technology Assessment, University of Glasgow, 
+Glasgow, UK.
+(2)Institute for Social Marketing, University of Stirling and UK Centre for 
+Tobacco and Alcohol Studies, Stirling, UK.
+(3)Paediatric Epidemiology and Community Health Unit, University of Glasgow, 
+Glasgow, UK.
+
+Comment in
+    Addiction. 2016 Jun;111(6):115-7. doi: 10.1111/add.13374.
+    Addiction. 2016 Jun;111(6):1114-5. doi: 10.1111/add.13307.
+
+AIMS: To investigate the cost-effectiveness of up to £400 worth of financial 
+incentives for smoking cessation in pregnancy as an adjunct to routine health 
+care.
+DESIGN: Cost-effectiveness analysis based on a Phase II randomized controlled 
+trial (RCT) and a cost-utility analysis using a life-time Markov model.
+SETTING: The RCT was undertaken in Glasgow, Scotland. The economic analysis was 
+undertaken from the UK National Health Service (NHS) perspective.
+PARTICIPANTS: A total of 612 pregnant women randomized to receive usual 
+cessation support plus or minus financial incentives of up to £400 vouchers (US 
+$609), contingent upon smoking cessation.
+MEASUREMENTS: Comparison of usual support and incentive interventions in terms 
+of cotinine-validated quitters, quality-adjusted life years (QALYs) and direct 
+costs to the NHS.
+FINDINGS: The incremental cost per quitter at 34-38 weeks pregnant was £1127 
+($1716).This is similar to the standard look-up value derived from Stapleton & 
+West's published ICER tables, £1390 per quitter, by looking up the Cessation in 
+Pregnancy Incentives Trial (CIPT) incremental cost (£157) and incremental 
+6-month quit outcome (0.14). The life-time model resulted in an incremental cost 
+of £17 [95% confidence interval (CI) = -£93, £107] and a gain of 0.04 QALYs (95% 
+CI = -0.058, 0.145), giving an ICER of £482/QALY ($734/QALY). Probabilistic 
+sensitivity analysis indicates uncertainty in these results, particularly 
+regarding relapse after birth. The expected value of perfect information was £30 
+million (at a willingness to pay of £30 000/QALY), so given current uncertainty, 
+additional research is potentially worthwhile.
+CONCLUSION: Financial incentives for smoking cessation in pregnancy are highly 
+cost-effective, with an incremental cost per quality-adjusted life years of 
+£482, which is well below recommended decision thresholds.
+
+© 2015 Society for the Study of Addiction.
+
+DOI: 10.1111/add.13160
+PMID: 26370095 [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+1. Health Serv Res. 2007 Feb;42(1 Pt 1):63-83. doi: 
+10.1111/j.1475-6773.2006.00604.x.
+
+Does ambulatory process of care predict health-related quality of life outcomes 
+for patients with chronic disease?
+
+Kahn KL(1), Tisnado DM, Adams JL, Liu H, Chen WP, Hu FA, Mangione CM, Hays RD, 
+Damberg CL.
+
+Author information:
+(1)Department of Medicine, University of California at Los Angeles, Division of 
+General Internal Medicine and Health Services Research, 911 Broxton Plaza, Box 
+951736, Los Angeles, CA 90095-1736, USA.
+
+OBJECTIVE: The validity of quality of care measurement has important 
+implications for practicing clinicians, their patients, and all involved with 
+health care delivery. We used empirical data from managed care patients enrolled 
+in west coast physician organizations to test the hypothesis that observed 
+changes in health-related quality of life across a 2.5-year window reflecting 
+process of care.
+DATA SOURCES/STUDY SETTING: Patient self-report data as well as clinically 
+detailed medical record review regarding 963 patients with chronic disease 
+associated with managed care from three west coast states.
+STUDY DESIGN: Prospective cohort study of change in health-related quality of 
+life scores across 30 months as measured by change in SF-12 physical component 
+scores.
+DATA COLLECTION/EXTRACTION METHODS: Patient self-report and medical record 
+abstraction.
+PRINCIPAL FINDINGS: We found a positive relationship between better process 
+scores and higher burden of illness (p<.05). After adjustment for burden of 
+illness, using an instrumental variables approach revealed better process is 
+associated with smaller declines in SF-12 scores across a 30-month observation 
+window (p=.014). The application of the best quartile of process of care to 
+patients currently receiving poor process is associated with a 4.24 increment in 
+delta SF-12-physical component summary scores.
+CONCLUSIONS: The use of instrumental variables allowed us to demonstrate a 
+significant relationship between better ambulatory process of care and better 
+health-related quality of life. This finding underscores the importance of 
+efforts to improve the process of care.
+
+DOI: 10.1111/j.1475-6773.2006.00604.x
+PMCID: PMC1955244
+PMID: 17355582 [Indexed for MEDLINE]

@@ -1,0 +1,45 @@
+1. J Affect Disord. 2016 Dec;206:287-293. doi: 10.1016/j.jad.2016.09.004. Epub
+2016  Sep 13.
+
+Major depression and alcohol use disorder in adolescence: Does comorbidity lead 
+to poorer outcomes of depression?
+
+Boden JM(1), Foulds JA(2).
+
+Author information:
+(1)Christchurch Health and Development Study, Department of Psychological 
+Medicine, University of Otago, Christchurch School of Medicine and Health 
+Sciences, New Zealand. Electronic address: joseph.boden@otago.ac.nz.
+(2)Christchurch Health and Development Study, Department of Psychological 
+Medicine, University of Otago, Christchurch School of Medicine and Health 
+Sciences, New Zealand.
+
+BACKGROUND: Comorbid major depression (MD) and alcohol use disorder (AUD), 
+particularly in adolescents, have been shown to be associated with poorer 
+subsequent MD outcomes.
+METHODS: Longitudinal data were used to model associations between a four-level 
+classification of MD/AUD during the period 15-18 years (neither; MD-only; 
+AUD-only; comorbid MD/AUD) and MD over the period 18-35 years. These 
+associations were then adjusted for confounding by a series of factors measured 
+in childhood.
+RESULTS: The three disorder groups had rates of adult MD during the period 18-35 
+years that were significantly (p<.05) higher than that of the group with no 
+disorder. Furthermore, those in the comorbid MD/AUD group had significantly (p 
+<.05) higher rates of adult MD than those in the AUD-only group, and marginally 
+(p <.10) higher rates of adult MD than those in the MD-only group. After 
+adjustment for confounding, the difference in rates of adult MD between the 
+MD-only group and the MD/AUD group were no longer statistically significant. The 
+factors that explained the associations were gender, childhood behavior 
+problems, and exposure to physical and sexual abuse.
+LIMITATIONS: The data were obtained by self-report, and may have been subject to 
+biases.
+CONCLUSIONS: The results of these analyses suggest that marginally higher rates 
+of depression to age 35 amongst the comorbid MD/AUD group were explained by 
+increased exposure to adverse childhood circumstances amongst members of the 
+comorbid group. Adolescent MD/AUD comorbidity is likely to be a risk marker, 
+rather than a causal factor in subsequent MD.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2016.09.004
+PMID: 27643961 [Indexed for MEDLINE]

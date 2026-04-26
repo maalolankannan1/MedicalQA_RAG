@@ -1,0 +1,47 @@
+1. Eur J Prev Cardiol. 2015 Nov;22(11):1442-51. doi: 10.1177/2047487314547656.
+Epub  2014 Aug 22.
+
+Can common carotid intima media thickness serve as an indicator of both 
+cardiovascular phenotype and risk among black Africans?
+
+Owolabi MO(1), Agunloye AM(2), Umeh EO(3), Akpa OM(4).
+
+Author information:
+(1)Department of Medicine, University College Hospital, Ibadan, Nigeria College 
+of Medicine, University of Ibadan, Nigeria mayowaowolabi@yahoo.com.
+(2)College of Medicine, University of Ibadan, Nigeria Department of Radiology, 
+University College Hospital, Ibadan, Nigeria.
+(3)Department of Radiology, University College Hospital, Ibadan, Nigeria.
+(4)College of Medicine, University of Ibadan, Nigeria Department of Epidemiology 
+and Medical Statistics, College of Medicine, University of Ibadan, Nigeria.
+
+BACKGROUND: It is not known whether common carotid intima media thickness (CIMT) 
+can serve as a surrogate marker of cardiovascular risk among black Africans. 
+Therefore, we examined whether CIMT differed significantly among individuals 
+with distinct cardiovascular phenotype and correlated significantly with 
+traditional cardiovascular risk factors in a black African population.
+METHODS: CIMT was measured in 456 subjects with three distinct cardiovascular 
+phenotypes - 175 consecutive Nigerian African stroke patients, 161 hypertensive 
+patients without stroke and 120 normotensive non-smoking adults. For each pair 
+of cardiovascular phenotypes, c-statistics were obtained for CIMT and 
+traditional vascular risk factors (including age, gender, weight, waist 
+circumference, smoking, alcohol, systolic and diastolic blood pressures, fasting 
+plasma glucose, fasting total cholesterol). Pearson's correlation coefficients 
+were calculated to quantify bivariate relationships.
+FINDINGS: Bilaterally, CIMT was significantly different among the three 
+cardiovascular phenotypes (right: p < 0.001, F = 33.8; left: p < 0.001, 
+F = 48.6). CIMT had a higher c-statistic for differentiating stroke versus 
+normotension (c = 0.78 right; 0.82 left, p < 0.001) and hypertension versus 
+normotension (c = 0.65 right; 0.71 left, p < 0.001) than several traditional 
+vascular risk factors. Bilaterally, combining all subjects, CIMT was the only 
+factor that correlated significantly (right: 0.12 ≤ r ≤ 0.41, 
+0.018 ≤ p < 0.0001; left: 0.18 ≤ r ≤ 0.41, 0.005 ≤ p < 0.0001) to all the 
+traditional cardiovascular risk factors assessed.
+CONCLUSION: Our findings support CIMT as a significant indicator of both 
+cardiovascular risk and phenotype among adult black Africans. However, specific 
+thresholds need to be defined based on prospective studies.
+
+© The European Society of Cardiology 2014.
+
+DOI: 10.1177/2047487314547656
+PMID: 25150098 [Indexed for MEDLINE]

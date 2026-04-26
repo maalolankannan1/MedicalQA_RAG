@@ -1,0 +1,33 @@
+1. J Med Assoc Thai. 2005 Feb;88(2):247-51.
+
+Does preloading with colloids prevent hemodynamic changes when neurosurgical 
+patients are subsequently changed to the seated position?
+
+Akavipat P(1), Metta P.
+
+Author information:
+(1)Department of Anesthesiology, Prasat Neurological Institute, 312 Rajvithee 
+Rd, Rajthevee, Bangkok 10400, Thailand. ppakvp@hotmail.com
+
+OBJECTIVE: This prospective, randomized, double-blind study was designed to 
+determine and compare the usefulness of preloading colloids (Haemaccel) 10 ml/Kg 
+before positioning whether it can prevent hemodynamic changes during seated 
+positioning or not.
+MATERIAL AND METHOD: The authors studied 20 patients by randomly dividing them 
+into 2 groups. The control group was given crystalloid as maintenance and 
+deposit replacement but the study group was given extra colloids 10 ml/Kg 30 
+minutes before starting general anesthesia. Both groups were monitored and given 
+anesthesia, balanced technique. Systolic and diastolic blood pressures, heart 
+rate, central venous pressure (CVP) at different time intervals in the sitting 
+position for 30 minutes were recorded. Statistical analysis was done by Student 
+t-test, Chi-square test and ANOVA (p-value < 0. 05 considered significant).
+RESULTS: The results showed that systolic blood pressure at 15, 20, 30 minutes 
+and CVP at 15, 25, 30 minutes after positioning in the study group was 
+maintained significantly compared to the control group and there were no 
+significant changes in diastolic blood pressure and heart rate. There were no 
+other complications during the sitting period.
+CONCLUSION: It is concluded that preloading colloid fluid prior to repositioning 
+could prevent the decrease of systolic blood pressure and central venous 
+pressure during sitting positioning without other complications.
+
+PMID: 15962678 [Indexed for MEDLINE]

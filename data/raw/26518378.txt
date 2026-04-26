@@ -1,0 +1,51 @@
+1. Ann Emerg Med. 2016 Mar;67(3):401-406.e6. doi: 
+10.1016/j.annemergmed.2015.09.003. Epub 2015 Oct 27.
+
+Are Reviewers' Scores Influenced by Citations to Their Own Work? An Analysis of 
+Submitted Manuscripts and Peer Reviewer Reports.
+
+Schriger DL(1), Kadera SP(2), von Elm E(3).
+
+Author information:
+(1)Department of Emergency Medicine, School of Medicine, University of 
+California, Los Angeles, CA. Electronic address: schriger@annemergmed.org.
+(2)Department of Emergency Medicine, School of Medicine, University of 
+California, Los Angeles, CA.
+(3)Cochrane Switzerland Institute for Social and Preventive Medicine, Lausanne 
+University Hospital, Lausanne, Switzerland.
+
+STUDY OBJECTIVE: Academic medical researchers are judged by how often their 
+publications are cited in the literature. When serving as journal reviewers, 
+they may be more favorably disposed to manuscripts that cite their work. We 
+investigate whether manuscripts that contain a citation to the reviewer's work 
+receive higher evaluations than those that do not and whether peer reviewers 
+encourage authors to cite that reviewer's work.
+METHODS: We analyzed all research manuscripts submitted in 2012 to Annals of 
+Emergency Medicine to determine whether they contained citations to each 
+reviewer's work. To determine whether citation affected reviewer scores, we 
+obtained each reviewer's score of the manuscript's overall desirability (1=worst 
+to 5=best) and used descriptive statistics and regression modeling to compare 
+scores of cited and noncited reviewers. We also enumerated how often reviewers 
+suggested that authors add citations to the reviewer's work or other work.
+RESULTS: There were 395 manuscripts and 999 corresponding reviews with an 
+manuscript desirability score. The 83 reviews by cited reviewers (8.3%) had a 
+mean score of 2.8 (SD 1.4); the 916 reviews by noncited reviewers (91.7%), 2.5 
+(1.2; Δ=0.3; 95% confidence interval [CI] 0 to 0.6). The mean score in the 117 
+reviews of the noncited reviewers of the 57 manuscripts that had both cited and 
+noncited reviewers was 2.9 (SD 1.2) compared with 2.9 (SD 1.1) for the 68 
+reviews by cited reviewers (Δ=0; 95% CI -0.3 to 0.4). In the final ordinal 
+regression model, the unadjusted OR for the manuscript desirability score was 
+1.6 (95% CI 1.0 to 2.7); when adjusting for the manuscripts' mean desirability 
+score, it was 1.4 (95% CI 0.8 to 2.2), demonstrating that manuscript quality was 
+a confounder. Authors were asked to add a citation to the reviewer's work in 28 
+reviews (3%) but to others' work in 98 (10%).
+CONCLUSION: In a leading specialty journal, cited reviewers gave higher scores 
+than noncited reviewers. However, this was likely due to their being assigned 
+higher-quality manuscripts and not because they were cited in the manuscript. 
+Reviewer requests that their work be cited were rare.
+
+Copyright © 2015 American College of Emergency Physicians. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.annemergmed.2015.09.003
+PMID: 26518378 [Indexed for MEDLINE]

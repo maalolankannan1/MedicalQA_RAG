@@ -1,0 +1,38 @@
+1. Cardiology. 2011;119(3):164-9. doi: 10.1159/000331432. Epub 2011 Sep 27.
+
+Remote ischemic postconditioning: does it protect against ischemic damage in 
+percutaneous coronary revascularization? justification and design of a 
+randomized placebo-controlled clinical trial.
+
+Jiménez-Navarro MF(1), Carrasco-Chinchilla F, Muñoz-García AJ, Domínguez-Franco 
+A, Caballero-Borrego J, Alonso-Briales JH, Hernández-García JM, de Teresa-Galván 
+E.
+
+Author information:
+(1)Servicio de Cardiología, Hospital Clínico Universitario Virgen de la 
+Victoria, Málaga, Spain. fernandocarrascochinchilla@gmail.com
+
+OBJECTIVE: Myocardial damage that is associated with percutaneous coronary 
+intervention (PCI) partially affects the results of the procedure, and is 
+related to medium-term cardiovascular death. Remote postischemic conditioning 
+might reduce the myocardial lesions that are associated with PCI, but perhaps 
+less so in diabetics. The aim of this study was to evaluate the protective 
+effect of remote postischemic conditioning in patients undergoing elective PCI 
+for stable angina or non-ST elevation acute coronary syndrome with troponin <1 
+ng/ml at the time of randomization.
+METHODS: This randomized single-blinded single-center clinical trial involved 
+320 patients undergoing elective PCI who were randomized to either receive three 
+5-min cycles of ischemia by inflation of a cuff on the non-dominant arm to 200 
+mm Hg (remote postischemic conditioning) or to placebo (uninflated cuff). The 
+primary outcome variable was the maximum increase in troponin in the first 24 h. 
+The secondary outcome variable was readmission due to heart failure or 
+cardiovascular mortality after 1 year of follow-up. In addition, a diabetic 
+population was studied.
+CONCLUSIONS: This clinical trial evaluated the possible reduction in 
+intervention-related myocardial damage that was attributable to remote 
+postischemic conditioning.
+
+Copyright © 2011 S. Karger AG, Basel.
+
+DOI: 10.1159/000331432
+PMID: 21952349 [Indexed for MEDLINE]

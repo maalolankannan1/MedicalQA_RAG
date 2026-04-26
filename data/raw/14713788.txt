@@ -1,0 +1,34 @@
+1. J Urol. 2004 Feb;171(2 Pt 1):692-6. doi: 10.1097/01.ju.0000107260.98031.0e.
+
+Is year of radical prostatectomy a predictor of outcome in prostate cancer?
+
+Cagiannos I(1), Karakiewicz P, Graefen M, Eastham JA, Ohori M, Rabbani F, Reuter 
+V, Wheeler T, Kupelian P, Klein E, Huland H, Hammerer PG, Erbersdobler A, 
+Schroeder F, Wildhagen M, Quinn DI, Henshall SM, Grygiel JJ, Sutherland RL, 
+Stricker PD, Morash CG, Scardino PT, Kattan MW.
+
+Author information:
+(1)Department of Urology, Memorial Sloan-Kettering Cancer Center, New York, New 
+York 10021, USA.
+
+PURPOSE: We examined whether the year in which radical prostatectomy (RP) was 
+performed is a predictor of treatment outcome after controlling for standard 
+prognostic factors.
+MATERIALS AND METHODS: We examined the association between RP year and outcome 
+in 6,556 patients from 7 centers using preoperative and pathological features. 
+Patients underwent surgery between 1985 and 2000. The variables analyzed were RP 
+year, clinical stage, pretreatment prostate specific antigen, biopsy Gleason 
+sum, RP Gleason sum, margin status, level of extracapsular extension, seminal 
+vesicle status, lymph node status, neoadjuvant hormones and adjuvant therapy. 
+Median followup was 23 months (maximum 166). Separate Cox multivariate 
+regression analyses were performed to analyze preoperative and postoperative 
+factors.
+RESULTS: RP year was a predictor of outcome on preoperative analysis (p = 0.006) 
+but not on postoperative analysis (p = 0.130). Patient outcome steadily improved 
+with surgery through the mid 1990s and then it appeared to level off.
+CONCLUSIONS: When controlling for preoperative features, the year in which RP 
+was performed is a predictor of outcome on multivariate analysis. This effect 
+could not be explained by stage migration.
+
+DOI: 10.1097/01.ju.0000107260.98031.0e
+PMID: 14713788 [Indexed for MEDLINE]

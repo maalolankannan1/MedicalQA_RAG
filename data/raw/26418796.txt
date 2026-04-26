@@ -1,0 +1,35 @@
+1. Ann Plast Surg. 2016 Jan;76(1):34-9. doi: 10.1097/SAP.0000000000000622.
+
+Do Wound Cultures Give Information About the Microbiology of Blood Cultures in 
+Severe Burn Patients?
+
+Raz-Pasteur A(1), Fishel R, Hardak E, Mashiach T, Ullmann Y, Egozi D.
+
+Author information:
+(1)From the *Department of Internal Medicine A, †Infectious Diseases Unit, 
+Rambam Health Care Campus, Haifa, Israel; ‡Plastic Surgery Department, Kaplan 
+Medical Center; §Statistics Service, and ∥Plastic Surgery Department, Rambam 
+Health Care Campus, Haifa, Israel.
+
+BACKGROUND: Blood stream infection (BSI) and the subsequent development of 
+sepsis are among the most common infection complications occurring in severe 
+burn patients. This study was designed to evaluate the relationship between the 
+burn wound flora and BSI pathogens.
+METHODS: Documentation of all bacterial and fungal wound and blood isolates from 
+severe burn patients hospitalized in the burn unit and intensive care unit was 
+obtained from medical records retrieved retrospectively from a computerized, 
+hospital-wide database over a 13-year period. All data were recorded in relation 
+to the Ryan score.
+RESULTS: Of 195 severe burn patients, 88 had at least 1 BSI episode. 
+Transmission of the same pathogen from wound to blood was documented in 30% of 
+the patients, with a rising BSI frequency as the Ryan score increased. There 
+were a total of 263 bacteremic episodes in 88 study patients, 44% of blood 
+isolates were documented previously in wound cultures, and transmission of the 
+same pathogen from wound to blood was noted in 65% of bacteremic patients.
+CONCLUSIONS: When there is clinical suspicion of sepsis, appropriate empirical 
+systemic antibiotic therapy should be broad spectrum and should rely on the 
+susceptibility of the organisms from recent cultures of the burn wound surface, 
+until the blood cultures results are completed.
+
+DOI: 10.1097/SAP.0000000000000622
+PMID: 26418796 [Indexed for MEDLINE]

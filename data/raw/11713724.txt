@@ -1,0 +1,39 @@
+1. Am J Otolaryngol. 2001 Nov-Dec;22(6):395-9. doi: 10.1053/ajot.2001.28067.
+
+Cancer of the buccal mucosa: are margins and T-stage accurate predictors of 
+local control?
+
+Sieczka E(1), Datta R, Singh A, Loree T, Rigual N, Orner J, Hicks W Jr.
+
+Author information:
+(1)Department of Head and Neck Surgery, Roswell Park Cancer Institute, Buffalo, 
+NY 14263, USA.
+
+Cancer of the buccal mucosa is an uncommon and aggressive neoplasm of the oral 
+cavity. Less than 2% of patients treated for cancer of the oral cavity at 
+Roswell Park Cancer Institute (RPCI) from 1971 to 1997 had primary buccal 
+cancers. Because the majority of these patients did not undergo any adjuvant 
+treatment, this group provided us with the opportunity to assess the 
+relationship between margin status and local recurrence for both small (T1-T2) 
+and large (T3-T4) tumors treated with surgery alone.
+MATERIALS AND METHODS: The RPCI tumor registry database reported 104 patients 
+who were treated for buccal carcinoma. A retrospective chart review identified 
+27 patients who met our criteria for a buccal mucosal primary tumor (epicenter 
+of the mass in the buccal mucosa). There were 13 men and 14 women, ranging in 
+age from 34 to 94 years (mean, 75). Data were collected regarding patient 
+demographics, presenting symptoms, stage, treatment received, and outcome.
+RESULTS: All patients underwent surgical resection of their primary lesion; 21 
+(75%) had T1 or T2 tumors. The rate of local recurrence was 56% for the group as 
+a whole. Patients with close or positive margins had a 66% local failure rate as 
+compared with 52% when surgical margins were negative (greater than or equal to 
+5 mm from the resection margin after tissue fixation; P = ns). Among those in 
+whom negative margins were achieved, patients with T1-T2 disease had a 40% local 
+failure rate with surgical resection alone.
+CONCLUSIONS: Local excision of T1 and T2 buccal mucosa cancers with 
+pathologically negative margins had a high rate of local recurrence in our 
+series. Low T-stage and negative margins are not adequate predictors of local 
+control. Even early buccal tumors may benefit from adjuvant therapy to enhance 
+local control.
+
+DOI: 10.1053/ajot.2001.28067
+PMID: 11713724 [Indexed for MEDLINE]

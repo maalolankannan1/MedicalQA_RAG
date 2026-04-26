@@ -1,0 +1,28 @@
+1. Dentomaxillofac Radiol. 1997 Jan;26(1):67-9. doi: 10.1038/sj.dmfr.4600204.
+
+Can dentists recognize manipulated digital radiographs?
+
+Visser H(1), Krüger W.
+
+Author information:
+(1)Department of Periodontology, Dental School, Georg-August-University 
+Göttingen, Germany.
+
+OBJECTIVES: To determine the ability of dentists to recognize digitally 
+manipulated radiographs.
+METHODS: A poster was presented at the Annual Meeting of the German Society for 
+Periodontology displaying the intra-oral radiographs of 12 different patients. 
+Half of the radiographs were subjected to digital manipulation to add or remove 
+specific features. Dentists were asked to identify these radiographs by means of 
+a questionnaire.
+RESULTS: Thirty-nine dentists submitted usable questionnaires. Statistical 
+evaluation revealed a distribution of hits similar to the random distribution. 
+None of the dentists detected all the six manipulated radiographs; three 
+dentists had five correct, but there were five with only one. An authentic 
+radiograph scored highest as a manipulation.
+CONCLUSIONS: Image manipulations which alter the diagnostic content of a 
+radiograph are unlikely to be detected by dentists. Digital radiography requires 
+additional measures for data protection.
+
+DOI: 10.1038/sj.dmfr.4600204
+PMID: 9446993 [Indexed for MEDLINE]

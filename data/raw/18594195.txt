@@ -1,0 +1,39 @@
+1. Aging Clin Exp Res. 2008 Jun;20(3):266-71. doi: 10.1007/BF03324777.
+
+Do older patients who refuse to participate in a self-management intervention in 
+the Netherlands differ from older patients who agree to participate?
+
+Elzen H(1), Slaets JP, Snijders TA, Steverink N.
+
+Author information:
+(1)Department of Internal Medicine and Geriatrics, University Medical Center 
+Groningen, University of Groningen, 9700 RB Groningen, The Netherlands. 
+h.a.elzen@int.umcg.nl
+
+BACKGROUND AND AIMS: Refusal of patients to participate in intervention programs 
+is an important problem in clinical trials but, in general, researchers devote 
+relatively little attention to it. In this article, a comparison is made between 
+patients who, after having been invited, agreed to participate in a 
+self-management intervention (participants) and those who refused (refusers). 
+Compared with other studies of refusers, relatively more information could be 
+gathered with regard to both their characteristics and reasons for refusing, 
+because all potential participants were invited personally.
+METHODS: Older patients from a Dutch outpatient clinic were invited to 
+participate in a self-management intervention, and their characteristics were 
+assessed. Demographic data were collected, as well as data on physical 
+functioning and lack of emotional support. People who refused to participate 
+were asked to give their reasons for refusing.
+RESULTS: Of the 361 patients invited, 267 (74%) refused participation. These 
+refusers were more restricted in their mobility, lived further away from the 
+location of the intervention, and had a partner more often than did the 
+participants. No differences were found in level of education, age or gender. 
+The main reasons given by respondents for refusing to participate were lack of 
+time, travel distance, and transport problems.
+CONCLUSIONS: As in many studies, the refusal rate in this study is high, and 
+seems to be related to physical mobility restrictions, travel distance and, 
+partly, to availability of emotional support. These findings may be used to make 
+the recruitment process more effective - for example, by offering transport to 
+the location of the intervention.
+
+DOI: 10.1007/BF03324777
+PMID: 18594195 [Indexed for MEDLINE]

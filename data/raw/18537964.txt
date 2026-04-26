@@ -1,0 +1,41 @@
+1. Br J Clin Pharmacol. 2008 Aug;66(2):308-12. doi: 
+10.1111/j.1365-2125.2008.03202.x. Epub 2008 Apr 11.
+
+Does a physician's specialty influence the recording of medication history in 
+patients' case notes?
+
+Yusuff KB(1), Tayo F.
+
+Author information:
+(1)Department of Clinical Pharmacy and Pharmacy Administration, Faculty of 
+Pharmacy, University of Ibadan, Ibadan, Nigeria. yusuffkby@yahoo.co.uk
+
+AIMS: To determine the impact of a physician's specialty on the frequency and 
+depth of medication history documented in patient medical records.
+METHODS: A cross-sectional assessment of the frequency and depth of medication 
+history information documented by 123 physicians for 900 randomly selected 
+patients stratified across Cardiology, Chest, Dermatology, Endocrine, 
+Gastroenterology, Haematology, Neurology, Psychiatry and Renal specialties was 
+carried out at a 900-bed teaching hospital located in Ibadan, Nigeria.
+RESULTS: Four hundred and forty-three (49.2%) of the cohort were males and 457 
+(50.8%) were females; with mean ages 43.2 +/- 18.6 and 43.1 +/- 17.9 years 
+respectively. Physicians' specialties significantly influenced the depth of 
+documentation of the medication history information across the nine specialties 
+(P < 0.0001). Post hoc pair-wise comparisons with Tukey's HSD test showed that 
+the mean scores for adverse drug reactions and adherence to medicines was 
+highest in the Cardiology specialty; while the Chest specialty had the highest 
+mean scores for allergy to drugs, food, chemicals and cigarette smoking. Mean 
+scores for the use of alcohol; illicit drugs; dietary restrictions was highest 
+for Gastroenterology, Psychiatry and Endocrine specialties respectively. 
+Physicians' specialties also significantly influenced the frequency of 
+documentation of the medication history across the nine specialties (P < 
+0.0001).
+CONCLUSIONS: Physicians appear to document more frequently and in greater depth 
+medication history information that may aid the diagnostic tasks in their 
+specific specialty. Researchers and other users of medication history data 
+documented in patients' medical records by physicians may want to take special 
+cognizance of this phenomenon.
+
+DOI: 10.1111/j.1365-2125.2008.03202.x
+PMCID: PMC2492926
+PMID: 18537964 [Indexed for MEDLINE]

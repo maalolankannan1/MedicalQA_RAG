@@ -1,0 +1,34 @@
+1. Hematology. 2014 Jul;19(5):304-8. doi: 10.1179/1607845413Y.0000000122. Epub
+2013  Nov 25.
+
+Is intensive monitoring during the first transfusion in pediatric patients 
+necessary?
+
+Berg A, Courtney R, Krishnamurti L, Triulzi DJ, Yazer MH.
+
+BACKGROUND: Some pediatric patients, typically those that are very young or felt 
+to be especially sick are temporarily admitted to the intensive care unit (ICU) 
+for observation during their first transfusion. If a significant reaction that 
+requires ICU management does not occur, these patients are then transferred to a 
+regular ward where future blood products are administered. The aim of this 
+project was to determine if heightened observation such as temporary ICU 
+admissions for the first transfusion are warranted.
+METHODS: From the blood bank records of a tertiary care pediatric hospital, a 
+list of patients on whom a transfusion reaction was reported between 2007 and 
+2012, the type of reaction and the patient's transfusion history, were 
+extracted. The hospital location where the transfusion occurred, and whether the 
+patient was evaluated by the ICU team or transferred to the ICU for management 
+of the reaction was determined from the patient's electronic medical record.
+RESULTS: There were 174 acute reactions in 150 patients. Of these 150 patients, 
+13 (8.7%) different patients experienced a reaction during their first 
+transfusion; all 13 patients experienced clinically mild reactions (8 febrile 
+non-hemolytic, 4 mild allergic, and 1 patient who simultaneously had a mild 
+allergic and a febrile non-hemolytic), and none required ICU management. Six 
+severe reactions (6 of 174, 3.4%) involving significant hypotension and/or 
+hypoxia that required acute and intensive management occurred during subsequent 
+(i.e. not the first) transfusion in six patients.
+CONCLUSIONS: The practice of intensive observation for the first transfusion in 
+pediatric patients is probably unnecessary.
+
+DOI: 10.1179/1607845413Y.0000000122
+PMID: 24074624 [Indexed for MEDLINE]

@@ -1,0 +1,36 @@
+1. Schmerz. 2004 Feb;18(1):28-37. doi: 10.1007/s00482-003-0262-6.
+
+[Is pain a clinically relevant problem in general adult psychiatry? A clinical 
+epidemiological cross-sectional study in patients with psychiatric disorders].
+
+[Article in German]
+
+Baune MPH BT(1), Aljeesh Y.
+
+Author information:
+(1)Department of Psychiatry, Springfield University Hospital, London, UK. 
+B.Baune@uni-bielefeld.de
+
+OBJECTIVE: To study the prevalence of pain and risk factors for pain in 
+psychiatric patients in a psychiatric hospital.
+METHODS: Using a questionnaire we investigated in a cross-sectional study the 
+prevalence of pain, duration of pain, impairment and unfitness for work due to 
+pain in 106 patients primarily diagnosed with a psychiatric disorder in the 
+field of general adult psychiatry. Potential risk factors were explored.
+RESULTS: The point prevalence of pain was about 50%, the 6-month prevalence 
+75.5% and the 12-month prevalence 76.5%. The patients' most frequent complaints 
+were low back pain, headache and shoulder and neck pain. Patients with affective 
+disorders most frequently had pain complaints, followed by those with neurotic, 
+stress-related and somatoform disorders and those with psychotic disorders such 
+as schizophrenia, schizotypic and delusional disorders. Almost 10% of all 
+patients reported pain continuing at least 3 months in the past year. Impairment 
+and unfitness for work were related to specific psychiatric diagnosis. 
+Statistically significant risk factors for pain were depression (OR=6.05) and 
+the number of past admissions to psychiatric hospitals (OR=3.609).
+CONCLUSION: We found evidence that pain can be a significant clinical problem in 
+psychiatric patients which seems to be underestimated in psychiatry. The 
+investigated patients in general adult psychiatry are characterized by specific 
+risk factors different from clinical subpopulations of other disciplines.
+
+DOI: 10.1007/s00482-003-0262-6
+PMID: 14872327 [Indexed for MEDLINE]

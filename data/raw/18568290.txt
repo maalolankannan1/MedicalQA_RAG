@@ -1,0 +1,42 @@
+1. Clin Exp Nephrol. 2008 Oct;12(5):370-375. doi: 10.1007/s10157-008-0065-2. Epub
+ 2008 Jun 21.
+
+Is there a role for endothelin-1 in the hemodynamic changes during hemodialysis?
+
+El-Shafey EM(1), El-Nagar GF(2), Selim MF(2), El-Sorogy HA(3), Sabry AA(4).
+
+Author information:
+(1)Department of Internal Medicine, Nephrology, Faculty of Medicine, Tanta 
+University, Tanta, Egypt. shafey70@yahoo.com.
+(2)Department of Internal Medicine, Nephrology, Faculty of Medicine, Tanta 
+University, Tanta, Egypt.
+(3)Department of Clinical Pathology, Faculty of Medicine, Tanta University, 
+Tanta, Egypt.
+(4)Urology and Nephrology Center, Mansoura University, Mansoura, Egypt.
+
+BACKGROUND: The etiology of hemodialysis (HD)-induced hypotension and 
+hypertension remains speculative. There is mounting evidence that endothelin-1 
+(ET-1) may play a vital role in these hemodynamic changes. We examined the 
+possible role of intradialytic changes of ET-1 in the pathogenesis of 
+hypotension and rebound hypertension during HD.
+METHODS: The present study included 45 patients with end-stage renal disease 
+(ESRD) on regular HD. They were divided according to their hemodynamic status 
+during HD into three groups (group I had stable intradialytic hemodynamics, 
+group II had dialysis-induced hypotension, and group III had rebound 
+hypertension during HD). In addition, 15 healthy volunteers were included as a 
+control group. Pulse and blood pressure were monitored before, during (every 
+half hour), and after HD session. ET-1 level was measured at the beginning, 
+middle, and end of HD. ET-1 was measured in the control group for comparison.
+RESULTS: Pre-dialysis levels of ET-1 were significantly higher in dialysis 
+patients compared to the controls (P < 0.001); however, they were comparable in 
+the three HD groups. The post-dialysis ET-1 level was not changed significantly 
+in group I compared with predialysis values (14.49 +/- 2.04 vs. 14.33 +/- 2.23 
+pg/ml; P = NS), while the ET-1 concentration decreased significantly in group II 
+and increased in group III in comparison to predialysis values (8.56 +/- 1.44 
+vs. 11.75 +/- 2.51; 16.39 +/- 3.12 vs. 11.93 +/- 2.11 pg/ml, respectively; P < 
+0.001).
+CONCLUSION: Altered ET-1 levels may be involved in the pathogenesis of rebound 
+hypertension and hypotension during HD.
+
+DOI: 10.1007/s10157-008-0065-2
+PMID: 18568290 [Indexed for MEDLINE]

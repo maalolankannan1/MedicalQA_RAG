@@ -1,0 +1,44 @@
+1. Clin Exp Rheumatol. 2016 Nov-Dec;34(6):1098-1100. Epub 2016 Oct 27.
+
+Do dermatomyositis and polymyositis affect similar thigh muscles? A comparative 
+MRI-based study.
+
+Pipitone N(1), Notarnicola A(2), Levrini G(3), Spaggiari L(3), Scardapane A(4), 
+Iannone F(2), Lapadula G(2), Pattacini P(3), Zuccoli G(5), Salvarani C(6).
+
+Author information:
+(1)Department of Rheumatology, Department of Internal Medicine, Azienda 
+Ospedaliera ASMN, IRCSS, Reggio Emilia, Italy. pipitone.nicolo@asmn.re.it.
+(2)Department of Rheumatology, University of Bari, Italy.
+(3)Department of Radiology, Department of Internal Medicine, Azienda Ospedaliera 
+ASMN, IRCSS, Reggio Emilia, Italy.
+(4)Department of Radiology, University of Bari, Italy.
+(5)Department of Rheumatology, Children's Hospital of Pittsburgh, USA.
+(6)Department of Rheumatology, Department of Internal Medicine, Azienda 
+Ospedaliera ASMN, IRCSS, Reggio Emilia, Italy.
+
+OBJECTIVES: Dermatomyositis (DM) and polymyositis (PM) commonly cause weakness 
+of the thigh muscles. However, it is debated whether DM and PM affect similar 
+thigh muscles. Muscle oedema on fat-suppressed MRI sequences is thought to 
+represent active inflammation. In this study, we aimed to assess which thigh 
+muscle groups are preferentially inflamed in DM and PM, respectively, using 
+short-tau inversion-recovery MRI sequences.
+METHODS: We analysed 71 patients from 2 Rheumatology centres, 31 with DM and 40 
+with PM diagnosed according to the Bohan and Peter criteria. MRI oedema 
+(1=present, 0=absent) was assessed bilaterally on fat-suppressed sequences in 17 
+pelvic floor and thigh muscles. An MRI oedema score (range 0-17) was calculated 
+by adding the separate scores bilaterally and dividing them by two. Inter-rater 
+variability was assessed by intraclass correlation coefficient. Fisher's exact 
+test was used to compare binomial data.
+RESULTS: Age and gender ratio were similar in patients with DM and PM. Disease 
+duration (months, mean±SD) was shorter (20±31) in DM than in PM (53±69) 
+(p=0.02). The intraclass correlation coefficient between the radiologists 
+involved was 0.78. Muscle oedema was more common in DM than in PM except in the 
+posterior thigh muscles. In particular, 68% of patients with DM had involvement 
+of at least one anterior thigh muscle versus 38% of patients with PM (p=0.02).
+CONCLUSIONS: Compared with PM, DM affects more thigh muscles, except those of 
+the posterior compartment, which are equally involved in both disorders. These 
+findings may be useful to target physiotherapy at the more frequently affected 
+muscles.
+
+PMID: 27991408 [Indexed for MEDLINE]

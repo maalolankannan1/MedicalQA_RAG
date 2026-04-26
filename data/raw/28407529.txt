@@ -1,0 +1,77 @@
+1. Eur J Cancer. 2017 Jun;78:7-15. doi: 10.1016/j.ejca.2017.03.009. Epub 2017 Apr
+ 10.
+
+Resection of colorectal liver metastases after second-line chemotherapy: is it 
+worthwhile? A LiverMetSurvey analysis of 6415 patients.
+
+Adam R(1), Yi B(2), Innominato PF(3), Barroso E(4), Laurent C(5), Giuliante 
+F(6), Capussotti L(7), Lapointe R(8), Regimbeau JM(9), Lopez-Ben S(10), Isoniemi 
+H(11), Hubert C(12), Lin JK(13), Gruenberger T(14), Elias D(15), Skipenko 
+OG(16), Guglielmi A(17); LiverMetSurvey International Contributing Centers.
+
+Author information:
+(1)Hepatobiliary Center, AP-HP Hôpital Paul Brousse, Université Paris-Sud, 
+Inserm U935, Villejuif, France. Electronic address: rene.adam@aphp.fr.
+(2)Hepatobiliary Center, AP-HP Hôpital Paul Brousse, Université Paris-Sud, 
+Inserm U935, Villejuif, France; Eastern Hepatobiliary Surgery Hospital/National 
+Liver Cancer Center, Second Military Medical University, Shanghai, China.
+(3)Department of Oncology, AP-HP Hôpital Paul Brousse, Université Paris-Sud, 
+Inserm U935, Villejuif, France.
+(4)Department of HPB Surgery and Transplantation, Curry Cabral Hospital, Lisbon, 
+Portugal.
+(5)Department of Digestive Surgery, Hôpital Saint André, Bordeaux, France.
+(6)Hepatobiliary Surgery Unit, Agostino Gemelli Hospital, Catholic University of 
+the Sacred Heart, Rome, Italy.
+(7)Department of HPB and Digestive Surgery, Ospedale Mauriziano Umberto I, 
+Turin, Italy.
+(8)HPB Surgery and Transplantation Unit, Hôpital Saint-Luc, Centre Hospitalier 
+de l'Université de Montréal, Montréal, Canada.
+(9)Department of Oncology and Digestive Surgery, CHU Amiens-Picardie, Amiens, 
+France.
+(10)Hepatobiliary and Pancreatic Surgery Unit, Department of Surgery, Dr. Josep 
+Trueta Hospital, IdlBGi, Girona, Spain.
+(11)Department of Transplantation and Liver Surgery, Helsinki University 
+Hospital, Helsinki, Finland.
+(12)Unit of HPB Surgery, Cliniques Universitaires Saint-Luc, Université 
+Catholique de Louvain, Brussels, Belgium.
+(13)Division of Colon & Rectal Surgery, Department of Surgery, Taipei Veterans 
+General Hospital, Taipei, Taiwan; School of Medicine, National Yang-Ming 
+University, Taipei, Taiwan.
+(14)Department of Surgery, Medical University of Vienna, General Hospital, 
+Vienna, Austria.
+(15)Department of Oncologic Surgery, Institut Gustave Roussy, Villejuif, France.
+(16)Research Center of Surgery, Russian Academy of Medical Science, Moscow, 
+Russia.
+(17)Division of Surgery A, Department of Surgery, GB Rossi Hospital, University 
+of Verona, Verona, Italy.
+
+PURPOSE: Patient outcome after resection of colorectal liver metastases (CLM) 
+following second-line preoperative chemotherapy (PCT) performed for insufficient 
+response or toxicity of the first-line, is little known and has here been 
+compared to the outcome following first-line.
+PATIENTS AND METHODS: From January 2005 to June 2013, 5624 and 791 consecutive 
+patients of a prospective international cohort received 1 and 2 PCT lines before 
+CLM resection (group 1 and 2, respectively). Survival and prognostic factors 
+were analysed.
+RESULTS: After a mean follow-up of 30.1 months, there was no difference in 
+survival from CLM diagnosis (median, 3-, and 5-year overall survival [OS]: 58.6 
+months, 76% and 49% in group 2 versus 58.9 months, 71% and 49% in group 1, 
+respectively, P = 0.32). After hepatectomy, disease-free survival (DFS) was 
+however shorter in group 2: 17.2 months, 27% and 15% versus 19.4 months, 32% and 
+23%, respectively (P = 0.001). Among the initially unresectable patients of 
+group 1 and 2, no statistical difference in OS or DFS was observed. Independent 
+predictors of worse OS in group 2 were positive primary lymph nodes, 
+extrahepatic disease, tumour progression on second line, R2 resection and number 
+of hepatectomies/year <50. Positive primary nodes, synchronous and bilateral 
+metastases were predictors of shorter DFS. Initial unresectability did not 
+impact OS or DFS in group 2.
+CONCLUSION: CLM resection following second-line PCT, after oncosurgically 
+favourable selection, could bring similar OS compared to what observed after 
+first-line. For initially unresectable patients, OS or DFS is comparable between 
+first- and second-line PCT. Surgery should not be denied after the failure of 
+first-line chemotherapy.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejca.2017.03.009
+PMID: 28407529 [Indexed for MEDLINE]

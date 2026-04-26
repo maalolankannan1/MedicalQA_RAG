@@ -1,0 +1,34 @@
+1. Pediatr Emerg Care. 2002 Feb;18(1):8-11. doi:
+10.1097/00006565-200202000-00003.
+
+Do clinical variables predict pathologic radiographs in the first episode of 
+wheezing?
+
+Walsh-Kelly CM(1), Hennes HM.
+
+Author information:
+(1)Department of Pediatrics, Medical College of Wisconsin, Milwaukee, Wisconsin, 
+USA. walshkel@mcw.edu
+
+OBJECTIVE: To determine if clinical variables assessed in relation to Albuterol 
+aerosol treatments accurately identify children with pathologic radiographs 
+during their initial episode of bronchospasm.
+METHODS: A prospective convenience sample of children with a first episode of 
+wheezing. Data collected included demographics, baseline and post-treatment 
+clinical score and physical examination, number of aerosols, requirement for 
+supplemental oxygen, and disposition. Chest radiographs were obtained and 
+interpreted, and patients were divided into 2 groups based on a pathologic 
+versus nonpathologic radiograph interpretation. Chi2 testing was performed for 
+categoric variables, and the student t test was performed for continuous 
+variables. A discriminant analysis was used to develop a model.
+RESULTS: Pathologic radiographs were identified in 61 patients (9%). Between 
+groups, a significant difference was noted for pretreatment oxygen saturation 
+only. Clinical score, respiratory rate, and presence of rales both pretreatment 
+and posttreatment were not significantly different between groups. The 
+discriminant analysis correctly predicted 90% of nonpathologic radiographs but 
+only 15% of pathologic radiographs.
+CONCLUSIONS: Clinical variables, either isolated or as components of a model, 
+could not identify all children with pathologic radiographs.
+
+DOI: 10.1097/00006565-200202000-00003
+PMID: 11862129 [Indexed for MEDLINE]

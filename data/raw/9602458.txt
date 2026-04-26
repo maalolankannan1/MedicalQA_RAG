@@ -1,0 +1,30 @@
+1. J Public Health Med. 1998 Mar;20(1):102-4. doi: 
+10.1093/oxfordjournals.pubmed.a024697.
+
+Does the Child Health Computing System adequately identify children with 
+cerebral palsy?
+
+Parkes J(1), Dolk H, Hill N.
+
+Author information:
+(1)London School of Hygiene and Tropical Medicine.
+
+BACKGROUND: This paper assesses the usefulness of the Child Health Computing 
+System as a source of information about children with cerebral palsy.
+METHODS: A comparative survey of information held on the Child Health Computing 
+System (CHCS) and the Northern Ireland Cerebral Palsy Register (NICPR) in one 
+Health and Social Services Board in Northern Ireland was carried out. The sample 
+comprised children with cerebral palsy aged 5-9 years.
+RESULTS: Of the 135 cases recorded on the NICPR, 47 per cent were not found on 
+the CHCS; the majority of these children had no computer record of any medical 
+diagnosis. Of the 82 cases recorded on the CHCS, 10 (12 per cent) were not found 
+on the NICPR; five of these cases (6 per cent) were found on follow-up not to 
+have CP.
+CONCLUSIONS: Unless improvements are made in case ascertainment, case validation 
+and recording activities, the evidence suggests that the CHCS will not be able 
+to provide the same quality of information for needs assessment and surveillance 
+of very low birthweight infants in relation to cerebral palsy as is provided by 
+a specialist case register.
+
+DOI: 10.1093/oxfordjournals.pubmed.a024697
+PMID: 9602458 [Indexed for MEDLINE]

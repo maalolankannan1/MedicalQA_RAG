@@ -1,0 +1,49 @@
+1. Phys Sportsmed. 2015 Jul;43(3):287-99. doi: 10.1080/00913847.2015.1069169.
+Epub  2015 Jul 22.
+
+Can biofeedback training of psychophysiological responses enhance athletes' 
+sport performance? A practitioner's perspective.
+
+Pusenjak N(1), Grad A, Tusak M, Leskovsek M, Schwarzlin R.
+
+Author information:
+(1)a 1 Research Group Larus Inventa, Ljubljana University Incubator , Vojkova 
+63, Ljubljana, Slovenia.
+
+BACKGROUND: In recent years, biofeedback has become increasingly popular for its 
+proven success in peak performance training - the psychophysiological 
+preparation of athletes for high-stakes sport competitions, such as the Olympic 
+games. The aim of this research was to test whether an 8-week period of exposure 
+to biofeedback training could improve the psychophysiological control over 
+competitive anxiety and enhance athletic performance in participating subjects.
+METHODS: Participants of this study were highly competent athletes, each 
+training in different sport disciplines. The experimental group consisted of 18 
+athletes (4 women, 14 men), whereas the Control group had 21 athletes (4 women, 
+17 men). All athletes were between 16 and 34 years old. The biofeedback device, 
+Nexus 10, was used to detect and measure the psychophysiological responses of 
+athletes. Athletes from both groups (control and experimental) were subjected to 
+stress tests at the beginning of the study and once again at its conclusion. In 
+between, the experimental group received training in biofeedback techniques. We 
+then calculated the overall percentage of athletes in the experimental group 
+compared with those in the control group who were able to control respiration, 
+skin conductance, heart rate, blood flow amplitude, heart rate variability, and 
+heart respiration coherence. One year following completion of the initial study, 
+we questioned athletes from the experimental group, to determine whether they 
+continued to use these skills and if they could detect any subsequent 
+enhancement in their athletic performance.
+RESULTS: We demonstrated that a greater number of participants in the 
+experimental group were able to successfully control their psychophysiological 
+parameters, in comparison to their peers in the control group. Significant 
+results (p < 0.05) were noted in regulation of GSR following short stress test 
+conditions (p = 0.037), in regulation of HR after exposure to STROOP stressor (p 
+= 0.037), in regulation of GSR following the Math and GSR stressors (p = 0.033, 
+p = 0.409) and in achieving HR - breathing coherence following the math stressor 
+(p = 0.042).
+CONCLUSION: One year following completion of the training program, all 
+participants from the experimental group indicated that they were still using 
+the biofeedback - psycho-regulation skills. Furthermore, these participants 
+uniformly reported believing that these skills had enhanced their athletic 
+performance and general well-being.
+
+DOI: 10.1080/00913847.2015.1069169
+PMID: 26200172 [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+1. Chest. 1995 Dec;108(6):1541-5. doi: 10.1378/chest.108.6.1541.
+
+Cardiopulmonary bypass temperature does not affect postoperative euthyroid sick 
+syndrome?
+
+Thrush DN(1), Austin D, Burdash N.
+
+Author information:
+(1)Department of Anesthesiology, University of South Florida, College of 
+Medicine, Tampa 33601, USA.
+
+STUDY OBJECTIVE: To determine if temperature during cardiopulmonary bypass (CPB) 
+has an effect on perioperative and postoperative thyroid function.
+DESIGN: Prospective study comparing thyroid function during and after 
+hypothermic and normothermic CPB.
+SETTING: Cardiac surgical unit at a university-affiliated hospital.
+PATIENTS: Twelve patients scheduled to undergo cardiac operations with 
+normothermic (n = 6) or hypothermic (n = 6) CPB.
+INTERVENTIONS: Blood was analyzed for serum concentration of total thyroxine 
+(TT4), total triiodothyronine (TT3), free T3 (fT3), reverse T3 (rT3), and 
+thyroid stimulating hormone (TSH) preoperatively, 60 min after CPB was 
+initiated, 30 min after discontinuing CPB, and on postoperative days (POD) 1, 3, 
+and 5.
+MEASUREMENTS AND RESULTS: Patients who underwent either cold (26 degrees +/- 5 
+degrees C) or warm (35 degrees +/- 1 degree C) CPB were comparable with regard 
+to age, body weight, duration of CPB, cross-clamp time, use of inotropes, total 
+heparin dose, and length of hospital stay. Incidence of postoperative myocardial 
+infarction, congestive heart failure, and death were similar. In both groups, 
+TT4 and TT3 were reduced below baseline values beginning with CPB and persisting 
+for up to 5 days after CPB (p < 0.05), free T3 was reduced for up to 3 days 
+after CPB (p < 0.05), mean serum rT3 was elevated on POD 1 and POD 3 (p < 0.05), 
+and TSH remained unchanged.
+CONCLUSION: The results of this study suggest that normothermic CPB does not 
+prevent the development of the "euthyroid sick syndrome" during and after CPB. 
+Despite these changes in thyroid function, most patients in both groups had a 
+normal postoperative recovery.
+
+DOI: 10.1378/chest.108.6.1541
+PMID: 7497757 [Indexed for MEDLINE]

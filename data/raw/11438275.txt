@@ -1,0 +1,29 @@
+1. Am J Surg. 2001 Apr;181(4):366-7. doi: 10.1016/s0002-9610(01)00570-0.
+
+Does patient position during liver surgery influence the risk of venous air 
+embolism?
+
+Moulton CA(1), Chui AK, Mann D, Lai PB, Chui PT, Lau WY.
+
+Author information:
+(1)Department of Surgery, Prince of Wales Hospital, Chinese University of Hong 
+Kong, Sha Tin, New Territories, Hong Kong, China.
+
+BACKGROUND: It is generally believed that positioning of the patient in a 
+head-down tilt (Trendelenberg position) decreases the likelihood of a venous air 
+embolism during liver resection.
+METHODS: The physiological effect of variation in horizontal attitude on central 
+and hepatic venous pressure was measured in 10 patients during liver surgery. 
+Hemodynamic indices were recorded with the operating table in the horizontal, 20 
+degrees head-up and 20 degrees head-down positions.
+RESULTS: There was no demonstrable pressure gradient between the hepatic and 
+central venous levels in any of the positions. The absolute pressures did, 
+however, vary in a predictable way, being highest in the head-down and lowest 
+during head-up tilt. However, on no occasion was a negative intraluminal 
+pressure recorded.
+CONCLUSION: The effect on venous pressures caused by the change in patient 
+positioning alone during liver surgery does not affect the risk of venous air 
+embolism.
+
+DOI: 10.1016/s0002-9610(01)00570-0
+PMID: 11438275 [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+1. Med Teach. 2015 Apr;37(4):374-8. doi: 10.3109/0142159X.2014.956056. Epub 2014 
+Sep 4.
+
+May student examiners be reasonable substitute examiners for faculty in an 
+undergraduate OSCE on medical emergencies?
+
+Iblher P(1), Zupanic M, Karsten J, Brauer K.
+
+Author information:
+(1)University of Luebeck Medical School , Germany .
+
+Comment in
+    Med Teach. 2015 Apr;37(4):404. doi: 10.3109/0142159X.2015.1009428.
+    Med Teach. 2016;38(2):212. doi: 10.3109/0142159X.2015.1056127.
+    Med Teach. 2016;38(2):212-3. doi: 10.3109/0142159X.2015.1072266.
+
+OBJECTIVES: To compare the effect of student examiners (SE) to that of faculty 
+examiners (FE) on examinee performance in an OSCE as well as on post-assessment 
+evaluation in the area of emergency medicine management.
+METHODS: An OSCE test-format (seven stations: Advanced Cardiac Life Support 
+(ACLS), Basic Life Support (BLS), Trauma-Management (TM), Pediatric-Emergencies 
+(PE), Acute-Coronary-Syndrome (ACS), Airway-Management (AM), and 
+Obstetrical-Emergencies (OE)) was administered to 207 medical students in their 
+third year of training after they had received didactics in emergency medicine 
+management. Participants were randomly assigned to one of the two simultaneously 
+run tracks: either with SE (n = 110) or with FE (n = 98). Students were asked to 
+rate each OSCE station and to provide their overall OSCE perception by means of 
+a standardized questionnaire. The independent samples t-test was used and effect 
+sizes were calculated (Cohens d).
+RESULTS: Students achieved significantly higher scores for the OSCE stations 
+"TM", "AM", and "OE" as well as "overall OSCE score" in the SE track, whereas 
+the station score for "PE" was significantly higher for students in the FE 
+track. Mostly small effect sizes were reported. In the post-assessment 
+evaluation portion of the study, students gave significant higher ratings for 
+the ACS station and "overall OSCE evaluation" in the FE track; also with small 
+effect sizes.
+CONCLUSION: It seems quite admissible and justified to encourage medical 
+students to officiate as examiners in undergraduate emergency medicine OSCE 
+formative testing, but not necessarily in summative assessment evaluations.
+
+DOI: 10.3109/0142159X.2014.956056
+PMID: 25186850 [Indexed for MEDLINE]

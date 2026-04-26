@@ -1,0 +1,38 @@
+1. AIDS. 2004 Aug 20;18(12):1707-14. doi: 10.1097/01.aids.0000131396.21963.81.
+
+Is unsafe sexual behaviour increasing among HIV-infected individuals?
+
+Glass TR(1), Young J, Vernazza PL, Rickenbach M, Weber R, Cavassini M, Hirschel 
+B, Battegay M, Bucher HC; Swiss HIV Cohort Study.
+
+Author information:
+(1)Basel Institute for Clinical Epidemiology, University Hospital Basel, 
+Switzerland.
+
+BACKGROUND: The number of new diagnoses of HIV infection is rising in the 
+northwestern hemisphere and it is becoming increasingly important to understand 
+the mechanisms behind this trend.
+OBJECTIVE: To evaluate whether reported unsafe sexual behaviour among HIV- 
+infected individuals is changing over time.
+DESIGN: Participants in the Swiss HIV Cohort Study were asked about their sexual 
+practices every 6 months for 3 years during regular follow-up of the cohort 
+beginning on 1 April 2000.
+METHODS: : Logistic regression models were fit using generalized estimating 
+equations assuming a constant correlation between responses from the same 
+individual.
+RESULTS: At least one sexual behaviour questionnaire was obtained for 6545 
+HIV-infected individuals and the median number of questionnaires completed per 
+individual was five. There was no evidence of an increase in reported unsafe sex 
+over time in this population [odds ratio (OR), 1.0; 95% confidence interval 
+(CI), 0.96-1.05]. Females (OR, 1.38; 95% CI, 1.19-1.60), 15-30 year olds (OR, 
+1.26; 95% CI, 1.09-1.47), those with HIV-positive partners (OR, 12.58; 95% CI, 
+10.84-14.07) and those with occasional partners (OR, 3.25; 95% CI, 2.87-3.67) 
+were more likely to report unsafe sex. There was no evidence of a response bias 
+over time, but individuals were less willing to leave questions about their 
+sexual behaviour unanswered or ambiguous (OR, 0.93; 95% CI, 0.90-0.97).
+CONCLUSIONS: There was no evidence of a trend in unsafe sex behaviour over time. 
+However, several subgroups were identified as being more likely to report unsafe 
+sex and should be targeted for specific interventions.
+
+DOI: 10.1097/01.aids.0000131396.21963.81
+PMID: 15280782 [Indexed for MEDLINE]

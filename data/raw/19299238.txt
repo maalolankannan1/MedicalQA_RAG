@@ -1,0 +1,43 @@
+1. Clin Breast Cancer. 2009 Feb;9(1):34-8. doi: 10.3816/CBC.2009.n.006.
+
+Aromatase inhibitor-related musculoskeletal symptoms: is preventing osteoporosis 
+the key to eliminating these symptoms?
+
+Muslimani AA(1), Spiro TP, Chaudhry AA, Taylor HC, Jaiyesimi I, Daw HA.
+
+Author information:
+(1)Division of Clinical and Molecular Endocrinology, Cleveland Clinic Cancer, 
+Cleveland, OH, USA. alaf73@yahoo.com
+
+BACKGROUND: Aromatase inhibitors (AIs) are an effective treatment for 
+postmenopausal women with hormone receptor-positive breast cancer. However, 
+patients receiving AIs report a higher incidence of musculoskeletal symptoms and 
+bone fractures; the mechanism and risk factors for this correlation are not well 
+studied. The aim of this study was to correlate these musculoskeletal symptoms 
+and bone fractures in patients receiving AIs with bone mineral density (BMD), 
+previous tamoxifen use, and administration of calcium/bisphosphonate (Ca/Bis).
+PATIENTS AND METHODS: We reviewed charts of 856 patients with hormone 
+receptor-positive nonmetastatic breast cancer seen at our institution between 
+January 1999 and October 2007. A total of 316 patients met the inclusion 
+criteria of treatment with one of the AIs for > or = 3 months and availability 
+of a dualenergy X-ray absorptiometry (DEXA) during this treatment. Arthralgia, 
+generalized bone pain and/or myalgia, bone fracture after beginning AIs, any 
+tamoxifen treatment, and Ca/Bis therapy were recorded.
+RESULTS: Our study demonstrates a significant association between symptoms and 
+DEXA-BMD results (P < .001). Similarly, the group receiving tamoxifen before AIs 
+had fewer patients with arthralgia or generalized bone pain/myalgia or bone 
+fracture (P < .001). Furthermore, the group receiving AIs plus Ca/Bis had more 
+patients without musculoskeletal symptoms and had fewer fractures. Finally, the 
+group receiving steroidal AIs compared with nonsteroidal AIs had more patients 
+with arthralgia or generalized bone pain and/or myalgia, and bone fractures (P < 
+.001).
+CONCLUSION: Patients on AIs who develop osteoporosis are at increased risk of 
+musculoskeletal symptoms and bone fracture. Comedication with Ca/Bis reduces the 
+likelihood for osteoporosis and musculoskeletal symptoms. Patients who received 
+tamoxifen before AIs were less likely to develop AI-related musculoskeletal 
+symptoms. We recommend that patients on AIs should be offered Ca/Bis to reduce 
+the incidence of musculoskeletal symptoms and fracture, especially if patients 
+are receiving steroidal AI and/or did not receive tamoxifen before AIs.
+
+DOI: 10.3816/CBC.2009.n.006
+PMID: 19299238 [Indexed for MEDLINE]

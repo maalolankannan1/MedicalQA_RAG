@@ -1,0 +1,32 @@
+1. Ann Otol Rhinol Laryngol. 2006 Oct;115(10):715-20. doi: 
+10.1177/000348940611501001.
+
+Does obstructive sleep apnea affect aerobic fitness?
+
+Guillermo LQ(1), Gal TJ, Mair EA.
+
+Author information:
+(1)Department of Otolaryngology-Head and Neck Surgery, Wilford Hall United 
+States Air Force Medical Center, San Antonio, Texas, USA.
+
+OBJECTIVES: We sought to determine whether patients with obstructive sleep apnea 
+(OSA) had an objective change in aerobic fitness during cycle ergometry compared 
+to a normal population. The most accurate test of aerobic fitness is measurement 
+of maximum oxygen consumption (VO2max) with cycle ergometry.
+METHODS: We performed a retrospective cohort analysis (247 patients with OSA) of 
+VO2max from annual cycle ergometry tests compared to a large control group 
+(normative data from 1.4 million US Air Force tests) in a tertiary care setting.
+RESULTS: Overall, individuals with OSA had increased VO2max when compared to the 
+normalized US Air Force data (p < .001). Patients with an apnea-hypopnea index 
+of greater than 20 demonstrated a decreased VO2max as compared to normalized 
+values (p < .001). No differences in VO2max were observed after either medical 
+or surgical therapy for OSA.
+CONCLUSIONS: Overall, in a US Air Force population, OSA does not predict a 
+decrease in aerobic fitness as measured by cycle ergometry. However, patients 
+with an apnea-hypopnea index of greater than 20 have a statistically significant 
+decrease in aerobic fitness compared to the normal population. This study 
+demonstrates the effects of OSA on aerobic fitness. Further correlation of 
+fitness testing results with OSA severity and treatment is needed.
+
+DOI: 10.1177/000348940611501001
+PMID: 17076091 [Indexed for MEDLINE]

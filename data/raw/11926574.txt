@@ -1,0 +1,45 @@
+1. Dig Liver Dis. 2002 Jan;34(1):53-8. doi: 10.1016/s1590-8658(02)80060-3.
+
+Are hepatitis G virus and TT virus involved in cryptogenic chronic liver 
+disease?
+
+Di SR(1), Ferraro D, Bonura C, Lo PG, Lacono O, Di Marco V, Craxì A.
+
+Author information:
+(1)Institute of Internal Medicine, Department of Hygiene and Microbiology, 
+University of Palermo, Italy.
+
+BACKGROUND: Hepatitis G virus can cause chronic infection in man but the role of 
+this agent in chronic liver disease is poorly understood. Little is known about 
+the relation of another newly discovered agent, the TT virus, with chronic liver 
+disease.
+AIM: To investigate the rate of infection with hepatitis G virus and TT virus in 
+patients with cryptogenic chronic liver disease.
+PATIENTS: A total of 23 subjects with chronically raised alanine transaminase 
+and a liver biopsy in whom all known causes of liver disease had been excluded, 
+and 40 subjects with hepatitis C virus-related chronic liver disease.
+METHODS: Evaluation of anti-hepatitis G virus by enzyme immunoassay. Hepatitis G 
+virus-RNA by polymerase chain reaction with primers from the 5' NC and NS5a 
+regions. TT virus-DNA by nested polymerase chain reaction with primers from the 
+ORF1 region. Results. Hepatitis G virus-RNA was detected in 4 out of 23 patients 
+with cryptogenic chronic hepatitis and in 6 out of 40 with hepatitis C virus 
+chronic hepatitis (17.4% vs 15% p=ns). At least one marker of hepatitis G virus 
+infection (hepatitis G virus-RNA and/or anti-hepatitis G virus, mostly mutually 
+exclusive) was present in 6 out of 23 patients with cryptogenic hepatitis and 16 
+out of 40 with hepatitis C virus liver disease (26. 1% vs 40% p=ns). T virus-DNA 
+was present in serum in 3 subjects, 1 with cryptogenic and 2 with hepatitis C 
+virus-related chronic liver disease. Demographic and clinical features, 
+including stage and grade of liver histology, were comparable between hepatitis 
+G virus-infected and uninfected subjects. Severe liver damage [chronic hepatitis 
+with fibrosis or cirrhosis) were significantly more frequent in subjects with 
+hepatitis C virus liver disease.
+CONCLUSIONS: In Southern Italy, hepatitis G virus infection is widespread among 
+patients with chronic hepatitis, independently of parenteral risk factors. Its 
+frequency in subjects with cryptogenic liver disease parallels that observed in 
+hepatitis C virus chronic liver disease, thus ruling out an aetiologic role of 
+hepatitis G virus. TT virus infection is uncommon in patients with cryptogenic 
+or hepatitis C virus-related liver disease who do not have a history of 
+parenteral exposure.
+
+DOI: 10.1016/s1590-8658(02)80060-3
+PMID: 11926574 [Indexed for MEDLINE]

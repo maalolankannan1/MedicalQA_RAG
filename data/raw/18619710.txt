@@ -1,0 +1,40 @@
+1. Ann Emerg Med. 2009 Apr;53(4):454-461.e15. doi: 
+10.1016/j.annemergmed.2008.05.016. Epub 2008 Jul 10.
+
+Patient comprehension of emergency department care and instructions: are 
+patients aware of when they do not understand?
+
+Engel KG(1), Heisler M, Smith DM, Robinson CH, Forman JH, Ubel PA.
+
+Author information:
+(1)Department of Emergency Medicine, University of Michigan, Ann Arbor, MI, USA. 
+kirsten.g.engel@gmail.com
+
+STUDY OBJECTIVE: To be able to adhere to discharge instructions after a visit to 
+the emergency department (ED), patients should understand both the care that 
+they received and their discharge instructions. The objective of this study is 
+to assess, at discharge, patients' comprehension of their ED care and 
+instructions and their awareness of deficiencies in their comprehension.
+METHODS: We conducted structured interviews of 140 adult English-speaking 
+patients or their primary caregivers after ED discharge in 2 health systems. 
+Participants rated their subjective understanding of 4 domains: (1) diagnosis 
+and cause; (2) ED care; (3) post-ED care, and (4) return instructions. We 
+assessed patient comprehension as the degree of agreement (concordance) between 
+patients' recall of each of these domains and information obtained from chart 
+review. Two authors scored each case independently and discussed discrepancies 
+before providing a final concordance rating (no concordance, minimal 
+concordance, partial concordance, near concordance, complete concordance).
+RESULTS: Seventy-eight percent of patients demonstrated deficient comprehension 
+(less than complete concordance) in at least 1 domain; 51% of patients, in 2 or 
+more domains. Greater than a third of these deficiencies (34%) involved 
+patients' understanding of post-ED care, whereas only 15% were for diagnosis and 
+cause. The majority of patients with comprehension deficits failed to perceive 
+them. Patients perceived difficulty with comprehension only 20% of the time when 
+they demonstrated deficient comprehension.
+CONCLUSION: Many patients do not understand their ED care or their discharge 
+instructions. Moreover, most patients appear to be unaware of their lack of 
+understanding and report inappropriate confidence in their comprehension and 
+recall.
+
+DOI: 10.1016/j.annemergmed.2008.05.016
+PMID: 18619710 [Indexed for MEDLINE]

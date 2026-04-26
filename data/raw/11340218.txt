@@ -1,0 +1,38 @@
+1. Stroke. 2001 May;32(5):1112-5. doi: 10.1161/01.str.32.5.1112.
+
+Does pretreatment with statins improve clinical outcome after stroke? A pilot 
+case-referent study.
+
+Jonsson N(1), Asplund K.
+
+Author information:
+(1)Department of Medicine, Umeå University, Umeå, Sweden.
+
+Comment in
+    Stroke. 2001 Oct;32(10):2446-7.
+
+BACKGROUND AND PURPOSE: In primary and secondary prevention trials, statins have 
+been shown to reduce the risk of stroke. In addition to lipid lowering, statins 
+have a number of antiatherothrombotic and neuroprotective properties. In a 
+preliminary observational study, we explored whether clinical outcome is 
+improved in patients who are on treatment with statins when stroke occurs.
+METHODS: We conducted a population-based case-referent study of 25- to 
+74-year-old stroke patients with, for each case of a patient who was on statin 
+treatment at the onset of stroke (n=125), 2 referent patients who were not 
+treated with statins but were matched for age, gender, year of onset, and stroke 
+subtype (n=250).
+RESULTS: The unadjusted odds ratio for early discharge to home (versus late 
+discharge or death) was 1.41 (95% CI 0.91 to 2.17) when patients on statin 
+treatment were compared with referent stroke patients not on statins. Prognostic 
+factors were, in general, more unfavorable among patients on statins. When this 
+was adjusted for in a logistic regression model, the use of statins was a 
+moderately strong but statistically nonsignificant predictor of discharge to 
+home (multiple-adjusted odds ratio 1.42, 95% CI 0.90 to 2.22).
+CONCLUSIONS: The statistical power of this case-referent study was such that 
+only large beneficial effects of statins in acute stroke could be confirmed. 
+However, the observed trend, together with experimental observations, is 
+interesting enough to warrant a more detailed analysis of the relationship 
+between statins and stroke outcome.
+
+DOI: 10.1161/01.str.32.5.1112
+PMID: 11340218 [Indexed for MEDLINE]

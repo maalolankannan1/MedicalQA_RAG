@@ -1,0 +1,45 @@
+1. J Pediatr Orthop. 2012 Oct-Nov;32(7):675-81. doi:
+10.1097/BPO.0b013e318269c459.
+
+Type II supracondylar humerus fractures: can some be treated nonoperatively?
+
+Spencer HT(1), Dorey FJ, Zionts LE, Dichter DH, Wong MA, Moazzaz P, Silva M.
+
+Author information:
+(1)UCLA Orthopaedic Hospital Department of Orthopaedics, David Geffen School of 
+Medicine, University of California, Los Angeles, CA, USA.
+
+BACKGROUND: The range of injury severity that can be seen within the category of 
+type II supracondylar humerus fractures (SCHFs) raises the question whether some 
+could be treated nonoperatively. However, the clinical difficulty in using this 
+approach lies in determining which type II SCHFs can be managed successfully 
+without a surgical intervention.
+METHODS: We reviewed clinical and radiographic information on 259 pediatric type 
+II SCHFs that were enrolled in a prospective registry of elbow fractures. The 
+characteristics of the patients who were treated without surgery were compared 
+with those of patients who were treated surgically. Treatment outcomes, as 
+assessed by the final clinical and radiographic alignment, range of motion of 
+the elbow, and complications, were compared between the groups to define 
+clinical and radiographic features that related to success or failure of 
+nonoperative management.
+RESULTS: During the course of treatment, 39 fractures were found to have 
+unsatisfactory alignment with nonoperative management and were taken for 
+surgery. Ultimately, 150 fractures (57.9%) were treated nonoperatively, and 109 
+fractures (42.1%) were treated surgically. At final follow-up, outcome measures 
+of change in carrying angle, range of motion, and complications did not show 
+clinically significant differences between treatment groups. Fractures without 
+rotational deformity or coronal angulation and with a shaft-condylar angle of 
+>15 degrees were more likely to be associated with successful nonsurgical 
+treatment. A scoring system was developed using these features to stratify the 
+severity of the injury. Patients with isolated extension deformity, but none of 
+the other features, were more likely to complete successful nonoperative 
+management.
+CONCLUSIONS: This study suggests that some of the less severe pediatric type II 
+SCHFs can be successfully treated without surgery if close follow-up is 
+achieved. Fractures with initial rotational deformity, coronal malalignment, and 
+significant extension of the distal fragment are likely to fail a nonoperative 
+approach. An algorithm using the initial radiographic characteristics can aid in 
+distinguishing groups.
+
+DOI: 10.1097/BPO.0b013e318269c459
+PMID: 22955530 [Indexed for MEDLINE]

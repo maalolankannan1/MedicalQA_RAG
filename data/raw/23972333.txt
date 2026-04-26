@@ -1,0 +1,46 @@
+1. Maturitas. 2013 Dec;76(4):326-33. doi: 10.1016/j.maturitas.2013.07.016. Epub 
+2013 Aug 6.
+
+Has the prevalence of health care services use increased over the last decade 
+(2001-2009) in elderly people? A Spanish population-based survey.
+
+Palacios-Ceña D(1), Hernández-Barrera V, Jiménez-García R, Valle-Martín B, 
+Fernández-de-las-Peñas C, Carrasco-Garrido P.
+
+Author information:
+(1)Department of Health Sciences, Universidad Rey Juan Carlos, Avenida Atenas 
+s/n, 28922 Alcorcon, Madrid, Spain. Electronic address: 
+domingo.palacios@urjc.es.
+
+OBJECTIVES: (1) To describe the prevalence of general practitioner visits and 
+hospitalization according to sex and age groups; (2) to identify which factors 
+are independently associated with a higher use of health care services among 
+elderly Spanish; and (3) to study the time trends in the prevalence of use of 
+health care services 2001-2009.
+STUDY DESIGN: Observational study. We analyzed data from the Spanish National 
+Health Surveys conducted in 2001 (n=21,058), 2003 (n=21,650), 2006 (n=29,478) 
+and 2009 (n=22,188). We included responses from adults aged 65 years and older.
+OUTCOME MEASURES: The main variables were the number of general practitioner 
+visits in the last 4 weeks and hospitalization in the past year. We stratified 
+the adjusted models by the main variables. We analyzed socio-demographic 
+characteristics, health related variables, using multivariate logistic 
+regression models.
+RESULTS: The total number of subjects was 24,349 (15,041 woman, 9309 men). Women 
+were significantly older than men (P<0.001). Women had higher prevalence of 
+general practitioner visits than men in all surveys. Men had significantly 
+higher prevalence of hospitalizations than women in the years 2001, 2006 and 
+2009. When we adjusted the hospitalization by possible confounders using 
+logistic regressions, men had a higher probability of being hospitalized than 
+women (OR 1.53, 1.39-1.69). The variables that were significantly associated 
+with a higher use of health care services were lower educational level, worse 
+self-rated health, chronic conditions, polypharmacy, and the level of 
+disability. The number of general practitioner visits among women and men 
+significantly increased from 2001 to 2009 (women: OR 1.43, 1.27-1.61; men: OR 
+1.71, 1.49-1.97).
+CONCLUSIONS: The current study revealed an increase in health care services 
+utilization from 2001 to 2009 in the older Spanish population.
+
+Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.maturitas.2013.07.016
+PMID: 23972333 [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+1. BMC Oral Health. 2015 Jun 26;15:70. doi: 10.1186/s12903-015-0062-2.
+
+Is arch form influenced by sagittal molar relationship or Bolton tooth-size 
+discrepancy?
+
+Aldrees AM(1), Al-Shujaa AM(2), Alqahtani MA(3), Aljhani AS(4).
+
+Author information:
+(1)Department of Pediatric Dentistry and Orthodontics, College of Dentistry, 
+King Saud University, P.O. Box 60169-38, Riyadh, 11545, Saudi Arabia. 
+amaldrees@ksu.edu.sa.
+(2)Resident, Department of Dentistry, King Fahad Medical City, Riyadh, Saudi 
+Arabia. o_ams_o@hotmail.com.
+(3)Resident, Advanced Education in General Dentistry Program, School of Dental 
+Medicine, State University of New York at Buffalo, Buffalo, NY, USA. 
+malqahta@buffalo.edu.
+(4)Division of Orthodontics, College of Dentistry, King Saud bin Abdulaziz 
+University For Health Sciences, Consultant Orthodontist, National Guard Health 
+Affairs, Riyadh, Saudi Arabia. aljhani.a@gmail.com.
+
+BACKGROUND: Orthodontic patients show high prevalence of tooth-size discrepancy. 
+This study investigates the possible association between arch form, clinically 
+significant tooth-size discrepancy, and sagittal molar relationship.
+METHODS: Pretreatment orthodontic casts of 230 Saudi patients were classified 
+into one of three arch form types (tapered, ovoid, and square) using digitally 
+scanned images of the mandibular arches. Bolton ratio was calculated, sagittal 
+molar relationship was defined according to Angle classification, and 
+correlations were analyzed using ANOVA, chi-square, and t-tests.
+RESULTS: No single arch form was significantly more common than the others. 
+Furthermore, no association was observed between the presence of significant 
+Bolton discrepancy and the sagittal molar relationship or arch form. Overall 
+Bolton discrepancy is significantly more prevalent in males.
+CONCLUSIONS: Arch form in a Saudi patient group is independent of gender, 
+sagittal molar relationship, and Bolton discrepancy.
+
+DOI: 10.1186/s12903-015-0062-2
+PMCID: PMC4482311
+PMID: 26113007 [Indexed for MEDLINE]

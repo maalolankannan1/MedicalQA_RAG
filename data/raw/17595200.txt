@@ -1,0 +1,44 @@
+1. Arch Dis Child. 2007 Oct;92(10):876-80. doi: 10.1136/adc.2006.104869. Epub
+2007  Jun 26.
+
+Is there an intrauterine influence on obesity? Evidence from parent child 
+associations in the Avon Longitudinal Study of Parents and Children (ALSPAC).
+
+Davey Smith G(1), Steer C, Leary S, Ness A.
+
+Author information:
+(1)Department of Social Medicine, University of Bristol, Bristol, UK. 
+zetkin@bristol.ac.uk
+
+BACKGROUND: It has been suggested that increasing obesity levels in young women 
+lead to intrauterine environments that, in turn, stimulate increased obesity 
+among their offspring, generating an intergenerational acceleration of obesity 
+levels. If this mechanism is important, the association of maternal body mass 
+index (BMI) with offspring BMI should be stronger than the association of 
+paternal with offspring BMI.
+OBJECTIVE: To compare the relative strengths of association of maternal and 
+paternal BMI with offspring BMI at age 7.5, taking into account the possible 
+effect of non-paternity.
+METHODS: We compared strength of association for maternal-offspring and 
+paternal-offspring BMI for 4654 complete parent-offspring trios in the Avon 
+Longitudinal Study of Parents and Children (ALSPAC), using unstandardised and 
+standardised regression analysis. We carried out a sensitivity analysis to 
+investigate the influence of non-paternity on these associations.
+RESULTS: The strength of association between parental BMI and offspring BMI at 
+age 7.5 was similar for both parents. Taking into account correlations between 
+maternal and paternal BMI, performing standardised rather than unstandardised 
+regression and carrying out a sensitivity analysis for non-paternity emphasised 
+the robustness of the general similarity of the associations. The associations 
+between high parental BMI (top decile) and offspring BMI are also similar for 
+both parents.
+CONCLUSION: Comparison of mother-offspring and father-offspring associations for 
+BMI suggests that intergenerational acceleration mechanisms do not make an 
+important contribution to levels of childhood BMI within the population. 
+Associations at later ages and for different components of body composition now 
+require study.
+
+DOI: 10.1136/adc.2006.104869
+PMCID: PMC2083247
+PMID: 17595200 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None.

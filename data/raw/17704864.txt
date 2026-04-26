@@ -1,0 +1,35 @@
+1. Surg Endosc. 2008 Feb;22(2):516-21. doi: 10.1007/s00464-007-9508-1. Epub 2007 
+Aug 18.
+
+Is laparoscopic adrenalectomy safe and effective for adrenal masses larger than 
+7 cm?
+
+Ramacciato G(1), Mercantini P, La Torre M, Di Benedetto F, Ercolani G, Ravaioli 
+M, Piccoli M, Melotti G.
+
+Author information:
+(1)Department of Surgery, University of Rome La Sapienza, II(o) School of 
+Medicine, Azienda Ospedaliera Sant' Andrea Via di Grottarossa 1035, 1039 00189, 
+Rome, Italy. giovanni.ramacciato@uniroma1.it
+
+BACKGROUND: Laparoscopic adrenalectomy (LA) has become the gold standard 
+treatment for small (less than 6 cm) adrenal masses. However, the role of LA for 
+large-volume (more than 6 cm) masses has not been well defined. Our aim was to 
+evaluate, retrospectively, the outcome of LA for adrenal lesions larger than 7 
+cm.
+PATIENTS AND METHODS: 18 consecutive laparoscopic adrenalectomies were performed 
+from 1996 to 2005 on patients with adrenal lesions larger than 7 cm.
+RESULTS: The mean tumor size was 8.3 cm (range 7-13 cm), the mean operative time 
+was 137 min, the mean blood loss was 182 mL (range 100-550 mL), the rate of 
+intraoperative complications was 16%, and in three cases we switched from 
+laparoscopic procedure to open surgery.
+CONCLUSIONS: LA for adrenal masses larger than 7 cm is a safe and feasible 
+technique, offering successful outcome in terms of intraoperative and 
+postoperative morbidity, hospital stay and cosmesis for patients; it seems to 
+replicate open surgical oncological principles demonstrating similar outcomes as 
+survival rate and recurrence rate, when adrenal cortical carcinoma were treated. 
+The main contraindication for this approach is the evidence, radiologically and 
+intraoperatively, of local infiltration of periadrenal tissue.
+
+DOI: 10.1007/s00464-007-9508-1
+PMID: 17704864 [Indexed for MEDLINE]

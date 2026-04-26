@@ -1,0 +1,36 @@
+1. J Psychiatr Pract. 2012 May;18(3):187-98. doi: 
+10.1097/01.pra.0000415075.20873.0d.
+
+Does age moderate the effect of personality disorder on coping style in 
+psychiatric inpatients?
+
+Stevenson J(1), Brodaty H, Boyce P, Byth K.
+
+Author information:
+(1)Sydney Medical School-Western and Westmead Hospital, Wentworthville, NSW 
+2145, Australia. janine.stevenson@sydney.edu.au
+
+OBJECTIVE: To examine age-related differences in the relationship between 
+personality and coping strategies in an Australian population of psychiatric 
+inpatients.
+METHOD: Consenting eligible adults (N=238) from 18-100 years of age 
+consecutively admitted to inpatient psychiatry units were assessed using the 
+SCID I and II, the Coping Orientations to Problems Experienced Scale (COPE), the 
+Brief Psychiatric Rating Scale (BPRS), the Global Assessment of Functioning 
+Scale (GAF), the Social and Occupational Functioning Assessment Scale (SOFAS), 
+the 12 Item Short-Form Heath Survey (SF12), the Sarason Social Support 
+Questionnaire, and the NEO Five Factor Inventory (NEO-FFI) (cognitively 
+impaired, and non-English speaking patients were excluded).
+RESULTS: Older adults reported less symptomatology than younger patients and 
+younger patients described more personality dysfunction than older patients. As 
+assessed by the COPE, older adults reported lower levels of dysfunctional coping 
+strategies than younger adults. Personality traits, social supports, gender, and 
+age predicted coping strategies, while Axis I diagnosis, education, personality 
+disorder, and symptom severity were not significant predictors of coping 
+strategies.
+CONCLUSION: This study found that influences on coping were multifactorial and 
+moderated by age. These factors have implications for interventions designed to 
+enhance coping strategies.
+
+DOI: 10.1097/01.pra.0000415075.20873.0d
+PMID: 22617083 [Indexed for MEDLINE]

@@ -1,0 +1,36 @@
+1. J Fam Pract. 2002 Mar;51(3):265.
+
+Do primary care physicians underprescribe antibiotics for peptic ulcer disease? 
+Report from an Italian research network.
+
+Palombi L(1), Pietroiusti A, Noce A, Galante A.
+
+Author information:
+(1)Tor Vergata University, Rome, and Clinica San Raffaele-Tosinvest Sanita, 
+Velletri, Italy.
+
+OBJECTIVE: To determine how often primary care physicians prescribe eradication 
+therapy for peptic ulcer disease (PUD) and nonulcer dyspepsia (NUD).
+STUDY DESIGN: During a 2-year period (1998-2000) we analyzed data concerning 
+patients with PUD or NUD seen by 80 Italian primary care physicians uniformly 
+distributed throughout the country. We classified patients as having a 
+definitive or a presumptive diagnosis on the basis of the completeness of the 
+diagnostic workup and interpreted the prescription of antibiotics for dyspepsia 
+as evidence of attempted eradication of Helicobacter pylori.
+POPULATION: Consecutive ambulatory patients.
+OUTCOMES MEASURED: The frequency with which predefined groups of patients 
+received eradication therapy.
+RESULTS: Of 6866 patients, 690 (10%) received eradication therapy. Of 2162 
+patients with PUD, 596 (27.6%) received eradication therapy; of 4704 patients 
+with NUD, however, only 94 (2%) received this treatment (P =.0001). A total of 
+341 (37.7%) of 904 PUD patients with a definitive diagnosis were given 
+eradication therapy and 255 (20.3%) of 1258 PUD patients with a presumptive 
+diagnosis were given therapy (P &lt.0001). In NUD patients, 7 of 743 (0.9%) with 
+a definitive diagnosis received eradication therapy, while 87 (2.2%) of 3961 of 
+those with a presumptive diagnosis were given the same therapy (P =.025).
+CONCLUSIONS: While Italian primary care physicians appropriately target 
+eradication therapy for H pylori infection in patients with peptic ulcer disease 
+rather than nonulcer disease, the intervention was still underused in these 
+patients. Improvements in this prescribing behavior are needed.
+
+PMID: 11978239 [Indexed for MEDLINE]

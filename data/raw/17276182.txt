@@ -1,0 +1,41 @@
+1. J Am Coll Cardiol. 2007 Feb 6;49(5):578-86. doi: 10.1016/j.jacc.2006.09.044. 
+Epub 2007 Jan 22.
+
+Stretch-sensitive KCNQ1 mutation A link between genetic and environmental 
+factors in the pathogenesis of atrial fibrillation?
+
+Otway R(1), Vandenberg JI, Guo G, Varghese A, Castro ML, Liu J, Zhao J, Bursill 
+JA, Wyse KR, Crotty H, Baddeley O, Walker B, Kuchar D, Thorburn C, Fatkin D.
+
+Author information:
+(1)Sr. Bernice Research Program in Inherited Heart Diseases, Darlinghurst, New 
+South Wales, Australia.
+
+OBJECTIVES: This study sought to evaluate mutations in genes encoding the slow 
+component of the cardiac delayed rectifier K+ current (I(Ks)) channel in 
+familial atrial fibrillation (AF).
+BACKGROUND: Although AF can have a genetic etiology, links between inherited 
+gene defects and acquired factors such as atrial stretch have not been explored.
+METHODS: Mutation screening of the KCNQ1, KCNE1, KCNE2, and KCNE3 genes was 
+performed in 50 families with AF. The effects of mutant protein on cardiac I(Ks) 
+activation were evaluated using electrophysiological studies and human atrial 
+action potential modeling.
+RESULTS: One missense KCNQ1 mutation, R14C, was identified in 1 family with a 
+high prevalence of hypertension. Atrial fibrillation was present only in older 
+individuals who had developed atrial dilation and who were genotype positive. 
+Patch-clamp studies of wild-type or R14C KCNQ1 expressed with KCNE1 in CHO cells 
+showed no statistically significant differences between wild-type and mutant 
+channel kinetics at baseline, or after activation of adenylate cyclase with 
+forskolin. After exposure to hypotonic solution to elicit cell swelling/stretch, 
+mutant channels showed a marked increase in current, a leftward shift in the 
+voltage dependence of activation, altered channel kinetics, and shortening of 
+the modeled atrial action potential duration.
+CONCLUSIONS: These data suggest that the R14C KCNQ1 mutation alone is 
+insufficient to cause AF. Rather, we suggest a model in which a "second hit", 
+such as an environmental factor like hypertension, which promotes atrial stretch 
+and thereby unmasks an inherited defect in ion channel kinetics (the "first 
+hit"), is required for AF to be manifested. Such a model would also account for 
+the age-related increase in AF development.
+
+DOI: 10.1016/j.jacc.2006.09.044
+PMID: 17276182 [Indexed for MEDLINE]

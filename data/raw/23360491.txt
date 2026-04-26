@@ -1,0 +1,31 @@
+1. BMC Neurosci. 2013 Jan 29;14:14. doi: 10.1186/1471-2202-14-14.
+
+Is the processing of affective prosody influenced by spatial attention? An ERP 
+study.
+
+Gädeke JC(1), Föcker J, Röder B.
+
+Author information:
+(1)Biological Psychology and Neuropsychology, University of Hamburg, 
+Von-Melle-Park 11, Hamburg 20146, Germany.
+
+BACKGROUND: The present study asked whether the processing of affective prosody 
+is modulated by spatial attention. Pseudo-words with a neutral, happy, 
+threatening, and fearful prosody were presented at two spatial positions. 
+Participants attended to one position in order to detect infrequent targets. 
+Emotional prosody was task irrelevant. The electro-encephalogram (EEG) was 
+recorded to assess processing differences as a function of spatial attention and 
+emotional valence.
+RESULTS: Event-related potentials (ERPs) differed as a function of emotional 
+prosody both when attended and when unattended. While emotional prosody effects 
+interacted with effects of spatial attention at early processing levels (< 200 
+ms), these effects were additive at later processing stages (> 200 ms).
+CONCLUSIONS: Emotional prosody, therefore, seems to be partially processed 
+outside the focus of spatial attention. Whereas at early sensory processing 
+stages spatial attention modulates the degree of emotional voice processing as a 
+function of emotional valence, emotional prosody is processed outside of the 
+focus of spatial attention at later processing stages.
+
+DOI: 10.1186/1471-2202-14-14
+PMCID: PMC3616832
+PMID: 23360491 [Indexed for MEDLINE]

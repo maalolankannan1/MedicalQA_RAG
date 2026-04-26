@@ -1,0 +1,33 @@
+1. Bratisl Lek Listy. 2017;118(1):13-16. doi: 10.4149/BLL_2017_003.
+
+Are serum leptin levels a prognostic factor in advanced lung cancer?
+
+Anar C, Deniz D, Erol S, Batum O, Bicmen C, Yilmaz U.
+
+AIM: The aim of the present study was to evaluate pre-treatment concentrations 
+of leptin in patients with advanced lung cancer and to investigate possible 
+associations between their levels and clinicopathological variables, response to 
+therapy and overall survival.
+MATERIAL AND METHODS: There are 71 previously untreated patients with 
+cytological or histological evidence of primary lung cancer who were admitted to 
+the oncology department between November 2013 and August 2014. Forty-five 
+healthy individuals with age, sex and BMI matching the lung cancer patients, 
+were recruited to take part in the study as a control group. Leptin levels were 
+measured quantitatively by using a microELISA kit.
+RESULTS: The serum leptin levels at diagnosis were significantly lower in lung 
+cancer patients than those in control subjects (4.75±4.91 ng/ml, 9.67±8.02 
+ng/ml; p<0.001). We did not find any significant difference in leptin values 
+related to clinicopathological parameters such as ECOG PS, weight loss, 
+histological type, disease stage and TNM classification. Nevertheless, we 
+demonstrated a significant correlation between serum leptin levels and BMI in 
+lung cancer patients (correlation coefficient: 0.303; p>0.010). The analysis of 
+serum leptin values did not show any association with the overall survival of 
+the patients.
+CONCLUSION: Our results showed that the serum leptin level has no prognostic 
+indications in advanced lung cancer patients. Leptin is decreased in lung 
+cancer, and there is lack of correlation with tumour‑related factors including 
+prognosis. Therefore, leptin is not a useful clinical marker in lung cancer 
+(Tab. 2, Fig. 2, Ref. 22).
+
+DOI: 10.4149/BLL_2017_003
+PMID: 28127977 [Indexed for MEDLINE]

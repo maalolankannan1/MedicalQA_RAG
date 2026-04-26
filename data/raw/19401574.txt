@@ -1,0 +1,48 @@
+1. Radiology. 2009 May;251(2):457-66. doi: 10.1148/radiol.2512081197.
+
+Gadofosveset-enhanced MR angiography of carotid arteries: does steady-state 
+imaging improve accuracy of first-pass imaging? Comparison with selective 
+digital subtraction angiography.
+
+Anzidei M(1), Napoli A, Marincola BC, Nofroni I, Geiger D, Zaccagna F, Catalano 
+C, Passariello R.
+
+Author information:
+(1)Department of Radiological Sciences, University of Rome La Sapienza, Viale 
+Regina Elena 324, 00161 Rome, Italy. michele.anzidei@gmail.com
+
+Comment in
+    Radiology. 2009 Nov;253(2):574-5; author reply 575. doi: 
+10.1148/radiol.2532090821.
+
+PURPOSE: To evaluate the diagnostic accuracy of gadofosveset-enhanced magnetic 
+resonance (MR) angiography in the assessment of carotid artery stenosis, with 
+digital subtraction angiography (DSA) as the reference standard, and to 
+determine the value of reading first-pass, steady-state, and "combined" 
+(first-pass plus steady-state) MR angiograms.
+MATERIALS AND METHODS: This study was approved by the local ethics committee, 
+and all subjects gave written informed consent. MR angiography and DSA were 
+performed in 84 patients (56 men, 28 women; age range, 61-76 years) with carotid 
+artery stenosis at Doppler ultrasonography. Three readers reviewed the 
+first-pass, steady-state, and combined MR data sets, and one independent 
+observer evaluated the DSA images to assess stenosis degree, plaque morphology 
+and ulceration, stenosis length, and tandem lesions. Interobserver agreement 
+regarding MR angiographic findings was analyzed by using intraclass correlation 
+and Cohen kappa coefficients. Sensitivity, specificity, positive predictive 
+value (PPV), and negative predictive value (NPV) were calculated by using the 
+McNemar test to determine possible significant differences (P < .05).
+RESULTS: Interobserver agreement regarding all MR angiogram readings was 
+substantial. For grading stenosis, sensitivity, specificity, PPV, and NPV were, 
+respectively, 90%, 92%, 91%, and 91% for first-pass imaging; 95% each for 
+steady-state imaging; and 96%, 99%, 99%, and 97% for combined imaging. For 
+evaluation of plaque morphology, respective values were 84%, 86%, 88%, and 82% 
+for first-pass imaging; 98%, 97%, 98%, and 97% for steady-state imaging; and 
+98%, 100%, 100%, and 97% for combined imaging. Differences between the 
+first-pass, steady-state, and combined image readings for assessment of stenosis 
+degree and plaque morphology were significant (P < .001).
+CONCLUSION: Gadofosveset-enhanced MR angiography is a promising technique for 
+imaging carotid artery stenosis. Steady-state image reading is superior to 
+first-pass image reading, but the combined reading protocol is more accurate.
+
+DOI: 10.1148/radiol.2512081197
+PMID: 19401574 [Indexed for MEDLINE]

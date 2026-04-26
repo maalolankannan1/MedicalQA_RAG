@@ -1,0 +1,42 @@
+1. Clin Nephrol. 2010 Apr;73(4):276-85. doi: 10.5414/cnp73276.
+
+Treatment of vitamin D deficiency in CKD patients with ergocalciferol: are 
+current K/DOQI treatment guidelines adequate?
+
+Qunibi WY(1), Abdellatif A, Sankar S, Hamdan Z, Lin FY, Ingle J, Cadena A, 
+Gelfond J, Kasinath B.
+
+Author information:
+(1)Nephrology Division, Department of Medicine, University of Texas Health 
+Science Center, 7703 Floyd Curl Drive, San Antonio, TX 78229, USA. 
+qunibi@uthscsa.edu
+
+BACKGROUND: Vitamin D deficiency/insufficiency (VDDI) is common in CKD patients 
+and may be associated with abnormal mineral metabolism. It is not clear whether 
+the K/DOQI recommended doses of ergocalciferol are adequate for correction of 
+VDDI and hyperparathyroidism.
+METHODS: Retrospective study of 88 patients with CKD Stages 1 - 5 and baseline 
+25-hydroxyvitamin D level < 30 ng/ml (< 75 nmol/l). Patients treated with 
+ergocalciferol as recommended by K/DOQI guidelines. Only 53 patients had 
+elevated baseline PTH level for the CKD stage. Patients were excluded if they 
+received vitamin D preparations other than ergocalciferol or phosphate binders. 
+25-hydroxyvitamin D level, intact PTH level (iPTH), and other parameters of 
+mineral metabolism were measured at baseline and after completion of 
+ergocalciferol course.
+RESULTS: 88 patients with CKD were treated with ergocalciferol. Mean age 56.8 
++/- 9.5 years and 41% were males. The mean (+/- SD) GFR was 28.3 +/- 16.6 
+ml/min. At the end of the 6-month period of ergocalciferol treatment, the mean 
+25-hydroxyvitamin D level increased from 15.1 +/- 5.8 to 23.3 +/- 11.8 ng/ml 
+(37.75 +/- 14.5 to 58.25 +/- 29.5 nmol/l) (p < 0.001). Treatment led to > or = 5 
+ng/ml (12.5 nmol/l) increases in 25-hydroxyvitamin D level in 54% of treated 
+patients, and only 25% achieved levels > or = 30 ng/ml (75 nmol/l). Mean iPTH 
+level decreased from 157.9 +/- 125.9 to 150.7 +/- 127.5 pg/ml (p = 0.5). Only 
+26% of patients had > or = 30% decrease in their iPTH level after treatment with 
+ergocalciferol.
+CONCLUSIONS: Current K/DOQI guidelines are inadequate for correcting VDDI or 
+secondary hyperparathyroidism in CKD patients. Future studies should examine the 
+effects of higher or more frequent dosing of ergocalciferol on these clinical 
+endpoints.
+
+DOI: 10.5414/cnp73276
+PMID: 20353735 [Indexed for MEDLINE]

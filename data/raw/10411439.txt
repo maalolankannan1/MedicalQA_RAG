@@ -1,0 +1,33 @@
+1. Dis Colon Rectum. 1999 Jul;42(7):916-9; discussion 919-20. doi: 
+10.1007/BF02237102.
+
+Lloyd-Davies position with Trendelenburg--a disaster waiting to happen?
+
+Horgan AF(1), Geddes S, Finlay IG.
+
+Author information:
+(1)Department of Coloproctology, Glasgow Royal Infirmary, United Kingdom.
+
+PURPOSE: Lower limb compartment syndrome has been reported to occur after 
+colorectal, urological, and gynecological procedures during which the patient's 
+lower limbs are elevated for prolonged periods of time.
+METHOD: We investigated lower limb perfusion in a group of patients undergoing 
+prolonged pelvic surgery both during and immediately after surgery, using 
+intra-arterial blood pressure monitoring, laser doppler flowmetry, and pulse 
+oximetry.
+RESULTS: Use of the modified lithotomy position was not associated with any 
+demonstrable decrease in lower limb perfusion. The addition of 15 degrees 
+head-down tilt, however, during pelvic dissection, led to an immediate and 
+significant drop in lower limb perfusion (P < 0.05; Mann-Whitney U test). The 
+subgroup of patients analyzed postoperatively showed a ten-fold increase (P < 
+0.01) in perfusion that was confined to the muscle compartment with no 
+demonstrable increase in skin perfusion or intra-arterial pedal blood pressure.
+CONCLUSION: The use of the modified lithotomy position during pelvic surgery is 
+not associated with lower limb ischemia. Addition of Trendelenburg position, 
+however, causes profound ischemia of the lower limbs, and this is followed 
+during the recovery period by hyperperfusion that is confined to the muscle 
+compartments, which may put patients at risk of developing lower limb 
+compartment syndrome.
+
+DOI: 10.1007/BF02237102
+PMID: 10411439 [Indexed for MEDLINE]

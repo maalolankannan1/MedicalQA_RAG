@@ -1,0 +1,34 @@
+1. Gynecol Endocrinol. 2011 Oct;27(10):782-4. doi: 10.3109/09513590.2010.538101. 
+Epub 2010 Dec 29.
+
+Does nuchal translucency thickness in the first trimester predict GDM onset 
+during pregnancy?
+
+Luchi C(1), Schifano M, Nanini C, Di Cianni G, Lencioni C, Genazzani AR.
+
+Author information:
+(1)Department of Reproductive Medicine and Child Development, Division of 
+Gynecology and Obstetrics P. Fioretti, University of Pisa, Pisa, Italy. 
+c.luchi@unipi.it
+
+BACKGROUND AND AIMS: This study was planned to evaluate whether increased nuchal 
+translucency (NT) thickness in the first trimester of gestation can be related 
+to onset of gestational diabetes mellitus (GDM) during pregnancy.
+METHODS: From January 2006 to August 2008, a group of 678 singleton pregnancies 
+who had developed GDM has been selected as a study group among a total of 3966 
+pregnant women who had undergone first trimester screening for aneuploidies at 
+11-14 weeks of gestation. A group of 420 single pregnant women with 
+physiological pregnancy were enrolled as control group. Both fetal structural 
+and karyotype's anomalies were excluded in the two groups. NT was mesured by a 
+Fetal Medicine Foundation certificated operator; GDM was diagnosed at 24-28 
+weeks of gestation following Carpenter and Coustan criteria. In the analyses of 
+continuos variables, study and control group were compared by Student's t-test 
+and Anova test.
+RESULTS: There was no significative difference (p = 0.585) between NT values in 
+the study (mean = 1.56) and control group (mean = 1.54).
+CONCLUSIONS: NT thickness does not show a significative increase in those women 
+who subsequently develop GDM. Therefore, NT assessment does not prove to be an 
+useful ultrasound parameter for predicting GDM onset during pregnancy.
+
+DOI: 10.3109/09513590.2010.538101
+PMID: 21190419 [Indexed for MEDLINE]

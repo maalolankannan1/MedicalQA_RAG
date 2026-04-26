@@ -1,0 +1,43 @@
+1. Schizophr Res. 2008 Dec;106(2-3):200-7. doi: 10.1016/j.schres.2008.08.006.
+Epub  2008 Sep 16.
+
+Is the histidine triad nucleotide-binding protein 1 (HINT1) gene a candidate for 
+schizophrenia?
+
+Chen Q(1), Wang X, O'Neill FA, Walsh D, Kendler KS, Chen X.
+
+Author information:
+(1)Department of Psychiatry and Virginia Institute for Psychiatric and Behavior 
+Genetics, Virginia Commonwealth University, 800 E. Leigh Street, Richmond, VA 
+23298, United States.
+
+BACKGROUND: : The histidine triad nucleotide-binding protein 1, HINT1, 
+hydrolyzes adenosine 5'-monophosphoramidate substrates such as AMP-morpholidate. 
+The human HINT1 gene is located on chromosome 5q31.2, a region implicated in 
+linkage studies of schizophrenia. HINT1 had been shown to have different 
+expression in postmortem brains between schizophrenia patients and unaffected 
+controls. It was also found to be associated with the dysregulation of 
+postsynaptic dopamine transmission, thus suggesting a potential role in several 
+neuropsychiatric diseases.
+METHODS: : In this work, we studied 8 SNPs around the HINT1 gene region using 
+the Irish study of high density schizophrenia families (ISHDSF, 1350 subjects 
+and 273 pedigrees) and the Irish case control study of schizophrenia (ICCSS, 655 
+affected subjects and 626 controls). The expression level of HINT1 was compared 
+between the postmortem brain cDNAs from schizophrenic patients and unaffected 
+controls provided by the Stanley Medical Research Institute.
+RESULTS: : We found nominally significant differences in allele frequencies in 
+several SNPs for both ISHDSF and ICCSS samples in sex-stratified analyses. 
+However, the sex effect differed between the two samples. In expression studies, 
+no significant difference in expression was observed between patients and 
+controls. However, significant interactions amongst sex, diagnosis and rs3864283 
+genotypes were observed.
+CONCLUSION: : Data from both association and expression studies suggested that 
+variants at HINT1 may be associated with schizophrenia and the associations may 
+be sex-specific. However, the markers showing associations were in high LD to 
+the SPEC2/PDZ-GEF2/ACSL6 locus reported previously in the same samples. This 
+made it difficult to separate the association signals amongst these genes. Other 
+independent studies may be necessary to distinguish these candidate genes.
+
+DOI: 10.1016/j.schres.2008.08.006
+PMCID: PMC2729541
+PMID: 18799291 [Indexed for MEDLINE]

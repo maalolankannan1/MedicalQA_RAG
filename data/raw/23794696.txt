@@ -1,0 +1,38 @@
+1. J Orthod. 2013 Jun;40(2):155-62. doi: 10.1179/1465313313Y.0000000044.
+
+Does the bracket-ligature combination affect the amount of orthodontic space 
+closure over three months? A randomized controlled trial.
+
+Wong H(1), Collins J, Tinsley D, Sandler J, Benson P.
+
+Author information:
+(1)School of Clinical Dentistry, University of Sheffield, Sheffield, UK.
+
+OBJECTIVE: To investigate the effect of bracket-ligature combination on the 
+amount of orthodontic space closure over three months.
+DESIGN: Randomized clinical trial with three parallel groups.
+SETTING: A hospital orthodontic department (Chesterfield Royal Hospital, UK).
+PARTICIPANTS: Forty-five patients requiring upper first premolar extractions.
+METHODS: Informed consent was obtained and participants were randomly allocated 
+into one of three groups: (1) conventional pre-adjusted edgewise brackets and 
+elastomeric ligatures; (2) conventional pre-adjusted edgewise brackets and Super 
+Slick(®) low friction elastomeric ligatures; (3) Damon 3MX(®) passive 
+self-ligating brackets. Space closure was undertaken on 0·019×0·025-inch 
+stainless steel archwires with nickel-titanium coil springs. Participants were 
+recalled at four weekly intervals. Upper alginate impressions were taken at each 
+visit (maximum three). The primary outcome measure was the mean amount of space 
+closure in a 3-month period.
+RESULTS: A one-way ANOVA was undertaken [dependent variable: mean space closure 
+(mm); independent variable: group allocation]. The amount of space closure was 
+very similar between the three groups (1 mm per 28 days); however, there was a 
+wide variation in the rate of space closure between individuals. The differences 
+in the amount of space closure over three months between the three groups was 
+very small and non-significant (P = 0·718).
+CONCLUSION: The hypothesis that reducing friction by modifying the 
+bracket/ligature interface increases the rate of space closure was not 
+supported. The major determinant of orthodontic tooth movement is probably the 
+individual patient response.
+
+DOI: 10.1179/1465313313Y.0000000044
+PMCID: PMC4161195
+PMID: 23794696 [Indexed for MEDLINE]

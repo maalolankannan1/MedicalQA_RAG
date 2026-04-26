@@ -1,0 +1,42 @@
+1. Eur J Radiol. 2013 Aug;82(8):1201-6. doi: 10.1016/j.ejrad.2013.02.020. Epub
+2013  Apr 17.
+
+Pitfalls in urinary stone identification using CT attenuation values: are we 
+getting the same information on different scanner models?
+
+Grosjean R(1), Daudon M, Chammas MF Jr, Claudon M, Eschwege P, Felblinger J, 
+Hubert J.
+
+Author information:
+(1)IADI Laboratory, INSERM-U947, Nancy-University, Allée du Morvan, 54500 
+Vandoeuvre-les-Nancy, France. r.grosjean@chu-nancy.fr
+
+INTRODUCTION: Evaluate the capability of different Computed Tomography scanners 
+to determine urinary stone compositions based on CT attenuation values and to 
+evaluate potential differences between each model.
+METHODS: 241 human urinary stones were obtained and their biochemical 
+composition determined. Four different CT scanners (Siemens, Philips, GEMS and 
+Toshiba) were evaluated. Mean CT-attenuation values and the standard deviation 
+were recorded separately and compared with a t-paired test.
+RESULTS: For all tested CT scanners, when the classification of the various 
+types of stones was arranged according to the mean CT-attenuation values and to 
+the confidence interval, large overlappings between stone types were 
+highlighted. The t-paired test showed that most stone types could not be 
+identified. Some types of stones presented mean CT attenuation values 
+significantly different from one CT scanner to another. At 80kV, the mean CT 
+attenuation values obtained with the Toshiba Aquilion were significantly 
+different from those obtained with the Siemens Sensation. On the other hand, 
+mean values obtained with the Philips Brilliance were all significantly equal to 
+those obtained with the Siemens Sensation and with the Toshiba Aquilion. At 
+120kV mean CT attenuation values of uric acid, cystine and struvite stones 
+obtained with the Philips model are significantly different from those obtained 
+with the Siemens and the Toshiba but equal to those obtained with the GE 64.
+CONCLUSIONS: According to our study, there is a great variability when different 
+brands and models of scanners are compared directly. Furthermore, the CT scan 
+analysis and HU evaluation appears to gather insufficient information in order 
+to characterize and identify the composition of renal stones.
+
+Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejrad.2013.02.020
+PMID: 23601294 [Indexed for MEDLINE]

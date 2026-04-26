@@ -1,0 +1,39 @@
+1. Birth Defects Res A Clin Mol Teratol. 2006 Oct;76(10):714-7. doi: 
+10.1002/bdra.20312.
+
+Can folic acid protect against congenital heart defects in Down syndrome?
+
+Meijer WM(1), Werler MM, Louik C, Hernandez-Diaz S, de Jong-van den Berg LT, 
+Mitchell AA.
+
+Author information:
+(1)Slone Epidemiology Center, Boston University, Boston, Massachusetts 
+02215-1201, USA.
+
+BACKGROUND: Several studies have suggested a protective effect of folic acid 
+(FA) on congenital heart anomalies. Down syndrome (DS) infants are known to have 
+a high frequency of heart anomalies. Not all children with DS suffer from heart 
+anomalies, which raises the question whether maternal factors might affect the 
+risk of these anomalies. Our objectives were to investigate whether 
+first-trimester FA use protects against heart anomalies among DS children.
+METHODS: Women with liveborn DS children participating in the Slone Epidemiology 
+Center Birth Defects Study between 1976 and 1997 were included. We performed 
+case-control analyses using DS, with heart anomalies as cases and DS, without 
+heart anomalies as controls. Subanalyses were performed for defects that have 
+been associated with FA in non-DS populations (conotruncal, ventricular septal 
+[VSD]) and for those that are associated with DS (ostium secundum type atrial 
+septal defects [ASD] and endocardial cushion defects [ECD]). Exposure was 
+defined as the use of any FA-containing product for an average of at least 4 
+days per week during the first 12 weeks of pregnancy, whereas no exposure was 
+defined as no use of FA in these 12 weeks.
+RESULTS: Of the 223 cases, 110 (49%) were exposed versus 84 (46%) of the 184 
+controls. After adjustment for possible confounders, no protective effect of FA 
+was found on heart anomalies overall (OR 0.95, 95% CI: 0.61-1.47) nor separately 
+for conotruncal defects, VSDs, ASDs, or ECDs.
+CONCLUSIONS: Our study does not show a protective effect of FA on heart 
+anomalies among infants with DS.
+
+(c) 2006 Wiley-Liss, Inc.
+
+DOI: 10.1002/bdra.20312
+PMID: 17051586 [Indexed for MEDLINE]

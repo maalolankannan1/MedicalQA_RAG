@@ -1,0 +1,38 @@
+1. Obes Surg. 2014 Oct;24(10):1610-6. doi: 10.1007/s11695-014-1257-3.
+
+Are there risk factors that increase the rate of staple line leakage in patients 
+undergoing primary sleeve gastrectomy for morbid obesity?
+
+Benedix F(1), Benedix DD, Knoll C, Weiner R, Bruns C, Manger T, Stroh C; Obesity 
+Surgery Working Group; Competence Network Obesity.
+
+Author information:
+(1)Department of Surgery, University Hospital Magdeburg, Leipziger Strasse 44, 
+39120, Magdeburg, Germany, frankbenedix@gmx.de.
+
+BACKGROUND: Laparoscopic sleeve gastrectomy (LSG) is currently being performed 
+with increasing frequency worldwide. It offers an excellent weight loss and 
+resolution of comorbidities in the short term with a very low incidence of 
+complications. However, the ever present risk of a staple line leak is still a 
+major concern.
+METHODS: Since 2005, data from obese patients that undergo bariatric procedures 
+in Germany are prospectively registered in an online database and analyzed at 
+the Institute of Quality Assurance in Surgical Medicine. For the current 
+analysis, all patients that had undergone primary sleeve gastrectomy for morbid 
+obesity within a 7-year period were considered.
+RESULTS: Using the GBSR, data from 5.400 LSGs were considered for analysis. 
+Staple line leak rate decreased during the study period from 6.5 to 1.4 %. Male 
+gender, higher BMI, concomitant sleep apnea, conversion to laparotomy, longer 
+operation time, use of both buttresses and oversewing, and the occurrence of 
+intraoperative complications were associated with a significantly higher leakage 
+rate. On multivariate analysis, operation time and year of procedure only had a 
+significant impact on staple line leak rate.
+CONCLUSIONS: The results of the current study demonstrated that there are 
+factors that increase the risk of a leakage which would enable surgeons to 
+define risk groups, to more carefully select patients, and to offer a closer 
+follow-up during the postoperative course with early recognition and adequate 
+treatment. All future efforts should be focused on a further reduction of 
+serious complications to make the LSG a widely accepted and safer procedure.
+
+DOI: 10.1007/s11695-014-1257-3
+PMID: 24748473 [Indexed for MEDLINE]

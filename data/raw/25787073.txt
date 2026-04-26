@@ -1,0 +1,37 @@
+1. Int Urol Nephrol. 2015 May;47(5):765-70. doi: 10.1007/s11255-015-0952-x. Epub 
+2015 Mar 19.
+
+Do preoperative serum C-reactive protein levels predict the definitive 
+pathological stage in patients with clinically localized prostate cancer?
+
+Schnoeller TJ(1), Steinestel J, Steinestel K, Jentzmik F, Schrader AJ.
+
+Author information:
+(1)Department of Urology, Ulm University Medical Center, Prittwitzstrasse 43, 
+89075, Ulm, Germany, thomas.schnoeller@gmail.com.
+
+PURPOSE: The serum C-reactive protein (CRP) level correlates with the clinical 
+prognosis in patients with kidney, penile and metastatic castration-resistant 
+prostate cancer (PC). We prospectively evaluated the preoperative CRP level as a 
+predictive marker for an advanced tumor stage or high-grade cancer in patients 
+with clinically localized PC.
+METHODS: The study evaluated 629 patients with clinically localized PC who 
+underwent radical prostatectomy between 2010 and 2013. Exclusion criteria were 
+signs of systemic infection, symptoms of an autoimmune disease or neoadjuvant 
+androgen deprivation.
+RESULTS: Poorly differentiated PC tends to be more common in patients with 
+elevated CRP levels (15.5 vs. 9.5%, p = 0.08). Analogously, patients with a 
+Gleason score ≥8 PC had significantly higher median CRP levels than those with a 
+Gleason score ≤7 PC (1.9 vs. 1.2 mg/l, p = 0.03). However, neither uni- nor 
+multivariate analysis showed an association between the preoperative CRP level 
+and the presence of a locally advanced tumor stage, lymph node metastases or a 
+positive surgical margin. CRP also failed to correlate with the initial PSA 
+level and the clinical tumor-associated findings. Moreover, multivariate 
+analysis relativized the association between an elevated CRP level and poor 
+tumor differentiation.
+CONCLUSION: In patients with clinically localized PC, CRP does not appear to 
+possess the predictive value and it was shown to have patients with other tumor 
+entities or advanced PC.
+
+DOI: 10.1007/s11255-015-0952-x
+PMID: 25787073 [Indexed for MEDLINE]

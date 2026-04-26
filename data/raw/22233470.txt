@@ -1,0 +1,44 @@
+1. BMC Public Health. 2012 Jan 10;12:20. doi: 10.1186/1471-2458-12-20.
+
+Does the distribution of health care benefits in Kenya meet the principles of 
+universal coverage?
+
+Chuma J(1), Maina T, Ataguba J.
+
+Author information:
+(1)Kenya Medical Research Institute -Wellcome Trust Research Programme, Kilifi, 
+Kenya. Jchuma@kilifi.kemri-wellcome.org
+
+BACKGROUND: The 58th World Health Assembly called for all health systems to move 
+towards universal coverage where everyone has access to key promotive, 
+preventive, curative and rehabilitative health interventions at an affordable 
+cost. Universal coverage involves ensuring that health care benefits are 
+distributed on the basis of need for care and not on ability to pay. The 
+distribution of health care benefits is therefore an important policy question, 
+which health systems should address. The aim of this study is to assess the 
+distribution of health care benefits in the Kenyan health system, compare 
+changes over two time periods and demonstrate the extent to which the 
+distribution meets the principles of universal coverage.
+METHODS: Two nationally representative cross-sectional households surveys 
+conducted in 2003 and 2007 were the main sources of data. A comprehensive 
+analysis of the entire health system is conducted including the public sector, 
+private-not-for-profit and private-for-profit sectors. Standard benefit 
+incidence analysis techniques were applied and adopted to allow application to 
+private sector services.
+RESULTS: The three sectors recorded similar levels of pro-rich distribution in 
+2003, but in 2007, the private-not-for-profit sector was pro-poor, public sector 
+benefits showed an equal distribution, while the private-for-profit sector 
+remained pro-rich. Larger pro-rich disparities were recorded for inpatient 
+compared to outpatient benefits at the hospital level, but primary health care 
+services were pro-poor. Benefits were distributed on the basis of ability to pay 
+and not on need for care.
+CONCLUSIONS: The principles of universal coverage require that all should 
+benefit from health care according to need. The Kenyan health sector is clearly 
+inequitable and benefits are not distributed on the basis of need. Deliberate 
+efforts should be directed to restructuring the Kenyan health system to address 
+access barriers and ensure that all Kenyans benefit from health care when they 
+need it.
+
+DOI: 10.1186/1471-2458-12-20
+PMCID: PMC3280172
+PMID: 22233470 [Indexed for MEDLINE]

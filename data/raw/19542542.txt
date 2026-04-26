@@ -1,0 +1,39 @@
+1. Hum Reprod. 2009 Oct;24(10):2549-57. doi: 10.1093/humrep/dep222. Epub 2009 Jun
+ 20.
+
+Is there a uniform basal endometrial gene expression profile during the 
+implantation window in women who became pregnant in a subsequent ICSI cycle?
+
+Allegra A(1), Marino A, Coffaro F, Lama A, Rizza G, Scaglione P, Sammartano F, 
+Santoro A, Volpes A.
+
+Author information:
+(1)Andros Day Surgery, Reproductive Medicine Unit, Palermo, Italy. 
+allegra@centroandros.it
+
+BACKGROUND: To understand which genes are really involved in the implantation 
+process, we planned to study the gene basal expression profile during the window 
+of implantation (WOI) of patients who became pregnant in a subsequent ICSI 
+cycle.
+METHODS: Women attending their first ICSI cycle at ANDROS Day Surgery for severe 
+male factor infertility were included in the study. An endometrial biopsy was 
+performed during the WOI, in one of the last two cycles before the ICSI cycle. 
+Forty-seven selected gene profiles were analyzed using Low Density Array 
+technology. Only biopsies from women who subsequently became pregnant were 
+evaluated, to exclude any bias regarding embryo viability and embryo transfer 
+difficulties.
+RESULTS: Fifteen patients were included in the analysis as they became pregnant 
+after ICSI procedure. Four of 47 selected genes were excluded from the analysis. 
+Of the 43 genes analyzed, only 6 genes (VEGFA, PLA2G2A, ALPL, LIF, NNMT and 
+STC1) showed a statistically uniform expression among patients who subsequently 
+became pregnant. For all the other genes analyzed there were considerable 
+differences in their expression levels amongst women who subsequently became 
+pregnant.
+CONCLUSIONS: Our data suggest that very few genes, which change their expression 
+level during the WOI, show a quantitative homogeneous expression in 
+endometrially-receptive patients. In conclusion, in this study only six genes 
+showed a homogeneous expression, and are probably involved in embryo 
+implantation mechanisms.
+
+DOI: 10.1093/humrep/dep222
+PMID: 19542542 [Indexed for MEDLINE]

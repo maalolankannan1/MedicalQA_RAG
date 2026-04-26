@@ -1,0 +1,41 @@
+1. BMC Med Inform Decis Mak. 2014 Oct 1;14:87. doi: 10.1186/1472-6947-14-87.
+
+Can multiple SNP testing in BRCA2 and BRCA1 female carriers be used to improve 
+risk prediction models in conjunction with clinical assessment?
+
+Prosperi MC(1), Ingham SL, Howell A, Lalloo F, Buchan IE, Evans DG.
+
+Author information:
+(1)Institute of Population Health, Centre for Health Informatics, University of 
+Manchester, Manchester, UK. mattia.prosperi@manchester.ac.uk.
+
+BACKGROUND: Several single nucleotide polymorphisms (SNPs) at different loci 
+have been associated with breast cancer susceptibility, accounting for around 
+10% of the familial component. Recent studies have found direct associations 
+between specific SNPs and breast cancer in BRCA1/2 mutation carriers. Our aim 
+was to determine whether validated susceptibility SNP scores improve the 
+predictive ability of risk models in comparison/conjunction to other 
+clinical/demographic information.
+METHODS: Female BRCA1/2 carriers were identified from the Manchester genetic 
+database, and included in the study regardless of breast cancer status or age. 
+DNA was extracted from blood samples provided by these women and used for gene 
+and SNP profiling. Estimates of survival were examined with Kaplan-Meier curves. 
+Multivariable Cox proportional hazards models were fit in the separate BRCA 
+datasets and in menopausal stages screening different combinations of 
+clinical/demographic/genetic variables. Nonlinear random survival forests were 
+also fit to identify relevant interactions. Models were compared using Harrell's 
+concordance index (1 - c-index).
+RESULTS: 548 female BRCA1 mutation carriers and 523 BRCA2 carriers were 
+identified from the database. Median Kaplan-Meier estimate of survival was 46.0 
+years (44.9-48.1) for BRCA1 carriers and 48.9 (47.3-50.4) for BRCA2. By fitting 
+Cox models and random survival forests, including both a genetic SNP score and 
+clinical/demographic variables, average 1 - c-index values were 0.221 (st.dev. 
+0.019) for BRCA1 carriers and 0.215 (st.dev. 0.018) for BRCA2 carriers.
+CONCLUSIONS: Random survival forests did not yield higher performance compared 
+to Cox proportional hazards. We found improvement in prediction performance when 
+coupling the genetic SNP score with clinical/demographic markers, which warrants 
+further investigation.
+
+DOI: 10.1186/1472-6947-14-87
+PMCID: PMC4197237
+PMID: 25274085 [Indexed for MEDLINE]

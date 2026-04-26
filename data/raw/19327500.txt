@@ -1,0 +1,39 @@
+1. J Thorac Cardiovasc Surg. 2009 Apr;137(4):807-12. doi: 
+10.1016/j.jtcvs.2008.09.026.
+
+Gender difference in survival of resected non-small cell lung cancer: 
+histology-related phenomenon?
+
+Chang JW(1), Asamura H, Kawachi R, Watanabe S.
+
+Author information:
+(1)Cheju National University Hospital, School of Medicine, Cheju National 
+University, Jeju, South Korea.
+
+OBJECTIVE: It remains controversial whether there is a gender difference in 
+survival of patients with resected non-small cell lung cancer.
+METHODS: We retrospectively analyzed 2770 patients (1689 men and 1081 women) 
+with non-small cell lung cancer who underwent pulmonary resection between 1995 
+and 2005 at the National Cancer Center Hospital, Tokyo. A gender difference in 
+survival was studied in all patients, in those divided according to histology or 
+pathologic stage, and in propensity-matched gender pairs.
+RESULTS: There were no differences in background, such as preoperative pulmonary 
+function, operation procedures, or operative mortality. The proportions of 
+adenocarcinoma and pathologic stage I in women were greater than those in men 
+(93.6% vs 61.7% and 71.4% vs 58.6%, respectively) (P < .001). Overall 5-year 
+survival of women was better than that of men (81% vs 70%, P < .001). In 
+adenocarcinoma, the overall 5-year survival for women was better than that for 
+men in pathologic stage I (95% vs 87%, P < .001) and in pathologic stage II or 
+higher (58% vs 51%, P = .017). In non-adenocarcinoma, there was no significant 
+gender difference in survival in pathologic stage I (P = .313) or pathologic 
+stage II or higher (P = .770). The variables such as age, smoking status, 
+histology, and pathologic stage were used for propensity score matching, and 
+survival analysis of propensity score-matched gender pairs did not show a 
+significant difference (P = .69).
+CONCLUSION: Women had better survival than men; however, there was no survival 
+advantage in propensity-matched gender pairs. A gender difference in survival 
+was observed only in the adenocarcinoma subset, suggesting pathobiology in 
+adenocarcinoma in women might be different from that of men.
+
+DOI: 10.1016/j.jtcvs.2008.09.026
+PMID: 19327500 [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+1. Isr Med Assoc J. 2013 Sep;15(9):485-8.
+
+Do ventricular arrhythmias in athletes subside over time?
+
+Fuchs T(1), Torjman A(2), Galitzkaya L(3), Leitman M(4), Pilz-Burstein R(3).
+
+Author information:
+(1)Arrhythmia Service, Assaf Harofeh Medical Center, Zerifin, affiliated with 
+Sackler Faculty of Medicine, Tel Aviv University, Ramat Aviv, Israel. 
+therese@fuchs.org
+(2)College of Management, Rishon Lezion, Israel.
+(3)Wingate Institute for Physical Education and Sport, Netanya, Israel.
+(4)Arrhythmia Service, Assaf Harofeh Medical Center, Zerifin, affiliated with 
+Sackler Faculty of Medicine, Tel Aviv University, Ramat Aviv, Israel.
+
+BACKGROUND: Sudden death in athletes can occur during sport activities and is 
+presumably related to ventricular arrhythmias.
+OBJECTIVES: To investigate the long-term follow-up ofathletes with ventricular 
+arrhythmias during an exercise test.
+METHODS: From a database of 56,462 athletes we identified 192 athletes (35 years 
+old who had ventricular arrhythmias during an exercise test. Ninety athletes had 
+> or =3 ventricular premature beats (VPB) (group A) and 102 athletes had 
+ventricular couplets or non-sustained ventricular tachycardia during an exercise 
+test (group B). A control group of 92 athletesfrom without ventricular 
+arrhythmias was randomly seleclted from the database (group C). Of the 192 
+athletes 39 returnied for a repeat exercise test after a mean follow-up period 
+of 70 +/- 25 months and they constitute the study population.
+RESULTS: Twelve athletes from group A, 21 fromgroup B and 6 from group C 
+returned for a repeat exercise test. The athletes reached a significantly lower 
+peak heart rate during their follow-up exercise test (P = 0.001). More athletes 
+were engaged in competitive sports during their initialexercise test than in the 
+follow-up test (P = 0.021). Most of theathletes who had VPB and/orventricular 
+couplets and/or NSVT during their initial exercise test had far fewer 
+ventricular arrhythmias in the follow-up exercise test (P = 0.001).
+CONCLUSIONS: Athletes engaged in competitive sports are more likely to develop 
+ventricular arrhythmias during exercise. These arrhythmias subside over time 
+when athletes are engaged in non-competitive sports.
+
+PMID: 24340838 [Indexed for MEDLINE]

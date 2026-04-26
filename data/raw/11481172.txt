@@ -1,0 +1,27 @@
+1. Am J Psychiatry. 2001 Aug;158(8):1324-6. doi: 10.1176/appi.ajp.158.8.1324.
+
+Does the manic/mixed episode distinction in bipolar disorder patients run true 
+over time?
+
+Woods SW(1), Money R, Baker CB.
+
+Author information:
+(1)Department of Psychiatry, Treatment Research Program, Connecticut Mental 
+Health Center, Yale University School of Medicine, 34 Park St., New Haven, CT 
+06519, USA. scott.woods@yale.edu
+
+OBJECTIVE: The authors sought to determine whether the manic/mixed episode 
+distinction in patients with bipolar disorder runs true over time.
+METHOD: Over an 11-year period, the observed distribution of manic and mixed 
+episodes (N=1,224) for patients with three or more entries in the management 
+information system of a community mental health center (N=241) was compared to 
+the expected distribution determined by averaging 1,000 randomly generated 
+simulations.
+RESULTS: Episodes were consistent (all manic or all mixed) in significantly more 
+patients than would be expected by chance.
+CONCLUSIONS: These data suggest a pattern of diagnostic stability over time for 
+manic and mixed episodes in patients with bipolar disorder. Careful prospective 
+studies of this issue are needed.
+
+DOI: 10.1176/appi.ajp.158.8.1324
+PMID: 11481172 [Indexed for MEDLINE]

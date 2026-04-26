@@ -1,0 +1,35 @@
+1. Ann Bot. 2008 Mar;101(4):521-30. doi: 10.1093/aob/mcm329. Epub 2008 Jan 25.
+
+Are pectins involved in cold acclimation and de-acclimation of winter oil-seed 
+rape plants?
+
+Solecka D(1), Zebrowski J, Kacperska A.
+
+Author information:
+(1)Department of Plant Molecular Biology, Institute of Experimental Plant 
+Biology, University of Warsaw, Miecznikowa 1, 02-096 Warsaw, Poland.
+
+BACKGROUND AND AIMS: The hypothesis was tested that pectin content and 
+methylation degree participate in regulation of cell wall mechanical properties 
+and in this way may affect tissue growth and freezing resistance over the course 
+of plant cold acclimation and de-acclimation.
+METHODS: Experiments were carried on the leaves of two double-haploid lines of 
+winter oil-seed rape (Brassica napus subsp. oleifera), differing in winter 
+survival and resistance to blackleg fungus (Leptosphaeria maculans).
+KEY RESULTS: Plant acclimation in the cold (2 degrees C) brought about 
+retardation of leaf expansion, concomitant with development of freezing 
+resistance. These effects were associated with the increases in leaf tensile 
+stiffness, cell wall and pectin contents, pectin methylesterase (EC 3.1.1.11) 
+activity and the low-methylated pectin content, independently of the genotype 
+studied. However, the cold-induced modifications in the cell wall properties 
+were more pronounced in the leaves of the more pathogen-resistant genotype. 
+De-acclimation promoted leaf expansion and reversed most of the cold-induced 
+effects, with the exception of pectin methylesterase activity.
+CONCLUSIONS: The results show that the temperature-dependent modifications in 
+pectin content and their methyl esterification degree correlate with changes in 
+tensile strength of a leaf tissue, and in this way affect leaf expansion ability 
+and its resistance to freezing and to fungus pathogens.
+
+DOI: 10.1093/aob/mcm329
+PMCID: PMC2710196
+PMID: 18222909 [Indexed for MEDLINE]

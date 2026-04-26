@@ -1,0 +1,35 @@
+1. Ann Thorac Surg. 2003 Sep;76(3):676-80; discussion 680. doi: 
+10.1016/s0003-4975(03)00566-6.
+
+Can progression of valvar aortic stenosis be predicted accurately?
+
+Piper C(1), Bergemann R, Schulte HD, Koerfer R, Horstkotte D.
+
+Author information:
+(1)Department of Cardiology, Heart Center North Rhine-Westphalia, Ruhr 
+University of Bochum, Bad Oeynhausen, Germany. cpiper@hdz-nrw.de
+
+BACKGROUND: It was the aim of the present study to elaborate criteria for the 
+assessment of rapid hemodynamic progression of valvar aortic stenosis. These 
+criteria are of special importance when cardiac surgery is indicated for other 
+reasons but the established criteria for aortic valve replacement are not yet 
+fulfilled. Such aspects of therapeutic planing were mostly disregarded in the 
+past so that patients had to undergo cardiac reoperation within a few years.
+METHODS: Hemodynamic, echocardiographic, and clinical data of 169 men and 88 
+women with aortic stenosis, aged 55.2 +/- 15.7 years at their first and 63.4 +/- 
+15.6 years at their second cardiac catheterization, were analyzed.
+RESULTS: The progression rate of aortic valve obstruction was found to be 
+dependent on the degree of valvar calcification ([VC] scoring 0 to III) and to 
+be exponentially correlated with the aortic valve opening area (AVA) at initial 
+catheterization. Neither age nor sex of the patient nor etiology of the valvar 
+obstruction significantly influence the progression of aortic stenosis. If AVA 
+decreases below 0.75 cm(2) with a present degree of VC = 0, or AVA of 0.8 with 
+VC of I, AVA of 0.9 with VC of II, or AVA of 1.0 with VC of III, it is probable 
+that aortic stenosis will have to be operated upon in the following years.
+CONCLUSIONS: The present data indicate that for clinical purposes and planning 
+of valvar surgery the progression of asymptomatic aortic stenosis can be 
+sufficiently predicted by the present aortic valve opening area and the degree 
+of valvar calcification.
+
+DOI: 10.1016/s0003-4975(03)00566-6
+PMID: 12963175 [Indexed for MEDLINE]

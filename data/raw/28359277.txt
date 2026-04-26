@@ -1,0 +1,45 @@
+1. BMC Health Serv Res. 2017 Mar 31;17(1):243. doi: 10.1186/s12913-017-2185-4.
+
+Do healthier lifestyles lead to less utilization of healthcare resources?
+
+Lee IC(1), Chang CS(2), Du PL(3).
+
+Author information:
+(1)Department of Healthcare Administration and Medical Informatics, Kaohsiung 
+Medical University, 100, Shih-Chuan 1st Road, Kaohsiung, 807, Taiwan.
+(2)Department of Hematology-Oncology, E-Da Cancer Hospital; School of Medicine 
+for International Students, I-Shou University, No.21, Yi-Da Road, Jiao-Su 
+Village, Yan-Chao District, Kaohsiung City, 824, Taiwan.
+(3)Department of Sport and Leisure, National Quemoy University, No.1, Daxue Rd., 
+Jinning Township, Kinmen County, Kinmen, 892, Taiwan. peylandu@nqu.edu.tw.
+
+BACKGROUND: Governments are urged to determine methods to control the use of 
+medical resources and curb the rise of healthcare costs. The question is, do 
+health behaviors have an impact on the use of medical resources? This study aims 
+to identify and understand the difference in the number of outpatient visits and 
+health examinations based on various health behaviors and to determine whether 
+patients seek medical care for illness from the same physicians.
+METHODS: This study used the dataset derived from the Department of Budget, 
+Accounting and Statistics of Kaohsiung, Taiwan in 2005. Persons older than 
+15 years were surveyed using an on-site questionnaire. A total of 2911 persons 
+were enrolled in this study. Independent t-tests, chi-square tests, one-way 
+ANOVA, multiple linear regression and binominal logistic regression were used in 
+the data analysis.
+RESULTS: The regression model for the frequency of doctor visits, health 
+examinations, and whether the same physician is sought for medical care has 
+demonstrated significant correlations with gender, age and education-level 
+variables. Four health behaviors (i.e., exercise habits, dietary habits, regular 
+blood pressure measurement, drinking habits) exhibited a significant correlation 
+with healthcare utilization (P <0.05).
+CONCLUSIONS: Healthy lifestyles lead to an increase in the utilization of 
+preventive health services. However, there is not much significantly reducing 
+the number of outpatient visits in people with health behaviors. Specifically, 
+people with regular exercise habits and who take their blood pressure 
+measurement regularly have an increased number of outpatient visits. It is 
+suggested that more available and accessible health consultation services be 
+provided to inculcate in the general public the importance of maintaining a 
+healthy lifestyle.
+
+DOI: 10.1186/s12913-017-2185-4
+PMCID: PMC5374670
+PMID: 28359277 [Indexed for MEDLINE]

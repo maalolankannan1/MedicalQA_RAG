@@ -1,0 +1,46 @@
+1. Spine (Phila Pa 1976). 2010 Nov 1;35(23):E1290-7. doi: 
+10.1097/BRS.0b013e3181e6d592.
+
+Is decompressive surgery effective for spinal cord sarcoidosis accompanied with 
+compressive cervical myelopathy?
+
+Sakai Y(1), Matsuyama Y, Imagama S, Ito Z, Wakao N, Ishiguro N, Watanabe H, Kato 
+F, Yukawa Y, Ito K, Suzuki K, Tsuboi A, Kanemura T, Yoshida G.
+
+Author information:
+(1)Department of Orthopaedic Surgery, Nagoya University School of Medicine, 
+Aichi Prefecture, Japan. jsakai@ncgg.go.jp
+
+STUDY DESIGN: A retrospective multicenter study of series of 12 patients with 
+spinal cord sarcoidosis who underwent surgery.
+OBJECTIVE: To evaluate the postoperative outcomes of patients with cervical 
+spinal cord sarcoidosis accompanied with compressive myelopathy and effect of 
+decompressive surgery on the prognosis of sarcoidosis.
+SUMMARY OF BACKGROUND DATA: Sarcoidosis is a chronic, multisystem noncaseating 
+granulomatous disease. It is difficult to differentiate spinal cord sarcoidosis 
+from cervical compressive myelopathy. There are no studies regarding the 
+coexistence of compressive cervical myelopathy with cervical spinal cord 
+sarcoidosis and the effect of decompressive surgery.
+METHODS: Nagoya Spine Group database included 1560 cases with cervical 
+myelopathy treated with cervical laminectomy or laminoplasty from 2001 to 2005. 
+A total of 12 patients (0.08% of cervical myelopathy) were identified spinal 
+cord sarcoidosis treated with decompressive surgery. As a control subject, 8 
+patients with spinal cord sarcoidosis without compressive lesion who underwent 
+high-dose steroid therapy without surgery were recruited.
+RESULTS: In the surgery group, enhancing lesions on magnetic resonance imaging 
+(MRI) were mostly seen at C5-C6, coincident with the maximum compression level 
+in all cases. Postoperative recovery rates in the surgery group at 1 week and 4 
+weeks were -7.4% and -1.1%, respectively. Only 5 cases had showed clinical 
+improvement, and the condition of these 5 patients had worsened again at 
+averaged 7.4 weeks after surgery. Postoperative oral steroid therapy was 
+initiated at an average of 6.4 weeks and the average initial dose was 54.0 mg in 
+the surgery group, while 51.3 mg in the nonsurgery group. The recovery rate of 
+the Japanese Orthopedic Association score, which increased after steroid 
+therapy, was better in the nonsurgery group (62.5%) than in the surgery group 
+(18.6%) with significant difference (P < 0.01).
+CONCLUSION: The effect of decompression for spinal cord sarcoidosis with 
+compressive myelopathy was not evident. Early diagnosis for sarcoidosis from 
+other organ and steroid therapy should be needed.
+
+DOI: 10.1097/BRS.0b013e3181e6d592
+PMID: 20736887 [Indexed for MEDLINE]

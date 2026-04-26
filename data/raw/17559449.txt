@@ -1,0 +1,37 @@
+1. Int J Paediatr Dent. 2007 Jul;17(4):231-8. doi: 
+10.1111/j.1365-263X.2007.00826.x.
+
+Are sugars-free medicines more erosive than sugars-containing medicines? An in 
+vitro study of paediatric medicines with prolonged oral clearance used regularly 
+and long-term by children.
+
+Maguire A(1), Baqir W, Nunn JH.
+
+Author information:
+(1)School of Dental Sciences, University of Newcastle, Newcastle upon Tyne, UK. 
+A.Maguire@ncl.ac.uk
+
+OBJECTIVE: The reduced use of sugars-containing (SC) liquid medicines has 
+increased the use of other dose forms, potentially resulting in more widespread 
+dental effects, including tooth wear. The aim of this study was to assess the 
+erosive potential of 97 paediatric medicines in vitro.
+METHODS: The study took the form of in vitro measurement of endogenous pH and 
+titratable acidity (mmol). Endogenous pH was measured using a pH meter, followed 
+by titration to pH 7.0 with 0.1-M NaOH.
+RESULTS: Overall, 55 (57%) formulations had an endogenous pH of < 5.5. The mean 
+(+/- SD) endogenous pH and titratable acidity for 41 SC formulations were 5.26 
++/- 1.30 and 0.139 +/- 0.133 mmol, respectively; for 56 sugars-free (SF) 
+formulations, these figures were 5.73 +/- 1.53 and 0.413 +/- 1.50 mmol (P > 
+0.05). Compared with their SC bioequivalents, eight SF medicines showed no 
+significant differences for pH or titratable acidity, while 15 higher-strength 
+medicines showed lower pH (P = 0.035) and greater titratable acidity (P = 0.016) 
+than their lower-strength equivalents. Chewable and dispersible tablets (P < 
+0.001), gastrointestinal medicines (P = 0.002) and antibiotics (P = 0.007) were 
+significant predictors of higher pH. In contrast, effervescent tablets (P < 
+0.001), and nutrition and blood preparations (P = 0.021) were significant 
+predictors of higher titratable acidity.
+CONCLUSIONS: Paediatric SF medicines were not more erosive than SC medicines in 
+vitro; a more significant predictor of their erosive potential was dose form.
+
+DOI: 10.1111/j.1365-263X.2007.00826.x
+PMID: 17559449 [Indexed for MEDLINE]

@@ -1,0 +1,33 @@
+1. J Magn Reson Imaging. 2004 Feb;19(2):194-201. doi: 10.1002/jmri.10443.
+
+Is half-dose contrast-enhanced three-dimensional MR angiography sufficient for 
+the abdominal aorta and pelvis?
+
+Takahashi S(1), Murakami T, Takamura M, Kim T, Hori M, Narumi Y, Nakamura H.
+
+Author information:
+(1)Department of Clinical Informative Imagiology, Osaka University Graduate 
+School of Medicine, Osaka, Japan. takahashi@inf-img.med.osaka-u.ac.jp
+
+PURPOSE: To evaluate the usefulness of half-dose contrast-enhanced magnetic 
+resonance (MR) angiography for depicting the abdominal aorta and its major 
+branches.
+MATERIALS AND METHODS: A total of 72 consecutive patients were randomly assigned 
+to one of four groups that underwent MR angiography after receiving different 
+concentrations (original or diluted to 50%) and total amounts (single or 
+half-dose) of gadolinium chelate injected at different rates (1 or 0.5 
+mL/second). The signal-to-noise ratio (SNR) and contrast-to-noise ratio (CNR) of 
+the abdominal aorta and of the common and external iliac arteries were 
+calculated, and two blinded readers rated the respective image qualities.
+RESULTS: The SNR and CNR of the abdominal aorta and the common iliac artery in 
+the 0.5 mL/second groups were statistically significantly lower than those in 
+the 1 mL/second groups. The differences in overall image quality across the four 
+groups were not statistically significant.
+CONCLUSION: Half-dose MR angiography using diluted contrast medium injected at a 
+rate of 1 mL/second depicted the abdominal aorta and its branches as clearly as 
+using a full single dose.
+
+Copyright 2004 Wiley-Liss, Inc.
+
+DOI: 10.1002/jmri.10443
+PMID: 14745753 [Indexed for MEDLINE]

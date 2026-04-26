@@ -1,0 +1,41 @@
+1. Surgery. 2008 Oct;144(4):591-6; discussion 596-7. doi: 
+10.1016/j.surg.2008.06.022. Epub 2008 Aug 29.
+
+Therapeutic anticoagulation in the trauma patient: is it safe?
+
+Golob JF Jr(1), Sando MJ, Kan JC, Yowler CJ, Malangoni MA, Claridge JA.
+
+Author information:
+(1)MetroHealth Medical Center, Department of Surgery, Case Western Reserve 
+University School of Medicine, Cleveland, OH 44109-1998, USA.
+
+PURPOSE: Trauma patients who require therapeutic anticoagulation pose a 
+difficult treatment problem. The purpose of this study was to determine: (1) the 
+incidence of complications using therapeutic anticoagulation in trauma patients, 
+and (2) if any patient factors are associated with these complications.
+METHODS: An 18-month retrospective review was performed on trauma patients >or= 
+15 years old who received therapeutic anticoagulation using unfractionated 
+heparin (UH) and/or fractionated heparin (FH). Forty different pre-treatment and 
+treatment patient characteristics were recorded. Complications of 
+anticoagulation were documented and defined as any unanticipated discontinuation 
+of the anticoagulant for bleeding or other adverse events.
+RESULTS: One-hundred-fourteen trauma patients were initiated on therapeutic 
+anticoagulation. The most common indication for anticoagulation was deep venous 
+thrombosis (46%). Twenty-four patients (21%) had at least 1 anticoagulation 
+complication. The most common complication was a sudden drop in hemoglobin 
+concentration requiring blood transfusion (11 patients). Five patients died 
+(4%), 3 of whom had significant hemorrhage attributed to anticoagulation. 
+Bivariate followed by logistic regression analysis identified chronic 
+obstructive pulmonary disease (OR = 9.2, 95%CI = 1.5-54.7), UH use (OR = 3.8, 
+95%CI = 1.1-13.0), and lower initial platelet count (OR = 1.004, 95%CI = 
+1.000-1.008) as being associated with complications. Patients receiving UH vs. 
+FH differed in several characteristics including laboratory values and 
+anticoagulation indications.
+CONCLUSION: Trauma patients have a significant complication rate related to 
+anticoagulation therapy, and predicting which patients will develop a 
+complication remains unclear. Prospective studies are needed to determine which 
+treatment regimen, if any, is appropriate to safely anticoagulate this high risk 
+population.
+
+DOI: 10.1016/j.surg.2008.06.022
+PMID: 18847643 [Indexed for MEDLINE]

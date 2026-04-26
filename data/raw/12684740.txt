@@ -1,0 +1,37 @@
+1. Psychopharmacology (Berl). 2003 Jul;168(3):307-13. doi: 
+10.1007/s00213-003-1454-6. Epub 2003 Apr 9.
+
+Cue-induced behavioural activation: a novel model of alcohol craving?
+
+Pickering C(1), Liljequist S.
+
+Author information:
+(1)Department of Clinical Neuroscience, Division of Drug Dependence Research, 
+Karolinska Institutet, Building L4a:00, 171 76, Stockholm, Sweden.
+
+RATIONALE: Alcohol-associated cues elicit craving in human addicts but little is 
+known about craving mechanisms. Current animal models focus on relapse and this 
+may confound the effect of environmental cues. OBJECTIVES. To develop a model to 
+study the effects of environmental cues on alcohol consumption in animals not 
+experiencing withdrawal or relapse.
+METHODS: Rats were trained to orally self-administer an alcohol (5% 
+w/v)/saccharin (0.2%) solution 30 min a day for 20 days. After stable responding 
+on a free choice between alcohol/saccharin and water, rats were exposed to 5, 10 
+or 15 min of alcohol-associated cues or 5 min of non-alcohol associated cues. 
+The effect of a 5-min cue was measured after a 10-day break from training or 
+pre-treatment with 0.03, 0.1 or 1 mg/kg naltrexone.
+RESULTS: Rats given 5 min of alcohol-associated cues responded significantly 
+more on the active lever (26% increase) and consumed more alcohol as verified by 
+increased blood alcohol levels (8.9 mM versus control 7.5 mM). Ten or 15 min of 
+cues did not change alcohol consumption and 5 min in a novel environment 
+decreased response by 66%. After a 10-day break in training, 5 min of 
+alcohol-associated cues still increased alcohol consumption (29% increase) and 
+the cue effect could be dose-dependently blocked by naltrexone (143% decrease at 
+0.03 mg/kg).
+CONCLUSIONS: Cue-induced behavioural activation was specific to alcohol cues, 
+reproducible, persistent and could be blocked by naltrexone, and its correlation 
+with human self-report of craving makes it a potentially useful model for 
+studying alcohol craving.
+
+DOI: 10.1007/s00213-003-1454-6
+PMID: 12684740 [Indexed for MEDLINE]

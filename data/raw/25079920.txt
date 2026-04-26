@@ -1,0 +1,56 @@
+1. BMJ Open. 2014 Jul 30;4(7):e004481. doi: 10.1136/bmjopen-2013-004481.
+
+Do parents recall and understand children's weight status information after BMI 
+screening? A randomised controlled trial.
+
+Dawson AM(1), Taylor RW(2), Williams SM(3), Taylor BJ(1), Brown DA(4).
+
+Author information:
+(1)Department of Women's and Children's Health, Dunedin School of Medicine, 
+University of Otago, Dunedin, New Zealand.
+(2)Department of Medicine, Dunedin School of Medicine, University of Otago, 
+Dunedin, New Zealand.
+(3)Department of Preventive and Social Medicine, Dunedin School of Medicine, 
+University of Otago, Dunedin, New Zealand.
+(4)School of Psychology, Victoria University of Wellington, Wellington, New 
+Zealand.
+
+OBJECTIVES: As parents of young children are often unaware their child is 
+overweight, screening provides the opportunity to inform parents and provide the 
+impetus for behaviour change. We aimed to determine if parents could recall and 
+understand the information they received about their overweight child after 
+weight screening.
+DESIGN: Randomised controlled trial of different methods of feedback.
+SETTING: Participants were recruited through primary and secondary care but 
+appointments took place at a University research clinic.
+PARTICIPANTS AND INTERVENTION: 1093 children aged 4-8 years were screened. Only 
+overweight children (n=271, 24.7%) are included in this study. Parents of 
+overweight children were randomised to receive feedback regarding their child's 
+weight using best practice care (BPC) or motivational interviewing (MI) at 
+face-to-face interviews typically lasting 20-40 min. 244 (90%) parents 
+participated in a follow-up interview 2 weeks later to assess recall and 
+understanding of information from the feedback session.
+PRIMARY AND SECONDARY OUTCOME MEASURES: Interviews were audio-taped and 
+transcribed verbatim before coding for amount and accuracy of recall. Scores 
+were calculated for total recall and sub-categories of interest.
+RESULTS: Overall, 39% of the information was recalled (mean score 6.3 from 
+possible score of 16). Parents given feedback via BPC recalled more than those 
+in the MI group (difference in total score 0.48; 95% CI 0.05 to 0.92). Although 
+94% of parents were able to correctly recall their child's weight status, fewer 
+than 10 parents could accurately describe what the measurements meant. Maternal 
+education (0.81; 0.25 to 1.37) and parental ratings of how useful they found the 
+information (0.19; 0.04 to 0.35) were significant predictors of recall score in 
+multivariate analyses.
+CONCLUSIONS: While parents remember that their child's body mass index is higher 
+than recommended, they are unable to remember much of the information and advice 
+provided about the result.
+TRIAL REGISTRATION NUMBER: Australian New Zealand Clinical Trials Registry 
+ACTRN12609000749202.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmjopen-2013-004481
+PMCID: PMC4120339
+PMID: 25079920 [Indexed for MEDLINE]

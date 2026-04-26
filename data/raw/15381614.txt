@@ -1,0 +1,44 @@
+1. Arch Surg. 2004 Sep;139(9):968-72; discussion 972-73. doi: 
+10.1001/archsurg.139.9.968.
+
+Cutaneous melanoma in a multiethnic population: is this a different disease?
+
+Hemmings DE(1), Johnson DS, Tominaga GT, Wong JH.
+
+Author information:
+(1)Department of Surgery, John A. Burns School of Medicine and the Prevention 
+and Control Program, Cancer Research Center of Hawaii, University of Hawaii at 
+Manoa, Honolulu 96813, USA.
+
+HYPOTHESIS: Cutaneous melanoma in nonwhite persons has a manifestation and a 
+prognosis that are different than those of cutaneous melanoma in white persons.
+DESIGN: Case series.
+SETTING: Tertiary care university-affiliated community medical center located in 
+a multiethnic state in which white persons are a minority of the population.
+PATIENTS: Consecutive series of 357 patients with melanoma seen between January 
+1994 and August 2003.
+MAIN OUTCOME MEASURES: Ethnicity, age, sex, primary site, tumor thickness, nodal 
+status, stage at diagnosis, and survival.
+RESULTS: There were 208 men and 149 women who ranged in age from 15 to 93 years 
+(mean, 58 years). Twenty-two patients initially had unknown primary sites. Of 
+these 357 patients, 67 (18.7%) were nonwhite. There was no statistically 
+significant difference in the age (P =.10) or sex (P =.57) distribution of these 
+2 populations. Nonwhite patients at initial diagnosis had thicker tumors (P 
+=.002), more frequently had ulcerated primary tumors (P<.001), more frequently 
+had positive nodes (P =.004), and were at a more advanced stage (P =.002) than 
+their white counterparts. The anatomic distribution between the 2 populations 
+was significantly different (P<.001), with a high incidence of melanoma on the 
+sole and subungual locations and a substantially less frequent occurrence on the 
+head and neck, trunk, and extremities in the nonwhite population when compared 
+with the white population. The overall survival rate of the nonwhite patients 
+was significantly worse than that of the white patients, but when stratified by 
+stage at initial diagnosis, there was no difference in outcome.
+CONCLUSIONS: In a multiethnic population, cutaneous melanoma in nonwhite persons 
+is unusual but not rare. Although the diagnoses are distinctly different at 
+initial examinations, suggesting a potential biological component, 
+stage-for-stage outcomes are similar between white and nonwhite persons and 
+suggest a need for early diagnostic interventions with unusual pigmented lesions 
+in nonwhite persons.
+
+DOI: 10.1001/archsurg.139.9.968
+PMID: 15381614 [Indexed for MEDLINE]

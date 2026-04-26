@@ -1,0 +1,33 @@
+1. Aliment Pharmacol Ther. 2010 Aug;32(3):443-7. doi: 
+10.1111/j.1365-2036.2010.04367.x. Epub 2010 May 22.
+
+A model of healing of Los Angeles grades C and D reflux oesophagitis: is there 
+an optimal time of acid suppression for maximal healing?
+
+Katz PO(1), Johnson DA, Levine D, Röhss K, Junghard O, Astrand M, Nagy P.
+
+Author information:
+(1)Albert Einstein Medical Center, Philadelphia, PA 19141, USA. 
+katzp@einstein.edu
+
+BACKGROUND: In patients with Los Angeles (LA) grade C or D oesophagitis, a 
+positive relationship has been established between the duration of intragastric 
+acid suppression and healing.
+AIM: To determine whether there is an apparent optimal time of intragastric acid 
+suppression for maximal healing of reflux oesophagitis.
+METHODS: Post hoc analysis of data from a proof-of-concept, double-blind, 
+randomized study of 134 adult patients treated with esomeprazole (10 or 40 mg od 
+for 4 weeks) for LA grade C or D oesophagitis. A curve was fitted to pooled 24-h 
+intragastric pH (day 5) and endoscopically assessed healing (4 weeks) data using 
+piecewise quadratic logistic regression.
+RESULTS: Maximal reflux oesophagitis healing rates were achieved when 
+intragastric pH >4 was achieved for approximately 50-70% (12-17 h) of the 24-h 
+period. Acid suppression above this threshold did not yield further increases in 
+healing rates.
+CONCLUSION: After 4 weeks' acid-suppressive therapy for LA grade C or D 
+oesophagitis, successful healing appears to reach a threshold above which 
+improvements are unlikely to be achieved despite an increase in number of hours 
+with intragastric pH >4.
+
+DOI: 10.1111/j.1365-2036.2010.04367.x
+PMID: 20497146 [Indexed for MEDLINE]

@@ -1,0 +1,40 @@
+1. Health Qual Life Outcomes. 2003 Jun 9;1:19. doi: 10.1186/1477-7525-1-19.
+
+Quality of life in lung cancer patients: does socioeconomic status matter?
+
+Montazeri A(1), Hole DJ, Milroy R, McEwen J, Gillis CR.
+
+Author information:
+(1)Iranian Institute for Health Sciences Research, Tehran, Iran. 
+ali@jdcord.jd.ac.ir
+
+BACKGROUND: As part of a prospective study on quality of life in newly diagnosed 
+lung cancer patients an investigation was carried out to examine whether there 
+were differences among patients' quality of life scores and their socioeconomic 
+status.
+METHODS: Quality of life was measured at two points in time (baseline and three 
+months after initial treatment) using three standard instruments; the Nottingham 
+Health Profile (NHP), the European Organization for Research and Cancer 
+Treatment Quality of Life Questionnaire (EORTC QLQ-C30) and its lung cancer 
+supplement (QLQ-LC13). Socioeconomic status for each individual patient was 
+derived using Carstairs and Morris Deprivation Category ranging from 1 (least 
+deprived) to 7 (most deprived) on the basis of the postcode sector of their 
+address.
+RESULTS: In all, 129 lung cancer patients entered into the study. Of these data 
+for 82 patients were complete (at baseline and follow-up). 57% of patients were 
+of lower socioeconomic status and they had more health problems, less 
+functioning, and more symptoms as compared to affluent patients. Of these, 
+physical mobility (P = 0.05), energy (P = 0.01), role functioning (P = 0.04), 
+physical functioning (P = 0.03), and breathlessness (P = 0.02) were significant 
+at baseline. However, at follow-up assessment there was no significant 
+difference between patient groups nor did any consistent pattern emerge.
+CONCLUSION: At baseline assessment patients of lower socioeconomic status showed 
+lower health related quality of life. Since there was no clear trend at 
+follow-up assessment this suggests that patients from different socioeconomic 
+status responded to treatment similarly. In general, the findings suggest that 
+quality of life is not only the outcome of the disease and its treatment, but is 
+also highly dependent on each patients' socioeconomic characteristics.
+
+DOI: 10.1186/1477-7525-1-19
+PMCID: PMC165601
+PMID: 12846929 [Indexed for MEDLINE]

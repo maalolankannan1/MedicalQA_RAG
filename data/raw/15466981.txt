@@ -1,0 +1,36 @@
+1. Cancer Epidemiol Biomarkers Prev. 2004 Oct;13(10):1640-5.
+
+Prostate-specific antigen and free prostate-specific antigen in the early 
+detection of prostate cancer: do combination tests improve detection?
+
+Etzioni R(1), Falcon S, Gann PH, Kooperberg CL, Penson DF, Stampfer MJ.
+
+Author information:
+(1)Program in Biostatistics, Fred Hutchinson Cancer Research Center, 1100 
+Fairview Avenue North, M2-B230, Seattle, WA 98109-1024, USA. retzioni@fhcrc.org
+
+BACKGROUND: The combined use of free and total prostate-specific antigen (PSA) 
+in early detection of prostate cancer has been controversial. This article 
+systematically evaluates the discriminating capacity of a large number of 
+combination tests.
+METHODS: Free and total PSA were analyzed in stored serum samples taken prior to 
+diagnosis in 429 cases and 1,640 controls from the Physicians' Health Study. We 
+used a classification algorithm called logic regression to search for clinically 
+useful tests combining total and percent free PSA and receiver operating 
+characteristic analysis and compared these tests with those based on total and 
+complexed PSA. Data were divided into training and test subsets. For robustness, 
+we considered 35 test-train splits of the original data and computed receiver 
+operating characteristic curves for each test data set.
+RESULTS: The average area under the receiver operating characteristic curve 
+across test data sets was 0.74 for total PSA and 0.76 for the combination tests. 
+Combination tests with higher sensitivity and specificity than PSA > 4.0 ng/mL 
+were identified 29 out of 35 times. All these tests extended the PSA reflex 
+range to below 4.0 ng/mL. Receiver operating characteristic curve analysis 
+indicated that the overall diagnostic performance as expressed by the area under 
+the curve did not differ significantly for the different tests.
+CONCLUSIONS: Tests combining total and percent free PSA show modest overall 
+improvements over total PSA. However, utilization of percent free PSA below a 
+PSA threshold of 4 ng/mL could translate into a practically important reduction 
+in unnecessary biopsies without sacrificing cancers detected.
+
+PMID: 15466981 [Indexed for MEDLINE]

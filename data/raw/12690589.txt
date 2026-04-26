@@ -1,0 +1,40 @@
+1. Arch Phys Med Rehabil. 2003 Apr;84(4):513-7. doi: 10.1053/apmr.2003.50083.
+
+Can continuous physical training counteract aging effect on myoelectric fatigue? 
+A surface electromyography study application.
+
+Casale R(1), Rainoldi A, Nilsson J, Bellotti P.
+
+Author information:
+(1)Department of Clinical Neurophysiology, Salvatore Maugeri Foundation, IRCCS, 
+Scientific Institute of Montescano, Montescano, Italy. rcasale@fsm.it
+
+OBJECTIVES: To compare the myoelectric onset of muscle fatigue in physically 
+active trained young skiers with respect to elderly skiers and to test whether 
+continuous training can counteract the selective loss of type II muscle fibers 
+usually observed with aging.
+DESIGN: An observational, cross-sectional study of the myoelectric onset of 
+muscle fatigue in the left tibialis anterior muscles.
+SETTING: Surface electromyography recorded with portable devices at a downhill 
+ski rescue lodge in the Italian Alps.
+PARTICIPANTS: Fifty-four physically trained, active skiers (43 men, 11 women; 
+age range, 24-85y).
+INTERVENTIONS: Questionnaire on physical activity and 2 sustained isometric 
+voluntary contractions at 20% and 2 at 80% of the maximal voluntary contraction 
+level.
+MAIN OUTCOME MEASURES: Isometric contractions and mean and median spectral 
+frequencies calculated to monitor the myoelectric manifestations of muscle 
+fatigue.
+RESULTS: Fatigue indices did not differ significantly between younger and older 
+subjects and, thus, did not show a correlation between myoelectric 
+manifestations of muscle fatigue and age in physically active subjects.
+CONCLUSION: It appears possible that aging skeletal muscles subjected to 
+continuous exercise develop an adaptive response that counteracts the selective 
+loss of type II muscle fibers usually observed in the muscles of elderly 
+sedentary subjects. Our results suggest that physical activity could be 
+considered in the elderly within a broad rehabilitative framework in which 
+appropriate and even tailored physical training could be planned to counteract 
+the physiologic effects of aging on muscle fiber distribution.
+
+DOI: 10.1053/apmr.2003.50083
+PMID: 12690589 [Indexed for MEDLINE]

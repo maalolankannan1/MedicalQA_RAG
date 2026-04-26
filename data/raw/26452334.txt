@@ -1,0 +1,55 @@
+1. Clin Otolaryngol. 2016 Oct;41(5):571-8. doi: 10.1111/coa.12562. Epub 2016 Feb 
+11.
+
+Measurement of head and neck paragangliomas: is volumetric analysis worth the 
+effort? A method comparison study.
+
+Heesterman BL(1), Verbist BM(2), van der Mey AG(3), Bayley JP(4), Corssmit 
+EP(5), Hes FJ(6), Jansen JC(3).
+
+Author information:
+(1)Department of Otolaryngology, Leiden University Medical Center, Leiden, the 
+Netherlands. b.l.heesterman@lumc.nl.
+(2)Department of Radiology, Leiden University Medical Center, Leiden, the 
+Netherlands.
+(3)Department of Otolaryngology, Leiden University Medical Center, Leiden, the 
+Netherlands.
+(4)Department of Human Genetics, Leiden University Medical Center, Leiden, the 
+Netherlands.
+(5)Department of Endocrinology, Leiden University Medical Center, Leiden, the 
+Netherlands.
+(6)Department of Clinical Genetics, Leiden University Medical Center, Leiden, 
+the Netherlands.
+
+OBJECTIVES: The aim of this study was to assess the reproducibility of different 
+measurement methods and define the most workable technique for measuring head 
+and neck paragangliomas, to determine the best method for evaluating tumour 
+growth. The evaluation of tumour growth is vital for a 'wait-and-scan' policy, a 
+management strategy that became increasingly important.
+STUDY DESIGN: Method comparison study.
+SETTING AND PARTICIPANTS: Thirty tumours, including carotid body, vagal body, 
+jugulotympanic tumours and conglomerates of multiple tumours, were measured in 
+duplicate, using linear dimensions, manual area tracing and an automated 
+segmentation method.
+MAIN OUTCOME MEASURES: Reproducibility was assessed using the Bland-Altman 
+method.
+RESULTS: The smallest detectable difference using the linear dimension method 
+was 11% for carotid body and 27% for vagal body tumours, compared with 17% and 
+20% for the manual area tracing method. Due to the irregular shape of 
+paragangliomas in the temporal bone and conglomerates, the manual area tracing 
+method showed better results in these tumours (26% and 8% versus 54% and 47%). 
+The linear dimension method was significantly faster (median 4.27 versus 18.46 
+minutes, P < 0.001). The automatic segmentation method yielded smallest 
+detectable differences between 39% and 75%, and although fast (2.19 ± 1.49 
+minutes), it failed technically.
+CONCLUSIONS: Due to a relatively good reproducibility, fast and easy 
+application, we found the linear dimension method to be the most pragmatic 
+approach for evaluation of growth of carotid and vagal body paragangliomas. For 
+jugulotympanic tumours, the preferred method is manual area tracing. However, 
+volumetric changes of these tumours may be of less clinical importance than 
+changes in relation to surrounding anatomical structures.
+
+© 2015 John Wiley & Sons Ltd.
+
+DOI: 10.1111/coa.12562
+PMID: 26452334 [Indexed for MEDLINE]

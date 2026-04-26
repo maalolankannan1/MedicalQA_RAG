@@ -1,0 +1,39 @@
+1. Eur J Prev Cardiol. 2014 May;21(5):584-91. doi: 10.1177/2047487312462149. Epub
+ 2012 Sep 18.
+
+Cardiovascular risk in a rural adult West African population: is resting heart 
+rate also relevant?
+
+Kunutsor S(1), Powles J.
+
+Author information:
+(1)University of Cambridge, Cambridge, UK.
+
+INTRODUCTION: Elevated resting heart rate (RHR) is a neglected marker in 
+cardiovascular risk factor studies of sub-Saharan African populations. This 
+study aimed to determine the prevalence of elevated RHR and other risk factors 
+for cardiovascular disease (CVD) and to investigate any associations between RHR 
+and these risk factors in a rural population in Ghana.
+DESIGN: Cross-sectional analysis.
+METHODS: A total of 574 adults aged between 18-65 years were randomly sampled 
+from a population register. Data collected included those on sociodemographic 
+variables and anthropometric, blood pressure (BP), and RHR measurements. 
+Within-person variability in RHR was calculated using data from repeat 
+measurements taken 2 weeks apart.
+RESULTS: Of study participants, 36% were male. Prevalence of casual high BP was 
+19%. In the population, 10% were current cigarette smokers and habitual alcohol 
+use was high at 56%. As measured by body mass index, 2% were obese and 14% had 
+abdominal obesity. RHR was elevated (>90 bpm) in 19%. Overall, 79% of study 
+participants were found to have at least one CVD risk factor. RHR was 
+significantly associated with age, waist circumference, and BP. Individuals with 
+an elevated RHR had a higher risk (OR 1.94, 95% CI 1.15-3.26%, p = 0.013) of 
+casual high BP compared with participants with normal RHR independently of 
+several established CVD risk factors. The regression dilution ratio of RHR was 
+0.75 (95% CI 0.62-0.89).
+CONCLUSIONS: Significant associations were observed between RHR and several 
+established cardiovascular risk factors. Prospective studies are needed in 
+sub-Saharan African populations to establish the potential value of RHR in 
+cardiovascular risk assessment.
+
+DOI: 10.1177/2047487312462149
+PMID: 22990761 [Indexed for MEDLINE]

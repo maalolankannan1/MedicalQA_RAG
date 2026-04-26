@@ -1,0 +1,42 @@
+1. Hum Reprod. 2008 May;23(5):1107-12. doi: 10.1093/humrep/den062. Epub 2008 Mar
+3.
+
+Does confined placental mosaicism account for adverse perinatal outcomes in IVF 
+pregnancies?
+
+Jacod BC(1), Lichtenbelt KD, Schuring-Blom GH, Laven JS, van Opstal D, Eijkemans 
+MJ, Macklon NS; IVF-CPM Study Group.
+
+Collaborators: Bots RS, Cohlen BJ, van Dop P, Faas BH, Goddijn M, Hoffer MJ, van 
+Inzen WG, Knegt AC, Kremer JA, Land JA, Macville MV, Muntjewerff N, Nieuwint AW, 
+Schats R, Sikkema-Raddatz B, Verburg HJ.
+
+Author information:
+(1)Department of Reproductive Medicine and Gynaecology, University Medical 
+Centre, Utrecht, The Netherlands. b.c.jacod@students.uu.nl
+
+BACKGROUND: IVF singletons have poorer perinatal outcomes than singletons from 
+spontaneous conceptions. This may be due to the influence of ovarian stimulation 
+on the chromosomal constitution of the embryos which could be translated into 
+localized chromosomal anomalies in the placenta. The aim of this study was to 
+compare the incidence of confined placental mosaicism (CPM) in IVF/ICSI 
+pregnancies and spontaneous conceptions.
+METHODS: We conducted a multi-centre retrospective analysis of karyotype results 
+obtained by chorionic villus sampling (CVS), performed due to advanced maternal 
+age (>or=36 years at 18 weeks of gestation), in the Netherlands between 1995 and 
+2005.
+RESULTS: From a total of 322 246 pregnancies, 20 885 CVS results were analysed: 
+235 in the IVF/ICSI group and 20 650 in the control group. The mean age of women 
+in both groups was 38.4 years (mean difference -0.08, 95% CI -0.35 to 0.18). 
+Data relating to the fetal karyotype were missing in 143 cases in the control 
+group. When taking into account missing data, the incidence of CPM was lower in 
+the IVF-ICSI group than in the control group, 1.3% versus 2.2% (odds ratio 0.59, 
+95% CI 0.19-1.85), whereas the incidence of fetal chromosomal anomalies was 
+increased 4.3% versus 2.4% (odds ratio 1.81, 95% CI 0.95-3.42). Neither 
+differences were statistically significant.
+CONCLUSIONS: The incidence of CPM is not increased in IVF/ICSI pregnancies 
+compared with spontaneous conceptions. CPM probably does not account for the 
+adverse perinatal outcomes following IVF/ICSI.
+
+DOI: 10.1093/humrep/den062
+PMID: 18319270 [Indexed for MEDLINE]

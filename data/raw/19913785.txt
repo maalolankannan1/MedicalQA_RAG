@@ -1,0 +1,48 @@
+1. Gastrointest Endosc. 2010 Jan;71(1):105-10. doi: 10.1016/j.gie.2009.08.009.
+Epub  2009 Nov 14.
+
+Is it necessary to insert a nasobiliary drainage tube routinely after endoscopic 
+clearance of the common bile duct in patients with choledocholithiasis-induced 
+cholangitis? A prospective, randomized trial.
+
+Lee JK(1), Lee SH, Kang BK, Kim JH, Koh MS, Yang CH, Lee JH.
+
+Author information:
+(1)Department of Internal Medicine, Dongguk University International Hospital, 
+Dongguk University College of Medicine, Goyang, Gyeonggi-do, Korea. 
+gidoctor@snubh.org
+
+BACKGROUND: Little is known about whether a routinely inserted endoscopic 
+nasobiliary drainage (ENBD) tube improves the clinical course in patients with 
+choledocholithiasis-induced acute cholangitis after clearance of 
+choledocholithiasis.
+OBJECTIVE: The aim of this study was to investigate the need for ENBD on the 
+clinical outcomes of patients with acute cholangitis undergoing endoscopic 
+clearance of common bile duct (CBD) stones.
+DESIGN: Prospective, randomized study.
+SETTING: Tertiary referral center.
+PATIENTS: A total of 104 patients with choledocholithiasis-induced acute 
+cholangitis who underwent primary endoscopic treatment were compared according 
+to insertion of an ENBD tube (51 in the ENBD group and 53 in the no-ENBD group).
+INTERVENTION: Insertion of an ENBD tube after clearance of CBD stones.
+MAIN OUTCOME MEASUREMENTS: Recurrence of cholangitis and length of hospital stay 
+after clearance of CBD stones.
+RESULTS: Baseline clinical characteristics were similar between both groups. 
+There were no significant differences in the recurrence rate of cholangitis at 
+24 weeks (3.9% for the ENBD group vs 3.8% for the no-ENBD group at 24 weeks; P = 
+.99) and length of hospital stay (7.9 days [standard error = 1.2] for the ENBD 
+group vs 7.9 days [standard error = 0.7] for the no-ENBD group; P = .98). 
+However, procedure time was longer (26.2 [SE = 1.8] minutes vs 22.7 [SE = 1.0] 
+minutes, respectively; P = .01) and the discomfort score was higher (4.9 [SE = 
+0.4] vs 2.8 [SE = 0.3], respectively; P = .02) in the ENBD group than in the 
+no-ENBD group.
+LIMITATIONS: Single-center study.
+CONCLUSIONS: A routinely inserted ENBD tube did not improve the clinical course, 
+despite patients having to endure increased procedure time and discomfort, and 
+the insertion would therefore be unnecessary.
+
+2010 American Society for Gastrointestinal Endoscopy. Published by Mosby, Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.gie.2009.08.009
+PMID: 19913785 [Indexed for MEDLINE]

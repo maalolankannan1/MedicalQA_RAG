@@ -1,0 +1,41 @@
+1. Childs Nerv Syst. 2003 Nov;19(10-11):729-35. doi: 10.1007/s00381-003-0825-y. 
+Epub 2003 Sep 30.
+
+Sub-classification of low-grade cerebellar astrocytoma: is it clinically 
+meaningful?
+
+Bernhardtsen T(1), Laursen H, Bojsen-Møller M, Gjerris F.
+
+Author information:
+(1)University Clinic of Neurosurgery, Rigshospitalet, H:S, 2100 Copenhagen, 
+Denmark. tineb@dadlnet.dk
+
+OBJECTIVES: The objectives were to identify prognostic factors for the survival 
+of children with cerebellar astrocytoma, and to evaluate the reproducibility and 
+prognostic value of histological sub-classification and grading.
+METHODS: Children aged 0-14 years treated in Denmark for a cerebellar 
+astrocytoma in the period 1960-1984 were included and followed until January 
+2001 or until their death. The histological specimens from each patient were 
+reviewed for revised grading and classification according to three different 
+classification schemes: the WHO, the Kernohan and the Daumas-Duport grading 
+systems.
+RESULTS: The overall survival rate was 81% after a follow-up time of 15-40 
+years. The significant positive prognostic factors for survival were "surgically 
+gross-total removal" of the tumour at surgery and location of the tumour in the 
+cerebellum proper as opposed to location in the fourth ventricle. No difference 
+in survival time was demonstrated when we compared pilocytic astrocytoma and 
+fibrillary astrocytoma. Moreover, we found that the Kernohan and the WHO 
+classification systems had no predictive value and that the Daumas-Duport system 
+is unsuitable as a prognostic tool for low-grade posterior fossa astrocytomas.
+CONCLUSION: Discordant observations due to interobserver variability make 
+histological sub-classification of low-grade cerebellar astrocytomas in children 
+insufficient for predicting prognosis and biological behaviour. Similar survival 
+rates in a population of paediatric low-grade cerebellar astrocytomas of grades 
+I and II indicate that tumour grade has no prognostic significance within this 
+group of patients. "Surgically gross-total removal", especially if the tumour is 
+located in the fourth ventricle is of the highest importance for long-term 
+survival. Histological sub-classification of the tumours has no predictive 
+value.
+
+DOI: 10.1007/s00381-003-0825-y
+PMID: 14631523 [Indexed for MEDLINE]

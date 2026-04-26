@@ -1,0 +1,40 @@
+1. Surg Today. 2017 Mar;47(3):328-334. doi: 10.1007/s00595-016-1443-0. Epub 2016 
+Nov 17.
+
+Traumatic aortic injury: does the anatomy of the aortic arch influence aortic 
+trauma severity?
+
+Wojciechowski J(1), Znaniecki L(2), Bury K(1), Chwojnicki K(3), Rogowski J(1).
+
+Author information:
+(1)Department of Cardiac and Vascular Surgery, Medical University of Gdansk, ul. 
+Dębinki 7, 80-923, Gdansk, Poland.
+(2)Department of Cardiac and Vascular Surgery, Medical University of Gdansk, ul. 
+Dębinki 7, 80-923, Gdansk, Poland. l.znaniecki@gmail.com.
+(3)Department of Neurology, Medical University of Gdansk, Gdansk, Poland.
+
+PURPOSE: Traumatic aortic injury (TAI) is a rare but life-threatening type of 
+injury. We investigate whether the anatomy of the aortic arch influences the 
+severity of aortic injury.
+METHODS: This is a retrospective study of twenty-two cases treated with TEVAR 
+for TAI in our department from 2009 to 2014. Aortic injury was assessed in 
+accordance with the recommendations of the Society of Vascular Surgery. We 
+measured the aortic arch angle and the aortic arch index, based on the initial 
+angio-CT scan, in each of the analyzed cases.
+RESULTS: The mean aortic arch index and mean aortic arch angle were 6.8 cm and 
+58.3°, respectively, in the type I injury group; 4.4 cm and 45.9° in the type 
+III group; 3.3 cm and 37° in the type IV group. There were substantial 
+differences in both the aortic arch index and the aortic arch angle of the type 
+III and IV groups. A multivariate analysis confirmed that the aortic arch angle 
+was significantly associated with the occurrence of type III damage (OR 1.5; 95% 
+CI 1.03-2.2).
+CONCLUSIONS: The severity of TAI is influenced by the sharpness of the aortic 
+arch. There is an inverse relationship between the severity of aortic injury and 
+the aortic arch index.
+
+DOI: 10.1007/s00595-016-1443-0
+PMCID: PMC5288446
+PMID: 27858166 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest in 
+association with the present study.

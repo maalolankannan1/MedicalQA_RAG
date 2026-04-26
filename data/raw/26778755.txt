@@ -1,0 +1,61 @@
+1. Brachytherapy. 2016 Mar-Apr;15(2):169-76. doi: 10.1016/j.brachy.2015.11.005. 
+Epub 2016 Jan 5.
+
+Vaginal dose assessment in image-guided brachytherapy for cervical cancer: Can 
+we really rely on dose-point evaluation?
+
+Limkin EJ(1), Dumas I(2), Rivin Del Campo E(3), Chargari C(4), Maroun P(3), 
+Annède P(3), Petit C(3), Seisen T(3), Doyeux K(2), Tailleur A(3), Martinetti 
+F(2), Lefkopoulos D(5), Haie-Meder C(3), Mazeron R(6).
+
+Author information:
+(1)Department of Radiation Oncology, Brachytherapy Unit, Gustave Roussy Cancer 
+Campus, Villejuif, France; Department of Radiotherapy, Philippine General 
+Hospital, Manila, Philippines.
+(2)Department of Medical Physics, Gustave Roussy Cancer Campus, Villejuif, 
+France.
+(3)Department of Radiation Oncology, Brachytherapy Unit, Gustave Roussy Cancer 
+Campus, Villejuif, France.
+(4)Department of Radiation Oncology, Brachytherapy Unit, Gustave Roussy Cancer 
+Campus, Villejuif, France; Laboratory of Molecular Radiotherapy INSERM 1030, 
+Gustave Roussy Cancer Campus, Villejuif, France.
+(5)Department of Medical Physics, Gustave Roussy Cancer Campus, Villejuif, 
+France; Laboratory of Molecular Radiotherapy INSERM 1030, Gustave Roussy Cancer 
+Campus, Villejuif, France.
+(6)Department of Radiation Oncology, Brachytherapy Unit, Gustave Roussy Cancer 
+Campus, Villejuif, France; Laboratory of Molecular Radiotherapy INSERM 1030, 
+Gustave Roussy Cancer Campus, Villejuif, France. Electronic address: 
+renaud.mazeron@gustaveroussy.fr.
+
+PURPOSE: Although dose-volume parameters in image-guided brachytherapy have 
+become a standard, the use of posterior-inferior border of the pubic symphysis 
+(PIBS) points has been recently proposed in the reporting of vaginal doses. The 
+aim was to evaluate their pertinence.
+METHODS AND MATERIALS: Nineteen patients who received image-guided brachytherapy 
+after concurrent radiochemotherapy were included. Per treatment, CT scans were 
+performed at Days 2 and 3, with reporting of the initial dwell positions and 
+times. Doses delivered to the PIBS points were evaluated on each plan, 
+considering that they were representative of one-third of the treatment. The 
+movements of the applicator according to the PIBS point were analysed.
+RESULTS: Mean prescribed doses at PIBS -2, PIBS, PIBS +2 were, respectively, 
+2.23 ± 1.4, 6.39 ± 6.6, and 31.85 ± 36.06 Gy. Significant differences were 
+observed between the 5 patients with vaginal involvement and the remaining 14 at 
+the level of PIBS +2 and PIBS: +47.60 Gy and +7.46 Gy, respectively (p = 0.023 
+and 0.03). The variations between delivered and prescribed doses at PIBS points 
+were not significant. However, at International commission on radiation units 
+and measurements rectovaginal point, the delivered dose was decreased by 1.43 ± 
+2.49 Gy from the planned dose (p = 0.019). The delivered doses at the four 
+points were strongly correlated with the prescribed doses with R(2) ranging from 
+0.93 to 0.95. The movements of the applicator in regard of the PIBS point 
+assessed with the Digital Imaging and Communications in Medicine coordinates 
+were insignificant.
+CONCLUSION: The doses evaluated at PIBS points are not impacted by 
+intrafractional movements. PIBS and PIBS +2 dose points allow distinguishing the 
+plans of patients with vaginal infiltration. Further studies are needed to 
+correlate these parameters with vaginal morbidity.
+
+Copyright © 2016 American Brachytherapy Society. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1016/j.brachy.2015.11.005
+PMID: 26778755 [Indexed for MEDLINE]

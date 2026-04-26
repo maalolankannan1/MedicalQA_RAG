@@ -1,0 +1,75 @@
+1. Can J Cardiol. 2006 Sep;22(11):935-7. doi: 10.1016/s0828-282x(06)70312-9.
+
+Are complex coronary lesions more frequent in patients with diabetes mellitus?
+
+Baris N(1), Akdeniz B, Uyar S, Ozel E, Kirimli O, Badak O, Aslan O, Guneri S.
+
+Author information:
+(1)Department of Cardiology, Faculty of Medicine, Dokuz Eylul University, Izmir, 
+Turkey. nezihi.baris@deu.edu.tr
+
+BACKGROUND: Coronary atherosclerotic burden is excessive in diabetic patients. 
+Diabetes mellitus (DM) is an independent predictor for both death and myocardial 
+infarction. It is not known whether the prevalence of complex coronary lesions, 
+such as bifurcation and ostial lesions, is different in diabetics from 
+nondiabetics.
+OBJECTIVE: The aim of present study was to investigate the prevalence of these 
+lesions in patients with DM.
+METHODS: One thousand fourteen consecutive patients (mean age 61.3+/-10.7 years) 
+were investigated. Coronary angiograms were examined for bifurcation and ostial 
+lesions using a digital quantitative system. Patients were classified as 
+diabetic (n=281) or nondiabetic (n=733).
+RESULTS: Patient mean age, and rates of hypertension and hyperlipidemia were 
+significantly higher in the diabetic group than in the nondiabetic group 
+(P<0.0001), although smoking was significantly lower (P=0.001). Reasons for 
+coronary angiography and treatment were comparable between the two groups. The 
+prevalence of bifurcation lesions and ostial lesions was significantly greater 
+in the diabetic group than in the nondiabetic group (9.8% versus 4.3% [P=0.001] 
+and 38.4% versus 29.2% [P=0.003] in the diabetic group versus the nondiabetic 
+group). The presence of DM and greater age were found to be independent 
+predictors for bifurcation lesions (OR=2.27 [P=0.004] and OR=1.03 [P=0.01], for 
+DM and age, respectively) and ostial lesions (OR=1.40 [P=0.027] and OR=1.02 
+[P=0.001], for DM and age, respectively) in multivariate analysis.
+CONCLUSIONS: Complex coronary lesions such as bifurcation and ostial lesions 
+were significantly more common in diabetic patients than in nondiabetic 
+patients. Greater age and the presence of DM were independent predictors for 
+these complex lesions. These results may help to explain the poor prognosis of 
+coronary artery disease among diabetic patients.
+
+HISTORIQUE: L’athérosclérose coronarienne impose un fardeau excessivement lourd 
+aux patients diabétiques. Le diabète sucré (DS) constitue un facteur de 
+prévisibilité indépendant de mortalité et d’infarctus du myocarde, mais on 
+ignore si la prévalence des lésions coronariennes complexes, au niveau de la 
+bifurcation et de l’ostium par exemple, est différente selon que les sujets sont 
+diabétiques ou non.
+OBJECTIF: Le but de la présente étude était de mesurer la prévalence de ces 
+lésions chez les patients atteints de DS.
+MÉTHODE: Mille quatorze patients consécutifs (âgés en moyenne de 61,3 ± 10,7 
+ans) ont été examinés. Leurs coronarographies ont été analysées pour dépistage 
+de lésions au niveau de la bifurcation et de l’ostium à l’aide d’un système 
+quantitatif numérisé. Les patients ont été classés selon qu’ils étaient 
+diabétiques (n = 281) ou non-diabétiques (n = 733).
+RÉSULTATS: L’âge moyen des patients et les taux d’hypertension et 
+d’hyperlipidémie étaient significativement plus élevés chez les diabétiques que 
+chez les non-diabétiques (p < 0,0001), tandis que le tabagisme était 
+significativement moins répandu (p = 0,001). Les indications de la 
+coronarographie et du traitement étaient comparables dans les deux groupes. La 
+prévalence des lésions au niveau de la bifurcation et de l’ostium était 
+significativement plus grande chez les diabétiques que chez les non-diabétiques 
+(9,8 % contre 4,3 % [p = 0,001] et 38,4 % contre 29,2 % [p = 0,003] dans le 
+groupe diabétique vs non-diabétique). La présence de DS et l’âge plus avancé se 
+sont révélés être des facteurs de prévisibilité indépendants des lésions au 
+niveau la bifurcation (RR = 2,27 [p = 0,004] et RR = 1,03 [p = 0,01] pour le DS 
+et l’âge, respectivement) et de l’ostium (RR = 1,40 [p = 0,027] et RR = 1,02 [p 
+= 0,001] pour le DS et l’âge, respectivement) lors de l’analyse multivariée.
+CONCLUSIONS: Les lésions coronariennes complexes, par exemple au niveau de la 
+bifurcation et de l’ostium, ont été significativement plus fréquentes chez les 
+patients diabétiques que chez les non-diabétiques. Un âge plus avancé et la 
+présence de DS se sont révélés être des facteurs de prévisibilité indépendants à 
+l’égard de ces lésions complexes. Ces résultats pourraient expliquer en partie 
+le pronostic sombre qui accompagne la coronaropathie chez les patients 
+diabétiques.
+
+DOI: 10.1016/s0828-282x(06)70312-9
+PMCID: PMC2570247
+PMID: 16971978 [Indexed for MEDLINE]

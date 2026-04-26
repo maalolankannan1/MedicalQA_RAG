@@ -1,0 +1,40 @@
+1. Head Neck. 2007 Jun;29(6):585-90. doi: 10.1002/hed.20581.
+
+Metastatic carcinoma to the cervical nodes from an unknown head and neck primary 
+site: Is there a need for neck dissection?
+
+Aslani M(1), Sultanem K, Voung T, Hier M, Niazi T, Shenouda G.
+
+Author information:
+(1)Department of Radiation Oncology, McGill University, Montreal, Quebec, 
+Canada. aslani_m@yahoo.com
+
+BACKGROUND: The aim of the study was to evaluate the outcomes and patterns of 
+failure in patients with metastatic carcinoma to cervical lymph nodes from an 
+unknown head and neck primary origin, who were treated curatively with 
+radiotherapy, with or without neck dissection.
+METHODS: The study included 61 patients referred to the McGill University 
+Hospital Centers from 1987 to 2002. The median age was 57 years, with male to 
+female ratio of 4:1. Distribution of patients by N status was as follows: N1, 16 
+patients (26%); N2a, 18 (30%); N2b, 13 (22%); N2c, 7 (11%); and N3, 7 (11%). 
+Twenty patients underwent neck dissection (11 radical, 9 functional) and 41 
+patients had biopsy (9 fine-needle aspiration and 32 excisional biopsy). All 
+patients received radiotherapy. The median dose to the involved node(s) was 64 
+Gy, and 60 Gy to the rest of the neck. Treatment of the neck was bilateral in 50 
+patients (82%) and ipsilateral in 11 (18%). The minimum duration of the 
+follow-up was 12 months, with the median of 32 months.
+RESULTS: The 5- and 8-year overall survival for the whole population was 79% and 
+67%, respectively. There was no statistically significant difference in the 
+8-year actuarial overall survival (64.8% and 67.6%, respectively, p = .64) and 
+local relapse-free survival (75% vs 74.5%, respectively, p = .57), among 
+patients who had biopsy versus those who had neck dissection.
+CONCLUSION: In our experience, definitive radiotherapy to the neck and the 
+potential mucosal sites, whether preceded by neck dissection or not, is 
+effective to achieve a good local control rate in the unknown primary cancer of 
+the head and neck. The indication for neck dissection, in particular for early 
+nodal stage, is controversial.
+
+(c) 2007 Wiley Periodicals, Inc. Head Neck, 2007.
+
+DOI: 10.1002/hed.20581
+PMID: 17274051 [Indexed for MEDLINE]

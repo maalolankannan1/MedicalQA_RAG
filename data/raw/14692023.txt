@@ -1,0 +1,40 @@
+1. Cancer. 2004 Jan 1;100(1):44-52. doi: 10.1002/cncr.11859.
+
+Is breast cancer survival improving?
+
+Giordano SH(1), Buzdar AU, Smith TL, Kau SW, Yang Y, Hortobagyi GN.
+
+Author information:
+(1)Department of Breast Medical Oncology, The University of Texas M. D. Anderson 
+Cancer Center, Houston, Texas 77030, USA. sgiordan@mdanderson.org
+
+BACKGROUND: Despite advances in therapies for breast cancer, improvement in 
+survival for patients with recurrent or metastatic breast cancer has been 
+difficult to establish. The objective of the current study was to determine 
+whether the survival of women with recurrent breast cancer has improved from 
+1974 to 2000.
+METHODS: The authors analyzed the survival experience of 834 women who developed 
+recurrent breast cancer between November 1974 and December 2000. All patients 
+had been treated previously with adjuvant anthracycline-based protocols. 
+Patients were divided into five consecutive groups based on year of breast 
+cancer recurrence, and survival was compared across the five groups. Because 
+some prognostic variables were divided unevenly divided among the cohorts, a 
+multivariate model was created to determine the association of year of 
+recurrence and survival after accounting for other prognostic factors.
+RESULTS: In the unadjusted analysis, there was a statistically significant 
+improvement in survival across the five groups, and the more recent cohorts had 
+longer survival (P < 0.001). Other variables that predicted longer survival 
+after breast cancer recurrence included smaller initial tumor size, lower stage 
+of disease, fewer lymph nodes involved, longer disease-free interval, estrogen 
+receptor-positive tumors, and nonvisceral dominant site of disease recurrence. 
+In the multivariate analysis, which adjusted for these prognostic factors, year 
+of recurrence was associated with a trend toward improved survival, with a 1% 
+reduction in risk for each increasing year.
+CONCLUSIONS: For these cohorts of patients, the authors present data suggesting 
+that the prognosis for patients with recurrent breast cancer improved between 
+1974 and 2000.
+
+Copyright 2003 American Cancer Society.
+
+DOI: 10.1002/cncr.11859
+PMID: 14692023 [Indexed for MEDLINE]

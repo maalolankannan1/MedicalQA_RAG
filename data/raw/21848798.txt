@@ -1,0 +1,42 @@
+1. Aliment Pharmacol Ther. 2011 Oct;34(7):775-82. doi: 
+10.1111/j.1365-2036.2011.04795.x. Epub 2011 Aug 17.
+
+MiraLAX vs. Golytely: is there a significant difference in the adenoma detection 
+rate?
+
+Enestvedt BK(1), Brian Fennerty M, Zaman A, Eisen GM.
+
+Author information:
+(1)Division of Gastroenterology and Hepatology, Oregon Health & Science 
+University, Portland, OR, USA. brintha.enestvedt@uphs.upenn.edu
+
+BACKGROUND: In recent clinical trials (RCT) of bowel preparation, Golytely was 
+more efficacious than MiraLAX. We hypothesised that there is a difference in 
+adenoma detection between Golytely and MiraLAX.
+AIMS: To compare the adenoma detection rate (ADR) between these bowel 
+preparations, and to identify independent predictors of bowel preparation 
+quality and adenoma detection.
+METHODS: This was a post hoc analysis of an RCT that assessed efficacy and 
+patient tolerability of Golytely vs. MiraLAX/Gatorade in average risk screening 
+colonoscopy patients. Bowel preparation quality was measured with the Boston 
+Bowel Preparation Scale (BBPS). An excellent/good equivalent BBPS score was 
+defined as ≥ 7. Polyp pathology review was performed. ADR was defined as the 
+proportion of colonoscopies with an adenoma. Univariate and multivariate 
+analyses were conducted.
+RESULTS: One hundred and ninety patients were prospectively enrolled (87 
+MiraLAX, 103 Golytely). Golytely had a higher rate of a BBPS score ≥ 7 (82.5% 
+vs. MiraLAX 67.8%, P=0.02). The ADR in the Golytely cohort was 26.2% (27/103), 
+and was 16.1% (14/87) for MiraLAX (P = 0.091). On multivariate analyses, 
+Golytely was 2.13 × more likely to be associated with a BBPS ≥ 7 (95% CI 
+1.05-4.32, P = 0.04) and 2.28 × more likely to be associated with adenoma 
+detection (95% CI 1.05-4.98, P = 0.04) than MiraLAX.
+CONCLUSIONS: Golytely was more efficacious than MiraLAX in bowel cleansing, and 
+was independently associated with both bowel prep quality (BBPS ≥ 7) and higher 
+adenoma detection. Golytely should be used as first line for bowel prep for 
+colonoscopy. Studies with larger populations are needed to confirm these 
+results.
+
+© 2011 Blackwell Publishing Ltd.
+
+DOI: 10.1111/j.1365-2036.2011.04795.x
+PMID: 21848798 [Indexed for MEDLINE]

@@ -1,0 +1,40 @@
+1. J Clin Sleep Med. 2013 Nov 15;9(11):1139-45. doi: 10.5664/jcsm.3152.
+
+Is there a first night effect on sleep bruxism? A sleep laboratory study.
+
+Hasegawa Y(1), Lavigne G, Rompré P, Kato T, Urade M, Huynh N.
+
+Author information:
+(1)Department of Dentistry and Oral Surgery, Hyogo College of Medicine, 
+Nishinomiya City, Hyogo, Japan ; Faculté de medicine dentaire, Université de 
+Montréal, Montréal, Canada ; Centre d'étude du Sommeil et des Rythmes 
+Biologiques, Hôpital du Sacré-Coeur de Montréal, Montréal, Canada.
+
+STUDY OBJECTIVES: Sleep bruxism (SB) is reported to vary in frequency over time. 
+The aim of this study was to assess the first night effect on SB.
+METHODS: A retrospective polysomnographic (PSG) analysis was performed of data 
+from a sample of SB patients (12 females, 4 males; age range: 17-39 years) 
+recorded in a sleep laboratory over 2 consecutive nights. Sleep parameters and 
+jaw muscle activity variables (i.e., rhythmic masticatory muscle activity 
+[RMMA]) for SB were quantified and compared between the 2 nights. Subjects were 
+classified into groups according to severity of RMMA frequency, such as low 
+frequency (2-4 episodes/h and/or < 25 bursts/h) and moderate-high frequency (≥ 4 
+episodes/h and ≥ 25 bursts/h).
+RESULTS: Overall, no first night effects were found for most sleep variables. 
+However, total sleep time, sleep efficiency, and stage transitions showed 
+significant time and group interactions (repeated measures ANOVAs, p ≤ 0.05). 
+The RMMA episode index did not differ between the 2 nights, whereas the second 
+night showed significantly higher burst index, bruxism time index, and mean 
+burst duration (repeated measure ANOVAs, p ≤ 0.05). Five patients of 8 in the 
+low frequency group were classified into the moderate-high frequency group on 
+the second night, whereas only one patient in the moderate-high frequency group 
+moved to the low frequency group.
+CONCLUSIONS: The results showed no overall first night effect on severity of 
+RMMA frequency in young and healthy patients with SB. In clinical practice, 
+one-night sleep recording may be sufficient for moderate-high frequency SB 
+patients. However, low RMMA frequency in the first night could be confirmed by a 
+second night based on the patient's medical and dental history.
+
+DOI: 10.5664/jcsm.3152
+PMCID: PMC3805798
+PMID: 24235894 [Indexed for MEDLINE]

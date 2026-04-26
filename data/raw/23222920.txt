@@ -1,0 +1,36 @@
+1. Transplantation. 2013 Jan 27;95(2):347-52. doi: 10.1097/TP.0b013e318271d795.
+
+Pancreas retransplantation: a second chance for diabetic patients?
+
+Buron F(1), Thaunat O, Demuylder-Mischler S, Badet L, Brunet M, Ber CE, Thivolet 
+C, Martin X, Berney T, Morelon E.
+
+Author information:
+(1)Service de Néphrologie, Médecine de Transplantation et d'Immunologie 
+Clinique, Hôpital Edouard Herriot, Lyon, France. fanny.buron@chu-lyon.fr
+
+BACKGROUND: If pancreas transplantation is a validated alternative for type 1 
+diabetic patients with end-stage renal disease, the management of patients who 
+have lost their primary graft is poorly defined. This study aims at evaluating 
+pancreas retransplantation outcome.
+METHODS: Between 1976 and 2008, 569 pancreas transplantations were performed in 
+Lyon and Geneva, including 37 second transplantations. Second graft survival was 
+compared with primary graft survival of the same patients and the whole 
+population. Predictive factors of second graft survival were sought. Patient 
+survival and impact on kidney graft function and survival were evaluated.
+RESULTS: Second pancreas survival of the 17 patients transplanted from 1995 was 
+close to primary graft survival of the whole population (71% vs. 79% at 1 year 
+and 59% vs. 69% at 5 years; P=0.5075) and significantly better than their first 
+pancreas survival (71% vs. 29% at 1 year and 59% vs. 7% at 5 years; P=0.0008) 
+regardless of the cause of first pancreas loss. The same results were observed 
+with all 37 retransplantations. Survival of second simultaneous pancreas and 
+kidney transplantations was better than survival of second pancreas after 
+kidney. Patient survival was excellent (89% at 5 years). Pancreas 
+retransplantation had no impact on kidney graft function and survival (100% at 5 
+years).
+CONCLUSION: Pancreas retransplantation is a safe procedure with acceptable graft 
+survival that should be proposed to diabetic patients who have lost their 
+primary graft.
+
+DOI: 10.1097/TP.0b013e318271d795
+PMID: 23222920 [Indexed for MEDLINE]

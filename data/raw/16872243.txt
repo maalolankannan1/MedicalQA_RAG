@@ -1,0 +1,35 @@
+1. Drug Saf. 2006;29(8):697-702. doi: 10.2165/00002018-200629080-00006.
+
+Can decisional algorithms replace global introspection in the individual 
+causality assessment of spontaneously reported ADRs?
+
+Macedo AF(1), Marques FB, Ribeiro CF.
+
+Author information:
+(1)Administração Regional de Saúde do Centro, Núcleo de Farmacovigilância do 
+Centro, Faculdade de Medicina, Faculdade de Farmácia, Universidade de Coimbra, 
+Coimbra, Portugal. filipa@fcsaude.ubi.pt
+
+AIM: The usefulness of algorithms for assessing the causality of suspected 
+adverse drug reactions (ADRs) has yet to be established and, since the 
+validation of causality algorithms depends upon their sensitivity and 
+specificity, our study was carried out to evaluate these measures.
+METHOD: In this study, an expert panel assessed causality of adverse reports by 
+using the WHO global introspection (GI) method. The same reports were 
+independently assessed using 15 published algorithms. The causality assessment 
+level 'possible' was considered the lower limit for a report to be considered to 
+be drug related. For a given algorithm, sensitivity was determined by the 
+proportion of reports simultaneously classified as drug related by the algorithm 
+and the GI method. Specificity was measured as the proportion of reports 
+simultaneously considered non-drug related. The analysis was performed for the 
+total sample and within serious or unexpected events.
+RESULTS: Five hundred adverse reports were studied. Algorithms presented high 
+rates of sensitivity (average of 93%, positive predictive value of 89%) and low 
+rates of specificity (average of 7%, negative predictive value of 31%).
+CONCLUSION: Decisional algorithms are sensitive methods for the detection of 
+ADRs, but they present poor specificity. A reference method was not identified. 
+Algorithms do not replace GI and are not definite alternatives in the individual 
+causality assessment of suspected ADRs.
+
+DOI: 10.2165/00002018-200629080-00006
+PMID: 16872243 [Indexed for MEDLINE]

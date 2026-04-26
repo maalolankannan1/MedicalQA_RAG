@@ -1,0 +1,80 @@
+1. Diabetes Metab. 2014 Feb;40(1):61-66. doi: 10.1016/j.diabet.2013.09.001. Epub 
+2013 Oct 16.
+
+Telemedicine and type 1 diabetes: is technology per se sufficient to improve 
+glycaemic control?
+
+Franc S(1), Borot S(2), Ronsin O(3), Quesada JL(4), Dardari D(5), Fagour C(6), 
+Renard E(7), Leguerrier AM(8), Vigeral C(9), Moreau F(10), Winiszewski P(11), 
+Vambergue A(12), Mosnier-Pudar H(13), Kessler L(10), Reffet S(14), Guerci B(15), 
+Millot L(16), Halimi S(17), Thivolet C(14), Benhamou PY(18), Penfornis A(2), 
+Charpentier G(19), Hanaire H(20).
+
+Author information:
+(1)Department of Diabetes, Sud-Francilien Hospital, Corbeil-Essonnes, France; 
+Centre d'Études et de Recherches pour l'Intensification du Traitement du Diabète 
+(CERITD), Corbeil-Essonnes, France. Electronic address: 
+sylvia.franc@ch-sud-francilien.fr.
+(2)Department of Endocrinology-Metabolism and Diabetology-Nutrition, Jean-Minjoz 
+Hospital, Besançon, France.
+(3)Department of Diabetes, Sainte-Marguerite University Hospital, Marseille, 
+France.
+(4)Department of Biostatistics, CIC-Inserm, University Hospital, Grenoble, 
+France.
+(5)Centre d'Études et de Recherches pour l'Intensification du Traitement du 
+Diabète (CERITD), Corbeil-Essonnes, France.
+(6)Department of Endocrinology, University Hospital Pessac, Pessac, France.
+(7)Department of Endocrinology, University Hospital, Montpellier, France.
+(8)Department of Endocrinology, University Hospital, Rennes, France.
+(9)Department of Diabetes, Hôtel-Dieu University Hospital, Paris, France.
+(10)Department of Endocrinology, University Hospital, Strasbourg, France.
+(11)Department of Endocrinology, Belfort Hospital, Belfort, France.
+(12)Clinique Marc Linquette, Department of Endocrinology and Diabetology, Lille, 
+France.
+(13)Department of Diabetes, Cochin Hospital, Paris, France.
+(14)Department of Endocrinology, Édouard-Herriot Hospital, Lyon, France.
+(15)Diabetology, Nutrition, Metabolic disorders, Brabois Hospital and Center of 
+Clinical Investigation ILCV, University Hospital, Nancy, France.
+(16)Department of Endocrinology, Bellevue Hospital, Saint-Étienne, France.
+(17)Department of Endocrinology, Diabetology, Nutrition University Hospital, 
+Grenoble, France; University J Fourier 1, Grenoble, France.
+(18)Department of Endocrinology, Diabetology, Nutrition University Hospital, 
+Grenoble, France.
+(19)Department of Diabetes, Sud-Francilien Hospital, Corbeil-Essonnes, France; 
+Centre d'Études et de Recherches pour l'Intensification du Traitement du Diabète 
+(CERITD), Corbeil-Essonnes, France.
+(20)Department of Diabetes, Rangueil University Hospital, Toulouse, France.
+
+Erratum in
+    Diabetes Metab. 2014 Jun;40(3):235.
+
+AIM: In the TELEDIAB-1 study, the Diabeo system (a smartphone coupled to a 
+website) improved HbA1c by 0.9% vs controls in patients with chronic, poorly 
+controlled type 1 diabetes. The system provided two main functions: automated 
+advice on the insulin doses required; and remote monitoring by teleconsultation. 
+The question is: how much did each function contribute to the improvement in 
+HbA1c?
+METHODS: Each patient received a smartphone with an insulin dose advisor (IDA) 
+and with (G3 group) or without (G2 group) the telemonitoring/teleconsultation 
+function. Patients were classified as "high users" if the proportion of 
+"informed" meals using the IDA exceeded 67% (median) and as "low users" if not. 
+Also analyzed was the respective impact of the IDA function and 
+teleconsultations on the final HbA1c levels.
+RESULTS: Among the high users, the proportion of informed meals remained stable 
+from baseline to the end of the study 6months later (from 78.1±21.5% to 
+73.8±25.1%; P=0.107), but decreased in the low users (from 36.6±29.4% to 
+26.7±28.4%; P=0.005). As expected, HbA1c improved in high users from 8.7% 
+[range: 8.3-9.2%] to 8.2% [range: 7.8-8.7%] in patients with (n=26) vs without 
+(n=30) the benefit of telemonitoring/teleconsultation (-0.49±0.60% vs 
+-0.52±0.73%, respectively; P=0.879). However, although HbA1c also improved in 
+low users from 9.0% [8.5-10.1] to 8.5% [7.9-9.6], those receiving support via 
+teleconsultation tended to show greater improvement than the others (-0.93±0.97 
+vs -0.46±1.05, respectively; P=0.084).
+CONCLUSION: The Diabeo system improved glycaemic control in both high and low 
+users who avidly used the IDA function, while the greatest improvement was seen 
+in the low users who had the motivational support of teleconsultations.
+
+Copyright © 2013 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.diabet.2013.09.001
+PMID: 24139705 [Indexed for MEDLINE]

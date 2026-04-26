@@ -1,0 +1,51 @@
+1. Arch Phys Med Rehabil. 2010 Apr;91(4):589-95. doi: 10.1016/j.apmr.2009.11.026.
+
+Knee extensor strength, dynamic stability, and functional ambulation: are they 
+related in Parkinson's disease?
+
+Nocera JR(1), Buckley T, Waddell D, Okun MS, Hass CJ.
+
+Author information:
+(1)Brain Rehabilitation Research Center, Malcom Randall Veterans Affairs Medical 
+Center, Gainesville, FL, USA. jnocera@ufl.edu
+
+OBJECTIVE: To evaluate the relationship between knee extensor strength, postural 
+stability, functional ambulation, and disease severity in Parkinson's disease 
+(PD).
+DESIGN: A cohort study.
+SETTING: University research laboratory.
+PARTICIPANTS: Patients (N=44) with idiopathic PD.
+INTERVENTION: Not applicable.
+MAIN OUTCOME MEASURES: Participants were evaluated on their isokinetic knee 
+extensor strength. Additionally, participants completed an assessment of their 
+postural stability (Functional Reach Test for static stability and a dynamic 
+postural stability assessment as measured by the center of pressure-center of 
+mass moment arm during gait initiation). Participants also underwent an 
+evaluation of their functional ambulation as measured by a 6-minute walk test. 
+Lastly, participants were evaluated by a neurologist specially trained in 
+movement disorders to assess neurologic status and disease severity using the 
+Unified Parkinson's Disease Rating Scale and the Hoehn and Yahr disability 
+score.
+RESULTS: Knee extensor strength positively correlated with dynamic postural 
+stability and negatively correlated with disease severity. Further, dynamic 
+postural stability was negatively correlated to disease severity and positively 
+correlated with functional ambulation in this cohort of patients with PD 
+(P<.05). The results also suggest that the Functional Reach Test may be a 
+valuable assessment tool to examine postural stability in PD.
+CONCLUSIONS: These findings suggest a malleable relationship between knee 
+extensor strength, dynamic stability, and disease severity in PD. Although 
+strength is only one piece of the puzzle in the functional outcome of PD, these 
+findings may assist clinicians in designing appropriate interventions aimed at 
+increasing function and decreasing fall risk in PD.
+
+Copyright 2010 American Congress of Rehabilitation Medicine. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.apmr.2009.11.026
+PMCID: PMC3607197
+PMID: 20382292 [Indexed for MEDLINE]
+
+Conflict of interest statement: No commercial party having a direct financial 
+interest in the results of the research supporting this article has or will 
+confer a benefit on the authors or on any organization with which the authors 
+are associated.

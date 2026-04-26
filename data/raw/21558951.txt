@@ -1,0 +1,42 @@
+1. J Dev Behav Pediatr. 2011 Jun;32(5):393-401. doi:
+10.1097/DBP.0b013e318218d9f2.
+
+Are there effects of intrauterine cocaine exposure on delinquency during early 
+adolescence? A preliminary report.
+
+Gerteis J(1), Chartrand M, Martin B, Cabral HJ, Rose-Jacobs R, Crooks D, Frank 
+DA.
+
+Author information:
+(1)Data Coordinating Center, Boston University School of Public Health, MA 
+02118, USA.
+
+OBJECTIVE: To ascertain whether level of intrauterine cocaine exposure (IUCE) is 
+associated with early adolescent delinquent behavior, after accounting for 
+prenatal exposures to other psychoactive substances and relevant psychosocial 
+factors.
+METHODS: Ninety-three early adolescents (12.5-14.5 years old) participating 
+since birth in a longitudinal study of IUCE reported delinquent acts via an 
+audio computer-assisted self-interview. Level of IUCE and exposure to 
+cigarettes, alcohol, and marijuana were determined by maternal report, maternal 
+and infant urine assays, and infant meconium assays at birth. Participants 
+reported their exposure to violence on the Violence Exposure Scale for 
+Children-Revised at ages 8.5, 9.5, and 11 years and during early adolescence, 
+and the strictness of supervision by their caregivers during early adolescence.
+RESULTS: Of the 93 participants, 24 (26%) reported ≥ 3 delinquent behaviors 
+during early adolescence. In the final multivariate model (including level of 
+IUCE and cigarette exposure, childhood exposure to violence, and caregiver 
+strictness/supervision) ≥ 3 delinquent behaviors were not significantly 
+associated with level of IUCE but were significantly associated with 
+intrauterine exposure to half a pack or more of cigarettes per day and higher 
+levels of childhood exposure to violence, effects substantially unchanged after 
+control for early adolescent violence exposure.
+CONCLUSIONS: In this cohort, prospectively ascertained prenatal exposure to 
+cigarettes and childhood exposure to violence are associated with self-reported 
+delinquent behaviors during early adolescence. Contrary to initial popular 
+predictions, intrauterine cocaine is not a strong predictor of adolescent 
+delinquent behaviors in this cohort.
+
+DOI: 10.1097/DBP.0b013e318218d9f2
+PMCID: PMC3129616
+PMID: 21558951 [Indexed for MEDLINE]

@@ -1,0 +1,55 @@
+1. Clin Toxicol (Phila). 2016 Jun;54(5):420-3. doi:
+10.3109/15563650.2016.1157722.  Epub 2016 Mar 21.
+
+Could chest wall rigidity be a factor in rapid death from illicit fentanyl 
+abuse?
+
+Burns G(1), DeRienz RT(2), Baker DD(2), Casavant M(3), Spiller HA(3).
+
+Author information:
+(1)a Central Ohio Poison Center , Ohio State University Medical Toxicology , 
+Columbus , OH , USA ;
+(2)b Office of the Franklin County Coroner , Division of Forensic Toxicology , 
+Columbus , OH , USA ;
+(3)c Department of Pediatrics, Central Ohio Poison Center , College of Medicine, 
+Ohio State University , Columbus , OH , USA.
+
+BACKGROUND: There has been a significant spike in fentanyl-related deaths from 
+illicit fentanyl supplied via the heroin trade. Past fentanyl access was 
+primarily oral or dermal via prescription fentanyl patch diversion. One factor 
+potentially driving this increase in fatalities is the change in route of 
+administration. Rapid intravenous (IV) fentanyl can produce chest wall rigidity. 
+We evaluated post-mortem fentanyl and norfentanyl concentrations in a recent 
+surge of lethal fentanyl intoxications.
+METHODS: Fentanyl related deaths from the Franklin County coroner's office from 
+January to September 2015 were identified. Presumptive positive fentanyl results 
+were confirmed by quantitative analysis using liquid chromatography tandem mass 
+spectrometry (LC/MS/MS) and were able to quantify fentanyl, norfentanyl, 
+alfentanyl, and sufentanyl.
+RESULTS: 48 fentanyl deaths were identified. Mean fentanyl concentrations were 
+12.5 ng/ml, (range 0.5 ng/ml to >40 ng/ml). Mean norfentanyl concentrations were 
+1.9 ng/ml (range none detected to 8.3 ng/ml). No appreciable concentrations of 
+norfentanyl could be detected in 20 of 48 cases (42%) and were less than 1 ng/ml 
+in 25 cases (52%). Elevated fentanyl concentrations did not correlate with rises 
+in norfentanyl levels. In several cases fentanyl concentrations were strikingly 
+high (22 ng/ml and 20 ng/ml) with no norfentanyl detected.
+DISCUSSION: The lack of any measurable norfentanyl in half of our cases suggests 
+a very rapid death, consistent with acute chest rigidity. An alternate 
+explanation could be a dose-related rapid onset of respiratory arrest. Deaths 
+occurred with low levels of fentanyl in the therapeutic range (1-2 ng/ml) in 
+apparent non-naïve opiate abusers. Acute chest wall rigidity is a 
+well-recognized complication in the medical community but unknown within the 
+drug abuse community. The average abuser of illicit opioids may be unaware of 
+the increasing fentanyl content of their illicit opioid purchase.
+CONCLUSION: In summary we believe sudden onset chest wall rigidity may be a 
+significant and previously unreported factor leading to an increased mortality, 
+from illicit IV fentanyl use. Fentanyl and norfentanyl ratios and concentrations 
+suggest a more rapid onset of death given the finding of fentanyl without 
+norfentanyl in many of the fatalities. Chest wall rigidity may help explain the 
+cause of death in these instances, in contrast to the typical opioid-related 
+overdose deaths. Intravenous heroin users should be educated regarding this 
+potentially fatal complication given the increasingly common substitution and 
+combination with heroin of fentanyl.
+
+DOI: 10.3109/15563650.2016.1157722
+PMID: 26999038 [Indexed for MEDLINE]

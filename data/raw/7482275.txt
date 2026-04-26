@@ -1,0 +1,34 @@
+1. Surgery. 1995 Nov;118(5):873-8. doi: 10.1016/s0039-6060(05)80278-8.
+
+Necrotizing fasciitis: an indication for hyperbaric oxygenation therapy?
+
+Shupak A(1), Shoshani O, Goldenberg I, Barzilai A, Moskuna R, Bursztein S.
+
+Author information:
+(1)Israel Naval Medical Institute, IDF, Haifa, Israel.
+
+BACKGROUND: The accepted treatment protocol for necrotizing fasciitis (NF) 
+consists of extensive surgery and wide spectrum antibiotics. Hyperbaric 
+oxygenation (HBO) has been recommended as adjuvant therapy for NF, improving 
+patient mortality and outcome. However, the beneficial effect of HBO for NF 
+remains controversial.
+METHODS: A retrospective evaluation of treatment outcome in 37 patients treated 
+for NF between 1984 and 1993 was carried out. The mortality rate, morbidity 
+criteria, and risk factors for grave prognosis were compared between a group of 
+25 patients who received HBO as part of their treatment protocol and a group of 
+the remaining 12 patients treated by surgical excision and antibiotics alone.
+RESULTS: The two groups were found to be similar with regard to age, gender, the 
+incidence of individual risk factors for ominous prognosis, and the Acute 
+Physiology and Chronic Health Evaluation (APACHE) II score for disease's 
+severity on presentation. The mortality rate among the HBO-treated patients was 
+36%, as opposed to 25% in the non-HBO group. The mean number of surgical 
+débridements required per patient was significantly higher in the HBO group: 3.3 
+compared with 1.5 in the non-HBO-treated patients. Although the average length 
+of hospitalization for survivors was shorter for the HBO group, the difference 
+between the groups did not reach statistical significance.
+CONCLUSIONS: The results of this study cast doubt on the suggested advantage of 
+HBO in reducing patient mortality and morbidity when used as adjuvant therapy 
+for NF.
+
+DOI: 10.1016/s0039-6060(05)80278-8
+PMID: 7482275 [Indexed for MEDLINE]

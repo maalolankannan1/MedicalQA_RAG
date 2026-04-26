@@ -1,0 +1,36 @@
+1. J Minim Invasive Gynecol. 2006 Sep-Oct;13(5):386-90. doi: 
+10.1016/j.jmig.2006.04.003.
+
+Volume change of uterine myomas during pregnancy: do myomas really grow?
+
+Hammoud AO(1), Asaad R, Berman J, Treadwell MC, Blackwell S, Diamond MP.
+
+Author information:
+(1)Department of Obstetrics and Gynecology, University of Utah, Salt Lake City, 
+Utah 84132, USA. ahmad.hammoud@hsc.utah.edu
+
+STUDY OBJECTIVE: To estimate changes in uterine myoma volume during pregnancy.
+DESIGN: Review of departmental electronic perinatal database and medical 
+records. Canadian Task Force Classification II-3.
+SETTING: Obstetrical ultrasound unit in an academic tertiary care center.
+PATIENTS: One hundred-seven patients diagnosed with uterine myomas during 
+pregnancy and who had two or more obstetrical ultrasounds in different periods 
+of pregnancy.
+INTERVENTIONS: We analyzed the change in volume of uterine myomas between the 
+first half of pregnancy (up until 19 weeks), third quarter (20-30 weeks), and 
+last quarter (31 weeks to term). The volume of largest uterine myoma was 
+calculated using the formula Volume (mm3)=Pi/6x(length mm)x(width mm)x(height 
+mm).
+MEASUREMENTS AND MAIN RESULTS: The mean age of the population was 31+/-6 years. 
+Between the first and the second study periods, the percentage of uterine myomas 
+that decreased in size was 55.1% (95% CI: 43-66), with a mean decrease in volume 
+of 35%+/-4%; while the percentage of uterine myomas that enlarged was 44.9% (95% 
+CI: 34-56), with a mean increase in volume of 69%+/-11%. Between the second and 
+the third study periods, 75% (95% CI: 56-87) became smaller, with a mean 
+decrease in volume of 30%+/-3%; while 25% (95% CI: 13-43) enlarged, with a mean 
+increase in volume of 102%+/-62%.
+CONCLUSION: Contrary to common belief, we found that uterine myomas commonly 
+decrease in volume over the course of pregnancy.
+
+DOI: 10.1016/j.jmig.2006.04.003
+PMID: 16962519 [Indexed for MEDLINE]

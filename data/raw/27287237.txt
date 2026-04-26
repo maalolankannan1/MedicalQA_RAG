@@ -1,0 +1,57 @@
+1. J Antimicrob Chemother. 2016 Oct;71(10):2980-7. doi: 10.1093/jac/dkw207. Epub 
+2016 Jun 10.
+
+Assessment of appropriate antimicrobial prescribing: do experts agree?
+
+Sikkens JJ(1), van Agtmael MA(2), Peters EJ(3), Vandenbroucke-Grauls CM(4), 
+Kramer MH(3), de Vet HC(5).
+
+Author information:
+(1)Department of Internal Medicine, VU University Medical Centre, Amsterdam, The 
+Netherlands EMGO Institute for Health and Care Research, Amsterdam, The 
+Netherlands Research and Expertise Centre in Pharmacotherapy Education (RECIPE), 
+Amsterdam, The Netherlands j.sikkens@vumc.nl.
+(2)Department of Internal Medicine, VU University Medical Centre, Amsterdam, The 
+Netherlands Research and Expertise Centre in Pharmacotherapy Education (RECIPE), 
+Amsterdam, The Netherlands.
+(3)Department of Internal Medicine, VU University Medical Centre, Amsterdam, The 
+Netherlands.
+(4)Department of Medical Microbiology and Infection Control, VU University 
+Medical Centre, Amsterdam, The Netherlands.
+(5)EMGO Institute for Health and Care Research, Amsterdam, The Netherlands 
+Department of Epidemiology and Biostatistics, VU University Medical Centre, 
+Amsterdam, The Netherlands.
+
+OBJECTIVES: Little is known about the validity and reliability of expert 
+assessments of the quality of antimicrobial prescribing, despite their 
+importance in antimicrobial stewardship. We investigated how infectious disease 
+doctors' assessments compared with a reference standard (modal expert opinion) 
+and with the assessments of their colleagues.
+METHODS: Twenty-four doctors specialized in infectious diseases or clinical 
+microbiology (16 specialists and 8 residents) from five hospitals were asked to 
+assess the appropriateness of antimicrobial agents prescribed for a broad 
+spectrum of indications in 56 paper cases. They were instructed how to handle 
+guideline applicability and deviations. We created a reference standard of 
+antimicrobial appropriateness using the modal assessment of 16 specialists. We 
+calculated criterion validity and interrater and intrarater overall and specific 
+agreement with an index expert (senior infectious disease physician) and 
+analysed the influence of doctor characteristics on validity.
+RESULTS: Specialists agreed with the reference standard in 80% of cases (range 
+75%-86%), with a sensitivity and specificity of 75% and 84%, respectively. This 
+did not differ by clinical specialty, hospital or years of experience, and 
+residents had similar results. Specialists agreed with the index expert in 76% 
+of cases and the index expert agreed with his previous assessments in 71% of 
+cases.
+CONCLUSIONS: Doctors specialized in infectious diseases and clinical 
+microbiology assess the appropriateness of antimicrobials prescribed for a broad 
+spectrum of indications with acceptable agreement and validity, regardless of 
+their experience or hospital of employment. However, there is room for 
+improvement, which merits attention in multidisciplinary discussions and 
+education.
+
+© The Author 2016. Published by Oxford University Press on behalf of the British 
+Society for Antimicrobial Chemotherapy. All rights reserved. For Permissions, 
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/jac/dkw207
+PMID: 27287237 [Indexed for MEDLINE]

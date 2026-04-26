@@ -1,0 +1,38 @@
+1. Scand J Gastroenterol. 2016 Jan;51(1):16-21. doi:
+10.3109/00365521.2015.1063156.  Epub 2015 Jul 2.
+
+Does oral α-galactosidase relieve irritable bowel symptoms?
+
+Hillilä M(1)(2), Färkkilä MA(2), Sipponen T(1)(2), Rajala J(1), Koskenpato 
+J(1)(2).
+
+Author information:
+(1)a 1 Aava Gastroenterology Clinic , Helsinki, Finland.
+(2)b 2 Clinic of Gastroenterology, University of Helsinki and Helsinki 
+University Hospital , Helsinki, Finland.
+
+OBJECTIVE: Abdominal bloating is reported by a majority of irritable bowel 
+syndrome (IBS) patients. Excess colonic fermentation may cause gaseous symptoms. 
+Several foodstuffs contain oligosaccharides with an α-galactosidic linkage that 
+is resistant to mammalian hydrolases. Assisted hydrolysis by exogenous 
+α-galactosidase enzyme (AG) could offer a way of controlling IBS symptoms by 
+reducing colonic fermentation and gas production. The aim of this study was to 
+assess the effect of AG on symptom severity and quality of life in IBS patients 
+with abdominal bloating or flatulence.
+METHODS: A total of 125 subjects with IBS received AG or placebo at meals for 12 
+weeks. IBS-Symptom Severity Score (IBS-SSS) and quality of life (QoL) were 
+assessed at baseline, during the treatment and at 4-week follow-up.
+RESULTS: AG showed a trend toward a more prominent decrease in IBS-SSS. The 
+responder rate at week 16 was higher for the AG group. No difference was 
+detected in QoL between AG and placebo groups. A total of 25 patients (18 in AG 
+group and 7 in placebo group, p = 0.016) withdrew from the study. Abdominal pain 
+and diarrhea were more often reported as reason for withdrawal in AG group.
+CONCLUSIONS: We found no evidence to support the use of AG routinely in IBS 
+patients. Improvement of clinical response at 4-week follow-up may suggest a 
+long-term effect of unknown mechanism, but could also be attributed to 
+non-responder drop out. Gastrointestinal (GI) side effects may be a coincidence 
+in this study, but irritation of GI tract by AG administration cannot be 
+excluded.
+
+DOI: 10.3109/00365521.2015.1063156
+PMID: 26133538 [Indexed for MEDLINE]

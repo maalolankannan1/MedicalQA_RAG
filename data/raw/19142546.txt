@@ -1,0 +1,44 @@
+1. Clinics (Sao Paulo). 2009;64(1):17-22. doi: 10.1590/s1807-59322009000100004.
+
+Does quantitative left ventricular regional wall motion change after fibrous 
+tissue resection in endomyocardial fibrosis?
+
+Salemi VM(1), Fernandes F, Sirvente R, Nastari L, Rosa LV, Ferreira CA, Pena JL, 
+Picard MH, Mady C.
+
+Author information:
+(1)Cardiomyopathy Unit, Heart Institute (InCor), Hospital das Clínicas, 
+Faculdade de Medicina, Universidade de São Paulo, SP, Brazil. 
+verasalemi@uol.com.br
+
+OBJECTIVES: We compared left ventricular regional wall motion, the global left 
+ventricular ejection fraction, and the New York Heart Association functional 
+class pre- and postoperatively.
+INTRODUCTION: Endomyocardial fibrosis is characterized by fibrous tissue 
+deposition in the endomyocardium of the apex and/or inflow tract of one or both 
+ventricles. Although left ventricular global systolic function is preserved, 
+patients exhibit wall motion abnormalities in the apical and inferoapical 
+regions. Fibrous tissue resection in New York Heart Association FC III and IV 
+endomyocardial fibrosis patients has been shown to decrease morbidity and 
+mortality.
+METHODS: We prospectively studied 30 patients (20 female, 30+/-10 years) before 
+and 5+/-8 months after surgery. The left ventricular ejection fraction was 
+determined using the area-length method. Regional left ventricular motion was 
+measured by the centerline method. Five left ventricular segments were analyzed 
+pre- and postoperatively. Abnormality was expressed in units of standard 
+deviation from the mean motion in a normal reference population.
+RESULTS: Left ventricular wall motion in the five regions did not differ between 
+pre- and postoperative measurements. Additionally, the left ventricular ejection 
+fraction did not change after surgery (0.45+/-0.13% x 0.43+/-0.12% pre- and 
+postoperatively, respectively). The New York Heart Association functional class 
+improved to class I in 40% and class II in 43% of patients postoperatively 
+(p<0.05).
+CONCLUSIONS: Although endomyocardial fibrosis patients have improved clinical 
+symptoms after surgery, the global left ventricular ejection fraction and 
+regional wall motion in these patients do not change. This finding suggests that 
+other explanations, such as improvements in diastolic function, may be 
+operational.
+
+DOI: 10.1590/s1807-59322009000100004
+PMCID: PMC2671969
+PMID: 19142546 [Indexed for MEDLINE]

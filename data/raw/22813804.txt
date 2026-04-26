@@ -1,0 +1,37 @@
+1. J Pediatr Surg. 2012 Jul;47(7):1404-9. doi: 10.1016/j.jpedsurg.2012.02.015.
+
+Does obesity impact the pattern and outcome of trauma in children?
+
+Alselaim N(1), Malaekah H, Saade M, Hussein M, Altokhais T, Albedah K, 
+Zamakhshary M.
+
+Author information:
+(1)King Abdulaziz Bin Saud University for Health Science, Riyadh, Saudi Arabia.
+
+PURPOSE/BACKGROUND: Childhood obesity is pandemic condition. The effect of 
+obesity on trauma outcomes in children has been relatively understudied. We 
+conducted this study to ascertain the effects of obesity on the hospital outcome 
+of injured children.
+METHODS: A retrospective cohort study of patients aged 2 to 18 years admitted to 
+the King Abdul Aziz Medical City between May 2001 and May 2009 was conducted. 
+Patients were categorized as lean (body mass index <95th percentile) and obese 
+(body mass index ≥ 95th percentile). Groups were compared regarding admission 
+demographics, mechanism of injury, pattern of injury, length of stay, intensive 
+care unit admission, ventilation duration, types of procedures performed, injury 
+severity score, and mortality.
+RESULT: Nine hundred thirty-three patients were included, of those 55 (5.89%) 
+children were obese. The obese children were older than nonobese (P = .001) and 
+had a higher injury severity score (P = .001) and a lower pediatric trauma score 
+(P = .00), heart rate (P = .0081), and respiratory rate (P = .000). There were 
+no differences between groups with regard to sex, mechanism of injury, and 
+surgical procedures. Obese children were more likely to have rib fractures (P = 
+.02) and pelvic injuries (P = .033). There was no significant association 
+between mortality and obesity (P = .42).
+CONCLUSION: Obesity does not seem to impact the severity of injury, mortality 
+rate, types of injury, and procedure outcomes in children. Obese patients are 
+more likely to have rib and pelvic injuries.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpedsurg.2012.02.015
+PMID: 22813804 [Indexed for MEDLINE]

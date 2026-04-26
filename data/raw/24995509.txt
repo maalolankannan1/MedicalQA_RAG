@@ -1,0 +1,47 @@
+1. Clin Exp Ophthalmol. 2015 Jan-Feb;43(1):47-53. doi: 10.1111/ceo.12376. Epub
+2014  Aug 19.
+
+HIF1A as a major vascular endothelial growth factor regulator: do its 
+polymorphisms have an association with age-related macular degeneration?
+
+Okur V(1), Cetin O, Cetin E, Tepeli E, Bulgu Y, Yildirim C.
+
+Author information:
+(1)Department of Medical Genetics, Medical School of Pamukkale University, 
+Denizli, Turkey.
+
+Comment in
+    Clin Exp Ophthalmol. 2015 Jan-Feb;43(1):1-2. doi: 10.1111/ceo.12493.
+
+BACKGROUND: To investigate the association between age-related macular 
+degeneration (AMD) and the polymorphisms of HIF1A, a major vascular epithelial 
+growth factor regulator under hypoxic conditions. The associations of AMD and 
+polymorphisms of genes CFH, SKIV2L and MYRIP were also studied.
+DESIGN: Prospective study.
+PARTICIPANTS: Eighty-seven AMD patients and 80 healthy subjects admitted to the 
+Department of Ophthalmology at Pamukkale University Hospital, Denizli, Turkey, 
+were included: 45 (52%) had wet type AMD, and 42 (48%) had dry type AMD.
+METHODS: Polymorphisms rs1061170 (CFH), rs429608 (SKIV2L), rs2679798 (MYRIP) and 
+both rs11549465 and rs11549467 (HIF1A) were investigated in DNA isolated from 
+peripheral blood samples of the cases and controls by dye-termination DNA 
+sequencing.
+MAIN OUTCOME MEASURES: Genotype distribution of rs1061170 (CFH), rs429608 
+(SKIV2L), rs2679798 (MYRIP) and both rs11549465 and rs11549467 (HIF1A) in AMD 
+cases and healthy controls; association between genotypes and AMD subtypes.
+RESULTS: Given the significant difference between the mean age of case and 
+control groups (72.13 ± 5.77 vs. 62.80 ± 5.22, respectively) (P = .000), 
+subsequent analyses were adjusted for age. We found that having at least one C 
+allele for polymorphism rs1061170 increases AMD risk independent of age 
+(OR = 2.42, 95% confidence interval [CI], 1.22-4.81). The ancestral T allele for 
+polymorphism rs1061170 has a protective effect for AMD (OR = 0.53, 95% CI, 
+0.34-0.83). No statistically significant difference for distributions of other 
+single nucleotide polymorphisms (SNPs) emerged between patients and healthy 
+subjects.
+CONCLUSIONS: No associations appeared between HIF1A SNPs and AMD, which were 
+studied here for the first time; however, polymorphism rs1061170 of the CFH gene 
+is associated with AMD in our population.
+
+© 2014 Royal Australian and New Zealand College of Ophthalmologists.
+
+DOI: 10.1111/ceo.12376
+PMID: 24995509 [Indexed for MEDLINE]

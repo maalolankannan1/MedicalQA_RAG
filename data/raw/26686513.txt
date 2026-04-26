@@ -1,0 +1,45 @@
+1. Graefes Arch Clin Exp Ophthalmol. 2016 Feb;254(2):395-8. doi: 
+10.1007/s00417-015-3246-1. Epub 2015 Dec 21.
+
+Cycloplegic autorefraction in young adults: is it mandatory?
+
+Mimouni M(1), Zoller L(2), Horowitz J(3), Wygnanski-Jaffe T(4)(5), Morad 
+Y(5)(6), Mezer E(7)(8).
+
+Author information:
+(1)Department of Ophthalmology, Rambam Health Care Campus, P.O.B. 9602, Haifa, 
+Israel, 31096. m_mimouni@rambam.health.gov.il.
+(2)Maccabi Health Service, Haifa, Israel.
+(3)Carmel Medical Center, Haifa, Israel.
+(4)Goldschleger Eye Institute, Sheba Medical Center, Tel-Hashomer, Israel.
+(5)Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel.
+(6)Assaf-Harofeh Medical Center, Tel Aviv, Israel.
+(7)Department of Ophthalmology, Rambam Health Care Campus, P.O.B. 9602, Haifa, 
+Israel, 31096.
+(8)The Ruth and Bruce Rappaport Faculty of Medicine, Technion - Israel Institute 
+of Technology, Haifa, Israel.
+
+PURPOSE: The precise correction of refractive error is especially important in 
+young adults. It is unclear whether cycloplegic refraction is necessary in this 
+age group. The purpose of this study was to compare the non-cycloplegic and 
+cycloplegic spherical equivalent (SE) refractive error measured in young adults.
+METHODS: This was a prospective study of 1400 eyes (n = 700) of enlisted 
+soldiers aged 18 to 21 years who were consecutively evaluated in an outpatient 
+army ophthalmology clinic. One drop of cyclopentolate 1 % was installed twice 
+10 min apart, and cycloplegic refraction was performed in both eyes 40 min later 
+using an auto-refractor. The difference between non-cycloplegic and cycloplegic 
+refractive measurements was analyzed.
+RESULTS: The mean difference in SE between non-cycloplegic and cycloplegic 
+measurements was 0.68 ± 0.83 D (95 % CI, 0.64-0.72). Significantly greater 
+differences were observed in hypermetropes than myopes (1.30 ± 0.90 D versus 
+0.46 ± 0.68 D, p < 0.001). Moderate hypermetropes (2 to 5 D) demonstrated 
+significantly greater refractive error than mild (0.5 to 2 D) or severe (>5 D) 
+hypermetropes (1.71 ± 1.18 D versus 1.19 ± 0.74 D and 1.16 ± 1.08 D 
+respectively, p < 0.001).
+CONCLUSIONS: Young hypermetropic adults possessed +1 to +2 D of latent 
+hypermetropia. In contrast, young myopic adults revealed pseudomyopia of -0.5 D. 
+Cycloplegic refraction should be performed in young hypermetropic adults 
+complaining of various signs of asthenopia.
+
+DOI: 10.1007/s00417-015-3246-1
+PMID: 26686513 [Indexed for MEDLINE]

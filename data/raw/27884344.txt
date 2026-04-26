@@ -1,0 +1,48 @@
+1. J Surg Res. 2016 Dec;206(2):466-471. doi: 10.1016/j.jss.2016.08.050. Epub 2016
+ Aug 19.
+
+Do resident's leadership skills relate to ratings of technical skill?
+
+Gannon SJ(1), Law KE(2), Ray RD(1), Nathwani JN(1), DiMarco SM(1), D'Angelo 
+AD(1), Pugh CM(3).
+
+Author information:
+(1)Department of Surgery, University of Wisconsin-Madison, Madison, Wisconsin.
+(2)Department of Industrial and Systems Engineering, University of 
+Wisconsin-Madison, Madison, Wisconsin.
+(3)Department of Surgery, University of Wisconsin-Madison, Madison, Wisconsin; 
+Department of Industrial and Systems Engineering, University of 
+Wisconsin-Madison, Madison, Wisconsin. Electronic address: 
+pugh@surgery.wisc.edu.
+
+BACKGROUND: This study sought to compare general surgery research residents' 
+survey information regarding self-efficacy ratings to their observed performance 
+during a simulated small bowel repair. Their observed performance ratings were 
+based on their leadership skills in directing their assistant.
+METHODS: Participants were given 15 min to perform a bowel repair using bovine 
+intestines with standardized injuries. Operative assistants were assigned to 
+help assist with the repair. Before the procedure, participants were asked to 
+rate their expected skills decay, task difficulty, and confidence in addressing 
+the small bowel injury. Interactions were coded to identify the number of 
+instructions given by the participants to the assistant during the repair. 
+Statistical analyses assessed the relationship between the number of directional 
+instructions and participants' perceptions self-efficacy measures. Directional 
+instructions were defined as any dialog by the participant who guided the 
+assistant to perform an action.
+RESULTS: Thirty-six residents (58.3% female) participated in the study. 
+Participants who rated lower levels of decay in their intraoperative 
+decision-making and small bowel repair skills were noted to use their assistant 
+more by giving more instructions. Similarly, a higher number of instructions 
+correlated with lower perceived difficulty in selecting the correct suture, 
+suture pattern, and completing the entire surgical task.
+CONCLUSIONS: General surgery research residents' intraoperative leadership 
+skills showed significant correlations to their perceptions of skill decay and 
+task difficulty during a bowel repair. Evaluating resident's directional 
+instructions may provide an additional individualized intraoperative assessment 
+metric. Further evaluation relating to operative performance outcomes is 
+warranted.
+
+Copyright Â© 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jss.2016.08.050
+PMID: 27884344 [Indexed for MEDLINE]
