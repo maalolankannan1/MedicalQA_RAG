@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BASE_DIR = Path(**file**).parent
+BASE_DIR = Path(__file__).parent
 
 # ── Data paths ───────────────────────────────────────────────────────────────
 
