@@ -30,7 +30,7 @@ def download_all_abstracts(df, output_dir=None, delay=None):
             continue
 
         abstract = fetch_pubmed_abstract(pubid)
-        with open(filepath, "w") as f:
+        with open(filepath, "w", encoding="utf-8") as f:
             f.write(abstract)
         print(f"Downloaded abstract for {pubid}")
         time.sleep(delay)
