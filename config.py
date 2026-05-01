@@ -9,7 +9,7 @@ BASE_DIR = Path(__file__).parent
 # ── Data paths ───────────────────────────────────────────────────────────────
 DATA_RAW_DIR = BASE_DIR / "data" / "raw"
 DATA_PROCESSED_DIR = BASE_DIR / "data" / "processed"
-DATA_CHUNKS_DIR = BASE_DIR / "data" / "chunks"
+DATA_KNOWLEDGE_BASE_DIR = BASE_DIR / "data" / "knowledge_base"
 VECTORSTORE_DIR = BASE_DIR / "vectorstores"
 RESULTS_RAGAS_DIR = BASE_DIR / "results" / "ragas"
 RESULTS_DEEPEVAL_DIR = BASE_DIR / "results" / "deepeval"
@@ -30,6 +30,10 @@ DEFAULT_EMBEDDING = "minilm"
 # ── LLM ──────────────────────────────────────────────────────────────────────
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 LLM_MODEL = "llama-3.3-70b-versatile"
+_groq_keys_env = os.getenv("GROQ_API_KEYS", "")
+GROQ_API_KEYS = [k.strip() for k in _groq_keys_env.split(",") if k.strip()] or (
+    [GROQ_API_KEY] if GROQ_API_KEY else []
+)
 
 # ── Chunking ─────────────────────────────────────────────────────────────────
 CHUNK_SIZE = 800
