@@ -7,9 +7,9 @@ load_dotenv()
 BASE_DIR = Path(__file__).parent
 
 # ── Data paths ───────────────────────────────────────────────────────────────
-DATA_RAW_DIR = BASE_DIR / "data" / "raw"
-DATA_PROCESSED_DIR = BASE_DIR / "data" / "processed"
-DATA_KNOWLEDGE_BASE_DIR = BASE_DIR / "data" / "knowledge_base"
+DATA_RAW_DIR = BASE_DIR / "datasets" / "raw"
+DATA_PROCESSED_DIR = BASE_DIR / "datasets" / "processed"
+DATA_KNOWLEDGE_BASE_DIR = BASE_DIR / "datasets" / "knowledge_base"
 VECTORSTORE_DIR = BASE_DIR / "vectorstores"
 RESULTS_EVALSETS_DIR = BASE_DIR / "results" / "eval_datasets"
 RESULTS_RAGAS_DIR = BASE_DIR / "results" / "ragas"
