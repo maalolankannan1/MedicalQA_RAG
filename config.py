@@ -11,6 +11,7 @@ DATA_RAW_DIR = BASE_DIR / "data" / "raw"
 DATA_PROCESSED_DIR = BASE_DIR / "data" / "processed"
 DATA_KNOWLEDGE_BASE_DIR = BASE_DIR / "data" / "knowledge_base"
 VECTORSTORE_DIR = BASE_DIR / "vectorstores"
+RESULTS_EVALSETS_DIR = BASE_DIR / "results" / "eval_datasets"
 RESULTS_RAGAS_DIR = BASE_DIR / "results" / "ragas"
 RESULTS_DEEPEVAL_DIR = BASE_DIR / "results" / "deepeval"
 RESULTS_FIGURES_DIR = BASE_DIR / "results" / "figures"
@@ -29,11 +30,11 @@ DEFAULT_EMBEDDING = "minilm"
 
 # ── LLM ──────────────────────────────────────────────────────────────────────
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
-LLM_MODEL = "llama-3.3-70b-versatile"
 _groq_keys_env = os.getenv("GROQ_API_KEYS", "")
 GROQ_API_KEYS = [k.strip() for k in _groq_keys_env.split(",") if k.strip()] or (
     [GROQ_API_KEY] if GROQ_API_KEY else []
 )
+LLM_MODEL = "llama-3.3-70b-versatile"
 
 # ── Chunking ─────────────────────────────────────────────────────────────────
 CHUNK_SIZE = 800
@@ -45,6 +46,12 @@ TOP_K = 5
 MMR_FETCH_K = 20
 MMR_LAMBDA_MULT = 0.5
 HYBRID_ALPHA = 0.5
+
+# ── Parallel RAG ─────────────────────────────────────────────────────────────
+# Max rows assigned to each API key per bucket. Keys run concurrently;
+# rows within a key's bucket are processed sequentially at PARALLEL_DELAY_SECONDS.
+PARALLEL_BUCKET_SIZE = 15
+PARALLEL_DELAY_SECONDS = 1
 
 # ── Sampling ─────────────────────────────────────────────────────────────────
 EVAL_SAMPLE_SIZE = 150
