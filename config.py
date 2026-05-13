@@ -50,8 +50,8 @@ HYBRID_ALPHA = 0.5
 # ── Parallel RAG ─────────────────────────────────────────────────────────────
 # Max rows assigned to each API key per bucket. Keys run concurrently;
 # rows within a key's bucket are processed sequentially at PARALLEL_DELAY_SECONDS.
-PARALLEL_BUCKET_SIZE = 15
-PARALLEL_DELAY_SECONDS = 2
+PARALLEL_BUCKET_SIZE = 20
+PARALLEL_DELAY_SECONDS = 4
 
 # ── Sampling ─────────────────────────────────────────────────────────────────
 EVAL_SAMPLE_SIZE = 150
