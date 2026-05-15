@@ -1,0 +1,10 @@
+Architecture,High Hal. Rate,High N,Medium Hal. Rate,Medium N,Low Hal. Rate,Low N,CWHS
+Query Expansion (Multi),0.0176,56,0.0114,122,0.0,22,0.0132
+Naive RAG k=8,0.0095,56,0.0157,122,0.0227,22,0.0137
+Query Expansion (Single),0.0134,56,0.0143,122,0.0182,22,0.0141
+Naive RAG k=3,0.0197,56,0.0116,122,0.0136,22,0.0148
+Hybrid + Cross-Encoder,0.0221,56,0.0194,122,0.0,22,0.0195
+Hybrid RRF,0.021,56,0.0208,122,0.0,22,0.0198
+Naive RAG k=5,0.0186,56,0.0208,122,0.0227,22,0.02
+MeSH-Guided RAG,0.0361,56,0.0108,122,0.0205,22,0.0211
+Evidence-Graded RAG,0.0418,56,0.0308,122,0.0152,22,0.0343

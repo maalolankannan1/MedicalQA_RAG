@@ -1,0 +1,10 @@
+Architecture,Mean Faithfulness,Unweighted Hal. Rate,CWHS,Δ (CWHS − Unweighted),N Questions
+Query Expansion (Multi),0.9881,0.0119,0.0132,0.0013,200
+Naive RAG k=8,0.9852,0.0148,0.0137,-0.0011,200
+Query Expansion (Single),0.9855,0.0145,0.0141,-0.0003,200
+Naive RAG k=3,0.9859,0.0141,0.0148,0.0007,200
+Hybrid + Cross-Encoder,0.982,0.018,0.0195,0.0014,200
+Hybrid RRF,0.9814,0.0186,0.0198,0.0013,200
+Naive RAG k=5,0.9796,0.0204,0.02,-0.0003,200
+MeSH-Guided RAG,0.9811,0.0189,0.0211,0.0021,200
+Evidence-Graded RAG,0.9678,0.0322,0.0343,0.0021,200
