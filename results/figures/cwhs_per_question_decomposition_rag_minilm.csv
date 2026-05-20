@@ -1,0 +1,201 @@
+question_idx,question,severity_tier,severity_weight,faithfulness,hallucination_rate,cwhs_contribution,correctness,css_contribution
+0,Is there a relationship between rheumatoid arthritis and periodontal disease?,Medium,2,1.0,0.0,0.0,0.8,0.16
+1,"Do the changes in the serum levels of IL-2, IL-4, TNFalpha, and IL-6 reflect the inflammatory activity in the patients with post-ERCP pancreatitis?",Medium,2,1.0,0.0,0.0,0.6,0.32
+2,Does hypoglycaemia increase the risk of cardiovascular events?,Medium,2,1.0,0.0,0.0,0.8,0.16
+3,Telemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control?,Medium,2,0.8,0.2,0.4,1.0,0.24
+4,Can elevated troponin I levels predict complicated clinical course and inhospital mortality in patients with acute pulmonary embolism?,Medium,2,1.0,0.0,0.0,1.0,0.0
+5,Does β-catenin have a role in pathogenesis of sebaceous cell carcinoma of the eyelid?,Low,1,1.0,0.0,0.0,0.6,0.16
+6,Remote ischemic postconditioning: does it protect against ischemic damage in percutaneous coronary revascularization?,Medium,2,1.0,0.0,0.0,0.2,0.64
+7,Hearing loss: an unknown complication of pre-eclampsia?,Medium,2,1.0,0.0,0.0,0.7,0.24
+8,Does psychological distress predict disability?,Medium,2,1.0,0.0,0.0,0.4,0.48
+9,Pancreas retransplantation:  a second chance for diabetic patients?,High,3,1.0,0.0,0.0,1.0,0.0
+10,Immune suppression by lysosomotropic amines and cyclosporine on T-cell responses to minor and major histocompatibility antigens: does synergy exist?,Low,1,1.0,0.0,0.0,0.8,0.08
+11,Pharmacologic regimens for knee osteoarthritis prevention: can they be cost-effective?,High,3,1.0,0.0,0.0,0.9,0.12
+12,Dementia and aphasia in motor neuron disease: an underrecognised association?,Medium,2,1.0,0.0,0.0,1.0,0.0
+13,Does age moderate the effect of personality disorder on coping style in psychiatric inpatients?,Medium,2,0.75,0.25,0.5,0.0,1.1
+14,Subclavian steal syndrome: can the blood pressure difference between arms predict the severity of steal?,Medium,2,1.0,0.0,0.0,1.0,0.0
+15,Diffusion-weighted echo-planar MR imaging of primary parotid gland tumors: is a prediction of different histologic subtypes possible?,Medium,2,1.0,0.0,0.0,0.6,0.32
+16,Can we ease the financial burden of colonoscopy?,Low,1,1.0,0.0,0.0,0.2,0.32
+17,Does depression diagnosis and antidepressant prescribing vary by location?,High,3,1.0,0.0,0.0,1.0,0.0
+18,Are reports of mechanical dysfunction in chronic oro-facial pain related to somatisation?,Medium,2,1.0,0.0,0.0,0.7,0.24
+19,Is endometrial polyp formation associated with increased expression of vascular endothelial growth factor and transforming growth factor-beta1?,Low,1,1.0,0.0,0.0,0.8,0.08
+20,Preoperative tracheobronchoscopy in newborns with esophageal atresia: does it matter?,Medium,2,1.0,0.0,0.0,1.0,0.0
+21,Are performance measurement systems useful?,Low,1,1.0,0.0,0.0,0.5,0.2
+22,Do preoperative statins reduce atrial fibrillation after coronary artery bypass grafting?,Medium,2,1.0,0.0,0.0,1.0,0.0
+23,Is there a favorable subset of patients with prostate cancer who develop oligometastases?,Medium,2,1.0,0.0,0.0,0.8,0.16
+24,Are virtual planning and guided surgery for head and neck reconstruction economically viable?,High,3,1.0,0.0,0.0,1.0,0.0
+25,Are there progressive brain changes in schizophrenia?,Medium,2,1.0,0.0,0.0,0.4,0.48
+26,Substance use and HIV-related sexual behaviors among US high school students: are they related?,Medium,2,1.0,0.0,0.0,0.5,0.4
+27,Is robotically assisted laparoscopic radical prostatectomy less invasive than retropubic radical prostatectomy?,Medium,2,1.0,0.0,0.0,0.0,0.8
+28,Does reducing spasticity translate into functional benefit?,Medium,2,1.0,0.0,0.0,1.0,0.0
+29,Patient-Controlled Therapy of Breathlessness in Palliative Care: A New Therapeutic Concept for Opioid Administration?,High,3,1.0,0.0,0.0,1.0,0.0
+30,It's Fournier's gangrene still dangerous?,Medium,2,1.0,0.0,0.0,1.0,0.0
+31,Does early migraine treatment shorten time to headache peak and reduce its severity?,High,3,1.0,0.0,0.0,0.9,0.12
+32,Can medical students contribute to quality assurance programmes in day surgery?,High,3,1.0,0.0,0.0,0.8,0.24
+33,Do familiar teammates request and accept more backup?,Low,1,1.0,0.0,0.0,0.8,0.08
+34,Should lower limb fractures be treated surgically in patients with chronic spinal injuries?,High,3,1.0,0.0,0.0,1.0,0.0
+35,Are stroke patients' reports of home blood pressure readings reliable?,Medium,2,1.0,0.0,0.0,0.7,0.24
+36,Oral mucocele/ranula: Another human immunodeficiency virus-related salivary gland disease?,Medium,2,1.0,0.0,0.0,0.9,0.08
+37,Can the postoperative pain level be predicted preoperatively?,Medium,2,1.0,0.0,0.0,1.0,0.0
+38,Are adult body circumferences associated with height?,Low,1,1.0,0.0,0.0,1.0,0.0
+39,Do liquid-based preparations of urinary cytology perform differently than classically prepared cases?,Medium,2,1.0,0.0,0.0,0.6,0.32
+40,Cardiovascular risk in a rural adult West African population: is resting heart rate also relevant?,Medium,2,1.0,0.0,0.0,1.0,0.0
+41,Reporting and interpreting red blood cell morphology: is there discordance between clinical pathologists and clinicians?,Medium,2,1.0,0.0,0.0,0.6,0.32
+42,Can tailored interventions increase mammography use among HMO women?,High,3,1.0,0.0,0.0,0.6,0.48
+43,Is primary angioplasty an acceptable alternative to thrombolysis?,High,3,1.0,0.0,0.0,0.8,0.24
+44,Informed consent for total hip arthroplasty: does a written information sheet improve recall by patients?,Medium,2,1.0,0.0,0.0,0.7,0.24
+45,Do instrumental activities of daily living predict dementia at 1- and 2-year follow-up?,Medium,2,1.0,0.0,0.0,1.0,0.0
+46,Validation of the 2009 TNM version in a large multi-institutional cohort of patients treated for renal cell carcinoma: are further improvements needed?,High,3,1.0,0.0,0.0,0.8,0.24
+47,Does topical ropivacaine reduce the post-tonsillectomy morbidity in pediatric patients?,Medium,2,1.0,0.0,0.0,0.3,0.56
+48,Risk stratification in emergency surgical patients: is the APACHE II score a reliable marker of physiological impairment?,High,3,1.0,0.0,0.0,0.3,0.84
+49,Should general practitioners call patients by their first names?,Low,1,1.0,0.0,0.0,1.0,0.0
+50,Amblyopia: is visual loss permanent?,Medium,2,1.0,0.0,0.0,0.7,0.24
+51,Is there a role for fondaparinux in perioperative bridging?,High,3,1.0,0.0,0.0,0.5,0.6
+52,Does context matter for the relationship between deprivation and all-cause mortality?,Medium,2,1.0,0.0,0.0,0.8,0.16
+53,Does a colonoscopy after acute diverticulitis affect its management?,Medium,2,1.0,0.0,0.0,0.4,0.48
+54,Is late-night salivary cortisol a better screening test for possible cortisol excess than standard screening tests in obese patients with Type 2 diabetes?,Medium,2,1.0,0.0,0.0,1.0,0.0
+55,Can 'high-risk' human papillomaviruses (HPVs) be detected in human breast milk?,Low,1,1.0,0.0,0.0,1.0,0.0
+56,Does maternal obesity have an influence on feeding behavior of obese children?,Medium,2,1.0,0.0,0.0,0.5,0.4
+57,Does pain intensity predict a poor opioid response in cancer patients?,Medium,2,1.0,0.0,0.0,1.0,0.0
+58,Metered-dose inhalers. Do health care providers know what to teach?,High,3,1.0,0.0,0.0,0.7,0.36
+59,Necrotizing fasciitis: an indication for hyperbaric oxygenation therapy?,High,3,1.0,0.0,0.0,1.0,0.0
+60,Ovarian torsion in children: is oophorectomy necessary?,High,3,0.8,0.2,0.6,1.0,0.36
+61,Are octogenarians at high risk for carotid endarterectomy?,Medium,2,1.0,0.0,0.0,0.7,0.24
+62,Is calibration the cause of variation in liquid chromatography tandem mass spectrometry testosterone measurement?,Low,1,1.0,0.0,0.0,1.0,0.0
+63,Do supervised colorectal trainees differ from consultants in terms of quality of TME surgery?,High,3,1.0,0.0,0.0,1.0,0.0
+64,Is diffusion-weighted imaging a significant indicator of the development of vascularization in hypovascular hepatocellular lesions?,Medium,2,1.0,0.0,0.0,0.9,0.08
+65,Blunt trauma in intoxicated patients: is computed tomography of the abdomen always necessary?,High,3,1.0,0.0,0.0,1.0,0.0
+66,Prognosis of well differentiated small hepatocellular carcinoma--is well differentiated hepatocellular carcinoma clinically early cancer?,Medium,2,1.0,0.0,0.0,0.0,0.8
+67,Does high-dose radiotherapy benefit palliative lung cancer patients?,High,3,1.0,0.0,0.0,1.0,0.0
+68,Does route of delivery affect maternal and perinatal outcome in women with eclampsia?,Medium,2,1.0,0.0,0.0,1.0,0.0
+69,Does anastomotic leakage affect functional outcome after rectal resection for cancer?,Medium,2,1.0,0.0,0.0,1.0,0.0
+70,Does septoplasty change the dimensions of compensatory hypertrophy of the middle turbinate?,Medium,2,1.0,0.0,0.0,1.0,0.0
+71,Does the distribution of health care benefits in Kenya meet the principles of universal coverage?,Low,1,1.0,0.0,0.0,1.0,0.0
+72,Can multiple SNP testing in BRCA2 and BRCA1 female carriers be used to improve risk prediction models in conjunction with clinical assessment?,Medium,2,1.0,0.0,0.0,0.6,0.32
+73,Canada's Compassionate Care Benefit: is it an adequate public health response to addressing the issue of caregiver burden in end-of-life care?,Low,1,1.0,0.0,0.0,1.0,0.0
+74,Does a family meetings intervention prevent depression and anxiety in family caregivers of dementia patients?,High,3,1.0,0.0,0.0,0.8,0.24
+75,Can we measure mesopic pupil size with the cobalt blue light slit-lamp biomicroscopy method?,Low,1,1.0,0.0,0.0,0.3,0.28
+76,Does minimal access major surgery in the newborn hurt less?,High,3,1.0,0.0,0.0,0.2,0.96
+77,Do healthier lifestyles lead to less utilization of healthcare resources?,Medium,2,1.0,0.0,0.0,0.9,0.08
+78,Location and number of sutures placed for hiatal hernia repair during laparoscopic adjustable gastric banding: does it matter?,High,3,1.0,0.0,0.0,1.0,0.0
+79,Does increased patient awareness improve accrual into cancer-related clinical trials?,Medium,2,1.0,0.0,0.0,1.0,0.0
+80,Does quantitative left ventricular regional wall motion change after fibrous tissue resection in endomyocardial fibrosis?,Medium,2,1.0,0.0,0.0,0.8,0.16
+81,Does the aggressive use of polyvalent antivenin for rattlesnake bites result in serious acute side effects?,Medium,2,0.6,0.4,0.8,1.0,0.48
+82,Does higher body mass index contribute to worse asthma control in an urban population?,Medium,2,1.0,0.0,0.0,1.0,0.0
+83,Can bedside assessment reliably exclude aspiration following acute stroke?,Medium,2,1.0,0.0,0.0,0.8,0.16
+84,Do episodic migraineurs selectively attend to headache-related visual stimuli?,Medium,2,1.0,0.0,0.0,0.9,0.08
+85,Can we predict urinary stone composition based on an analysis of microelement concentration in the hair and urine?,Medium,2,1.0,0.0,0.0,1.0,0.0
+86,Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?,Medium,2,1.0,0.0,0.0,1.0,0.0
+87,"Do lipids, blood pressure, diabetes, and smoking confer equal risk of myocardial infarction in women as in men?",Medium,2,0.6666666666666666,0.3333,0.6667,1.0,0.4
+88,Can PRISM predict length of PICU stay?,Medium,2,1.0,0.0,0.0,0.1,0.72
+89,Does successful completion of the Perinatal Education Programme result in improved obstetric practice?,Medium,2,1.0,0.0,0.0,1.0,0.0
+90,Does Viral Co-Infection Influence the Severity of Acute Respiratory Infection in Children?,Medium,2,1.0,0.0,0.0,0.5,0.4
+91,Is vitamin D deficiency a feature of pediatric celiac disease?,Medium,2,1.0,0.0,0.0,0.8,0.16
+92,Chronic functional somatic symptoms: a single syndrome?,Medium,2,1.0,0.0,0.0,0.3,0.56
+93,Does the bracket-ligature combination affect the amount of orthodontic space closure over three months?,Medium,2,1.0,0.0,0.0,1.0,0.0
+94,Does loss of consciousness predict neuropsychological decrements after concussion?,Medium,2,1.0,0.0,0.0,0.7,0.24
+95,Clinical identifiers for early-stage primary/idiopathic adhesive capsulitis: are we seeing the real picture?,Medium,2,1.0,0.0,0.0,0.9,0.08
+96,Are wandering and physically nonaggressive agitation equivalent?,Medium,2,1.0,0.0,0.0,0.6,0.32
+97,Does feeding tube insertion and its timing improve survival?,Medium,2,1.0,0.0,0.0,1.0,0.0
+98,Do family physicians know the costs of medical care?,Low,1,1.0,0.0,0.0,1.0,0.0
+99,"Laparoscopic myomectomy: do size, number, and location of the myomas form limiting factors for laparoscopic myomectomy?",Medium,2,1.0,0.0,0.0,1.0,0.0
+100,Is it Crohn's disease?,Medium,2,1.0,0.0,0.0,0.0,0.8
+101,"Expression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role?",Medium,2,1.0,0.0,0.0,1.0,0.0
+102,Is a specialised training of phonological awareness indicated in every preschool child?,Medium,2,1.0,0.0,0.0,1.0,0.0
+103,Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?,High,3,1.0,0.0,0.0,0.6,0.48
+104,"Actinobaculum schaalii, a cause of urinary tract infections in children?",Medium,2,1.0,0.0,0.0,1.0,0.0
+105,Is the processing of affective prosody influenced by spatial attention?,Low,1,1.0,0.0,0.0,1.0,0.0
+106,Is the international normalised ratio (INR) reliable?,Medium,2,1.0,0.0,0.0,0.5,0.4
+107,Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?,Medium,2,1.0,0.0,0.0,0.6,0.32
+108,Should direct mesocolon invasion be included in T4 for the staging of gastric cancer?,Medium,2,1.0,0.0,0.0,1.0,0.0
+109,Do older patients receive adequate stroke care?,Medium,2,0.7142857142857143,0.2857,0.5714,1.0,0.3429
+110,Is a patient's self-reported health-related quality of life a prognostic factor for survival in non-small-cell lung cancer patients?,Medium,2,1.0,0.0,0.0,0.6,0.32
+111,30-Day and 1-year mortality in emergency general surgery laparotomies: an area of concern and need for improvement?,High,3,1.0,0.0,0.0,0.3,0.84
+112,Does rugby headgear prevent concussion?,Medium,2,1.0,0.0,0.0,0.8,0.16
+113,Are tuberculosis patients adherent to prescribed treatments in China?,High,3,1.0,0.0,0.0,0.9,0.12
+114,"Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?",Medium,2,1.0,0.0,0.0,0.9,0.08
+115,Vaginal dose assessment in image-guided brachytherapy for cervical cancer: Can we really rely on dose-point evaluation?,High,3,1.0,0.0,0.0,1.0,0.0
+116,Is Panton-Valentine leucocidin associated with the pathogenesis of Staphylococcus aureus bacteraemia in the UK?,Medium,2,1.0,0.0,0.0,1.0,0.0
+117,Standardizing care in medical oncology: are Web-based systems the answer?,Medium,2,1.0,0.0,0.0,1.0,0.0
+118,Health care for immigrants in Europe: is there still consensus among country experts about principles of good practice?,Low,1,1.0,0.0,0.0,0.3,0.28
+119,Does obstructive sleep apnea affect aerobic fitness?,Medium,2,1.0,0.0,0.0,0.9,0.08
+120,Treatment of contralateral hydrocele in neonatal testicular torsion: Is less more?,High,3,1.0,0.0,0.0,0.9,0.12
+121,BCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays?,Medium,2,1.0,0.0,0.0,0.8,0.16
+122,Sternal fracture in growing children : A rare and often overlooked fracture?,Medium,2,1.0,0.0,0.0,0.1,0.72
+123,Could different follow-up modalities play a role in the diagnosis of asymptomatic endometrial cancer relapses?,Medium,2,1.0,0.0,0.0,0.2,0.64
+124,Should HIV-infected patients be screened for silent myocardial ischaemia using gated myocardial perfusion SPECT?,Medium,2,1.0,0.0,0.0,1.0,0.0
+125,Do we need imaging to diagnose appendicitis in children?,Medium,2,1.0,0.0,0.0,1.0,0.0
+126,Gluten tolerance in adult patients with celiac disease 20 years after diagnosis?,Medium,2,1.0,0.0,0.0,0.1,0.72
+127,Outcome Feedback within Emergency Medicine Training Programs: An Opportunity to Apply the Theory of Deliberate Practice?,Medium,2,1.0,0.0,0.0,1.0,0.0
+128,Are home sampling kits for sexually transmitted infections acceptable among men who have sex with men?,Medium,2,1.0,0.0,0.0,0.5,0.4
+129,Is it possible to stop treatment with nucleos(t)ide analogs in patients with e-antigen negative chronic hepatitis B?,High,3,1.0,0.0,0.0,1.0,0.0
+130,Are the elderly with oropharyngeal carcinoma undertreated?,High,3,1.0,0.0,0.0,0.6,0.48
+131,Can bisphosphonate treatment be stopped in a growing child with skeletal fragility?,High,3,1.0,0.0,0.0,0.9,0.12
+132,Do Web-based and clinic samples of gay men living with HIV differ on self-reported physical and psychological symptoms?,Medium,2,1.0,0.0,0.0,0.3,0.56
+133,Can implant retention be recommended for treatment of infected TKA?,High,3,1.0,0.0,0.0,0.1,1.08
+134,Does solid culture for tuberculosis influence clinical decision making in India?,Medium,2,1.0,0.0,0.0,0.5,0.4
+135,Does vaginal intraepithelial neoplasia have the same evolution as cervical intraepithelial neoplasia?,Medium,2,1.0,0.0,0.0,1.0,0.0
+136,Are opioid dependence and methadone maintenance treatment (MMT) documented in the medical record?,High,3,1.0,0.0,0.0,0.6,0.48
+137,Empiric treatment of uncomplicated urinary tract infection with fluoroquinolones in older women in Israel: another lost treatment option?,High,3,0.75,0.25,0.75,0.7,0.81
+138,"Are lifetime prevalence of impetigo, molluscum and herpes infection really increased in children having atopic dermatitis?",Medium,2,1.0,0.0,0.0,0.9,0.08
+139,Does the severity of obstructive sleep apnea predict patients requiring high continuous positive airway pressure?,Medium,2,1.0,0.0,0.0,0.7,0.24
+140,Does the familial transmission of drinking patterns persist into young adulthood?,Low,1,1.0,0.0,0.0,0.9,0.04
+141,Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?,High,3,1.0,0.0,0.0,1.0,0.0
+142,Does managed care enable more low income persons to identify a usual source of care?,Low,1,1.0,0.0,0.0,0.4,0.24
+143,Do parents recall and understand children's weight status information after BMI screening?,Low,1,1.0,0.0,0.0,0.9,0.04
+144,Storage of vaccines in the community: weak link in the cold chain?,High,3,1.0,0.0,0.0,0.9,0.12
+145,HIF1A as a major vascular endothelial growth factor regulator: do its polymorphisms have an association with age-related macular degeneration?,Medium,2,1.0,0.0,0.0,0.6,0.32
+146,Does ultrasound imaging before puncture facilitate internal jugular vein cannulation?,Medium,2,0.8333333333333334,0.1667,0.3333,1.0,0.2
+147,Cutaneous melanoma in a multiethnic population: is this a different disease?,Medium,2,1.0,0.0,0.0,1.0,0.0
+148,Does timing of initial surfactant treatment make a difference in rates of chronic lung disease or mortality in premature infants?,High,3,1.0,0.0,0.0,0.9,0.12
+149,Combining process indicators to evaluate quality of care for surgical patients with colorectal cancer: are scores consistent with short-term outcome?,High,3,1.0,0.0,0.0,1.0,0.0
+150,"How do alcohol consumption patterns and major metabolic risk factors such as smoking, diabetes, and triglycerides influence the risk of myocardial infarction in men and women?",Medium,2,1.0,0.0,0.0,1.0,0.0
+151,What were the p53 and PCNA expression rates in xanthogranulomatous cholecystitis compared with gallbladder carcinoma and chronic cholecystitis?,Low,1,1.0,0.0,0.0,0.3,0.28
+152,"What were the specificity percentages of late-night salivary cortisol, 24-hour urine-free cortisol, and the 1 mg dexamethasone suppression test for screening cortisol excess in obese patients with type 2 diabetes, and which test performed best?",Medium,2,1.0,0.0,0.0,0.7,0.24
+153,"How do blood pressure readings taken by physicians, nurses, and patients at home compare in reliability and usefulness for managing hypertension?",Medium,2,1.0,0.0,0.0,1.0,0.0
+154,How do biochemical mediators and acute physiological parameters differ in their ability to explain hemodynamic and vascular changes in hypertensive or related cardiovascular conditions?,Medium,2,0.8333333333333334,0.1667,0.3333,0.1,0.92
+155,Do modifiable lifestyle and behavioral factors causally contribute to the development of hypertension in adults with initially optimal blood pressure?,Medium,2,1.0,0.0,0.0,0.0,0.8
+156,How do hypertension alone and coexisting metabolic syndrome differ in their effects on cardiac structural remodeling in hypertensive patients?,Medium,2,1.0,0.0,0.0,1.0,0.0
+157,|Can sublingual varices serve as a useful non-invasive screening indicator for identifying previously unrecognized hypertension in routine clinical or dental settings?,Medium,2,1.0,0.0,0.0,0.9,0.08
+158,Can desflurane safely control surgically induced hypertension without impairing left ventricular function in patients undergoing vascular surgery who are at risk for cardiac morbidity?,High,3,1.0,0.0,0.0,1.0,0.0
+159,How do multimodal or combination treatment strategies compare with single or limited therapies in their effects on survival and patient benefit across different metastatic cancers?,High,3,1.0,0.0,0.0,0.4,0.72
+160,How do serum leptin levels and EGFR mutation status differ in their prognostic and predictive value in advanced lung cancer?,Medium,2,1.0,0.0,0.0,0.5,0.4
+161,How do treatment-related interventions and tumor biological characteristics differ in their influence on survival outcomes in non-small cell lung cancer?,High,3,1.0,0.0,0.0,0.4,0.72
+162,Under what clinical circumstances can serum-based EGFR mutation testing serve as a reliable alternative to tumor tissue analysis in patients with advanced non-small cell lung cancer?,Medium,2,1.0,0.0,0.0,0.9,0.08
+163,"How do geographic access barriers and socioeconomic status differ in their impact on cancer diagnosis, treatment timing, and quality-of-life outcomes?",High,3,1.0,0.0,0.0,0.1,1.08
+164,How do anatomical lymph node involvement and lymph node microenvironmental changes differ in their prognostic and staging value in lung cancer?,Medium,2,1.0,0.0,0.0,0.2,0.64
+165,"Does gender independently predict survival after surgical resection for non-small cell lung cancer once clinical, pathological, and histological differences are accounted for?",High,3,1.0,0.0,0.0,1.0,0.0
+166,Is exclusive chemoradiation a safe alternative to surgical resection for patients with mid or low infiltrative rectal carcinoma who achieve complete clinical response after treatment?,High,3,1.0,0.0,0.0,1.0,0.0
+167,How do treatment center volume and cervical cancer screening practices differ in their impact on cancer outcomes across healthcare systems?,High,3,1.0,0.0,0.0,0.2,0.96
+168,How do molecular genotype markers and inflammatory biomarkers differ in their usefulness for guiding treatment response and predicting clinical outcomes in cancer management?,High,3,1.0,0.0,0.0,0.1,1.08
+169,How does a history of prior benign prostate biopsy specifically influence pathological and biochemical outcomes after radical perineal prostatectomy for localized prostate cancer?,Medium,2,1.0,0.0,0.0,1.0,0.0
+170,"Which cytological preparation methods provide the most accurate detection of malignant findings in urinary cytology, particularly for high-grade urothelial lesions?",Medium,2,1.0,0.0,0.0,1.0,0.0
+171,How do intraoperative neuromonitoring and postoperative anastomotic leakage differ in their impact on long-term functional outcomes after rectal cancer surgery?,High,3,1.0,0.0,0.0,1.0,0.0
+172,Under what training conditions can rectal cancer surgery achieve outcomes comparable to those of experienced consultants in total mesorectal excision?,High,3,1.0,0.0,0.0,1.0,0.0
+173,How do standard clinical examination guidelines and anorectal endosonography differ in their ability to support early detection and diagnosis of anorectal disorders?,Medium,2,1.0,0.0,0.0,0.9,0.08
+174,"How do demographic factors such as ethnicity, cultural background, age, and gestational stage compare in their association with Group B Streptococcus colonization among pregnant women across different populations?",Low,1,1.0,0.0,0.0,1.0,0.0
+175,How do central venous pressure and colloid preloading differ in their usefulness for predicting and controlling cardiovascular responses in clinical settings?,Medium,2,1.0,0.0,0.0,1.0,0.0
+176,How do modified clinical strategies such as omitting balloon predilatation during transcatheter aortic valve implantation compare with standard epidural analgesia implementation in terms of achieving effective clinical outcomes across patients?,Medium,2,0.8,0.2,0.4,0.3,0.8
+177,"How do continuous low-dose epinephrine infusion in gravid ewes and lung ischemia-reperfusion in pigs differ in their effects on vascular flow, hemodynamic responses, and associated biological markers?",High,3,1.0,0.0,0.0,0.1,1.08
+178,Do limitations in both cervical cancer screening intervals and diagnostic sensitivity contribute to missed or delayed detection of disease?,Medium,2,1.0,0.0,0.0,0.5,0.4
+179,"What were the AUC values of FDG-PET for detecting metastatic lesions in hyperglycaemic DM, euglycaemic DM, and non-DM patients, and were these differences statistically significant?",Medium,2,1.0,0.0,0.0,1.0,0.0
+180,"What were the lymph node metastasis rates in NACT responders versus non-responders, and was there a significant difference in metastasis distribution between NACT and primary surgery groups?",High,3,1.0,0.0,0.0,1.0,0.0
+181,Is higher population-level cancer screening coverage associated with reduced economic inequality in screening participation in middle-income countries?,Low,1,1.0,0.0,0.0,1.0,0.0
+182,Do exercise interventions lead to consistent improvements in both physiological fitness and postnatal depression outcomes across different populations?,High,3,0.8333333333333334,0.1667,0.5,0.6,0.78
+183,Do preoperative statin therapy and laparoscopic surgery reduce the risk of postoperative atrial fibrillation in different surgical settings?,High,3,1.0,0.0,0.0,1.0,0.0
+184,Do ganglionated plexi (GP) ablation during Maze IV and left atrial appendage (LAA) occlusion affect similar clinical outcomes in atrial fibrillation patients?,Medium,2,1.0,0.0,0.0,0.1,0.72
+185,"Is the KCNQ1 mutation alone sufficient to cause atrial fibrillation, or are additional factors such as atrial stretch or hypertension required?",Medium,2,1.0,0.0,0.0,0.9,0.08
+186,"What is the correlation between complex fractionated atrial electrograms (CFAE) and sinus rhythm fractionation (SRF), and how does SRF distribution differ between atrial fibrillation patients and controls?",Medium,2,1.0,0.0,0.0,1.0,0.0
+187,Do postoperative nomograms and preoperative C-reactive protein (CRP) levels have similar ability to predict clinically relevant outcomes in prostate cancer?,Medium,2,1.0,0.0,0.0,0.8,0.16
+188,Do prior benign prostate biopsy and year of surgery have similar predictive value for outcomes after radical prostatectomy?,High,3,1.0,0.0,0.0,0.7,0.36
+189,"Does age alone determine the benefit of curative therapy in older men with localized prostate cancer, or do tumor characteristics and comorbidity play a larger role?",High,3,1.0,0.0,0.0,1.0,0.0
+190,"Do manic and mixed episode classifications remain stable over time, and does the diagnosis of bipolar disorder vary depending on the diagnostic method used?",Medium,2,1.0,0.0,0.0,1.0,0.0
+191,Do AVPR1A genetic variants and affective disorder polarity independently predict behavioral outcomes such as hypersexuality or suicidal behavior?,Medium,2,1.0,0.0,0.0,1.0,0.0
+192,Is aripiprazole associated with an increased risk of pathological gambling in patients with psychiatric conditions?,Medium,2,1.0,0.0,0.0,0.2,0.64
+193,Do dexamethasone and prednisone for acute asthma exacerbations and inhaled steroids versus cromones for maintenance asthma treatment show similar effectiveness in clinical outcomes?,High,3,1.0,0.0,0.0,1.0,0.0
+194,Do frequent fast food consumption and higher body mass index have similar effects on asthma symptoms and asthma control?,Medium,2,1.0,0.0,0.0,1.0,0.0
+195,Do parental restriction of R-rated movie viewing and showing antismoking advertisements before movies have similar effects on smoking-related behaviors in young people?,Medium,2,1.0,0.0,0.0,0.2,0.64
+196,Do prenatal cigarette exposure and childhood violence exposure predict adolescent delinquent behavior more strongly than intrauterine cocaine exposure?,Medium,2,1.0,0.0,0.0,1.0,0.0
+197,Do surgical risk factors and the use of nasogastric tubes differ in their effect on staple line leak rates after laparoscopic sleeve gastrectomy?,High,3,1.0,0.0,0.0,1.0,0.0
+198,Does changing resected stomach volume during primary sleeve gastrectomy and performing revision fundectomy after surgery differ in their impact on weight loss outcomes?,High,3,0.6,0.4,1.2,0.3,1.56
+199,Do DKK3 expression and body mass index differ in how reliably they predict survival outcomes in gastric cancer patients?,Medium,2,1.0,0.0,0.0,0.7,0.24
