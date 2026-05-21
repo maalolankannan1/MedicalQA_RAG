@@ -1,5 +1,5 @@
 Architecture,High Hal. Rate,High N,Medium Hal. Rate,Medium N,Low Hal. Rate,Low N,CWHS,High Corr.,Medium Corr.,Low Corr.,CSS
-Evidence-Graded RAG,0.0069,56,0.0237,122,0.0038,22,0.0162,0.7893,0.8262,0.9318,0.0828
+Evidence-Graded RAG,0.0129,56,0.0135,122,0.0193,22,0.0136,0.7446,0.8221,0.9682,0.0883
 Query Decomposition,0.0182,56,0.0164,122,0.0,22,0.0163,0.7607,0.7385,0.7636,0.1104
 Query Expansion (Multi),0.0176,56,0.0114,122,0.0,22,0.0132,0.7143,0.723,0.8864,0.1168
 Hybrid + Cross-Encoder,0.0221,56,0.0194,122,0.0,22,0.0195,0.7054,0.7311,0.8364,0.1211

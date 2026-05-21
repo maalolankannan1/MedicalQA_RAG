@@ -1,5 +1,5 @@
 Architecture,Mean Faithfulness,Unweighted Hal. Rate,CWHS,Δ (CWHS − Unweighted),N Questions,Mean Correctness,CSS,Faith P10,Corr P10
-Evidence-Graded RAG,0.9832,0.0168,0.0162,-0.0006,200,0.8275,0.0828,0.9159,0.3
+Evidence-Graded RAG,0.986,0.014,0.0136,-0.0004,200,0.8165,0.0883,0.9082,0.3
 Query Decomposition,0.9849,0.0151,0.0163,0.0012,200,0.7475,0.1104,1.0,0.2
 Query Expansion (Multi),0.9881,0.0119,0.0132,0.0013,200,0.7385,0.1168,1.0,0.2
 Hybrid + Cross-Encoder,0.982,0.018,0.0195,0.0014,200,0.7355,0.1211,1.0,0.2
