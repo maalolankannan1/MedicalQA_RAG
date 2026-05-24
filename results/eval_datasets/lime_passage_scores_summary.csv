@@ -1,0 +1,3 @@
+Architecture,N Questions,N Passages,Mean R²,Full-Ctx ROUGE-L,No-Ctx ROUGE-L,Mean Max Influence,Mean Influence Spread
+Evidence-Graded RAG,30,5,0.573,0.182,0.112,0.0465,0.0652
+Query Decomposition RAG,30,5,0.582,0.291,0.077,0.0909,0.1391
